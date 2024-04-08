@@ -23,6 +23,14 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=2}---- Chapters
+Comment: 0,0:01:37.12,0:01:37.12,Default,chapter,0,0,0,,{Intro}
+Comment: 0,0:01:35.49,0:01:35.49,Default,chapter,0,0,0,,{Part A}
+Comment: 0,0:13:12.10,0:13:12.10,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:21:31.39,0:21:31.39,Default,chapter,0,0,0,,{OP}
+Comment: 0,0:21:36.69,0:21:36.69,Default,,0,0,0,opsync,{OPSync — First hard cut (sunrise shot)}
+Comment: 0,0:23:01.36,0:23:01.36,Default,chapter,0,0,0,,{=3}{Outro}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=6}---- Dialogue
 Dialogue: 10,0:00:08.30,0:00:09.88,Default,,0,0,0,,It's my fault,
 Dialogue: 10,0:00:10.76,0:00:12.12,Default,,0,0,0,,my choice,
 Dialogue: 10,0:00:12.52,0:00:13.34,Default,,0,0,0,,and…
@@ -351,4 +359,14 @@ Dialogue: 10,0:20:44.80,0:20:46.50,Default,,0,0,0,,Stop trying to act tough.
 Dialogue: 10,0:20:46.54,0:20:48.36,Default,,0,0,0,,Enough.
 Dialogue: 10,0:20:49.98,0:20:52.26,Default,,0,0,0,,That's the teacher.
 Dialogue: 10,0:23:28.66,0:23:29.90,Default,,0,0,0,,I'm here, Arona.
-Dialogue: 10,0:23:37.08,0:23:39.22,Default,,0,0,0,,I've been waiting for you, teacher.
+Dialogue: 10,0:23:37.08,0:23:39.22,Default,,0,0,0,,{=7}I've been waiting for you, teacher.
+
+[Aegisub Extradata]
+Data: 0,_aegi_folddata,e0;1;1
+Data: 1,_aegi_folddata,e1;1;1
+Data: 2,_aegi_folddata,e0;0;1
+Data: 3,_aegi_folddata,e1;0;1
+Data: 4,_aegi_folddata,e0;1;2
+Data: 5,_aegi_folddata,e1;1;2
+Data: 6,_aegi_folddata,e0;0;2
+Data: 7,_aegi_folddata,e1;0;2
