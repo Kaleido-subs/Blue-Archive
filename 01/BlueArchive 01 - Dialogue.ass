@@ -11,8 +11,8 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: C:/Users/rapidragon12/Downloads/Blue Archive (Premuxes)/Blue Archive The Animation - S01E01 (Premux) [A6322042].mkv
-Video File: C:/Users/rapidragon12/Downloads/Blue Archive (Premuxes)/Blue Archive The Animation - S01E01 (Premux) [A6322042].mkv
+Audio File: Blue Archive The Animation - S01E01 (Premux) [A6322042].mkv
+Video File: Blue Archive The Animation - S01E01 (Premux) [A6322042].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -48,7 +48,7 @@ Dialogue: 10,0:01:21.27,0:01:22.31,Default,,0,0,100,,I beg you.
 Dialogue: 10,0:02:09.74,0:02:11.14,Default,,0,0,0,,Feels nice.
 Dialogue: 10,0:02:48.00,0:02:52.74,Default,,0,0,0,,Amidst the General Student Council's turmoil \Nfollowing the President's disappearance,
 Dialogue: 10,0:02:52.74,0:02:57.41,Default,,0,0,0,,Sanctum Tower has been re-lit, \Nand administrative functions are back on track.
-Dialogue: 10,0:02:58.01,0:03:03.41,Default,,0,0,0,,Following this, the turmoil throughout the academy city, \NKivotos, is anticipated to slowly diminish. {ik slowly subside?}
+Dialogue: 10,0:02:58.01,0:03:03.41,Default,,0,0,0,,Following this, the turmoil throughout the academy city, \NKivotos, is anticipated to slowly subside.
 Dialogue: 10,0:03:15.96,0:03:16.55,Default,,0,0,0,,Also...
 Dialogue: 10,0:03:22.62,0:03:24.81,Default,,0,0,0,,{*}Meow{*Nyaa}, {*}meow{*nyaa}, {*}meow{*nyaa}. {## is this a cat website reference?!?!!}
 Dialogue: 10,0:03:27.66,0:03:30.51,Default,,0,0,0,,The next stop is Abydos High School.
@@ -84,7 +84,7 @@ Dialogue: 10,0:05:13.13,0:05:15.88,Default,,0,0,0,,some everyday necessities I w
 Dialogue: 10,0:05:17.13,0:05:20.38,Default,,0,0,0,,Oh, and about forty dumbbells!
 Dialogue: 10,0:05:20.72,0:05:21.66,Default,,0,0,0,,What.
 Dialogue: 10,0:05:22.39,0:05:25.39,Default,,0,0,0,,Let's begin with our regular meeting.
-Dialogue: 10,0:05:25.39,0:05:29.34,Default,,0,0,0,,To begin, let's discuss the major event \Nrecently covered by the news. {ik feels awkward, maybe "major event that's been in the news recently"}
+Dialogue: 10,0:05:25.39,0:05:29.34,Default,,0,0,0,,To begin, let's discuss the major event \Nthat's been in the news recently.
 Dialogue: 10,0:05:29.34,0:05:34.15,Default,,0,0,0,,The General Student Council, or GSC for short, \Nis tasked with maintaining harmony among the schools
 Dialogue: 10,0:05:34.15,0:05:41.40,Default,,0,0,0,,in the academy city of Kivotos, under the guidance \Nof the General Student Council President.
 Dialogue: 10,0:05:41.40,0:05:46.91,Default,,0,0,0,,However, it's been reported that \Nthe GSC president went missing a few days ago.
@@ -119,7 +119,7 @@ Dialogue: 10,0:07:27.94,0:07:29.97,Default,,0,0,0,,Bye-bye.
 Dialogue: 10,0:08:25.49,0:08:27.89,Default,,0,0,0,,That took longer than expected.
 Dialogue: 10,0:08:33.58,0:08:39.10,Default,,0,0,0,,Hey, did I hear that right, punk-ass ladies?
 Dialogue: 10,0:08:39.45,0:08:42.28,Default,,0,0,0,,Did you just say I have "lame-ass hair"?
-Dialogue: 10,0:08:42.28,0:08:44.70,Default,,0,0,0,,You dare insult my {\i1}glorious pompadour{\i0}?! {ik concerned about timing but let's see how it looks in post}
+Dialogue: 10,0:08:42.28,0:08:44.70,Default,,0,0,0,,You dare insult my {\i1}glorious pompadour{\i0}?!
 Dialogue: 10,0:08:45.46,0:08:47.30,Default,,0,0,0,,Boss, you're so cool!
 Dialogue: 10,0:08:47.30,0:08:48.97,Default,,0,0,0,,Boss, we love you!
 Dialogue: 10,0:08:50.22,0:08:52.58,Default,,0,0,0,,Yeah, that's right, gang!
