@@ -39,7 +39,7 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor preline,{\c&HFFFF
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor preline,{\t(250,!math.random(1000,1300)!,-1.2,\alpha&HFF&)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code syl,dias = math.random(5,8); startang = rnd() * 2 * math.pi; orgx = rnd(-0.2,0.2) * syl.width; orgy = rnd(0,0.2) * orgline.height
-Comment: 0,0:00:00.00,0:00:00.00,OP1,sylfx dia,0,0,0,template syl noblank nok0 actor rom notext loop n 5,!maxloop('n', dias)!!relayer(BASE_LAYER + 3)!
+Comment: 0,0:00:00.00,0:00:00.00,OP1,sylfx tri,0,0,0,template syl noblank nok0 actor rom notext loop n 5,!maxloop('n', dias)!!relayer(BASE_LAYER + 3)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor sylfx,!set('angle', startang + (($loop_n + rnd(-0.3,0.3)) / $maxloop_n) * 2 * math.pi)!!set('xdir', math.cos(angle))!!set('ydir', math.sin(angle))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor sylfx,!set('radius', rnd(70,110))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
