@@ -39,11 +39,13 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor preline,{\c&HFFFF
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor preline,{\t(250,!math.random(1000,1300)!,-1.2,\alpha&HFF&)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code syl,dias = math.random(5,8); startang = rnd() * 2 * math.pi; orgx = rnd(-0.2,0.2) * syl.width; orgy = rnd(0,0.2) * orgline.height
-Comment: 0,0:00:00.00,0:00:00.00,OP1,sylfx tri,0,0,0,template syl noblank nok0 actor rom notext loop n 5,!maxloop('n', dias)!!relayer(BASE_LAYER + 3)!
+Comment: 0,0:00:00.00,0:00:00.00,OP1,sylfx sparkle,0,0,0,template syl noblank nok0 actor rom notext loop n 5,!maxloop('n', dias)!!relayer(BASE_LAYER + 3)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor sylfx,!set('angle', startang + (($loop_n + rnd(-0.3,0.3)) / $maxloop_n) * 2 * math.pi)!!set('xdir', math.cos(angle))!!set('ydir', math.sin(angle))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor sylfx,!set('radius', rnd(70,110))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor sylfx,{\alpha&H40&\c&HFFF915&\blur0.8}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor sylfx,{\alpha&H40&\blur0.8}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor sylfx no_t_actor sparkle,{\c&HFFF915&}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor sparkle,{\c!util.rand.item({"&HFFFA38&", "&H56F9FF&", "&HF972FF&"})!}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor sylfx,{\t(0,!math.random(1000,1300)!,-1.2,\alpha&HFF&)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor sylfx,!retime("presyl", -50, 400 + rnd(0, 200))!
@@ -54,6 +56,8 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor tri,!util.rand.bool() and mskip() or nil!{\frz180}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor tri,{\p1}!ln.shapes.triangle(math.floor(rnd(25,40)))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor dia,!set('sidelen', math.random(20,25))!{\p1\frz45}!ln.shapes.shift(ln.shapes.rectangle(sidelen, sidelen), -sidelen/2, -sidelen/2)!
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor sparkle,{\p1}m 0 -16.25 b 0 -8.12 -6.25 0 -12.5 0 -6.25 0 0 8.13 0 16.25 0 8.13 6.25 0 12.5 0 6.25 0 0 -8.12 0 -16.25
+Comment: 0,0:00:00.40,0:00:02.36,OP1,,0,0,0,,{\an7\fscx100\p1\pos(716.71,58.37)}m 0 -16.25 b 0 -8.12 -6.25 0 -12.5 0 -6.25 0 0 8.13 0 16.25 0 8.13 6.25 0 12.5 0 6.25 0 0 -8.12 0 -16.25
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,syl,0,0,0,template syl noblank anystyle loop layer 3,!relayer($loop_layer-1 + BASE_LAYER)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor syl,!retime('line', -50, 150)!{!ln.tag.pos(5,5,0,pos_y())!\fad(0,200)}
