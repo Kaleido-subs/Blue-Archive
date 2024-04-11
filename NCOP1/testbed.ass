@@ -64,11 +64,14 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor sparkle,{\p1}m 0 
 Comment: 0,0:00:00.40,0:00:02.36,OP1,,0,0,0,,{\an7\fscx100\p1\pos(716.71,58.37)}m 0 -16.25 b 0 -8.12 -6.25 0 -12.5 0 -6.25 0 0 8.13 0 16.25 0 8.13 6.25 0 12.5 0 6.25 0 0 -8.12 0 -16.25
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,syl,0,0,0,template syl noblank anystyle loop layer 3,!relayer($loop_layer-1 + BASE_LAYER)!
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor syl,!retime('line', -50, 150)!{!ln.tag.pos(5,5,0,pos_y())!\fad(0,200)}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor syl,!retime('line', -50, 150)!{!ln.tag.pos(5,5,0,pos_y())!}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl layer 10 layer 11,{\fscx175\fscy100\bord1.8\blur1}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl actor rom layer 10 layer 11,{\t(!st(0)!,!math.min(st(0.25), st(0)+60)!,0.5,\fscx180\fscy105)\t(!math.min(st(0.25), st(0)+60)!,!st(1)!,1.4,\fscx175\fscy100)}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char layer 10 layer 11,!set('charstart', math.floor(char.left / CHAR_FADE_SPEED))!{\alpha&HFF&\t(!charstart!,!charstart+150!,\alpha&H00&)}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line layer 10,{\1a&HFE&\3a&HFF&\xshad0.01\bord2\t(!orgline.duration - 250!,!orgline.duration-50!,\4c!gc(1)!)}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char layer 10 layer 11,!set('charend', math.floor(line.duration - (line.width - char.left) / CHAR_FADE_SPEED))!{\t(!charend-150!,!charend!,\alpha&HFF&)}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl actor rom layer 10 layer 11,{\t(!st(0)!,!math.min(st(0.25), st(0)+60)!,0.5,\fscx180\fscy105)\t(!math.min(st(0.25), st(0)+60)!,!st(1)!,1.4,\fscx175\fscy100)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl layer 12 actor rom,{\c!gc(1)!\blur1.5\1a&HFF&\bord0\shad0\t(!math.min(st()+50, st(0.2))!,!st(0.45)!,\1a&H80&)\t(!st(0) + 40!,!st(1) + 50!,\fscx200\fscy140)\t(!st(0.5)!,!st(1) + 50!,0.5,\1a&HFF&)\t(!st(0)!,!math.min(st(0) + 80, st(0.5))!,\c!gc(4)!)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl layer 12 actor eng,!skip()!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
