@@ -10,6 +10,8 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Export Filters: TXT Cleanup
+Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
 Audio File: Blue Archive The Animation - S01E01 (Premux) [A6322042].mkv
 Video File: Blue Archive The Animation - S01E01 (Premux) [A6322042].mkv
@@ -32,23 +34,23 @@ Comment: 0,0:21:36.69,0:21:36.69,Default,,0,0,0,opsync,{OPSync — First hard cu
 Comment: 0,0:23:01.36,0:23:01.36,Default,chapter,0,0,0,,{=1}{Outro}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=6}---- Dialogue
 Dialogue: 10,0:00:08.28,0:00:10.03,Default,,0,0,0,,It was my mistake.
-Dialogue: 10,0:00:10.70,0:00:16.75,Default,,0,0,0,,It was my decision, and it led\n to this entire state of affairs.
+Dialogue: 10,0:00:10.70,0:00:16.75,Default,,0,0,0,,It was my decision, and it led \nto this entire state of affairs.
 Dialogue: 10,0:00:21.21,0:00:25.38,Default,,0,0,0,,In retrospect, it needed to reach this point
 Dialogue: 10,0:00:25.38,0:00:28.76,Default,,0,0,0,,for me to realise you were right all along.
-Dialogue: 10,0:00:42.98,0:00:47.44,Default,,0,0,0,,You once mentioned responsibility,\n and who should be the ones to bear it.
-Dialogue: 10,0:00:48.15,0:00:53.45,Default,,0,0,0,,Back then, I didn't understand,\n but now I realise what you meant.
+Dialogue: 10,0:00:42.98,0:00:47.44,Default,,0,0,0,,You once mentioned responsibility, \nand who should be the ones to bear it.
+Dialogue: 10,0:00:48.15,0:00:53.45,Default,,0,0,0,,Back then, I didn't understand, \nbut now I realise what you meant.
 Dialogue: 10,0:00:53.95,0:00:57.70,Default,,0,0,0,,It's not experiences that matter, but choices.
 Dialogue: 10,0:00:58.50,0:01:01.50,Default,,0,0,0,,Choices that only {\i1}you{\i0} can make.
 Dialogue: 10,0:01:01.50,0:01:04.21,Default,,0,0,0,,That's your duty, your responsibility, as an adult.
 Dialogue: 10,0:01:04.79,0:01:08.59,Default,,0,0,0,,I know you're an adult I can trust.
-Dialogue: 10,0:01:08.59,0:01:13.18,Default,,0,0,0,,If it's you, I have faith that you'll find\n a choice that will lead to a different outcome.
+Dialogue: 10,0:01:08.59,0:01:13.18,Default,,0,0,0,,If it's you, I have faith that you'll find \na choice that will lead to a different outcome.
 Dialogue: 10,0:01:14.22,0:01:18.18,Default,,0,0,0,,Away from the dark, twisted destination that lies ahead.
 Dialogue: 10,0:01:19.23,0:01:20.98,Default,,0,0,0,,So, {*}Teacher{*Sensei}.
 Dialogue: 10,0:01:21.27,0:01:22.31,Default,,0,0,100,,I beg you.
 Dialogue: 10,0:02:09.73,0:02:11.15,Default,,0,0,0,,Nice weather.
-Dialogue: 10,0:02:47.98,0:02:52.74,Default,,0,0,0,,Amidst the General Student Council's turmoil\n following the President's disappearance,
-Dialogue: 10,0:02:52.74,0:02:57.41,Default,,0,0,0,,Sanctum Tower has been re-lit,\n and administrative functions are back on track.
-Dialogue: 10,0:02:57.99,0:03:03.41,Default,,0,0,0,,Following this, the turmoil throughout the academy city,\n Kivotos, is anticipated to slowly subside.
+Dialogue: 10,0:02:47.98,0:02:52.74,Default,,0,0,0,,Amidst the General Student Council's turmoil \nfollowing the President's disappearance,
+Dialogue: 10,0:02:52.74,0:02:57.41,Default,,0,0,0,,Sanctum Tower has been re-lit, \nand administrative functions are back on track.
+Dialogue: 10,0:02:57.99,0:03:03.41,Default,,0,0,0,,It's anticipated that following this, the unrest throughout\nthe academy city, Kivotos, will slowly subside.
 Dialogue: 10,0:03:15.97,0:03:16.55,Default,,0,0,0,,Also...
 Dialogue: 10,0:03:22.64,0:03:24.81,Default,,0,0,0,,{*}Meow{*Nyaa}, {*}meow{*nyaa}, {*}meow{*nyaa}. {## is this a cat website reference?!?!!}
 Dialogue: 10,0:03:27.65,0:03:30.52,Default,,0,0,0,,The next stop is Abydos High School.
@@ -56,8 +58,8 @@ Dialogue: 10,0:03:31.07,0:03:32.94,Default,,0,0,0,,This is my stop!
 Dialogue: 10,0:03:50.79,0:03:52.75,Default,,0,0,0,,Shiroko{**-senpai}, are you serious?!
 Dialogue: 10,0:03:53.50,0:03:54.30,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:03:54.30,0:03:57.84,Default,,0,0,0,,You {\i1}biked{\i0} to the Abydos industrial district and back?
-Dialogue: 10,0:03:57.84,0:04:00.09,Default,,0,0,0,,That's hundreds of kilometres!
-Dialogue: 10,0:04:00.09,0:04:03.22,Default,,0,0,0,,I decided to go, since I've never\n taken a good look at it before.
+Dialogue: 10,0:03:57.84,0:04:00.09,Default,,0,0,0,,Do you have any idea how far that is?!
+Dialogue: 10,0:04:00.09,0:04:03.22,Default,,0,0,0,,I wanted to go since I've never \ntaken a good look at it before.
 Dialogue: 10,0:04:03.64,0:04:06.06,Default,,0,0,0,,It ended up being just the right distance.
 Dialogue: 10,0:04:07.39,0:04:09.73,Default,,0,0,0,,You're crazy, Shiroko{**-senpai}.
 Dialogue: 10,0:04:09.73,0:04:12.19,Default,,0,0,0,,What did you do over the weekend, Serika?
@@ -68,7 +70,7 @@ Dialogue: 10,0:04:19.45,0:04:22.12,Default,,0,0,0,,I was there yesterday, but I 
 Dialogue: 10,0:04:22.12,0:04:23.49,Default,,0,0,0,,Wow, really?
 Dialogue: 10,0:04:23.49,0:04:25.16,Default,,0,0,0,,We must've totally missed each other!
 Dialogue: 10,0:04:25.16,0:04:27.71,Default,,0,0,0,,What were you reading, Ayane{**-chan}?
-Dialogue: 10,0:04:27.71,0:04:34.46,Default,,0,0,0,,I wanted to do a bit of research on the DOHC\n I came across while doing repairs the other day.
+Dialogue: 10,0:04:27.71,0:04:34.46,Default,,0,0,0,,I wanted to do a bit of research on the DOHC \nI came across while doing repairs the other day.
 Dialogue: 10,0:04:34.46,0:04:38.80,Default,,0,0,0,,Oh, by the way, DOHC stands for "Double Overhead Cam".
 Dialogue: 10,0:04:38.80,0:04:40.76,Default,,0,0,0,,It's a type of engine.
 Dialogue: 10,0:04:40.76,0:04:43.72,Default,,0,0,0,,I thought it might come in handy later.
@@ -79,40 +81,40 @@ Dialogue: 10,0:04:59.03,0:05:02.70,Default,,0,0,0,,Sounds like you all had a fun
 Dialogue: 10,0:05:02.70,0:05:04.20,Default,,0,0,0,,What about you, Nonomi?
 Dialogue: 10,0:05:04.49,0:05:06.08,Default,,0,0,0,,Me?
 Dialogue: 10,0:05:06.08,0:05:08.12,Default,,0,0,0,,I went shopping!
-Dialogue: 10,0:05:09.71,0:05:11.87,Default,,0,0,0,,I picked up a couple snacks,
+Dialogue: 10,0:05:09.71,0:05:11.87,Default,,0,0,0,,I picked up a couple of snacks,
 Dialogue: 10,0:05:13.13,0:05:15.88,Default,,0,0,0,,some everyday necessities I was running low on...
 Dialogue: 10,0:05:17.13,0:05:20.38,Default,,0,0,0,,Oh, and about forty dumbbells!
 Dialogue: 10,0:05:20.72,0:05:21.68,Default,,0,0,0,,What.
 Dialogue: 10,0:05:22.39,0:05:25.39,Default,,0,0,0,,Let's begin with our regular meeting.
-Dialogue: 10,0:05:25.39,0:05:29.35,Default,,0,0,0,,To begin, let's discuss the major event\n that's been in the news recently.
-Dialogue: 10,0:05:29.35,0:05:34.15,Default,,0,0,0,,The General Student Council, or GSC for short,\n is tasked with maintaining harmony among the schools
-Dialogue: 10,0:05:34.15,0:05:41.40,Default,,0,0,0,,in the academy city of Kivotos, under the guidance\n of the General Student Council President.
-Dialogue: 10,0:05:41.40,0:05:46.91,Default,,0,0,0,,However, it's been reported that\n the GSC president went missing a few days ago.
-Dialogue: 10,0:05:47.58,0:05:52.42,Default,,0,0,0,,This incident may be what sparked\n the recent unrest in various school districts.
-Dialogue: 10,0:05:55.29,0:05:59.51,Default,,0,0,0,,Speaking of the GSC, what happened\n with that treaty thing?
-Dialogue: 10,0:05:59.51,0:06:05.05,Default,,0,0,0,,The non-aggression pact between\n Trinity General School and Gehenna Academy?
+Dialogue: 10,0:05:25.39,0:05:29.35,Default,,0,0,0,,To begin, let's discuss the major event \nthat's been in the news recently.
+Dialogue: 10,0:05:29.35,0:05:34.15,Default,,0,0,0,,The General Student Council, or GSC for short, \nis tasked with maintaining harmony among the schools
+Dialogue: 10,0:05:34.15,0:05:41.40,Default,,0,0,0,,in the academy city of Kivotos, under the guidance \nof the General Student Council President.
+Dialogue: 10,0:05:41.40,0:05:46.91,Default,,0,0,0,,However, reports indicate that the GSCP \nwent missing a few days ago.
+Dialogue: 10,0:05:47.58,0:05:52.42,Default,,0,0,0,,This incident may be what sparked \nthe recent unrest in various school districts.
+Dialogue: 10,0:05:55.29,0:05:59.51,Default,,0,0,0,,Speaking of the GSC, what happened \nwith that treaty thing?
+Dialogue: 10,0:05:59.51,0:06:05.05,Default,,0,0,0,,The non-aggression pact between \nTrinity General School and Gehenna Academy?
 Dialogue: 10,0:06:05.05,0:06:06.47,Default,,0,0,0,,You mean the Eden Treaty.
 Dialogue: 10,0:06:06.47,0:06:08.43,Default,,0,0,0,,Yes, that's the one!
 Dialogue: 10,0:06:08.43,0:06:10.06,Default,,0,0,0,,Has that been signed yet?
-Dialogue: 10,0:06:11.31,0:06:15.81,Default,,0,0,0,,It was the GSC president who proposed it,\n but since she's missing,
+Dialogue: 10,0:06:11.31,0:06:15.81,Default,,0,0,0,,It was the GSC president who proposed it, \nbut since she's missing,
 Dialogue: 10,0:06:15.81,0:06:18.61,Default,,0,0,0,,it's hard to say what will happen with it.
 Dialogue: 10,0:06:18.61,0:06:20.32,Default,,0,0,0,,I see.
 Dialogue: 10,0:06:20.32,0:06:22.90,Default,,0,0,0,,Oh, speaking of which, Ayane{**-chan}.
-Dialogue: 10,0:06:22.90,0:06:28.66,Default,,0,0,0,,The boss of Shiba Seki Ramen said the Kata-Kata\n Helmet Gang is causing trouble in our district again.
+Dialogue: 10,0:06:22.90,0:06:28.66,Default,,0,0,0,,The boss of Shiba Seki Ramen said the Kata-Kata \nHelmet Gang is causing trouble in our district again.
 Dialogue: 10,0:06:28.66,0:06:31.41,Default,,0,0,0,,Their ramen is really good.
 Dialogue: 10,0:06:32.04,0:06:34.42,Default,,0,0,0,,D-Do you go there often, Shiroko{**-senpai}?
 Dialogue: 10,0:06:34.42,0:06:35.29,Default,,0,0,0,,On occasion.
 Dialogue: 10,0:06:35.67,0:06:36.71,Default,,0,0,0,,Is something wrong?
 Dialogue: 10,0:06:36.71,0:06:38.54,Default,,0,0,0,,N-Not really.
-Dialogue: 10,0:06:38.54,0:06:43.17,Default,,0,0,0,,Still, Abydos is getting more\n and more dangerous as time goes on.
+Dialogue: 10,0:06:38.54,0:06:43.17,Default,,0,0,0,,Still, Abydos is getting more \nand more dangerous as time goes on.
 Dialogue: 10,0:06:43.51,0:06:45.30,Default,,0,0,0,,I'm starting to get concerned.
-Dialogue: 10,0:06:45.55,0:06:51.31,Default,,0,0,0,,I've been trying to inform the GSC\n about our predicament, but...
-Dialogue: 10,0:06:51.31,0:06:55.94,Default,,0,0,0,,The president has gone missing,\n so they probably don't have time for us.
+Dialogue: 10,0:06:45.55,0:06:51.31,Default,,0,0,0,,I've been trying to inform the GSC \nabout our predicament, but...
+Dialogue: 10,0:06:51.31,0:06:55.94,Default,,0,0,0,,The president has gone missing, \nso they probably don't have time for us.
 Dialogue: 10,0:06:57.31,0:07:01.32,Default,,0,0,0,,Well, not like we've got time to spare, either.
 Dialogue: 10,0:07:02.11,0:07:06.32,Default,,0,0,0,,Thank you for choosing Kaiser Loan!
-Dialogue: 10,0:07:06.32,0:07:10.83,Default,,0,0,0,,At this rate, you'll have paid everything off\n in 309 years and 2 months!
+Dialogue: 10,0:07:06.32,0:07:10.83,Default,,0,0,0,,At this rate, you'll have paid everything off \nin 309 years and 2 months!
 Dialogue: 10,0:07:11.41,0:07:13.75,Default,,0,0,0,,See you again next month!
-Dialogue: 10,0:07:15.33,0:07:20.09,Default,,0,0,0,,309 years and 2 months\n until we've paid off our debt.
+Dialogue: 10,0:07:15.33,0:07:20.09,Default,,0,0,0,,309 years and 2 months \nuntil we've paid off our debt.
 Dialogue: 10,0:07:21.55,0:07:23.71,Default,,0,0,0,,We still have a long way to go.
 Dialogue: 10,0:07:26.30,0:07:27.93,Default,,0,0,0,,See you tomorrow.
 Dialogue: 10,0:07:27.93,0:07:29.97,Default,,0,0,0,,Bye-bye.
@@ -124,7 +126,7 @@ Dialogue: 10,0:08:45.46,0:08:47.30,Default,,0,0,0,,Boss, you're so cool!
 Dialogue: 10,0:08:47.30,0:08:48.97,Default,,0,0,0,,Boss, we love you!
 Dialogue: 10,0:08:50.22,0:08:52.60,Default,,0,0,0,,Yeah, that's right, gang!
 Dialogue: 10,0:08:51.26,0:08:52.60,Alt,,0,0,0,,So what?
-Dialogue: 10,0:08:53.51,0:08:57.02,Default,,0,0,0,,If you got lame-ass hair,\n what else are we gonna call it?
+Dialogue: 10,0:08:53.51,0:08:57.02,Default,,0,0,0,,If you got lame-ass hair, \nwhat else are we gonna call it?
 Dialogue: 10,0:08:59.02,0:09:01.69,Default,,0,0,0,,You're doubling down, you punks?
 Dialogue: 10,0:09:01.69,0:09:03.56,Default,,0,0,0,,That's it! Light 'em up, gang!
 Dialogue: 10,0:09:03.56,0:09:04.86,Default,,0,0,0,,Yessir!
@@ -145,7 +147,7 @@ Dialogue: 10,0:10:15.51,0:10:16.80,Default,,0,0,0,,Thank you!
 Dialogue: 10,0:10:16.80,0:10:20.43,Default,,0,0,0,,Shiroko{**-chan}, did you kidnap this man?!
 Dialogue: 10,0:10:20.43,0:10:24.06,Default,,0,0,0,,Shiroko{**-senpai}, have you finally turned to a life of crime?!
 Dialogue: 10,0:10:24.06,0:10:25.77,Default,,0,0,0,,Calm down, everyone!
-Dialogue: 10,0:10:25.77,0:10:28.61,Default,,0,0,0,,We gotta cover this up\n before the cops come knocking!
+Dialogue: 10,0:10:25.77,0:10:28.61,Default,,0,0,0,,We gotta cover this up \nbefore the cops come knocking!
 Dialogue: 10,0:10:30.11,0:10:31.19,Default,,0,0,0,,I didn't.
 Dialogue: 10,0:10:31.19,0:10:34.49,Default,,0,0,0,,He says he has business with our school.
 Dialogue: 10,0:10:34.49,0:10:35.53,Default,,0,0,0,,Huh?
@@ -154,11 +156,11 @@ Dialogue: 10,0:10:37.24,0:10:39.12,Default,,0,0,0,,That's right.
 Dialogue: 10,0:10:39.12,0:10:40.49,Default,,0,0,0,,So that's it.
 Dialogue: 10,0:10:46.88,0:10:49.75,Default,,0,0,0,,I knew Abydos was a desert,
 Dialogue: 10,0:10:50.34,0:10:54.01,Default,,0,0,0,,but I didn't anticipate it being {\i1}this{\i0} hot.
-Dialogue: 10,0:10:54.51,0:10:57.51,Default,,0,0,0,,I was so dehydrated on the way here, I collapsed.
+Dialogue: 10,0:10:54.51,0:10:57.51,Default,,0,0,0,,I was so dehydrated on the way here that I collapsed.
 Dialogue: 10,0:11:06.81,0:11:08.90,Default,,0,0,0,,Um, if you wouldn't mind,
 Dialogue: 10,0:11:09.27,0:11:11.73,Default,,0,0,0,,could you tell us about yourself?
 Dialogue: 10,0:11:11.73,0:11:13.78,Default,,0,0,0,,Oh, of course!
-Dialogue: 10,0:11:13.78,0:11:17.28,Default,,0,0,0,,I'm a teacher from the\n Independent Federal Investigation Club, SCHALE.
+Dialogue: 10,0:11:13.78,0:11:17.28,Default,,0,0,0,,I'm a teacher from the \nIndependent Federal Investigation Club, SCHALE.
 Dialogue: 10,0:11:17.28,0:11:18.49,Default,,0,0,0,,Pleasure to meet you.
 Dialogue: 10,0:11:18.49,0:11:19.53,Default,,0,0,0,,Huh?!
 Dialogue: 10,0:11:19.83,0:11:22.58,Default,,0,0,0,,Hold on, so this guy's with the GSC?!
@@ -183,23 +185,23 @@ Dialogue: 10,0:12:10.92,0:12:14.59,Default,,0,0,0,,My name is Izayoi Nonomi. I'm
 Dialogue: 10,0:12:14.88,0:12:16.67,Default,,0,0,0,,It's a pleasure to meet you.
 Dialogue: 10,0:12:16.67,0:12:19.30,Default,,0,0,0,,My name is Okusora Ayane. I'm a first-year.
 Dialogue: 10,0:12:19.59,0:12:22.72,Default,,0,0,0,,I'm Sunaookami Shiroko, a second-year.
-Dialogue: 10,0:12:22.72,0:12:27.06,Default,,0,0,0,,But I was the first to meet you,\n so I'm sure you already knew that.
-Dialogue: 10,0:12:27.06,0:12:30.81,Default,,0,0,0,,Ah, but I'm not trying to make\n a big deal about it or anything.
-Dialogue: 10,0:12:31.36,0:12:35.15,Default,,0,0,0,,And finally there's the president of the {Foreclosure }Task Force,
+Dialogue: 10,0:12:22.72,0:12:27.06,Default,,0,0,0,,But I was the first to meet you, \nso I'm sure you already knew that.
+Dialogue: 10,0:12:27.06,0:12:30.81,Default,,0,0,0,,Ah, but I'm not trying to make \na big deal about it or anything.
+Dialogue: 10,0:12:31.36,0:12:35.15,Default,,0,0,0,,And finally, there's the president of the {Foreclosure }Task Force,
 Dialogue: 10,0:12:35.15,0:12:37.07,Default,,0,0,0,,Takanashi Hoshino{**-senpai}.
-Dialogue: 10,0:12:37.57,0:12:42.57,Default,,0,0,0,,We make up the Abydos High School\n Foreclosure Task Force.
+Dialogue: 10,0:12:37.57,0:12:42.57,Default,,0,0,0,,We make up the Abydos High School \nForeclosure Task Force.
 Dialogue: 10,0:12:42.91,0:12:44.03,Default,,0,0,0,,Pleasure to meet you.
 Dialogue: 10,0:12:44.03,0:12:45.83,Default,,0,0,0,,The pleasure's all mine.
 Dialogue: 10,0:12:45.83,0:12:47.96,Default,,0,0,0,,Slow down, Serika{**-chan}.
-Dialogue: 10,0:12:47.96,0:12:50.33,Default,,0,0,0,,{*}My poor legs aren't what they used to be{*I'm a delicate old man! I can't run like I used to}!
-Dialogue: 10,0:12:50.33,0:12:51.58,Default,,0,0,0,,Quit messing around!
+Dialogue: 10,0:12:47.96,0:12:50.21,Default,,0,0,0,,My poor legs aren't what they used to be!
+Dialogue: 10,0:12:50.21,0:12:51.58,Default,,0,0,0,,Quit messing around!
 Dialogue: 10,0:12:51.58,0:12:54.96,Default,,0,0,0,,You're the club president, so act like it!
 Dialogue: 10,0:12:55.25,0:12:57.84,Default,,0,0,0,,{*}Meow meow{*Nyaa nyaa}, I'm Takanashi Hoshino.
 Dialogue: 10,0:12:57.84,0:12:59.47,Default,,0,0,0,,Nice to meetcha.
 Dialogue: 10,0:12:59.84,0:13:02.97,Default,,0,0,0,,Nice to meet you. I'm a teacher from SCHALE.
 Dialogue: 10,0:13:06.77,0:13:08.02,Default,,0,0,0,,Hey, {*}Teacher{*Sensei}.
 Dialogue: 10,0:13:09.10,0:13:12.10,Default,,0,0,0,,Let me show you around the school.
-Dialogue: 10,0:13:18.40,0:13:22.66,Default,,0,0,0,,The desertification has progressed\n quite a bit around the Abydos district.
+Dialogue: 10,0:13:18.40,0:13:22.66,Default,,0,0,0,,The desertification has progressed \nquite a bit around the Abydos district.
 Dialogue: 10,0:13:22.66,0:13:23.37,Default,,0,0,0,,Yes.
 Dialogue: 10,0:13:23.78,0:13:29.29,Default,,0,0,0,,The school was already like this when I enrolled.
 Dialogue: 10,0:13:30.66,0:13:33.21,Default,,0,0,0,,I haven't seen any other students so far.
@@ -207,12 +209,12 @@ Dialogue: 10,0:13:33.71,0:13:36.13,Default,,0,0,0,,Is it really just the five of
 Dialogue: 10,0:13:36.13,0:13:37.80,Default,,0,0,0,,Yes, it's just us.
 Dialogue: 10,0:13:38.34,0:13:42.55,Default,,0,0,0,,Truthfully, this school is in a lot of debt.
 Dialogue: 10,0:13:42.55,0:13:44.72,Default,,0,0,0,,We're the only ones left.
-Dialogue: 10,0:13:45.51,0:13:49.06,Default,,0,0,0,,As the Foreclosure Task Force,\n we take on all sorts of requests,
+Dialogue: 10,0:13:45.51,0:13:49.06,Default,,0,0,0,,As the Foreclosure Task Force, \nwe take on all sorts of requests,
 Dialogue: 10,0:13:49.48,0:13:52.10,Default,,0,0,0,,and we put the rewards towards paying off the debt.
 Dialogue: 10,0:13:52.10,0:13:54.44,Default,,0,0,0,,You have it pretty rough.
 Dialogue: 10,0:13:54.81,0:13:57.94,Default,,0,0,0,,The other day, everyone cleaned out the gymnasium.
-Dialogue: 10,0:13:58.23,0:14:02.11,Default,,0,0,0,,Oh, Ayane was sick that day,\n so it was just the four of us.
-Dialogue: 10,0:14:02.70,0:14:06.58,Default,,0,0,0,,There was more junk than we thought,\n so it took a bit longer than expected,
+Dialogue: 10,0:13:58.23,0:14:02.11,Default,,0,0,0,,Oh, Ayane was sick that day, \nso it was just the four of us.
+Dialogue: 10,0:14:02.70,0:14:06.58,Default,,0,0,0,,There was more junk than we thought, \nso it took a bit longer than expected,
 Dialogue: 10,0:14:06.58,0:14:08.12,Default,,0,0,0,,but there weren't any complications.
 Dialogue: 10,0:14:08.49,0:14:11.62,Default,,0,0,0,,After that, Ayane got really mad at us.
 Dialogue: 10,0:14:11.62,0:14:13.21,Default,,0,0,0,,What? Why?
@@ -232,7 +234,7 @@ Dialogue: 10,0:14:53.58,0:14:57.17,Default,,0,0,0,,Today is the day you finally 
 Dialogue: 10,0:14:57.67,0:14:59.92,Default,,0,0,0,,It's the Kata-Kata Helmet Gang!
 Dialogue: 10,0:14:59.92,0:15:02.38,Default,,0,0,0,,Of all times for them to show up...
 Dialogue: 10,0:15:02.38,0:15:06.80,Default,,0,0,0,,Man, I can't even nap in peace.
-Dialogue: 10,0:15:06.80,0:15:09.97,Default,,0,0,0,,Hmph, we'll just send 'em\n running home like we always do.
+Dialogue: 10,0:15:06.80,0:15:09.97,Default,,0,0,0,,Hmph, we'll just send 'em \nrunning home like we always do.
 Dialogue: 10,0:15:11.43,0:15:14.06,Default,,0,0,0,,Everyone, let's hurry to the yard!
 Dialogue: 10,0:15:15.60,0:15:17.35,Default,,0,0,0,,{*}Teacher{*Sensei}, stay here and keep your head down.
 Dialogue: 10,0:15:17.35,0:15:18.94,Default,,0,0,0,,Shiroko?!
@@ -244,53 +246,53 @@ Dialogue: 10,0:15:34.66,0:15:36.29,Default,,0,0,0,,Thanks.
 Dialogue: 10,0:15:36.67,0:15:39.29,Default,,0,0,0,,They just won't give up.
 Dialogue: 10,0:15:39.54,0:15:41.96,Default,,0,0,0,,We're running low on ammunition.
 Dialogue: 10,0:15:41.96,0:15:43.55,Default,,0,0,0,,What should we do?
-Dialogue: 10,0:15:43.55,0:15:46.13,Default,,0,0,0,,If they had showed up just a bit later,\n we'd have restocked, but...
+Dialogue: 10,0:15:43.55,0:15:46.13,Default,,0,0,0,,If only they showed up a bit later, \nwe'd have restocked.
 Dialogue: 10,0:15:46.13,0:15:47.68,Default,,0,0,0,,It's not an issue.
 Dialogue: 10,0:15:47.68,0:15:49.05,Default,,0,0,0,,Wait, Shiroko{**-chan}!
 Dialogue: 10,0:15:54.60,0:15:55.89,Default,,0,0,0,,Give up already!
 Dialogue: 10,0:15:56.06,0:15:59.73,Default,,0,0,0,,We know you're almost outta bullets!
 Dialogue: 10,0:15:59.73,0:16:02.11,Default,,0,0,0,,What? Where did they get that information?
 Dialogue: 10,0:16:02.11,0:16:03.94,Default,,0,0,0,,Doesn't matter, Ayane{**-chan}.
-Dialogue: 10,0:16:03.94,0:16:06.90,Default,,0,0,0,,Ammo or no, we can take 'em on any day!
+Dialogue: 10,0:16:03.94,0:16:06.90,Default,,0,0,0,,Ammo or not, we can take 'em on any day!
 Dialogue: 10,0:16:06.90,0:16:08.20,Default,,0,0,0,,We gotta back up Shiroko{**-chan}!
 Dialogue: 10,0:16:08.20,0:16:08.95,Default,,0,0,0,,Got it!
 Dialogue: 10,0:16:08.95,0:16:10.70,Default,,0,0,0,,Come on, eat it!
-Dialogue: 10,0:16:10.70,0:16:13.83,Default,,0,0,0,,We will not let you have Abydos High School!
+Dialogue: 10,0:16:10.70,0:16:13.83,Default,,0,0,0,,We're not letting you have Abydos High School!
 Dialogue: 10,0:16:17.37,0:16:18.50,Default,,0,0,0,,Shiroko{**-chan}?!
 Dialogue: 10,0:16:20.21,0:16:22.09,Default,,0,0,0,,Shiroko{**-chan}! Nonomi{**-chan}!
 Dialogue: 10,0:16:22.59,0:16:23.84,Default,,0,0,0,,Hoshino{**-senpai}!
 Dialogue: 10,0:16:23.84,0:16:27.01,Default,,0,0,0,,Everyone! We need to regroup!
 Dialogue: 10,0:16:28.51,0:16:31.51,Default,,0,0,0,,These scrubs are all over the place!
-Dialogue: 10,0:16:31.51,0:16:35.22,Default,,0,0,0,,Looks like that tip about their ammo\n was right on the money!
-Dialogue: 10,0:16:36.68,0:16:39.73,Default,,0,0,0,,It's time to end this once and for all.
+Dialogue: 10,0:16:31.51,0:16:35.22,Default,,0,0,0,,Looks like the tip about their ammo \nwas right on the money!
+Dialogue: 10,0:16:36.68,0:16:39.73,Default,,0,0,0,,It's time we end this once and for all.
 Dialogue: 10,0:16:40.06,0:16:41.06,Default,,0,0,0,,All right!
 Dialogue: 10,0:16:41.06,0:16:43.36,Default,,0,0,0,,Get 'em, gang!
 Dialogue: 10,0:16:45.86,0:16:49.61,Default,,0,0,0,,{*}Teacher{*Sensei}, the Abydos students won't last long like this.
 Dialogue: 10,0:16:52.12,0:16:52.99,Default,,0,0,0,,Let's go!
 Dialogue: 10,0:16:57.37,0:16:58.66,Default,,0,0,0,,You guys hanging in there?
 Dialogue: 10,0:16:59.41,0:17:00.92,Default,,0,0,0,,Just barely.
-Dialogue: 10,0:17:00.92,0:17:04.42,Default,,0,0,0,,Everyone, stop bunching up. We need to spread out!
+Dialogue: 10,0:17:00.92,0:17:04.42,Default,,0,0,0,,Everyone, stop bunching up. \nWe need to spread out!
 Dialogue: 10,0:17:04.42,0:17:06.92,Default,,0,0,0,,Ugh, c'mon. Still not giving up?
 Dialogue: 10,0:17:06.92,0:17:09.13,Default,,0,0,0,,You know you can't beat us.
 Dialogue: 10,0:17:09.80,0:17:11.39,Default,,0,0,0,,We're just getting started!
-Dialogue: 10,0:17:13.39,0:17:16.27,Default,,0,0,0,,This is bad. At this rate, they'll overwhelm us!
-Dialogue: 10,0:17:16.27,0:17:19.64,Default,,0,0,0,,Dammit! I can't believe\n we're about to lose to these jerks!
+Dialogue: 10,0:17:13.39,0:17:16.27,Default,,0,0,0,,This is bad. We have to do or something \nbefore they overwhelm us!
+Dialogue: 10,0:17:16.27,0:17:19.64,Default,,0,0,0,,Dammit! I can't believe \nwe're about to lose to these jerks!
 Dialogue: 10,0:17:23.52,0:17:24.82,Default,,0,0,0,,Everyone!
 Dialogue: 10,0:17:26.23,0:17:28.03,Default,,0,0,0,,Who's this chump?
 Dialogue: 10,0:17:33.32,0:17:36.79,Default,,0,0,0,,Why do you want to protect this school?
 Dialogue: 10,0:17:36.79,0:17:38.25,Default,,0,0,0,,{*}Teacher{*Sensei}...
 Dialogue: 10,0:17:38.62,0:17:39.75,Default,,0,0,0,,Why?
 Dialogue: 10,0:17:48.38,0:17:49.51,Default,,0,0,0,,Because...
-Dialogue: 10,0:17:52.01,0:17:55.51,Default,,0,0,0,,Because this school is the place we belong.
+Dialogue: 10,0:17:52.01,0:17:55.51,Default,,0,0,0,,Because this school is the place where we belong.
 Dialogue: 10,0:17:57.06,0:17:58.97,Default,,0,0,0,,Does everyone else feel the same way?
 Dialogue: 10,0:17:58.97,0:18:00.56,Default,,0,0,0,,Of course!
-Dialogue: 10,0:18:01.27,0:18:04.77,Default,,0,0,0,,Who the hell do you think you are, anyway?
+Dialogue: 10,0:18:01.27,0:18:04.77,Default,,0,0,0,,Who the hell are you, anyway?
 Dialogue: 10,0:18:04.77,0:18:06.65,Default,,0,0,0,,I'm a teacher.
 Dialogue: 10,0:18:06.65,0:18:07.77,Default,,0,0,0,,Teacher?
 Dialogue: 10,0:18:08.15,0:18:11.78,Default,,0,0,0,,I came to help these girls.
-Dialogue: 10,0:18:11.78,0:18:15.28,Default,,0,0,0,,Sorry, but I'll have to kindly ask you\n to leave the premises.
-Dialogue: 10,0:18:15.28,0:18:17.87,Default,,0,0,0,,First you show up outta nowhere,\n and now you're bossing us around?
-Dialogue: 10,0:18:17.87,0:18:20.04,Default,,0,0,0,,I'll turn you to Swiss cheese!
+Dialogue: 10,0:18:11.78,0:18:15.28,Default,,0,0,0,,Sorry, but I'll have to kindly ask you \nto leave the premises.
+Dialogue: 10,0:18:15.28,0:18:17.87,Default,,0,0,0,,First you show up outta nowhere, \nand now you're bossing us around?
+Dialogue: 10,0:18:17.87,0:18:20.04,Default,,0,0,0,,I'll turn you into Swiss cheese!
 Dialogue: 10,0:18:20.04,0:18:22.21,Default,,0,0,0,,Let's do this, everyone!
 Dialogue: 10,0:18:25.88,0:18:28.21,Default,,0,0,0,,Nonomi! Suppressive fire!
 Dialogue: 10,0:18:28.21,0:18:30.17,Default,,0,0,0,,Leave it to me!
@@ -301,9 +303,9 @@ Dialogue: 10,0:18:39.35,0:18:41.98,Default,,0,0,0,,You ain't gotta tell me!
 Dialogue: 10,0:18:42.64,0:18:44.85,Default,,0,0,0,,Nice going, you two!
 Dialogue: 10,0:18:44.85,0:18:46.48,Default,,0,0,0,,What the hell is going on?
 Dialogue: 10,0:18:46.48,0:18:47.48,Default,,0,0,0,,Oh no, you do—
-Dialogue: 10,0:18:48.77,0:18:52.74,Default,,0,0,0,,{*}Can't let the youngsters steal the show{*This old timer's gotta show she's still got it}.
+Dialogue: 10,0:18:48.77,0:18:52.74,Default,,0,0,0,,Can't let the youngsters steal the show.
 Dialogue: 10,0:19:03.66,0:19:05.54,Default,,0,0,0,,Coordinates locked in!
-Dialogue: 10,0:19:05.87,0:19:08.29,Default,,0,0,0,,Catch, Shiroko{**-senpai}!
+Dialogue: 10,0:19:05.87,0:19:08.29,Default,,0,0,0,,Shiroko{**-senpai}, catch!
 Dialogue: 10,0:19:09.92,0:19:12.05,Default,,0,0,0,,Nice timing, Ayane!
 Dialogue: 10,0:19:14.93,0:19:17.09,Default,,0,0,0,,You think you're so tough!
 Dialogue: 10,0:19:20.35,0:19:21.89,Default,,0,0,0,,Hey, get it together!
