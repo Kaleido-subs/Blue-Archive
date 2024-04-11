@@ -16,9 +16,8 @@ Video File: Blue Archive The Animation - S01E01 (Premux) [A6322042].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 11
-Active Line: 26
-Video Position: 21577
+Active Line: 1
+Video Position: 4148
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,25 +25,90 @@ Style: MSOSigns,LTFinnegan Medium,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000
 Style: MSOSigns - TV News Headlines,IBM Plex Sans SemiBold,20,&H003D2E29,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: MSOSigns - TV News Subheadline,IBM Plex Sans Medium,20,&H003D2E29,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: MSOSigns - Ammo Box Handwriting,Miology,100,&H002E3235,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: MSOSigns - Train Screen,Archivo,80,&H008E6558,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:02:24.85,0:02:27.12,MSOSigns,,0,0,0,,TODAY'S NEWS
-Comment: 0,0:02:52.00,0:02:57.42,MSOSigns,,0,0,0,,{=76}SIGN: TV NEWS SUBHEADLINE
+Comment: 0,0:02:52.00,0:02:57.42,MSOSigns,,0,0,0,,{=74}SIGN: TV NEWS SUBHEADLINE
 Dialogue: 0,0:02:52.00,0:02:57.42,MSOSigns,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1}m 532 148 l 529 174 926 321 928 296
 Dialogue: 2,0:02:52.00,0:02:57.42,MSOSigns - TV News Subheadline,,0,0,0,,{=51}{\blur1\fax0.390972\fscx131.51\fscy134.06\frz-20.6599\frx4.9292\fry4.5709\org(735.54,236.03)\pos(730.4,236.03)}GSC'S SILENCE ENTERS ITS 7TH DAY: WHY?
 Dialogue: 1,0:02:52.00,0:02:57.42,MSOSigns - TV News Subheadline,,0,0,0,,{=73}{\blur1\c&H75D7E3&\alpha&H40&\fax0.408357\fscx132.03\fscy140.52\frz-20.6547\frx4.9289\fry4.5708\org(736.32,237.01)\pos(730.93,237.01)}GSC'S SILENCE ENTERS ITS 7TH DAY: WHY?
-Dialogue: 1,0:02:52.00,0:02:57.42,MSOSigns - TV News Subheadline,,0,0,0,,{=54=77}{\blur1\c&HFFFA6D&\alpha&H40&\fax0.394275\fscx131.59\fscy135.40\frz-20.6689\frx4.9297\fry4.5714\org(733.96,234.27)\pos(728.77,234.27)}GSC'S SILENCE ENTERS ITS 7TH DAY: WHY?
-Comment: 0,0:02:52.00,0:02:57.42,MSOSigns,,0,0,0,,{=80}SIGN: TV NEWS HEADLINE
+Dialogue: 1,0:02:52.00,0:02:57.42,MSOSigns - TV News Subheadline,,0,0,0,,{=54=75}{\blur1\c&HFFFA6D&\alpha&H40&\fax0.394275\fscx131.59\fscy135.40\frz-20.6689\frx4.9297\fry4.5714\org(733.96,234.27)\pos(728.77,234.27)}GSC'S SILENCE ENTERS ITS 7TH DAY: WHY?
+Comment: 0,0:02:52.00,0:02:57.42,MSOSigns,,0,0,0,,{=78}SIGN: TV NEWS HEADLINE
 Dialogue: 0,0:02:52.00,0:02:57.42,MSOSigns,,0,0,0,,{=23}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(0,0)\p1}m 674 556 l 665 604 1336 818 1335 768
 Dialogue: 2,0:02:52.00,0:02:57.42,MSOSigns - TV News Headlines,,0,0,0,,{=36}{\blur1\fax0.305939\fscx212.31\fscy160.23\frz-17.9114\frx4.6909\fry4.3486\org(1013.14,677.98)\pos(1006.64,677.98)}GENERAL STUDENT COUNCIL PRESIDENT'S
 Dialogue: 1,0:02:52.00,0:02:57.42,MSOSigns - TV News Headlines,,0,0,0,,{=45}{\blur1\c&H2954C7&\alpha&H40&\fax0.326389\fscx211.77\fscy170.39\frz-17.9185\frx4.6927\fry4.3494\org(1013.64,677.27)\pos(1006.73,677.27)}GENERAL STUDENT COUNCIL PRESIDENT'S
 Dialogue: 1,0:02:52.00,0:02:57.42,MSOSigns - TV News Headlines,,0,0,0,,{=67}{\blur1\c&HFFFA6D&\alpha&H40&\fax0.325356\fscx214.01\fscy171.85\frz-17.9014\frx4.6897\fry4.3471\org(1013.27,679.23)\pos(1006.31,679.23)}GENERAL STUDENT COUNCIL PRESIDENT'S
 Dialogue: 2,0:02:52.00,0:02:57.42,MSOSigns - TV News Headlines,,0,0,0,,{=37}{\blur1\fax0.290421\fscx217.42\fscy164.05\frz-17.6984\frx4.6181\fry4.2807\org(955.19,685.14)\pos(948.88,685.14)}WHEREABOUTS: STILL UNKNOWN?
 Dialogue: 1,0:02:52.00,0:02:57.42,MSOSigns - TV News Headlines,,0,0,0,,{=47}{\blur1\c&H2954C7&\alpha&H40&\fax0.290764\fscx217.29\fscy163.92\frz-17.7073\frx4.6203\fry4.2826\org(956.4,684.45)\pos(950.09,684.45)}WHEREABOUTS: STILL UNKNOWN?
-Dialogue: 1,0:02:52.00,0:02:57.42,MSOSigns - TV News Headlines,,0,0,0,,{=68=81}{\blur1\c&HFFFA6D&\alpha&H40&\fax0.302011\fscx219.73\fscy172.50\frz-17.6881\frx4.6168\fry4.2799\org(955.46,686.47)\pos(948.82,686.47)}WHEREABOUTS: STILL UNKNOWN?
+Dialogue: 1,0:02:52.00,0:02:57.42,MSOSigns - TV News Headlines,,0,0,0,,{=68=79}{\blur1\c&HFFFA6D&\alpha&H40&\fax0.302011\fscx219.73\fscy172.50\frz-17.6881\frx4.6168\fry4.2799\org(955.46,686.47)\pos(948.82,686.47)}WHEREABOUTS: STILL UNKNOWN?
 Dialogue: 0,0:05:22.46,0:05:25.22,MSOSigns,,0,0,0,,FORECLOSURE TASK FORCE REGULAR MEETING
 Dialogue: 0,0:06:23.18,0:06:26.08,MSOSigns,,0,0,0,,SHIBA SEKI RAMEN
+Comment: 0,0:08:08.98,0:08:11.49,MSOSigns,,0,0,0,,{=157}SIGN: TRAIN STATION SCREEN 1
+Dialogue: 1,0:08:08.98,0:08:11.49,MSOSigns - Train Screen,,0,0,0,,{\blur0.9\c&H666B68&\fs12\fscx60\move(1001.58,393.14,1302.35,393.14)}Abydos Outskirts
+Dialogue: 1,0:08:08.98,0:08:11.49,MSOSigns - Train Screen,,0,0,0,,{\blur0.9\c&HEB916C&\fs12\fscx41\move(950.63,392.64,1251.4,392.64)}Regular
+Dialogue: 1,0:08:08.98,0:08:11.49,MSOSigns - Train Screen,,0,0,0,,{\blur0.9\c&H97E85E&\fs12\fscx39\move(950.63,401.57,1251.4,401.57)}Express
+Dialogue: 1,0:08:08.98,0:08:11.49,MSOSigns - Train Screen,,0,0,0,,{\blur0.9\c&H666B68&\fs12\fscx60\move(1001.73,402.07,1302.5,402.07)}Abydos Outskirts
+Dialogue: 0,0:08:08.98,0:08:11.49,MSOSigns,,0,0,0,,{\blur1\c&HF3F5F2&\move(960,540,1260.77,540)\p1}m 42.55 -142.56 l 84.73 -142.56 84.73 -125.24 42.55 -125.24
+Dialogue: 0,0:08:08.98,0:08:11.49,MSOSigns,,0,0,0,,{=158}{\blur1\c&HF3F5F2&\move(960,540,1260.77,540)\p1}m -8.96 -142.43 l 5.79 -142.43 5.79 -125.13 -8.96 -125.13
+Comment: 0,0:08:11.49,0:08:15.28,MSOSigns,,0,0,0,,
+Comment: 0,0:08:15.28,0:08:19.13,MSOSigns,,0,0,0,,{=153}SIGN: TRAIN STATION SCREEN 2
+Dialogue: 0,0:08:15.28,0:08:18.88,MSOSigns,,0,0,0,,{\blur1\c&HFCFAF9&\pos(960,540)\p1}m -162.63 -96.8 l -135.07 -96.8 -135.07 -60.05 -162.63 -60.05
+Dialogue: 0,0:08:15.28,0:08:18.88,MSOSigns,,0,0,0,,{\blur1\c&HF8F9F7&\pos(960,540)\p1}m -67.49 -97.07 l 13.97 -97.07 13.97 -58.31 -67.49 -58.31
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\c&HEB916C&\blur1.4\fscx40\fs25\pos(797.85,432.65)}Regular
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\c&H97E85E&\blur1.4\fscx38\fs25\pos(797.88,452.94)}Express
+Comment: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\blur1.5\fscx56\fs25\pos(892.74,432.65)}Abydos Outskirts
+Comment: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\blur0.9\fscx56\fs25\pos(892.74,432.65)}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(848,419,853,448)\pos(892.74,432.65)\fscx56\fs25\blur1.5}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(853,419,858,448)\pos(892.74,432.65)\fscx56\fs25\blur1.465}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(858,419,863,448)\pos(892.74,432.65)\fscx56\fs25\blur1.429}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(863,419,868,448)\pos(892.74,432.65)\fscx56\fs25\blur1.394}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(868,419,873,448)\pos(892.74,432.65)\fscx56\fs25\blur1.359}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(873,419,878,448)\pos(892.74,432.65)\fscx56\fs25\blur1.324}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(878,419,883,448)\pos(892.74,432.65)\fscx56\fs25\blur1.288}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(883,419,888,448)\pos(892.74,432.65)\fscx56\fs25\blur1.253}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(888,419,893,448)\pos(892.74,432.65)\fscx56\fs25\blur1.218}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(893,419,898,448)\pos(892.74,432.65)\fscx56\fs25\blur1.182}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(898,419,903,448)\pos(892.74,432.65)\fscx56\fs25\blur1.147}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(903,419,908,448)\pos(892.74,432.65)\fscx56\fs25\blur1.112}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(908,419,913,448)\pos(892.74,432.65)\fscx56\fs25\blur1.076}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(913,419,918,448)\pos(892.74,432.65)\fscx56\fs25\blur1.041}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(918,419,923,448)\pos(892.74,432.65)\fscx56\fs25\blur1.006}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(923,419,928,448)\pos(892.74,432.65)\fscx56\fs25\blur0.971}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(928,419,933,448)\pos(892.74,432.65)\fscx56\fs25\blur0.935}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(933,419,938,448)\pos(892.74,432.65)\fscx56\fs25\blur0.9}Abydos Outskirts
+Comment: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\blur1.5\fscx56\fs25\pos(892.74,452.94)}Abydos Outskirts
+Comment: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\blur0.9\fscx56\fs25\pos(892.74,452.94)}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(848,440,853,468)\pos(892.74,452.94)\fscx56\fs25\blur1.5}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(853,440,858,468)\pos(892.74,452.94)\fscx56\fs25\blur1.465}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(858,440,863,468)\pos(892.74,452.94)\fscx56\fs25\blur1.429}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(863,440,868,468)\pos(892.74,452.94)\fscx56\fs25\blur1.394}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(868,440,873,468)\pos(892.74,452.94)\fscx56\fs25\blur1.359}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(873,440,878,468)\pos(892.74,452.94)\fscx56\fs25\blur1.324}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(878,440,883,468)\pos(892.74,452.94)\fscx56\fs25\blur1.288}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(883,440,888,468)\pos(892.74,452.94)\fscx56\fs25\blur1.253}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(888,440,893,468)\pos(892.74,452.94)\fscx56\fs25\blur1.218}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(893,440,898,468)\pos(892.74,452.94)\fscx56\fs25\blur1.182}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(898,440,903,468)\pos(892.74,452.94)\fscx56\fs25\blur1.147}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(903,440,908,468)\pos(892.74,452.94)\fscx56\fs25\blur1.112}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(908,440,913,468)\pos(892.74,452.94)\fscx56\fs25\blur1.076}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(913,440,918,468)\pos(892.74,452.94)\fscx56\fs25\blur1.041}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(918,440,923,468)\pos(892.74,452.94)\fscx56\fs25\blur1.006}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(923,440,928,468)\pos(892.74,452.94)\fscx56\fs25\blur0.971}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(928,440,933,468)\pos(892.74,452.94)\fscx56\fs25\blur0.935}Abydos Outskirts
+Dialogue: 1,0:08:15.28,0:08:18.88,MSOSigns - Train Screen,,0,0,0,,{\clip(933,440,938,468)\pos(892.74,452.94)\fscx56\fs25\blur0.9}Abydos Outskirts
+Dialogue: 2,0:08:18.88,0:08:19.04,MSOSigns,,0,0,0,,{=150}{\blur4\alpha&H0F&\c&H4E4E4E&\p1\fax-0.000404\fscx6.63\fscy111.82\frx-0.0841\org(883.35,442.79)\pos(887.82,551.33)}m -67.49 -97.07 l 13.97 -97.07 13.97 -58.31 -67.49 -58.31
+Dialogue: 0,0:08:18.88,0:08:19.04,MSOSigns,,0,0,0,,{\blur1\c&HFCFAF9&\pos(960,540)\p1}m -162.63 -96.8 l -135.07 -96.8 -135.07 -60.05 -162.63 -60.05
+Dialogue: 0,0:08:18.88,0:08:19.04,MSOSigns,,0,0,0,,{=144}{\blur2\c&HF8F9F7&\p1\fscx39.79\fscy91.18\org(867.98,441.84)\pos(894.83,530.35)}m -67.49 -97.07 l 13.97 -97.07 13.97 -58.31 -67.49 -58.31
+Dialogue: 1,0:08:18.88,0:08:19.04,MSOSigns - Train Screen,,0,0,0,,{\blur1.5\fscx56\fs25\pos(892.74,432.65)\clip(849.51,417.81,887.18,443.88)}Abydos Outskirts
+Dialogue: 1,0:08:18.88,0:08:19.04,MSOSigns - Train Screen,,0,0,0,,{\c&HEB916C&\blur1.4\fscx40\fs25\pos(797.85,432.65)}Regular
+Dialogue: 1,0:08:18.88,0:08:19.04,MSOSigns - Train Screen,,0,0,0,,{\blur1.5\fscx56\fs25\pos(892.74,452.94)\clip(852.13,442.98,887.15,464.08)}Abydos Outskirts
+Dialogue: 1,0:08:18.88,0:08:19.04,MSOSigns - Train Screen,,0,0,0,,{\c&H97E85E&\blur1.4\fscx38\fs25\pos(797.88,452.94)}Express
+Dialogue: 2,0:08:19.04,0:08:19.13,MSOSigns,,0,0,0,,{=152}{\blur4\alpha&H0F&\c&H4E4E4E&\p1\fax0.008629\fscx4.31\fscy110.84\frx-0.1015\org(806.63,442.6)\pos(809.52,550.19)}m -67.49 -97.07 l 13.97 -97.07 13.97 -58.31 -67.49 -58.31
+Dialogue: 0,0:08:19.04,0:08:19.13,MSOSigns,,0,0,0,,{=151}{\blur2\c&HFCFAF9&\p1\fscx66.82\fscy102.65\org(792.8,443.68)\pos(901.48,543.05)}m -162.63 -96.8 l -135.07 -96.8 -135.07 -60.05 -162.63 -60.05
+Dialogue: 1,0:08:19.04,0:08:19.13,MSOSigns - Train Screen,,0,0,0,,{\c&HEB916C&\blur1.4\fscx40\fs25\pos(797.85,432.65)\clip(780.83,423.64,805.77,443.84)}Regular
+Dialogue: 1,0:08:19.04,0:08:19.13,MSOSigns - Train Screen,,0,0,0,,{=154}{\c&H97E85E&\blur1.4\fscx38\fs25\pos(797.88,452.94)\clip(782.13,443.06,805.63,461.95)}Express
 Dialogue: 0,0:12:14.94,0:12:16.18,MSOSigns,,0,0,0,,TASK FORCE
 Dialogue: 0,0:13:23.84,0:13:26.86,MSOSigns,,0,0,0,,CLUB RECRUITMENT
 Dialogue: 0,0:13:36.36,0:13:37.48,MSOSigns,,0,0,0,,OFFICE
@@ -207,3 +271,19 @@ Data: 140,_aegi_folddata,e0;0;5
 Data: 141,_aegi_folddata,e1;0;5
 Data: 142,_aegi_folddata,e0;0;4
 Data: 143,_aegi_folddata,e1;0;4
+Data: 144,_aegi_perspective_ambient_plane,e811.05;404.17#7C973.97;404.17#7C973.97;481.69#7C811.05;481.69
+Data: 145,_aegi_perspective_ambient_plane,e810.86;404.16#7C974.21;404.16#7C974.16;481.68#7C810.90;481.68
+Data: 146,_aegi_perspective_ambient_plane,e810.84;404.16#7C974.24;404.16#7C974.19;481.68#7C810.87;481.68
+Data: 147,_aegi_perspective_ambient_plane,e810.90;404.16#7C974.17;404.16#7C974.12;481.68#7C810.93;481.68
+Data: 148,_aegi_perspective_ambient_plane,e810.93;404.16#7C974.13;404.16#7C974.09;481.68#7C810.96;481.68
+Data: 150,_aegi_perspective_ambient_plane,e810.93;404.16#7C974.13;404.16#7C974.10;481.68#7C810.95;481.68
+Data: 151,_aegi_perspective_ambient_plane,e769.81;406.45#7C824.93;406.45#7C824.93;479.95#7C769.81;479.95
+Data: 152,_aegi_perspective_ambient_plane,e810.93;404.16#7C974.05;404.16#7C974.02;481.68#7C810.95;481.68
+Data: 153,_aegi_folddata,e0;1;6
+Data: 154,_aegi_folddata,e1;1;6
+Data: 155,_aegi_folddata,e0;0;6
+Data: 156,_aegi_folddata,e1;0;6
+Data: 157,_aegi_folddata,e0;1;7
+Data: 158,_aegi_folddata,e1;1;7
+Data: 159,_aegi_folddata,e0;0;7
+Data: 160,_aegi_folddata,e1;0;7
