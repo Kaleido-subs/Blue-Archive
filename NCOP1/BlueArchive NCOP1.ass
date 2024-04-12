@@ -125,8 +125,8 @@ Dialogue: 0,0:00:43.27,0:00:47.12,OP1-R,rom dia,0,0,0,kara,{\k3}{\k18}wa{\k17}ra
 Dialogue: 0,0:00:47.25,0:00:49.19,OP1-R,rom tri,0,0,0,kara,{\k4}{\k29}un{\k35}mei {\k42}kyou{\k41}dou{\k38}tai{\k5}
 Dialogue: 0,0:00:49.32,0:00:53.59,OP1-R,rom spark,0,0,0,kara,{\k4}{\k32}se{\k27}ka{\k27}i{\k39}juu {\k37}no {\k27}ki{\k27}o{\k55}ku {\k23}ga {\k31}i{\k11}tsu{\k83}ka{\k4}
 Dialogue: 0,0:00:53.49,0:00:57.45,OP1-R,rom spark,0,0,0,kara,{\k11}{\k34}su{\k25}na {\k27}no {\k42}you {\k37}ni {\k25}ki{\k30}e{\k52}te{\k27}shi{\k27}ma{\k12}tte {\k44}mo{\k14}
-Dialogue: 0,0:00:57.49,0:00:59.71,OP1-R,rom spark,0,0,0,kara,{\k9}{\k20}{\-ayane}so{\k28}ra {\k39}to {\k25}{\-serika}u{\k41}mi {\k55}to{\k5}
-Dialogue: 0,0:00:59.71,0:01:01.50,OP1-R,rom spark,0,0,0,kara,{\k4}{\k17}{-hoshino}ka{\k25}ze {\k38}to {\k30}{-nonomi}ki{\k38}mi {\k21}ga{\k1}
+Dialogue: 0,0:00:57.49,0:00:59.71,OP1-R,rom spark,0,0,0,kara,{\k9}{\k20}{\-hoshino}so{\k28}ra {\k39}to {\k25}{\-serika}u{\k41}mi {\k55}to{\k5}
+Dialogue: 0,0:00:59.71,0:01:01.50,OP1-R,rom spark,0,0,0,kara,{\k4}{\k17}{\-nonomi}ka{\k25}ze {\k38}to {\k30}{\-ayane}ki{\k38}mi {\k21}ga{\k1}
 Dialogue: 0,0:01:01.54,0:01:04.00,OP1-R,rom spark,0,0,0,kara,{\k3}{\k34}{-shiroko}so{\k28}ko {\k27}ni {\k27}a{\k14}re{\k111}ba{\k4}
 Dialogue: 0,0:01:04.04,0:01:06.32,OP1-R,rom spark,0,0,0,kara,{\k18}{\k18}{\-all}se{\k17}i{\k39}shun {\k26}wa {\k14}o{\k39}wan{\k48}nai{\k9}
 Dialogue: 0,0:01:06.36,0:01:10.56,OP1-R,rom spark,0,0,0,kara,{\k5}{\k26}ma{\k27}mo{\k28}ru {\k39}be{\k39}ki {\k26}ri{\k28}yu{\k52}u {\k25}wa {\k27}i{\k14}tsu{\k68}mo{\k16}
@@ -150,8 +150,8 @@ Dialogue: 0,0:00:43.27,0:00:47.12,OP1-R,eng dia,0,0,0,kara,{\k3}{\k18}Lau{\k17}g
 Dialogue: 0,0:00:47.25,0:00:49.19,OP1-R,eng tri,0,0,0,kara,{\k4}{\k29}Our {\k35}fates {\k42}are {\k41}as {\k38}one!{\k5}
 Dialogue: 0,0:00:49.32,0:00:53.59,OP1-R,eng spark,0,0,0,kara,{\k4}{\k32}The {\k27}mem{\k27}ories {\k39}we {\k37}spread {\k27}far {\k27}and {\k55}wide {\k23}a{\k31}cross {\k11}the {\k83}world{\k4}
 Dialogue: 0,0:00:53.49,0:00:57.45,OP1-R,eng spark,0,0,0,kara,{\k11}{\k34}May {\k25}va{\k27}nish {\k42}like {\k37}sand {\k25}in {\k30}the {\k52}breeze {\k27}in {\k27}days {\k12}to {\k44}come{\k3}
-Dialogue: 0,0:00:57.49,0:00:59.71,OP1-R,eng spark,0,0,0,kara,{\k9}{\k2}{\-ayane}But {\k28}as {\k39}long {\k25}{\-serika}as {\k41}I {\k55}know{\k5}
-Dialogue: 0,0:00:59.71,0:01:01.50,OP1-R,eng spark,0,0,0,kara,{\k4}{\k17}{\-hoshino}Skies {\k25}are {\k38}blue {\k30}{\-nonomi}and {\k38}winds {\k21}blow{\k6}
+Dialogue: 0,0:00:57.49,0:00:59.71,OP1-R,eng spark,0,0,0,kara,{\k9}{\k2}{\-hoshino}But {\k28}as {\k39}long {\k25}{\-serika}as {\k41}I {\k55}know{\k5}
+Dialogue: 0,0:00:59.71,0:01:01.50,OP1-R,eng spark,0,0,0,kara,{\k4}{\k17}{\-nonomi}Skies {\k25}are {\k38}blue {\k30}{\-ayane}and {\k38}winds {\k21}blow{\k6}
 Dialogue: 0,0:01:01.54,0:01:04.00,OP1-R,eng spark,0,0,0,kara,{\k3}{\k34}{\-shiroko}And {\k28}that {\k27}you're {\k27}here {\k14}with {\k111}me{\k2}
 Dialogue: 0,0:01:04.04,0:01:06.32,OP1-R,eng spark,0,0,0,kara,{\k18}{\k35}{\-all}Our {\k39}spring {\k26}will {\k53}live {\k48}on!{\k9}
 Dialogue: 0,0:01:06.36,0:01:10.56,OP1-R,eng spark,0,0,0,kara,{\k5}{\k26}We'll {\k27}al{\k28}ways {\k39}be {\k39}there {\k26}to {\k28}pro{\k52}tect {\k25}the {\k27}life {\k14}we {\k68}know{\k16}
