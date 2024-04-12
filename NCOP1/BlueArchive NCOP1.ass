@@ -26,27 +26,27 @@ Style: OP1 - LightSigns,RoG2サンセリフStd-B,96,&H00FFFFFF,&H00FFFFFF,&H0000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,ncchapter,0,0,0,,{NCOP1}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,-- README --,{=52}Template written for 0x.KaraTemplater. Please contact us over at the Kaleido-subs Discord if you need the effects for different languages!
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function pos_y() return orgline.actor:match('rom alt') and -784 or orgline.actor:match('rom') and -912 or 0; end --meta.res_y - 2*line.styleref.margin_v
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,BPM = 114; BEAT_DUR = 60 * 1000 / BPM; LONG_SYL = BEAT_DUR --quarter notes are long now apparently
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function is_longsyl() return syl.duration >= LONG_SYL * 0.95 end
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,BASE_LAYER = 10
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,TRI_SPACE = 40; CHAR_FADE_SPEED = 2;
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,local last = util.rand.sign(); local must = false; function rndsign() if must or rnd() < 0.7 then last = -last; must = false; else must = true; end return last; end
 Comment: 0,0:00:00.00,0:00:00.00,OP1,preline tri,0,0,0,template line style OP1-R notext loop x -1,!maxloop('x', line.width / 40 + 1.5)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor preline,! set('startx', 40 * ($loop_x - rnd(0.8, 1.3))) !! set('ydir', rndsign()) !! set('starty', pos_y() + ydir * rnd(0.4, 0.7) * line.height) !
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor preline,! set('xdelta', rnd(-20,20)) !! set('ydelta', rnd(0,20) * ydir) !
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor preline,{!ln.tag.move(startx, starty, startx + xdelta, starty + ydelta, nil, nil, 7, 4)!}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor preline,!retime('preline', -100 + math.floor(startx / CHAR_FADE_SPEED), math.floor(startx / CHAR_FADE_SPEED) + 400)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor preline,!relayer(BASE_LAYER + 1 + util.rand.sign() * 2)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor preline,{\fscx10\fscy10\t(0,100,\fscx100\fscy100)\t(250,0,1,\fscx0\fscy0)}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor preline,{\c&HFFFFFF&\t(50,250,\c&HFFF915&)\blur0.8}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor preline,{\t(250,!math.random(1000,1300)!,-1.2,\alpha&HFF&)}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code syl style OP1-R actor spark,parts = math.random(5,8)
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code syl style OP1-R actor dia,parts = math.random(4,6)
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code syl style OP1-R actor tri,parts = math.random(2, 4)
@@ -57,16 +57,16 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1,sylfx tri,0,0,0,template syl style OP1-R no
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sylfx,!maxloop('n', parts)!!relayer(BASE_LAYER + 3)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sylfx,!set('angle', startang + (($loop_n + rnd(-0.3,0.3)) / $maxloop_n) * 2 * math.pi)!!set('xdir', math.cos(angle))!!set('ydir', math.sin(angle))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sylfx,!set('radius', rnd(60,90))!
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sylfx,{\alpha&H40&\blur0.8}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sylfx no_t_actor sparkle,{\c&HFFF915&}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sparkle,{\c!util.rand.item({"&HFFFA38&", "&H56F9FF&", "&HF972FF&"})!}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sylfx,{\t(0,!math.random(1000,1300)!,-1.2,\alpha&HFF&)}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sylfx,!retime("presyl", -50, 400 + rnd(0, 200))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sylfx,!set('orgx', rnd(0,0.3) * syl.width * ln.math.sgn(xdir))!{!ln.tag.move(orgx, orgy + pos_y(), orgx + xdir * radius, orgy + ydir * radius + pos_y(), nil, nil, 7, 5)!}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sylfx,{\fscx0\fscy0\t(0,!math.floor(line.duration/3)!,0.8,\fscx130\fscy130)\t(200,0,\fscx0\fscy0)}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,longsyl sparkle,0,0,0,template syl style OP1-R noblank actor spark if is_longsyl notext loop dur -1,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,longsyl dia,0,0,0,template syl style OP1-R noblank actor dia if is_longsyl notext loop dur -1,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,longsyl tri,0,0,0,template syl style OP1-R noblank actor tri if is_longsyl notext loop dur -1,
@@ -74,38 +74,38 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor longs
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor longsyl,!set('sstart', (loopctx.state.dur - 1) * 100 + rnd(-30, 30))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor longsyl,!set('angle', ((angle or rnd()) + rnd(0.2,0.8)) * 2 * math.pi)!!set('xdir', math.cos(angle))!!set('ydir', math.sin(angle))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor longsyl,!set('radius', rnd(60,90))!
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,-- color duplicated from earlier for sparkle lines...
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor longsyl,{\alpha&H40&\blur0.8}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor longsyl no_t_actor sparkle,{\c&HFFF915&}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor longsyl,{\t(0,!math.random(1000,1300)!,-1.2,\alpha&HFF&)}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor longsyl,!retime("presyl", sstart, sstart + 400 + rnd(0, 200))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor longsyl,!set('orgx', rnd(0,0.3) * syl.width * ln.math.sgn(xdir))!!set('orgy', rnd(0, 0.2))!{!ln.tag.move(orgx, orgy + pos_y(), orgx + xdir * radius, orgy + ydir * radius + pos_y(), nil, nil, 7, 5)!}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor longsyl,{\fscx0\fscy0\t(0,!math.floor(line.duration/3)!,0.8,\fscx130\fscy130)\t(200,0,\fscx0\fscy0)}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor tri,!util.rand.bool() and mskip() or nil!{\frz180}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor tri,{\p1}!ln.shapes.triangle(math.floor(rnd(22,30)))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor dia,!set('sidelen', math.random(7,12))!{\p1\frz45}!ln.shapes.shift(ln.shapes.rectangle(sidelen, sidelen), -sidelen/2, -sidelen/2)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sparkle,{\p1}m 0 -16.25 b 0 -8.12 -6.25 0 -12.5 0 -6.25 0 0 8.13 0 16.25 0 8.13 6.25 0 12.5 0 6.25 0 0 -8.12 0 -16.25
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,main,0,0,0,template syl style OP1-R noblank anystyle,!relayer(BASE_LAYER)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,main hl,0,0,0,template syl style OP1-R noblank anystyle,!relayer(BASE_LAYER+1)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor main no_t_actor hl,!retime('line', -50, 150)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor main,{!ln.tag.pos(5,5,0,pos_y())!}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R layer 10 layer 11,{\fscx175\fscy100\blur0.9}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R layer 10,{\bord2.4}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R layer 11,{!util.make_grad(pos_y() + line.top, pos_y() + line.bottom)!}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char style OP1-R layer 11 noblank,{\c!colorlib.lighten(gc(), -math.pow(rnd(0.18), 2))!}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char style OP1-R layer 10 layer 11 noblank,!set('charstart', math.floor(char.left / CHAR_FADE_SPEED))!{\alpha&HFF&\t(!charstart!,!charstart+150!,\alpha&H00&)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char style OP1-R layer 10 layer 11 noblank,!set('charend', math.floor(line.duration - (line.width - char.left) / CHAR_FADE_SPEED))!{\t(!charend-150!,!charend!,\alpha&HFF&)}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R layer 10,{\t(!st(0)!,!math.min(st(0.25), st(0)+60)!,0.5,\fscx185\fscy110\3c!gc(4)!)\t(!math.min(st(0.25), st(0)+60)!,!math.min(st(1.25), st(1) + 50)!,1.4,\fscx175\fscy100\3c!gc(3)!)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R t_actor hl,!retime("syl",-50,0)!
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,{=53}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,{=53}
 Comment: 0,0:00:05.28,0:00:05.28,Default,,0,0,0,sync,{OPSync — First hard cut (sunrise shot)}
 Dialogue: 0,0:00:00.49,0:00:04.13,OP1,rom spark,0,0,0,kara,{\k8}{\k25}The {\k40}sky {\k40}Blue {\k52}Ar{\k190}chive{\k9}
 Dialogue: 0,0:00:13.14,0:00:15.25,OP1-R,rom dia,0,0,0,kara,{\k7}{\k8}a{\k15}ta{\k14}ra{\k25}shii {\k14}ke{\k20}shi{\k20}ki {\k18}ga {\k9}mi{\k14}ta{\k25}ku{\k21}te{\k1}
@@ -132,6 +132,7 @@ Dialogue: 0,0:01:04.04,0:01:06.32,OP1-R,rom spark,0,0,0,kara,{\k18}{\k18}{\-all}
 Dialogue: 0,0:01:06.36,0:01:10.56,OP1-R,rom spark,0,0,0,kara,{\k5}{\k26}ma{\k27}mo{\k28}ru {\k39}be{\k39}ki {\k26}ri{\k28}yu{\k52}u {\k25}wa {\k27}i{\k14}tsu{\k68}mo{\k16}
 Dialogue: 0,0:01:10.60,0:01:15.78,OP1-R,rom spark,0,0,0,kara,{\k5}{\k27}tan{\k27}ju{\k26}n{\k40}mei{\k40}kai {\k27}ko{\k26}no {\k53}ba{\k27}sho {\k28}ga {\k12}wa{\k41}ta{\k25}shi {\k25}ta{\k29}chi {\k55}no{\k5}
 Dialogue: 0,0:01:15.93,0:01:23.38,OP1,rom spark,0,0,0,kara,{\k5}{\k27}ta{\k20}tta {\k32}hi{\k28}to{\k25}tsu {\k50}no {\k55}i{\k54}ba{\k52}sho {\k185}da{\k20}ka{\k168}ra{\k24}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Dialogue: 0,0:00:00.49,0:00:04.13,OP1,eng spark,0,0,0,kara,{\k8}{\k25}The {\k40}sky-{\k40}Blue {\k52}Ar{\k190}chive{\k9}
 Dialogue: 0,0:00:13.14,0:00:15.25,OP1-R,eng dia,0,0,0,kara,{\k7}{\k8}In{\k15}to {\k14}a {\k25}world {\k14}of {\k20}vis{\k20}tas {\k18}that {\k9}I've {\k14}ne{\k25}ver {\k21}seen{\k1}
 Dialogue: 0,0:00:15.25,0:00:17.41,OP1-R,eng dia,0,0,0,kara,{\k4}{\k15}I {\k26}rode {\k28}on{\k11}wards {\k23}towards {\k18}the {\k27}un{\k52}known{\k12}
