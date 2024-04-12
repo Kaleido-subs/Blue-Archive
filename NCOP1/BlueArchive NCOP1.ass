@@ -25,7 +25,7 @@ Style: OP1,Atomic,64,&H00FFFFFF,&HB4FFFFFF,&H00FB7502,&H00FFD66B,0,0,0,0,175,100
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,ncchapter,0,0,0,,{NCOP1}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,-- README --,{=52}Template written for 0x.KaraTemplater. Ask us on Discord if you need the effects for different languages!
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,-- README --,{=54}Template written for 0x.KaraTemplater. Ask us on Discord if you need the effects for different languages!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function pos_y() return orgline.actor:match('rom alt') and -784 or orgline.actor:match('rom') and -912 or 0; end --meta.res_y - 2*line.styleref.margin_v
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,BPM = 114; BEAT_DUR = 60 * 1000 / BPM; LONG_SYL = BEAT_DUR --quarter notes are long now apparently
@@ -94,30 +94,29 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1,main hl,0,0,0,template syl style OP1-R nobl
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor main no_t_actor hl,!retime('line', -50, 150)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor main,{!ln.tag.pos(5,5,0,pos_y())!}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R layer 10 layer 11,{\fscx175\fscy100}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R layer 10,{\bord2.4\blur1}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R layer 11,{\blur0.9}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R layer 10 layer 11,{\fscx175\fscy100\blur0.9}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R layer 10,{\bord2.4}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R layer 11,{!util.make_grad(pos_y() + line.top, pos_y() + line.bottom)!}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char style OP1-R layer 11 noblank,{\c!colorlib.lighten(gc(), -math.pow(rnd(0.12), 2))!}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char style OP1-R layer 11 noblank,{\c!colorlib.lighten(gc(), -math.pow(rnd(0.18), 2))!}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char style OP1-R layer 10 layer 11 noblank,!set('charstart', math.floor(char.left / CHAR_FADE_SPEED))!{\alpha&HFF&\t(!charstart!,!charstart+150!,\alpha&H00&)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char style OP1-R layer 10 layer 11 noblank,!set('charend', math.floor(line.duration - (line.width - char.left) / CHAR_FADE_SPEED))!{\t(!charend-150!,!charend!,\alpha&HFF&)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R actor rom layer 10,{\t(!st(0)!,!math.min(st(0.25), st(0)+60)!,0.5,\fscx185\fscy110\3c!gc(4)!)\t(!math.min(st(0.25), st(0)+60)!,!math.min(st(1.25), st(1) + 50)!,1.4,\fscx175\fscy100\3c!gc(3)!)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R t_actor hl,!retime("syl",-50,0)!
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,{=53}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,{=55}
 Comment: 0,0:00:05.28,0:00:05.28,Default,,0,0,0,sync,{OPSync — First hard cut (sunrise shot)}
 Dialogue: 0,0:00:00.49,0:00:04.13,OP1,rom spark,0,0,0,kara,{\k8}{\k25}The {\k40}sky {\k40}Blue {\k52}Ar{\k190}chive{\k9}
 Dialogue: 0,0:00:13.14,0:00:17.35,OP1-R,rom dia,0,0,0,kara,{\k7}{\k8}a{\k15}ta{\k14}ra{\k25}shii {\k14}ke{\k20}shi{\k20}ki {\k18}ga {\k9}mi{\k14}ta{\k25}ku{\k26}te {\k15}ji{\k26}ten{\k28}sha {\k11}wo {\k23}ko{\k18}i{\k73}da{\k12}
 Dialogue: 0,0:00:17.39,0:00:21.58,OP1-R,rom dia,0,0,0,kara,{\k3}{\k14}ta{\k19}da {\k9}o{\k19}na{\k19}ji {\k29}ba{\k11}sho {\k13}de {\k14}to{\k26}ma{\k13}tte{\k26}i{\k21}ru {\k20}hi{\k12}bi {\k14}ka{\k15}ra {\k13}nu{\k14}ke{\k26}dashi{\k65}te{\k4}
-Dialogue: 0,0:00:21.62,0:00:25.77,OP1-R,rom dia,0,0,0,kara,{\k6}{\k12}o{\k15}ku{\k40}jou {\k14}sa{\k25}bo{\k26}tte {\k14}ne{\k13}ko{\k26}ron{\k28}de {\k26}ao{\k14}zo{\k17}ra {\k10}wo {\k9}mi{\k21}o{\k20}ro{\k15}shi{\k55}ta{\k9}
-Dialogue: 0,0:00:25.99,0:00:29.66,OP1-R,rom dia,0,0,0,kara,{\k7}{\k13}ku{\k13}ji{\k27}ra {\k13}mi{\k40}tai {\k26}na {\k14}ku{\k25}mo {\k28}ga {\k13}ka{\k13}ta{\k12}chi {\k29}wo {\k15}ka{\k25}e{\k17}te{\k10}yu{\k23}ku{\k4}
+Dialogue: 0,0:00:21.62,0:00:25.77,OP1-R,rom tri,0,0,0,kara,{\k6}{\k12}o{\k15}ku{\k40}jou {\k14}sa{\k25}bo{\k26}tte {\k14}ne{\k13}ko{\k26}ron{\k28}de {\k26}ao{\k14}zo{\k17}ra {\k10}wo {\k9}mi{\k21}o{\k20}ro{\k15}shi{\k55}ta{\k9}
+Dialogue: 0,0:00:25.99,0:00:29.66,OP1-R,rom tri,0,0,0,kara,{\k7}{\k13}ku{\k13}ji{\k27}ra {\k13}mi{\k40}tai {\k26}na {\k14}ku{\k25}mo {\k28}ga {\k13}ka{\k13}ta{\k12}chi {\k29}wo {\k15}ka{\k25}e{\k17}te{\k10}yu{\k23}ku{\k4}
 Dialogue: 0,0:00:29.70,0:00:33.83,OP1-R,rom dia,0,0,0,kara,{\k5}{\k29}ka{\k28}e{\k25}se{\k27}nai {\k13}ho{\k40}do {\k29}no {\k24}ka{\k14}ko {\k39}wo {\k28}ka{\k25}ka{\k14}e{\k39}ta {\k14}ma{\k19}ma{\k1}
 Dialogue: 0,0:00:33.87,0:00:39.32,OP1-R,rom dia,0,0,0,kara,{\k3}{\k27}su{\k40}na {\k19}da{\k18}ra{\k28}ke {\k37}no {\k23}se{\k23}ka{\k23}i {\k39}de {\k30}wa{\k30}ke{\k15}a{\k31}u {\k20}ju{\k10}u{\k31}su {\k32}no {\k20}a{\k40}ji{\k6}
 Dialogue: 0,0:00:39.56,0:00:43.23,OP1-R,rom dia,0,0,0,kara,{\k4}{\k15}hi{\k14}to{\k15}ri{\k14}ki{\k22}ri {\k10}ja {\k28}ki{\k42}tto{\k37} {\k14}mi{\k28}nna {\k14}ga {\k8}i{\k30}nai {\k12}to {\k24}ki{\k35}tto{\k1}
 Dialogue: 0,0:00:43.27,0:00:47.12,OP1-R,rom dia,0,0,0,kara,{\k3}{\k18}wa{\k17}ra{\k18}u {\k19}ko{\k18}to {\k18}mo {\k17}na{\k17}ku {\k18}ko{\k16}to {\k19}mo {\k17}de{\k29}ki{\k13}na{\k120}i{\k8}
-Dialogue: 0,0:00:47.25,0:00:49.19,OP1-R,rom spark,0,0,0,kara,{\k4}{\k29}un{\k35}mei{\k42}kyou{\k41}dou{\k38}tai{\k5}
+Dialogue: 0,0:00:47.25,0:00:49.19,OP1-R,rom tri,0,0,0,kara,{\k4}{\k29}un{\k35}mei{\k42}kyou{\k41}dou{\k38}tai{\k5}
 Dialogue: 0,0:00:49.32,0:00:53.59,OP1-R,rom spark,0,0,0,kara,{\k4}{\k32}se{\k27}ka{\k27}i{\k39}juu {\k37}no {\k27}ki{\k27}o{\k55}ku {\k23}ga {\k31}i{\k11}tsu{\k83}ka{\k4}
 Dialogue: 0,0:00:53.56,0:00:57.55,OP1-R,rom spark,0,0,0,kara,{\k3}{\k34}su{\k25}na {\k27}no {\k42}you {\k37}ni {\k25}ki{\k30}e{\k52}te{\k27}shi{\k27}ma{\k12}tte {\k44}mo{\k14}
 Dialogue: 0,0:00:57.49,0:01:01.45,OP1-R,rom spark,0,0,0,kara,{\k9}{\k20}so{\k28}ra {\k39}to {\k25}u{\k41}mi {\k64}to {\k17}ka{\k25}ze {\k38}to {\k30}ki{\k38}mi {\k21}ga{\k1}
@@ -279,5 +278,5 @@ Data: 44,_aegi_folddata,e0;0;3
 Data: 45,_aegi_folddata,e1;0;3
 Data: 50,_aegi_folddata,e0;0;4
 Data: 51,_aegi_folddata,e1;0;4
-Data: 52,_aegi_folddata,e0;1;4
-Data: 53,_aegi_folddata,e1;1;4
+Data: 54,_aegi_folddata,e0;1;4
+Data: 55,_aegi_folddata,e1;1;4
