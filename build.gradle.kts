@@ -18,6 +18,10 @@ fun String.isKaraTemplate(): Boolean {
 fun EventLine.isKaraTemplate(): Boolean {
     return this.comment && this.effect.isKaraTemplate()
 }
+// Check if a line is entirely blank (commented, no text, actor, or effect)
+fun EventLine.isBlank(): Boolean {
+    return this.comment && this.text.isEmpty() && this.actor.isEmpty() && this.effect.isEmpty()
+}
 
 subs {
     readProperties("sub.properties")
@@ -58,7 +62,7 @@ subs {
     // Remove ktemplate lines from the final output
     val cleanmerge by task<ASS> {
         from(merge.item())
-        ass { events.lines.removeIf { it.isKaraTemplate() } }
+        ass { events.lines.removeIf { it.isKaraTemplate() or it.isBlank() } }
     }
 
     // Generate chapters from dialogue file
