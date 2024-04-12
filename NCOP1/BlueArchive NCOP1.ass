@@ -68,6 +68,7 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1,longsyl sparkle,0,0,0,template syl style OP
 Comment: 0,0:00:00.00,0:00:00.00,OP1,longsyl dia,0,0,0,template syl style OP1-R noblank actor dia if is_longsyl notext loop dur -1,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,longsyl tri,0,0,0,template syl style OP1-R noblank actor tri if is_longsyl notext loop dur -1,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor longsyl,!maxloop('dur', syl.duration / 100)!!relayer(BASE_LAYER - 1)!
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor longsyl,!set('sstart', (loopctx.state.dur - 1) * 100 + rnd(-30, 30))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor longsyl,!set('angle', ((angle or rnd()) + rnd(0.2,0.8)) * 2 * math.pi)!!set('xdir', math.cos(angle))!!set('ydir', math.sin(angle))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor longsyl,!set('radius', rnd(60,90))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
