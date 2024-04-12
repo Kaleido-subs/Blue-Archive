@@ -25,7 +25,7 @@ Style: OP1 - LightSigns,RoG2サンセリフStd-B,96,&H00FFFFFF,&H00FFFFFF,&H0000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,ncchapter,0,0,0,,{NCOP1}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,-- README --,{=50}Template written for 0x.KaraTemplater. Please contact us over at the Kaleido-subs Discord if you need the effects for different languages!
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,-- README --,{=52}Template written for 0x.KaraTemplater. Please contact us over at the Kaleido-subs Discord if you need the effects for different languages!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function pos_y() return orgline.actor:match('rom alt') and -784 or orgline.actor:match('rom') and -912 or 0; end --meta.res_y - 2*line.styleref.margin_v
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,BPM = 114; BEAT_DUR = 60 * 1000 / BPM; LONG_SYL = BEAT_DUR --quarter notes are long now apparently
@@ -105,15 +105,15 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char style OP1-R layer 10 laye
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R layer 10,{\t(!st(0)!,!math.min(st(0.25), st(0)+60)!,0.5,\fscx185\fscy110\3c!gc(4)!)\t(!math.min(st(0.25), st(0)+60)!,!math.min(st(1.25), st(1) + 50)!,1.4,\fscx175\fscy100\3c!gc(3)!)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R t_actor hl,!retime("syl",-50,0)!
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,{=51}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,{=53}
 Comment: 0,0:00:05.28,0:00:05.28,Default,,0,0,0,sync,{OPSync — First hard cut (sunrise shot)}
 Dialogue: 0,0:00:00.49,0:00:04.13,OP1,rom spark,0,0,0,kara,{\k8}{\k25}The {\k40}sky {\k40}Blue {\k52}Ar{\k190}chive{\k9}
 Dialogue: 0,0:00:13.14,0:00:15.25,OP1-R,rom dia,0,0,0,kara,{\k7}{\k8}a{\k15}ta{\k14}ra{\k25}shii {\k14}ke{\k20}shi{\k20}ki {\k18}ga {\k9}mi{\k14}ta{\k25}ku{\k21}te{\k1}
-Dialogue: 0,0:00:15.25,0:00:17.41,OP1-R,rom dia,0,0,0,kara,{\k4}{\k15}ji{\k26}ten{\k28}sha {\k11}wo {\k23}ko{\k18}i{\k73}da{\k12}
+Dialogue: 0,0:00:15.25,0:00:17.41,OP1-R,rom dia,0,0,0,kara,{\k4}{\k15}ji{\k26}ten{\k28}sha {\k11}wo {\k23}ko{\k18}i{\k79}da{\k12}
 Dialogue: 0,0:00:17.37,0:00:19.71,OP1-R,rom dia,0,0,0,kara,{\k7}{\k14}ta{\k19}da {\k9}o{\k19}na{\k19}ji {\k29}ba{\k11}sho {\k13}de {\k14}to{\k26}ma{\k13}tte{\k26}i{\k12}ru{\k1}
 Dialogue: 0,0:00:19.71,0:00:21.58,OP1-R,rom dia,0,0,0,kara,{\k3}{\k20}hi{\k12}bi {\k14}ka{\k15}ra {\k13}nu{\k14}ke{\k26}dashi{\k65}te{\k4}
 Dialogue: 0,0:00:21.62,0:00:23.75,OP1-R,rom tri,0,0,0,kara,{\k6}{\k12}o{\k15}ku{\k40}jou {\k14}sa{\k25}bo{\k26}tte {\k14}ne{\k13}ko{\k26}ron{\k20}de{\k1}
-Dialogue: 0,0:00:23.75,0:00:25.77,OP1-R,rom tri,0,0,0,kara,{\k6}{\k26}ao{\k14}zo{\k17}ra {\k10}wo {\k9}mi{\k21}o{\k20}ro{\k15}shi{\k55}ta{\k9}
+Dialogue: 0,0:00:23.75,0:00:25.77,OP1-R,rom tri,0,0,0,kara,{\k6}{\k13}a{\k13}o{\k14}zo{\k17}ra {\k10}wo {\k9}mi{\k21}o{\k20}ro{\k15}shi{\k55}ta{\k9}
 Dialogue: 0,0:00:25.99,0:00:28.05,OP1-R,rom tri,0,0,0,kara,{\k7}{\k13}ku{\k13}ji{\k27}ra {\k13}mi{\k40}tai {\k26}na {\k14}ku{\k25}mo {\k28}ga{\k1}
 Dialogue: 0,0:00:28.01,0:00:29.72,OP1-R,rom tri,0,0,0,kara,{\k3}{\k13}ka{\k13}ta{\k12}chi {\k29}wo {\k15}ka{\k25}e{\k17}te{\k10}yu{\k23}ku{\k4}
 Dialogue: 0,0:00:29.70,0:00:33.83,OP1-R,rom dia,0,0,0,kara,{\k5}{\k29}ka{\k28}e{\k25}se{\k27}nai {\k13}ho{\k40}do {\k29}no {\k24}ka{\k14}ko {\k39}wo {\k28}ka{\k25}ka{\k14}e{\k39}ta {\k14}ma{\k19}ma{\k1}
@@ -125,20 +125,20 @@ Dialogue: 0,0:00:43.27,0:00:47.12,OP1-R,rom dia,0,0,0,kara,{\k3}{\k18}wa{\k17}ra
 Dialogue: 0,0:00:47.25,0:00:49.19,OP1-R,rom tri,0,0,0,kara,{\k4}{\k29}un{\k35}mei {\k42}kyou{\k41}dou{\k38}tai{\k5}
 Dialogue: 0,0:00:49.32,0:00:53.59,OP1-R,rom spark,0,0,0,kara,{\k4}{\k32}se{\k27}ka{\k27}i{\k39}juu {\k37}no {\k27}ki{\k27}o{\k55}ku {\k23}ga {\k31}i{\k11}tsu{\k83}ka{\k4}
 Dialogue: 0,0:00:53.49,0:00:57.45,OP1-R,rom spark,0,0,0,kara,{\k11}{\k34}su{\k25}na {\k27}no {\k42}you {\k37}ni {\k25}ki{\k30}e{\k52}te{\k27}shi{\k27}ma{\k12}tte {\k44}mo{\k14}
-Dialogue: 0,0:00:57.49,0:00:59.71,OP1-R,rom spark,0,0,0,kara,{\k9}{\k20}so{\k28}ra {\k39}to {\k25}u{\k41}mi {\k55}to{\k5}
-Dialogue: 0,0:00:59.71,0:01:01.50,OP1-R,rom spark,0,0,0,kara,{\k4}{\k17}ka{\k25}ze {\k38}to {\k30}ki{\k38}mi {\k21}ga{\k1}
-Dialogue: 0,0:01:01.54,0:01:04.00,OP1-R,rom spark,0,0,0,kara,{\k3}{\k34}so{\k28}ko {\k27}ni {\k27}a{\k14}re{\k111}ba{\k4}
-Dialogue: 0,0:01:04.04,0:01:06.32,OP1-R,rom spark,0,0,0,kara,{\k19}{\k16}se{\k16}i{\k41}shun {\k26}wa {\k14}o{\k39}wan{\k48}nai{\k9}
+Dialogue: 0,0:00:57.49,0:00:59.71,OP1-R,rom spark,0,0,0,kara,{\k9}{\k20}{\-ayane}so{\k28}ra {\k39}to {\k25}{\-serika}u{\k41}mi {\k55}to{\k5}
+Dialogue: 0,0:00:59.71,0:01:01.50,OP1-R,rom spark,0,0,0,kara,{\k4}{\k17}{-hoshino}ka{\k25}ze {\k38}to {\k30}{-nonomi}ki{\k38}mi {\k21}ga{\k1}
+Dialogue: 0,0:01:01.54,0:01:04.00,OP1-R,rom spark,0,0,0,kara,{\k3}{\k34}{-shiroko}so{\k28}ko {\k27}ni {\k27}a{\k14}re{\k111}ba{\k4}
+Dialogue: 0,0:01:04.04,0:01:06.32,OP1-R,rom spark,0,0,0,kara,{\k18}{\k18}{\-all}se{\k17}i{\k39}shun {\k26}wa {\k14}o{\k39}wan{\k48}nai{\k9}
 Dialogue: 0,0:01:06.36,0:01:10.56,OP1-R,rom spark,0,0,0,kara,{\k5}{\k26}ma{\k27}mo{\k28}ru {\k39}be{\k39}ki {\k26}ri{\k28}yu{\k52}u {\k25}wa {\k27}i{\k14}tsu{\k68}mo{\k16}
 Dialogue: 0,0:01:10.60,0:01:15.78,OP1-R,rom spark,0,0,0,kara,{\k5}{\k27}tan{\k27}ju{\k26}n{\k40}mei{\k40}kai {\k27}ko{\k26}no {\k53}ba{\k27}sho {\k28}ga {\k12}wa{\k41}ta{\k25}shi {\k25}ta{\k29}chi {\k55}no{\k5}
 Dialogue: 0,0:01:15.93,0:01:23.38,OP1,rom spark,0,0,0,kara,{\k5}{\k27}ta{\k20}tta {\k32}hi{\k28}to{\k25}tsu {\k50}no {\k55}i{\k54}ba{\k52}sho {\k185}da{\k20}ka{\k168}ra{\k24}
 Dialogue: 0,0:00:00.49,0:00:04.13,OP1,eng spark,0,0,0,kara,{\k8}{\k25}The {\k40}sky-{\k40}Blue {\k52}Ar{\k190}chive{\k9}
-Dialogue: 0,0:00:13.14,0:00:15.25,OP1-R,eng dia,0,0,0,kara,{\k7}{\k8}In{\k15}to {\k14}a {\k25}world {\k14}of {\k20}things {\k38}I've {\k23}ne{\k25}ver {\k21}seen{\k1}
-Dialogue: 0,0:00:15.25,0:00:17.41,OP1-R,eng dia,0,0,0,kara,{\k4}{\k15}I {\k26}rode {\k28}onwards {\k11}towards {\k23}the {\k18}un{\k73}known{\k18}
+Dialogue: 0,0:00:13.14,0:00:15.25,OP1-R,eng dia,0,0,0,kara,{\k7}{\k8}In{\k15}to {\k14}a {\k25}world {\k14}of {\k20}vis{\k20}tas {\k18}that {\k9}I've {\k14}ne{\k25}ver {\k21}seen{\k1}
+Dialogue: 0,0:00:15.25,0:00:17.41,OP1-R,eng dia,0,0,0,kara,{\k4}{\k15}I {\k26}rode {\k28}on{\k11}wards {\k23}towards {\k18}the {\k27}un{\k52}known{\k12}
 Dialogue: 0,0:00:17.37,0:00:19.71,OP1-R,eng dia,0,0,0,kara,{\k7}{\k14}I {\k19}had {\k9}to {\k19}break {\k19}a{\k29}way {\k11}from {\k13}the {\k14}un{\k26}chan{\k13}ging {\k26}ae{\k12}ons{\k3}
 Dialogue: 0,0:00:19.71,0:00:21.58,OP1-R,eng dia,0,0,0,kara,{\k3}{\k20}I'd {\k12}spent {\k14}a{\k15}round {\k13}the {\k14}same {\k26}old {\k65}place{\k5}
 Dialogue: 0,0:00:21.62,0:00:23.75,OP1-R,eng tri,0,0,0,kara,{\k6}{\k12}On {\k15}the {\k40}roof, {\k14}I {\k25}chilled {\k26}out {\k14}and {\k13}laid {\k26}a{\k20}round{\k2}
-Dialogue: 0,0:00:23.75,0:00:25.77,OP1-R,eng tri,0,0,0,kara,{\k6}{\k26}Ga{\k31}zing {\k10}at {\k9}the {\k21}blue {\k20}of {\k15}the {\k55}sky{\k9}
+Dialogue: 0,0:00:23.75,0:00:25.77,OP1-R,eng tri,0,0,0,kara,{\k6}{\k26}Ga{\k14}zing {\k17}at {\k10}the {\k30}blue {\k20}of {\k15}the {\k55}sky{\k9}
 Dialogue: 0,0:00:25.99,0:00:28.05,OP1-R,eng tri,0,0,0,kara,{\k7}{\k13}As {\k13}the {\k27}clouds {\k13}swim {\k40}by {\k26}like {\k14}fluf{\k25}fy {\k28}whales{\k0}
 Dialogue: 0,0:00:28.01,0:00:29.72,OP1-R,eng tri,0,0,0,kara,{\k3}{\k13}Tur{\k13}ning {\k12}to {\k29}new {\k40}fan{\k17}tas{\k10}tic {\k23}shapes{\k11}
 Dialogue: 0,0:00:29.70,0:00:33.83,OP1-R,eng dia,0,0,0,kara,{\k5}{\k29}We {\k28}bear {\k25}the {\k27}bur{\k13}den {\k40}of {\k29}a {\k24}dis{\k14}tant {\k39}past {\k28}that {\k25}ne{\k14}ver {\k39}can {\k14}re{\k19}turn{\k1}
@@ -148,13 +148,13 @@ Dialogue: 0,0:00:39.56,0:00:41.23,OP1-R,eng dia,0,0,0,kara,{\k4}{\k15}If {\k14}I
 Dialogue: 0,0:00:41.44,0:00:43.23,OP1-R,eng dia,0,0,0,kara,{\k14}{\k14}If {\k26}I {\k13}di{\k15}dn't {\k25}have {\k11}you {\k29}with {\k31}me{\k1}
 Dialogue: 0,0:00:43.27,0:00:47.12,OP1-R,eng dia,0,0,0,kara,{\k3}{\k18}Lau{\k17}ghing {\k18}and {\k19}cry{\k18}ing {\k18}a{\k17}like {\k17}would {\k18}have {\k16}both {\k19}been {\k17}im{\k29}pos{\k13}si{\k120}ble{\k8}
 Dialogue: 0,0:00:47.25,0:00:49.19,OP1-R,eng tri,0,0,0,kara,{\k4}{\k29}Our {\k35}fates {\k42}are {\k41}as {\k38}one!{\k5}
-Dialogue: 0,0:00:49.32,0:00:53.59,OP1-R,eng spark,0,0,0,kara,{\k4}{\k32}Our {\k27}me{\k27}mo{\k39}ries {\k37}spread {\k27}all {\k27}a{\k55}round {\k23}a{\k31}cross {\k11}the {\k83}world{\k4}
+Dialogue: 0,0:00:49.32,0:00:53.59,OP1-R,eng spark,0,0,0,kara,{\k4}{\k32}The {\k27}mem{\k27}ories {\k39}we {\k37}spread {\k27}far {\k27}and {\k55}wide {\k23}a{\k31}cross {\k11}the {\k83}world{\k4}
 Dialogue: 0,0:00:53.49,0:00:57.45,OP1-R,eng spark,0,0,0,kara,{\k11}{\k34}May {\k25}va{\k27}nish {\k42}like {\k37}sand {\k25}in {\k30}the {\k52}breeze {\k27}in {\k27}days {\k12}to {\k44}come{\k3}
-Dialogue: 0,0:00:57.49,0:00:59.71,OP1-R,eng spark,0,0,0,kara,{\k9}{\k20}But {\k28}as {\k39}long {\k25}as {\k41}I {\k55}know{\k5}
-Dialogue: 0,0:00:59.71,0:01:01.50,OP1-R,eng spark,0,0,0,kara,{\k4}{\k17}Skies {\k25}are {\k38}blue {\k30}and {\k38}winds {\k21}blow{\k6}
-Dialogue: 0,0:01:01.54,0:01:04.00,OP1-R,eng spark,0,0,0,kara,{\k3}{\k34}And {\k28}that {\k27}you're {\k27}here {\k14}with {\k111}me{\k2}
-Dialogue: 0,0:01:04.04,0:01:06.32,OP1-R,eng spark,0,0,0,kara,{\k51}Our {\k41}spring {\k26}will {\k53}live {\k48}on!{\k9}
-Dialogue: 0,0:01:06.36,0:01:10.56,OP1-R,eng spark,0,0,0,kara,We have to protect the life we know
+Dialogue: 0,0:00:57.49,0:00:59.71,OP1-R,eng spark,0,0,0,kara,{\k9}{\k2}{\-ayane}But {\k28}as {\k39}long {\k25}{\-serika}as {\k41}I {\k55}know{\k5}
+Dialogue: 0,0:00:59.71,0:01:01.50,OP1-R,eng spark,0,0,0,kara,{\k4}{\k17}{\-hoshino}Skies {\k25}are {\k38}blue {\k30}{\-nonomi}and {\k38}winds {\k21}blow{\k6}
+Dialogue: 0,0:01:01.54,0:01:04.00,OP1-R,eng spark,0,0,0,kara,{\k3}{\k34}{\-shiroko}And {\k28}that {\k27}you're {\k27}here {\k14}with {\k111}me{\k2}
+Dialogue: 0,0:01:04.04,0:01:06.32,OP1-R,eng spark,0,0,0,kara,{\k18}{\k35}{\-all}Our {\k39}spring {\k26}will {\k53}live {\k48}on!{\k9}
+Dialogue: 0,0:01:06.36,0:01:10.56,OP1-R,eng spark,0,0,0,kara,{\k5}{\k26}We'll {\k27}al{\k28}ways {\k39}be {\k39}there {\k26}to {\k28}pro{\k52}tect {\k25}the {\k27}life {\k14}we {\k68}know{\k16}
 Dialogue: 0,0:01:10.60,0:01:15.78,OP1-R,eng spark,0,0,0,kara,{\k5}{\k27}Our {\k27}pur{\k26}pose {\k40}is {\k40}clear, {\k27}and {\k26}we'll {\k53}stand {\k27}as {\k28}one {\k12}to {\k41}coun{\k25}ter {\k25}a{\k29}ny {\k55}foe{\k5}
 Dialogue: 0,0:01:15.93,0:01:23.38,OP1,eng spark,0,0,0,kara,{\k5}{\k27}Be{\k20}cause {\k32}this {\k28}is {\k25}the {\k50}on{\k55}ly {\k54}place {\k52}where {\k185}we {\k20}be{\k168}long{\k24}
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - LightSigns,,0,0,0,,{=44}-- Signs
@@ -309,5 +309,5 @@ Data: 40,_aegi_folddata,e0;1;2
 Data: 41,_aegi_folddata,e1;1;2
 Data: 44,_aegi_folddata,e0;0;3
 Data: 45,_aegi_folddata,e1;0;3
-Data: 50,_aegi_folddata,e0;0;4
-Data: 51,_aegi_folddata,e1;0;4
+Data: 52,_aegi_folddata,e0;1;4
+Data: 53,_aegi_folddata,e1;1;4
