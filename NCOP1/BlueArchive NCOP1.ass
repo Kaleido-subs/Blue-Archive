@@ -26,6 +26,8 @@ Style: OP1,Atomic,64,&H00FFFFFF,&HB4FFFFFF,&H00FB7502,&H00FFD66B,0,0,0,0,175,100
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:01:29.94,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,ncchapter,0,0,0,,{NCOP1}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,-- README --,Template written for 0x.KaraTemplater. Ask us on Discord if you need the effects for different languages!
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function pos_y() return orgline.actor:match('rom alt') and -784 or orgline.actor:match('rom') and -912 or 0; end --meta.res_y - 2*line.styleref.margin_v
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,BPM = 114; BEAT_DUR = 60 * 1000 / BPM; LONG_SYL = BEAT_DUR --quarter notes are long now apparently
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function is_longsyl() return syl.duration >= LONG_SYL * 0.95 end
@@ -99,6 +101,7 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R actor rom layer 10 layer 11,{\t(!st(0)!,!math.min(st(0.25), st(0)+60)!,0.5,\fscx180\fscy105)\t(!math.min(st(0.25), st(0)+60)!,!st(1)!,1.4,\fscx175\fscy100)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R layer 12 actor rom,{\c!gc(1)!\blur1.5\1a&HFF&\bord0\shad0\t(!math.min(st()+50, st(0.2))!,!st(0.45)!,\1a&H80&)\t(!st(0) + 40!,!st(1) + 50!,\fscx200\fscy140)\t(!st(0.5)!,!st(1) + 50!,0.5,\1a&HFF&)\t(!st(0)!,!math.min(st(0) + 80, st(0.5))!,\c!gc(4)!)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R layer 12 actor eng,!skip()!
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:05.28,0:00:05.28,Default,,0,0,0,sync,{OPSync — First hard cut (sunrise shot)}
 Dialogue: 0,0:00:00.49,0:00:04.13,OP1,rom spark,0,0,0,kara,{\k8}{\k25}The {\k40}sky {\k40}Blue {\k52}Ar{\k190}chive{\k9}
 Dialogue: 0,0:00:13.14,0:00:17.35,OP1-R,rom dia,0,0,0,kara,{\k7}{\k8}a{\k15}ta{\k14}ra{\k25}shii {\k14}ke{\k20}shi{\k20}ki {\k18}ga {\k9}mi{\k14}ta{\k25}ku{\k26}te {\k15}ji{\k26}ten{\k28}sha {\k11}wo {\k23}ko{\k18}i{\k73}da{\k12}
