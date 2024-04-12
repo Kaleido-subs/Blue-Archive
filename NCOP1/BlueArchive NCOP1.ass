@@ -113,14 +113,14 @@ Dialogue: 0,0:00:33.87,0:00:39.32,OP1-R,rom dia,0,0,0,kara,{\k3}{\k27}su{\k40}na
 Dialogue: 0,0:00:39.56,0:00:43.23,OP1-R,rom dia,0,0,0,kara,{\k4}{\k15}hi{\k14}to{\k15}ri{\k14}ki{\k22}ri {\k10}ja {\k28}ki{\k42}tto{\k37} {\k14}mi{\k28}nna {\k14}ga {\k8}i{\k30}nai {\k12}to {\k24}ki{\k35}tto{\k1}
 Dialogue: 0,0:00:43.27,0:00:47.12,OP1-R,rom dia,0,0,0,kara,{\k3}{\k18}wa{\k17}ra{\k18}u {\k19}ko{\k18}to {\k18}mo {\k17}na{\k17}ku {\k18}ko{\k16}to {\k19}mo {\k17}de{\k29}ki{\k13}na{\k120}i{\k8}
 Dialogue: 0,0:00:47.25,0:00:49.19,OP1-R,rom spark,0,0,0,kara,{\k4}{\k29}un{\k35}mei{\k42}kyou{\k41}dou{\k38}tai{\k5}
-Dialogue: 0,0:00:49.32,0:00:53.59,OP1-R,rom spark,0,0,0,kara,{\k4}{\k32}se{\k27}ka{\k27}i{\k39}chuu {\k37}no {\k27}ki{\k27}o{\k55}ku {\k23}ga {\k31}i{\k11}tsu{\k83}ka{\k4}
+Dialogue: 0,0:00:49.32,0:00:53.59,OP1-R,rom spark,0,0,0,kara,{\k4}{\k32}se{\k27}ka{\k27}i{\k39}juu {\k37}no {\k27}ki{\k27}o{\k55}ku {\k23}ga {\k31}i{\k11}tsu{\k83}ka{\k4}
 Dialogue: 0,0:00:53.56,0:00:57.55,OP1-R,rom spark,0,0,0,kara,{\k3}{\k34}su{\k25}na {\k27}no {\k27}yo{\k15}u {\k37}ni {\k25}ki{\k30}e{\k52}te{\k27}shi{\k27}ma{\k12}tte {\k44}mo{\k14}
 Dialogue: 0,0:00:57.49,0:01:01.45,OP1-R,rom spark,0,0,0,kara,{\k9}{\k20}so{\k28}ra {\k39}to {\k25}u{\k41}mi {\k64}to {\k17}ka{\k25}ze {\k38}to {\k30}ki{\k38}mi {\k21}ga{\k1}
 Dialogue: 0,0:01:01.49,0:01:06.32,OP1-R,rom spark,0,0,0,kara,{\k6}{\k34}so{\k28}ko {\k27}ni {\k27}a{\k14}re{\k116}ba{\k24} {\k17}se{\k12}i{\k41}shun {\k26}wa {\k14}o{\k39}wan{\k47}nai{\k11}
 Dialogue: 0,0:01:06.36,0:01:10.56,OP1-R,rom spark,0,0,0,kara,{\k5}{\k26}ma{\k27}mo{\k28}ru {\k39}be{\k39}ki {\k26}ri{\k28}yu{\k52}u {\k25}wa {\k27}i{\k14}tsu{\k68}mo{\k16}
 Dialogue: 0,0:01:10.60,0:01:15.78,OP1-R,rom spark,0,0,0,kara,{\k5}{\k27}tan{\k27}ju{\k26}n{\k40}mei{\k40}kai {\k27}ko{\k26}no {\k53}ba{\k27}sho {\k28}ga {\k12}wa{\k41}ta{\k25}shi {\k25}ta{\k29}chi {\k55}no{\k5}
-Dialogue: 0,0:01:15.93,0:01:23.38,OP1,rom spark,0,0,0,kara,{\k5}{\k27}ta{\k20}tta {\k32}hi{\k28}to{\k25}su {\k50}no {\k55}i{\k54}ba{\k52}sho {\k185}da{\k20}ka{\k168}ra{\k24}
 Dialogue: 0,0:00:05.28,0:00:08.28,OP1,,0,0,0,,
+Dialogue: 0,0:01:15.93,0:01:23.38,OP1,rom spark,0,0,0,kara,{\k5}{\k27}ta{\k20}tta {\k32}hi{\k28}to{\k25}tsu {\k50}no {\k55}i{\k54}ba{\k52}sho {\k185}da{\k20}ka{\k168}ra{\k24}
 Dialogue: 0,0:00:00.00,0:00:02.98,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - LightSigns,,0,0,0,,{=44}-- Signs
 Comment: 0,0:01:19.98,0:01:19.98,OP1 - LightSigns,,0,0,0,,{=0}---- Title
