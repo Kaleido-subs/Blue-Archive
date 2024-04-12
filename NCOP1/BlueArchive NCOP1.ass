@@ -133,21 +133,21 @@ Dialogue: 0,0:01:06.36,0:01:10.56,OP1-R,rom spark,0,0,0,kara,{\k5}{\k26}ma{\k27}
 Dialogue: 0,0:01:10.60,0:01:15.78,OP1-R,rom spark,0,0,0,kara,{\k5}{\k27}tan{\k27}ju{\k26}n{\k40}mei{\k40}kai {\k27}ko{\k26}no {\k53}ba{\k27}sho {\k28}ga {\k12}wa{\k41}ta{\k25}shi {\k25}ta{\k29}chi {\k55}no{\k5}
 Dialogue: 0,0:01:15.93,0:01:23.38,OP1,rom spark,0,0,0,kara,{\k5}{\k27}ta{\k20}tta {\k32}hi{\k28}to{\k25}tsu {\k50}no {\k55}i{\k54}ba{\k52}sho {\k185}da{\k20}ka{\k168}ra{\k24}
 Dialogue: 0,0:00:00.49,0:00:04.13,OP1,eng spark,0,0,0,kara,{\k8}{\k25}The {\k40}sky-{\k40}Blue {\k52}Ar{\k190}chive{\k9}
-Dialogue: 0,0:00:13.14,0:00:15.25,OP1-R,eng spark,0,0,0,kara,{\k7}{\k8}In{\k15}to {\k14}a {\k25}world {\k14}of {\k20}things {\k38}I've {\k23}ne{\k25}ver {\k21}seen{\k1}
-Dialogue: 0,0:00:15.25,0:00:17.41,OP1-R,eng spark,0,0,0,kara,{\k4}{\k15}I {\k26}rode {\k28}onwards {\k11}towards {\k23}the {\k18}un{\k73}known{\k18}
-Dialogue: 0,0:00:17.37,0:00:19.71,OP1-R,eng spark,0,0,0,kara,{\k7}{\k14}I {\k19}had {\k9}to {\k19}break {\k19}a{\k29}way {\k11}from {\k13}the {\k14}un{\k26}chan{\k13}ging {\k26}ae{\k12}ons{\k3}
-Dialogue: 0,0:00:19.71,0:00:21.58,OP1-R,eng spark,0,0,0,kara,{\k3}{\k20}I'd {\k12}spent {\k14}a{\k15}round {\k13}the {\k14}same {\k26}old {\k65}place{\k5}
-Dialogue: 0,0:00:21.62,0:00:23.75,OP1-R,eng spark,0,0,0,kara,{\k6}{\k12}On {\k15}the {\k40}roof, {\k14}I {\k25}chilled {\k26}out {\k14}and {\k13}laid {\k26}a{\k20}round{\k2}
-Dialogue: 0,0:00:23.75,0:00:25.77,OP1-R,eng spark,0,0,0,kara,{\k6}{\k26}Ga{\k31}zing {\k10}at {\k9}the {\k21}blue {\k20}of {\k15}the {\k55}sky{\k9}
-Dialogue: 0,0:00:25.99,0:00:28.05,OP1-R,eng spark,0,0,0,kara,{\k7}{\k13}As {\k13}the {\k27}clouds {\k13}swim {\k40}by {\k26}like {\k14}fluf{\k25}fy {\k28}whales{\k0}
-Dialogue: 0,0:00:28.01,0:00:29.72,OP1-R,eng spark,0,0,0,kara,{\k3}{\k13}Tur{\k13}ning {\k12}to {\k29}new {\k40}fan{\k17}tas{\k10}tic {\k23}shapes{\k11}
-Dialogue: 0,0:00:29.70,0:00:33.83,OP1-R,eng spark,0,0,0,kara,{\k5}{\k29}We {\k28}bear {\k25}the {\k27}bur{\k13}den {\k40}of {\k29}a {\k24}dis{\k14}tant {\k39}past {\k28}that {\k25}ne{\k14}ver {\k39}can {\k14}re{\k19}turn{\k1}
-Dialogue: 0,0:00:33.87,0:00:36.64,OP1-R,eng spark,0,0,0,kara,{\k3}{\k27}But {\k40}in {\k19}this {\k18}world {\k28}that's {\k37}full {\k23}of {\k23}sand {\k23}and {\k36}dust{\k0}
-Dialogue: 0,0:00:36.64,0:00:39.32,OP1-R,eng spark,0,0,0,kara,{\k4}{\k26}We {\k28}still {\k13}can {\k36}find {\k23}the {\k27}time {\k21}to {\k24}share {\k13}a {\k48}drink{\k5}
-Dialogue: 0,0:00:39.56,0:00:41.23,OP1-R,eng spark,0,0,0,kara,{\k4}{\k15}If {\k14}I {\k15}was {\k14}a{\k22}lone {\k10}and {\k28}emp{\k45}ty
-Dialogue: 0,0:00:41.44,0:00:43.23,OP1-R,eng spark,0,0,0,kara,{\k14}{\k14}If {\k26}I {\k13}di{\k15}dn't {\k25}have {\k11}you {\k29}with {\k31}me{\k1}
-Dialogue: 0,0:00:43.27,0:00:47.12,OP1-R,eng spark,0,0,0,kara,{\k3}{\k18}Lau{\k17}ghing {\k18}and {\k19}cry{\k18}ing {\k18}a{\k17}like {\k17}would {\k18}have {\k16}both {\k19}been {\k17}im{\k29}pos{\k13}si{\k120}ble{\k8}
-Dialogue: 0,0:00:47.25,0:00:49.19,OP1-R,eng spark,0,0,0,kara,{\k4}{\k29}Our {\k35}fates {\k42}are {\k41}as {\k38}one!{\k5}
+Dialogue: 0,0:00:13.14,0:00:15.25,OP1-R,eng dia,0,0,0,kara,{\k7}{\k8}In{\k15}to {\k14}a {\k25}world {\k14}of {\k20}things {\k38}I've {\k23}ne{\k25}ver {\k21}seen{\k1}
+Dialogue: 0,0:00:15.25,0:00:17.41,OP1-R,eng dia,0,0,0,kara,{\k4}{\k15}I {\k26}rode {\k28}onwards {\k11}towards {\k23}the {\k18}un{\k73}known{\k18}
+Dialogue: 0,0:00:17.37,0:00:19.71,OP1-R,eng dia,0,0,0,kara,{\k7}{\k14}I {\k19}had {\k9}to {\k19}break {\k19}a{\k29}way {\k11}from {\k13}the {\k14}un{\k26}chan{\k13}ging {\k26}ae{\k12}ons{\k3}
+Dialogue: 0,0:00:19.71,0:00:21.58,OP1-R,eng dia,0,0,0,kara,{\k3}{\k20}I'd {\k12}spent {\k14}a{\k15}round {\k13}the {\k14}same {\k26}old {\k65}place{\k5}
+Dialogue: 0,0:00:21.62,0:00:23.75,OP1-R,eng tri,0,0,0,kara,{\k6}{\k12}On {\k15}the {\k40}roof, {\k14}I {\k25}chilled {\k26}out {\k14}and {\k13}laid {\k26}a{\k20}round{\k2}
+Dialogue: 0,0:00:23.75,0:00:25.77,OP1-R,eng tri,0,0,0,kara,{\k6}{\k26}Ga{\k31}zing {\k10}at {\k9}the {\k21}blue {\k20}of {\k15}the {\k55}sky{\k9}
+Dialogue: 0,0:00:25.99,0:00:28.05,OP1-R,eng tri,0,0,0,kara,{\k7}{\k13}As {\k13}the {\k27}clouds {\k13}swim {\k40}by {\k26}like {\k14}fluf{\k25}fy {\k28}whales{\k0}
+Dialogue: 0,0:00:28.01,0:00:29.72,OP1-R,eng tri,0,0,0,kara,{\k3}{\k13}Tur{\k13}ning {\k12}to {\k29}new {\k40}fan{\k17}tas{\k10}tic {\k23}shapes{\k11}
+Dialogue: 0,0:00:29.70,0:00:33.83,OP1-R,eng dia,0,0,0,kara,{\k5}{\k29}We {\k28}bear {\k25}the {\k27}bur{\k13}den {\k40}of {\k29}a {\k24}dis{\k14}tant {\k39}past {\k28}that {\k25}ne{\k14}ver {\k39}can {\k14}re{\k19}turn{\k1}
+Dialogue: 0,0:00:33.87,0:00:36.64,OP1-R,eng dia,0,0,0,kara,{\k3}{\k27}But {\k40}in {\k19}this {\k18}world {\k28}that's {\k37}full {\k23}of {\k23}sand {\k23}and {\k36}dust{\k0}
+Dialogue: 0,0:00:36.64,0:00:39.32,OP1-R,eng dia,0,0,0,kara,{\k4}{\k26}We {\k28}still {\k13}can {\k36}find {\k23}the {\k27}time {\k21}to {\k24}share {\k13}a {\k48}drink{\k5}
+Dialogue: 0,0:00:39.56,0:00:41.23,OP1-R,eng dia,0,0,0,kara,{\k4}{\k15}If {\k14}I {\k15}was {\k14}a{\k22}lone {\k10}and {\k28}emp{\k45}ty
+Dialogue: 0,0:00:41.44,0:00:43.23,OP1-R,eng dia,0,0,0,kara,{\k14}{\k14}If {\k26}I {\k13}di{\k15}dn't {\k25}have {\k11}you {\k29}with {\k31}me{\k1}
+Dialogue: 0,0:00:43.27,0:00:47.12,OP1-R,eng dia,0,0,0,kara,{\k3}{\k18}Lau{\k17}ghing {\k18}and {\k19}cry{\k18}ing {\k18}a{\k17}like {\k17}would {\k18}have {\k16}both {\k19}been {\k17}im{\k29}pos{\k13}si{\k120}ble{\k8}
+Dialogue: 0,0:00:47.25,0:00:49.19,OP1-R,eng tri,0,0,0,kara,{\k4}{\k29}Our {\k35}fates {\k42}are {\k41}as {\k38}one!{\k5}
 Dialogue: 0,0:00:49.32,0:00:53.59,OP1-R,eng spark,0,0,0,kara,{\k4}{\k32}Our {\k27}me{\k27}mo{\k39}ries {\k37}spread {\k27}all {\k27}a{\k55}round {\k23}a{\k31}cross {\k11}the {\k83}world{\k4}
 Dialogue: 0,0:00:53.49,0:00:57.45,OP1-R,eng spark,0,0,0,kara,{\k11}{\k34}May {\k25}va{\k27}nish {\k42}like {\k37}sand {\k25}in {\k30}the {\k52}breeze {\k27}in {\k27}days {\k12}to {\k44}come{\k3}
 Dialogue: 0,0:00:57.49,0:00:59.71,OP1-R,eng spark,0,0,0,kara,{\k9}{\k20}But {\k28}as {\k39}long {\k25}as {\k41}I {\k55}know{\k5}
