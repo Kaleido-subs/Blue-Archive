@@ -21,3 +21,5 @@
 |                   | petzku                    |
 | Quality Control   | MarioLuigi0404            |
 |                   | petzku                    |
+| Special Thanks    | Phrenapates               |
+
