@@ -327,14 +327,29 @@ Dialogue: 0,0:00:35.68,0:00:35.72,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(7.2
 Dialogue: 0,0:00:35.72,0:00:35.76,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(4.12,6.6)\fscx99.36\fscy99.36\frz0.22\c&HE7D8CB&\blur0.99\p1}m 631 1031 l 686 996 679 984 624 1018
 Dialogue: 0,0:00:35.76,0:00:35.80,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(1.64,3.3)\fscx99.7\fscy99.7\frz0.13\c&HE7D8CB&\blur1\p1}m 631 1031 l 686 996 679 984 624 1018
 Dialogue: 0,0:00:35.80,0:00:35.84,OP1 - LightSigns,,0,0,0,,{=64=65=70}{\an7\pos(0,0)\c&HE7D8CB&\blur1\p1}m 631 1031 l 686 996 679 984 624 1018
-Comment: 0,0:00:52.53,0:00:54.12,OP1 - LightSigns,,0,0,0,,{=127}---- Loan
+Comment: 0,0:00:52.53,0:00:54.12,OP1 - LightSigns,,0,0,0,,{=125}---- Loan
 Dialogue: 4,0:00:53.16,0:00:53.41,OP1 - LightSigns,credits,0,0,0,,{=118}{\an5\move(749.99,154.39,750,101,18,227)\fscx105\fax-0.15\fnFOT-HummingStdEn-B\fs47\b1\c&H724642&\blur0.5\clip\f}紘
 Dialogue: 3,0:00:53.16,0:00:53.41,OP1 - LightSigns,credits,0,0,0,,{=117}{\an5\move(749.99,154.39,750,101,18,227)\fscx105\fax-0.15\fnFOT-HummingStdEn-B\fs47\b1\bord1\3c&HFFFFFF&\blur4\clip}紘
 Dialogue: 4,0:00:53.16,0:00:53.41,OP1 - LightSigns,credits,0,0,0,,{=116}{\an5\move(749.99,197.39,750,144,18,227)\fscx105\fax-0.15\fnFOT-HummingStdEn-B\fs47\b1\c&H724642&\blur0.5\clip\f}唯
 Dialogue: 3,0:00:53.16,0:00:53.41,OP1 - LightSigns,credits,0,0,0,,{=115}{\an5\move(749.99,197.39,750,144,18,227)\fscx105\fax-0.15\fnFOT-HummingStdEn-B\fs47\b1\bord1\3c&HFFFFFF&\blur4\clip}唯
-Dialogue: 2,0:00:53.15,0:00:53.40,OP1 - LightSigns,text,0,0,0,,{\pos(-729,-695)\org(1616,1433)\fscx272.8\fscy272.15\frz-23.856\fry-2.047\frx7.257\fnGaramond\fs160\c&H5D3F4E&\blur0.6\q2}C{\c&H5D404F&}e{\c&H5D4151&}r{\c&H5E4252&}t{\c&H5E4354&}i{\c&H5F4555&}f{\c&H5F4657&}i{\c&H5F4759&}c{\c&H60485A&}a{\c&H60495C&}t{\c&H614B5D&}e {\c&H624D60&}o{\c&H624E62&}f {\c&H635165&}L{\c&H635267&}o{\c&H645368&}a{\c&H64546A&}n{\c&H65566C&}
-Dialogue: 1,0:00:53.15,0:00:53.40,OP1 - LightSigns,text,0,0,0,,{\pos(-725,-694)\org(1616,1433)\fscx272.8\fscy272.15\frz-23.856\fry-2.047\frx7.257\fnGaramond\fs160\c&HEDC357&\blur1\q2}Certificate of Loan
-Dialogue: 1,0:00:53.15,0:00:53.40,OP1 - LightSigns,text,0,0,0,,{\pos(-726,-690)\org(1616,1433)\fscx272.8\fscy272.15\frz-23.856\fry-2.047\frx7.257\fnGaramond\fs160\c&H6485BA&\blur1\q2}Certificate of Loan
+Dialogue: 2,0:00:53.16,0:00:53.20,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-726,-690)\org(1616,1433)\fscx273.923\fscy272.15\frz-23.856\fry-2.047\frx7.257\fnGaramond\fs160\c&H5D3F4E&\blur0.6\q2}L{\c&H5D4050&}o{\c&H5E4252&}a{\c&H5E4354&}n {\c&H5F4758&}A{\c&H60485A&}g{\c&H614A5D&}r{\c&H614C5F&}e{\c&H624D61&}e{\c&H624F63&}m{\c&H635165&}e{\c&H635267&}n{\c&H645469&}t{\c&H65566C&}
+Dialogue: 2,0:00:53.20,0:00:53.24,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-721.393,-682.081)\org(1616,1433)\fscx274.491\fscy272.163\frz-23.733\fry-2.042\frx7.238\fax-0.003\fnGaramond\fs160\c&H5D3F4E&\blur0.6\q2}L{\c&H5D4050&}o{\c&H5E4252&}a{\c&H5E4354&}n {\c&H5F4758&}A{\c&H60485A&}g{\c&H614A5D&}r{\c&H614C5F&}e{\c&H624D61&}e{\c&H624F63&}m{\c&H635165&}e{\c&H635267&}n{\c&H645469&}t{\c&H65566C&}
+Dialogue: 2,0:00:53.24,0:00:53.28,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-717.105,-674.368)\org(1616,1433)\fscx275.047\fscy272.172\frz-23.614\fry-2.036\frx7.22\fax-0.006\fnGaramond\fs160\c&H5D3F4E&\blur0.6\q2}L{\c&H5D4050&}o{\c&H5E4252&}a{\c&H5E4354&}n {\c&H5F4758&}A{\c&H60485A&}g{\c&H614A5D&}r{\c&H614C5F&}e{\c&H624D61&}e{\c&H624F63&}m{\c&H635165&}e{\c&H635267&}n{\c&H645469&}t{\c&H65566C&}
+Dialogue: 2,0:00:53.28,0:00:53.32,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-712.725,-666.607)\org(1616,1433)\fscx275.614\fscy272.187\frz-23.494\fry-2.031\frx7.201\fax-0.008\fnGaramond\fs160\c&H5D3F4E&\blur0.6\q2}L{\c&H5D4050&}o{\c&H5E4252&}a{\c&H5E4354&}n {\c&H5F4758&}A{\c&H60485A&}g{\c&H614A5D&}r{\c&H614C5F&}e{\c&H624D61&}e{\c&H624F63&}m{\c&H635165&}e{\c&H635267&}n{\c&H645469&}t{\c&H65566C&}
+Dialogue: 2,0:00:53.32,0:00:53.37,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-708.415,-658.869)\org(1616,1433)\fscx276.187\fscy272.207\frz-23.374\fry-2.026\frx7.182\fax-0.011\fnGaramond\fs160\c&H5D3F4E&\blur0.6\q2}L{\c&H5D4050&}o{\c&H5E4252&}a{\c&H5E4354&}n {\c&H5F4758&}A{\c&H60485A&}g{\c&H614A5D&}r{\c&H614C5F&}e{\c&H624D61&}e{\c&H624F63&}m{\c&H635165&}e{\c&H635267&}n{\c&H645469&}t{\c&H65566C&}
+Dialogue: 2,0:00:53.37,0:00:53.41,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-704.203,-651.205)\org(1616,1433)\fscx276.756\fscy272.225\frz-23.256\fry-2.02\frx7.163\fax-0.014\fnGaramond\fs160\c&H5D3F4E&\blur0.6\q2}L{\c&H5D4050&}o{\c&H5E4252&}a{\c&H5E4354&}n {\c&H5F4758&}A{\c&H60485A&}g{\c&H614A5D&}r{\c&H614C5F&}e{\c&H624D61&}e{\c&H624F63&}m{\c&H635165&}e{\c&H635267&}n{\c&H645469&}t{\c&H65566C&}
+Dialogue: 1,0:00:53.16,0:00:53.20,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-726,-690)\org(1616,1433)\fscx272.8\fscy272.15\frz-23.856\fry-2.047\frx7.257\fnGaramond\fs160\c&HEDC357&\blur1\q2}Loan Agreement
+Dialogue: 1,0:00:53.20,0:00:53.24,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-721.393,-682.081)\org(1616,1433)\fscx273.366\fscy272.163\frz-23.733\fry-2.042\frx7.238\fax-0.003\fnGaramond\fs160\c&HEDC357&\blur1\q2}Loan Agreement
+Dialogue: 1,0:00:53.24,0:00:53.28,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-717.105,-674.368)\org(1616,1433)\fscx273.92\fscy272.172\frz-23.614\fry-2.036\frx7.22\fax-0.006\fnGaramond\fs160\c&HEDC357&\blur1\q2}Loan Agreement
+Dialogue: 1,0:00:53.28,0:00:53.32,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-712.725,-666.607)\org(1616,1433)\fscx274.484\fscy272.187\frz-23.494\fry-2.031\frx7.201\fax-0.008\fnGaramond\fs160\c&HEDC357&\blur1\q2}Loan Agreement
+Dialogue: 1,0:00:53.32,0:00:53.37,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-708.415,-658.869)\org(1616,1433)\fscx275.055\fscy272.207\frz-23.374\fry-2.026\frx7.182\fax-0.011\fnGaramond\fs160\c&HEDC357&\blur1\q2}Loan Agreement
+Dialogue: 1,0:00:53.37,0:00:53.41,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-704.203,-651.205)\org(1616,1433)\fscx275.622\fscy272.225\frz-23.256\fry-2.02\frx7.163\fax-0.014\fnGaramond\fs160\c&HEDC357&\blur1\q2}Loan Agreement
+Dialogue: 1,0:00:53.16,0:00:53.20,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-726,-690)\org(1616,1433)\fscx272.8\fscy272.15\frz-23.856\fry-2.047\frx7.257\fnGaramond\fs160\c&H6485BA&\blur1\q2}Loan Agreement
+Dialogue: 1,0:00:53.20,0:00:53.24,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-721.393,-682.081)\org(1616,1433)\fscx273.366\fscy272.163\frz-23.733\fry-2.042\frx7.238\fax-0.003\fnGaramond\fs160\c&H6485BA&\blur1\q2}Loan Agreement
+Dialogue: 1,0:00:53.24,0:00:53.28,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-717.105,-674.368)\org(1616,1433)\fscx273.92\fscy272.172\frz-23.614\fry-2.036\frx7.22\fax-0.006\fnGaramond\fs160\c&H6485BA&\blur1\q2}Loan Agreement
+Dialogue: 1,0:00:53.28,0:00:53.32,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-712.725,-666.607)\org(1616,1433)\fscx274.484\fscy272.187\frz-23.494\fry-2.031\frx7.201\fax-0.008\fnGaramond\fs160\c&H6485BA&\blur1\q2}Loan Agreement
+Dialogue: 1,0:00:53.32,0:00:53.37,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-708.415,-658.869)\org(1616,1433)\fscx275.055\fscy272.207\frz-23.374\fry-2.026\frx7.182\fax-0.011\fnGaramond\fs160\c&H6485BA&\blur1\q2}Loan Agreement
+Dialogue: 1,0:00:53.37,0:00:53.41,OP1 - LightSigns,text,0,0,0,,{=30}{\pos(-704.203,-651.205)\org(1616,1433)\fscx275.622\fscy272.225\frz-23.256\fry-2.02\frx7.163\fax-0.014\fnGaramond\fs160\c&H6485BA&\blur1\q2}Loan Agreement
 Dialogue: 0,0:00:53.16,0:00:53.41,OP1 - LightSigns,bg,0,0,0,,{\an7\pos(0,0)\fnGaramond\c&HF8F8F8&\blur10\clip(683,39,1652,75)\p1}m 698 225 l 706 75 759 74 854 52 1640 128 1566 274
 Dialogue: 0,0:00:53.16,0:00:53.41,OP1 - LightSigns,bg,0,0,0,,{\an7\pos(0,0)\fnGaramond\c&HF9F9F9&\blur10\clip(683,75,1652,110)\p1}m 698 225 l 706 75 759 74 854 52 1640 128 1566 274
 Dialogue: 0,0:00:53.16,0:00:53.41,OP1 - LightSigns,bg,0,0,0,,{\an7\pos(0,0)\fnGaramond\c&HFAFAFA&\blur10\clip(683,110,1652,146)\p1}m 698 225 l 706 75 759 74 854 52 1640 128 1566 274
@@ -342,15 +357,139 @@ Dialogue: 0,0:00:53.16,0:00:53.41,OP1 - LightSigns,bg,0,0,0,,{\an7\pos(0,0)\fnGa
 Dialogue: 0,0:00:53.16,0:00:53.41,OP1 - LightSigns,bg,0,0,0,,{\an7\pos(0,0)\fnGaramond\c&HFCFCFC&\blur10\clip(683,181,1652,217)\p1}m 698 225 l 706 75 759 74 854 52 1640 128 1566 274
 Dialogue: 0,0:00:53.16,0:00:53.41,OP1 - LightSigns,bg,0,0,0,,{\an7\pos(0,0)\fnGaramond\c&HFDFDFD&\blur10\clip(683,217,1652,252)\p1}m 698 225 l 706 75 759 74 854 52 1640 128 1566 274
 Dialogue: 0,0:00:53.16,0:00:53.41,OP1 - LightSigns,bg,0,0,0,,{\an7\pos(0,0)\fnGaramond\c&HFEFEFE&\blur10\clip(683,252,1652,287)\p1}m 698 225 l 706 75 759 74 854 52 1640 128 1566 274
-Dialogue: 2,0:00:53.15,0:00:53.40,OP1 - LightSigns,text,0,0,0,,{=105}{\pos(1414.38,401.04)\org(1622.29,1392.98)\fscx265.04\fscy264.41\frz344.8\fry-2.047\frx7.257\fax-0.3\fnGaramond\fs120\c&H897580&\blur0.4\q2}Y{\c&H937D89&}e{\c&H9D8692&}n{\c&HA78F9C&}
-Dialogue: 1,0:00:53.36,0:00:53.40,OP1 - LightSigns,text,0,0,0,,{=104}{\pos(1404,413)\org(1616,1433)\fscx272.8\fscy272.15\frz344.8\fry-2.047\frx7.257\fax-0.3\fnGaramond\fs120\c&HEDC357&\blur1\q2}Yen
-Dialogue: 1,0:00:53.36,0:00:53.40,OP1 - LightSigns,text,0,0,0,,{=103}{\pos(1400,415)\org(1616,1433)\fscx272.8\fscy272.15\frz344.8\fry-2.047\frx7.257\fax-0.3\fnGaramond\fs120\c&H6485BA&\blur1\q2}Yen
+Dialogue: 2,0:00:53.16,0:00:53.20,OP1 - LightSigns,text,0,0,0,,{=44}{\pos(1708.87,699.89)\org(1657.08,621.98)\fscx178.67\fscy129.84\frz-5.57\fry-2.967\frx10.455\fax-0.483\fnGaramond\fs120\c&H897580&\blur0.4\q2}Y{\c&H937D89&}e{\c&H9D8692&}n{\c&HA78F9C&}
+Dialogue: 2,0:00:53.20,0:00:53.24,OP1 - LightSigns,text,0,0,0,,{=44}{\pos(1708.16,703.83)\org(1656.06,625.45)\fscx179.73\fscy130.61\frz-5.57\fry-2.967\frx10.455\fax-0.483\fnGaramond\fs120\c&H897580&\blur0.4\q2}Y{\c&H937D89&}e{\c&H9D8692&}n{\c&HA78F9C&}
+Dialogue: 2,0:00:53.24,0:00:53.28,OP1 - LightSigns,text,0,0,0,,{=44}{\pos(1707.44,707.77)\org(1655.03,628.94)\fscx180.79\fscy131.38\frz-5.57\fry-2.967\frx10.455\fax-0.483\fnGaramond\fs120\c&H897580&\blur0.4\q2}Y{\c&H937D89&}e{\c&H9D8692&}n{\c&HA78F9C&}
+Dialogue: 2,0:00:53.28,0:00:53.32,OP1 - LightSigns,text,0,0,0,,{=44}{\pos(1706.73,711.72)\org(1654.01,632.42)\fscx181.86\fscy132.16\frz-5.57\fry-2.967\frx10.455\fax-0.483\fnGaramond\fs120\c&H897580&\blur0.41\q2}Y{\c&H937D89&}e{\c&H9D8692&}n{\c&HA78F9C&}
+Dialogue: 2,0:00:53.32,0:00:53.37,OP1 - LightSigns,text,0,0,0,,{=44}{\pos(1706.01,715.66)\org(1652.99,635.9)\fscx182.92\fscy132.93\frz-5.57\fry-2.967\frx10.455\fax-0.483\fnGaramond\fs120\c&H897580&\blur0.41\q2}Y{\c&H937D89&}e{\c&H9D8692&}n{\c&HA78F9C&}
+Dialogue: 2,0:00:53.37,0:00:53.41,OP1 - LightSigns,text,0,0,0,,{=44}{\pos(1705.3,719.61)\org(1651.97,639.38)\fscx183.98\fscy133.7\frz-5.57\fry-2.967\frx10.455\fax-0.483\fnGaramond\fs120\c&H897580&\blur0.41\q2}Y{\c&H937D89&}e{\c&H9D8692&}n{\c&HA78F9C&}
+Dialogue: 1,0:00:53.16,0:00:53.20,OP1 - LightSigns,text,0,0,0,,{=30=44}{\pos(1710.07,699.9)\org(1658.32,621.99)\fscx178.75\fscy129.86\frz-5.57\fry-2.966\frx10.453\fax-0.483\fnGaramond\fs120\c&HEDC357&\blur1\q2}Yen
+Dialogue: 1,0:00:53.20,0:00:53.24,OP1 - LightSigns,text,0,0,0,,{=30=44}{\pos(1709.37,703.84)\org(1657.31,625.46)\fscx179.81\fscy130.63\frz-5.57\fry-2.966\frx10.453\fax-0.483\fnGaramond\fs120\c&HEDC357&\blur1.01\q2}Yen
+Dialogue: 1,0:00:53.24,0:00:53.28,OP1 - LightSigns,text,0,0,0,,{=30=44}{\pos(1708.65,707.78)\org(1656.29,628.95)\fscx180.88\fscy131.4\frz-5.57\fry-2.966\frx10.453\fax-0.483\fnGaramond\fs120\c&HEDC357&\blur1.01\q2}Yen
+Dialogue: 1,0:00:53.28,0:00:53.32,OP1 - LightSigns,text,0,0,0,,{=30=44}{\pos(1707.95,711.73)\org(1655.28,632.43)\fscx181.94\fscy132.18\frz-5.57\fry-2.966\frx10.453\fax-0.483\fnGaramond\fs120\c&HEDC357&\blur1.02\q2}Yen
+Dialogue: 1,0:00:53.32,0:00:53.37,OP1 - LightSigns,text,0,0,0,,{=30=44}{\pos(1707.24,715.67)\org(1654.26,635.91)\fscx183\fscy132.95\frz-5.57\fry-2.966\frx10.453\fax-0.483\fnGaramond\fs120\c&HEDC357&\blur1.02\q2}Yen
+Dialogue: 1,0:00:53.37,0:00:53.41,OP1 - LightSigns,text,0,0,0,,{=30=44}{\pos(1706.53,719.62)\org(1653.25,639.39)\fscx184.06\fscy133.72\frz-5.57\fry-2.966\frx10.453\fax-0.483\fnGaramond\fs120\c&HEDC357&\blur1.03\q2}Yen
+Dialogue: 1,0:00:53.16,0:00:53.20,OP1 - LightSigns,text,0,0,0,,{=30=44}{\pos(1707.67,700.33)\org(1655.86,622.4)\fscx178.63\fscy129.88\frz-5.58\fry-2.967\frx10.455\fax-0.483\fnGaramond\fs120\c&H6485BA&\blur1\q2}Yen
+Dialogue: 1,0:00:53.20,0:00:53.24,OP1 - LightSigns,text,0,0,0,,{=30=44}{\pos(1706.95,704.27)\org(1654.84,625.87)\fscx179.69\fscy130.65\frz-5.58\fry-2.967\frx10.455\fax-0.483\fnGaramond\fs120\c&H6485BA&\blur1.01\q2}Yen
+Dialogue: 1,0:00:53.24,0:00:53.28,OP1 - LightSigns,text,0,0,0,,{=30=44}{\pos(1706.23,708.22)\org(1653.8,629.36)\fscx180.75\fscy131.42\frz-5.58\fry-2.967\frx10.455\fax-0.483\fnGaramond\fs120\c&H6485BA&\blur1.01\q2}Yen
+Dialogue: 1,0:00:53.28,0:00:53.32,OP1 - LightSigns,text,0,0,0,,{=30=44}{\pos(1705.51,712.17)\org(1652.77,632.85)\fscx181.82\fscy132.2\frz-5.58\fry-2.967\frx10.455\fax-0.483\fnGaramond\fs120\c&H6485BA&\blur1.02\q2}Yen
+Dialogue: 1,0:00:53.32,0:00:53.37,OP1 - LightSigns,text,0,0,0,,{=30=44}{\pos(1704.79,716.11)\org(1651.74,636.33)\fscx182.88\fscy132.97\frz-5.58\fry-2.967\frx10.455\fax-0.483\fnGaramond\fs120\c&H6485BA&\blur1.02\q2}Yen
+Dialogue: 1,0:00:53.37,0:00:53.41,OP1 - LightSigns,text,0,0,0,,{=30=44}{\pos(1704.06,720.06)\org(1650.71,639.81)\fscx183.94\fscy133.74\frz-5.58\fry-2.967\frx10.455\fax-0.483\fnGaramond\fs120\c&H6485BA&\blur1.03\q2}Yen
 Dialogue: 0,0:00:53.15,0:00:53.19,OP1 - LightSigns,bg,0,0,0,,{=102}{\an7\pos(52.27,0.76)\fscx97.15\fscy97.15\fnGaramond\c&HFEFEFE&\blur6\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691
 Dialogue: 0,0:00:53.19,0:00:53.24,OP1 - LightSigns,bg,0,0,0,,{=102}{\an7\pos(41.51,0.44)\fscx97.75\fscy97.75\fnGaramond\c&HFEFEFE&\blur6\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691
 Dialogue: 0,0:00:53.24,0:00:53.28,OP1 - LightSigns,bg,0,0,0,,{=102}{\an7\pos(31.3,0.43)\fscx98.3\fscy98.3\fnGaramond\c&HFEFEFE&\blur6\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691
 Dialogue: 0,0:00:53.28,0:00:53.32,OP1 - LightSigns,bg,0,0,0,,{=102}{\an7\pos(20.5,0.07)\fscx98.89\fscy98.89\fnGaramond\c&HFEFEFE&\blur6\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691
 Dialogue: 0,0:00:53.32,0:00:53.36,OP1 - LightSigns,bg,0,0,0,,{=102}{\an7\pos(10.11,-0.02)\fscx99.46\fscy99.46\fnGaramond\c&HFEFEFE&\blur6\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691
-Dialogue: 0,0:00:53.36,0:00:53.40,OP1 - LightSigns,bg,0,0,0,,{=102=128}{\an7\pos(0,0)\fnGaramond\c&HFEFEFE&\blur6\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691
+Dialogue: 0,0:00:53.36,0:00:53.40,OP1 - LightSigns,bg,0,0,0,,{=102=126}{\an7\pos(0,0)\fnGaramond\c&HFEFEFE&\blur6\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691
+Comment: 0,0:00:35.85,0:00:35.85,OP1 - LightSigns,,0,0,0,,{=147}---- Desertification Poster
+Dialogue: 1,0:00:35.84,0:00:35.89,OP1 - LightSigns,,0,0,0,,{=146}{\an5\pos(632.77,295.56)\fscx101.12\fscy101.12\frz0.06\fs13\c&HB4BBC9&\1a&H28&\blur0.4}Stopping Desertification Monthly
+Dialogue: 1,0:00:35.89,0:00:35.93,OP1 - LightSigns,,0,0,0,,{=146}{\an5\pos(633.06,295.72)\fscx100.98\fscy100.98\frz0.06\fs13\c&HB4BBC9&\1a&H28&\blur0.4}Stopping Desertification Monthly
+Dialogue: 1,0:00:35.93,0:00:35.97,OP1 - LightSigns,,0,0,0,,{=146}{\an5\pos(633.32,295.98)\fscx100.96\fscy100.96\frz0.05\fs13\c&HB4BBC9&\1a&H28&\blur0.4}Stopping Desertification Monthly
+Dialogue: 1,0:00:35.97,0:00:36.01,OP1 - LightSigns,,0,0,0,,{=146}{\an5\pos(633.67,296.24)\fscx100.86\fscy100.86\frz0.06\fs13\c&HB4BBC9&\1a&H28&\blur0.4}Stopping Desertification Monthly
+Dialogue: 1,0:00:36.01,0:00:36.05,OP1 - LightSigns,,0,0,0,,{=146}{\an5\pos(633.88,296.47)\fscx100.73\fscy100.73\frz0.01\fs13\c&HB4BBC9&\1a&H28&\blur0.4}Stopping Desertification Monthly
+Dialogue: 1,0:00:36.05,0:00:36.09,OP1 - LightSigns,,0,0,0,,{=146}{\an5\pos(634.2,296.71)\fscx100.69\fscy100.69\frz0.02\fs13\c&HB4BBC9&\1a&H28&\blur0.4}Stopping Desertification Monthly
+Dialogue: 1,0:00:36.09,0:00:36.14,OP1 - LightSigns,,0,0,0,,{=146}{\an5\pos(634.5,296.91)\fscx100.53\fscy100.53\frz0.02\fs13\c&HB4BBC9&\1a&H28&\blur0.4}Stopping Desertification Monthly
+Dialogue: 1,0:00:36.14,0:00:36.18,OP1 - LightSigns,,0,0,0,,{=146}{\an5\pos(634.76,297.16)\fscx100.44\fscy100.44\frz-0.01\fs13\c&HB4BBC9&\1a&H28&\blur0.4}Stopping Desertification Monthly
+Dialogue: 1,0:00:36.18,0:00:36.22,OP1 - LightSigns,,0,0,0,,{=146}{\an5\pos(635.02,297.37)\fscx100.39\fscy100.39\frz-0.01\fs13\c&HB4BBC9&\1a&H28&\blur0.4}Stopping Desertification Monthly
+Dialogue: 1,0:00:36.22,0:00:36.26,OP1 - LightSigns,,0,0,0,,{=146}{\an5\pos(635.38,297.63)\fscx100.3\fscy100.3\frz0.01\fs13\c&HB4BBC9&\1a&H28&\blur0.4}Stopping Desertification Monthly
+Dialogue: 1,0:00:36.26,0:00:36.30,OP1 - LightSigns,,0,0,0,,{=146}{\an5\pos(635.65,297.82)\fscx100.11\fscy100.11\frz-0.01\fs13\c&HB4BBC9&\1a&H28&\blur0.4}Stopping Desertification Monthly
+Dialogue: 1,0:00:36.30,0:00:36.34,OP1 - LightSigns,,0,0,0,,{=146}{\an5\pos(636,298)\fs13\c&HB4BBC9&\1a&H28&\blur0.4}Stopping Desertification Monthly
+Dialogue: 0,0:00:35.84,0:00:35.89,OP1 - LightSigns,,0,0,0,,{=145}{\an5\pos(632.26,295.06)\fscx101.12\fscy101.12\frz0.06\fs13\c&HFFD276&\1a&H78&\blur1.01}Stopping Desertification Monthly
+Dialogue: 0,0:00:35.89,0:00:35.93,OP1 - LightSigns,,0,0,0,,{=145}{\an5\pos(632.55,295.22)\fscx100.98\fscy100.98\frz0.06\fs13\c&HFFD276&\1a&H78&\blur1.01}Stopping Desertification Monthly
+Dialogue: 0,0:00:35.93,0:00:35.97,OP1 - LightSigns,,0,0,0,,{=145}{\an5\pos(632.82,295.48)\fscx100.96\fscy100.96\frz0.05\fs13\c&HFFD276&\1a&H78&\blur1.01}Stopping Desertification Monthly
+Dialogue: 0,0:00:35.97,0:00:36.01,OP1 - LightSigns,,0,0,0,,{=145}{\an5\pos(633.17,295.74)\fscx100.86\fscy100.86\frz0.06\fs13\c&HFFD276&\1a&H78&\blur1.01}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.01,0:00:36.05,OP1 - LightSigns,,0,0,0,,{=145}{\an5\pos(633.38,295.97)\fscx100.73\fscy100.73\frz0.01\fs13\c&HFFD276&\1a&H78&\blur1.01}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.05,0:00:36.09,OP1 - LightSigns,,0,0,0,,{=145}{\an5\pos(633.69,296.21)\fscx100.69\fscy100.69\frz0.02\fs13\c&HFFD276&\1a&H78&\blur1.01}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.09,0:00:36.14,OP1 - LightSigns,,0,0,0,,{=145}{\an5\pos(634,296.41)\fscx100.53\fscy100.53\frz0.02\fs13\c&HFFD276&\1a&H78&\blur1.01}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.14,0:00:36.18,OP1 - LightSigns,,0,0,0,,{=145}{\an5\pos(634.26,296.66)\fscx100.44\fscy100.44\frz-0.01\fs13\c&HFFD276&\1a&H78&\blur1}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.18,0:00:36.22,OP1 - LightSigns,,0,0,0,,{=145}{\an5\pos(634.52,296.87)\fscx100.39\fscy100.39\frz-0.01\fs13\c&HFFD276&\1a&H78&\blur1}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.22,0:00:36.26,OP1 - LightSigns,,0,0,0,,{=145}{\an5\pos(634.88,297.13)\fscx100.3\fscy100.3\frz0.01\fs13\c&HFFD276&\1a&H78&\blur1}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.26,0:00:36.30,OP1 - LightSigns,,0,0,0,,{=145}{\an5\pos(635.15,297.32)\fscx100.11\fscy100.11\frz-0.01\fs13\c&HFFD276&\1a&H78&\blur1}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.30,0:00:36.34,OP1 - LightSigns,,0,0,0,,{=145}{\an5\pos(635.5,297.5)\fs13\c&HFFD276&\1a&H78&\blur1}Stopping Desertification Monthly
+Dialogue: 0,0:00:35.84,0:00:35.89,OP1 - LightSigns,,0,0,0,,{=144}{\an5\pos(633.27,296.07)\fscx101.12\fscy101.12\frz0.06\fs13\c&H0C40D3&\1a&H78&\blur1.01}Stopping Desertification Monthly
+Dialogue: 0,0:00:35.89,0:00:35.93,OP1 - LightSigns,,0,0,0,,{=144}{\an5\pos(633.56,296.23)\fscx100.98\fscy100.98\frz0.06\fs13\c&H0C40D3&\1a&H78&\blur1.01}Stopping Desertification Monthly
+Dialogue: 0,0:00:35.93,0:00:35.97,OP1 - LightSigns,,0,0,0,,{=144}{\an5\pos(633.83,296.49)\fscx100.96\fscy100.96\frz0.05\fs13\c&H0C40D3&\1a&H78&\blur1.01}Stopping Desertification Monthly
+Dialogue: 0,0:00:35.97,0:00:36.01,OP1 - LightSigns,,0,0,0,,{=144}{\an5\pos(634.18,296.74)\fscx100.86\fscy100.86\frz0.06\fs13\c&H0C40D3&\1a&H78&\blur1.01}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.01,0:00:36.05,OP1 - LightSigns,,0,0,0,,{=144}{\an5\pos(634.39,296.98)\fscx100.73\fscy100.73\frz0.01\fs13\c&H0C40D3&\1a&H78&\blur1.01}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.05,0:00:36.09,OP1 - LightSigns,,0,0,0,,{=144}{\an5\pos(634.7,297.22)\fscx100.69\fscy100.69\frz0.02\fs13\c&H0C40D3&\1a&H78&\blur1.01}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.09,0:00:36.14,OP1 - LightSigns,,0,0,0,,{=144}{\an5\pos(635.01,297.41)\fscx100.53\fscy100.53\frz0.02\fs13\c&H0C40D3&\1a&H78&\blur1.01}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.14,0:00:36.18,OP1 - LightSigns,,0,0,0,,{=144}{\an5\pos(635.26,297.67)\fscx100.44\fscy100.44\frz-0.01\fs13\c&H0C40D3&\1a&H78&\blur1}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.18,0:00:36.22,OP1 - LightSigns,,0,0,0,,{=144}{\an5\pos(635.53,297.88)\fscx100.39\fscy100.39\frz-0.01\fs13\c&H0C40D3&\1a&H78&\blur1}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.22,0:00:36.26,OP1 - LightSigns,,0,0,0,,{=144}{\an5\pos(635.88,298.13)\fscx100.3\fscy100.3\frz0.01\fs13\c&H0C40D3&\1a&H78&\blur1}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.26,0:00:36.30,OP1 - LightSigns,,0,0,0,,{=144}{\an5\pos(636.15,298.32)\fscx100.11\fscy100.11\frz-0.01\fs13\c&H0C40D3&\1a&H78&\blur1}Stopping Desertification Monthly
+Dialogue: 0,0:00:36.30,0:00:36.34,OP1 - LightSigns,,0,0,0,,{=144}{\an5\pos(636.5,298.5)\fs13\c&H0C40D3&\1a&H78&\blur1}Stopping Desertification Monthly
+Dialogue: 1,0:00:35.84,0:00:35.89,OP1 - LightSigns,,0,0,0,,{=143}{\an5\pos(632.79,316.8)\fscx101.12\fscy101.12\frz0.06\fs18\c&HB4BBC9&\1a&H28&\blur0.4}Just one connection
+Dialogue: 1,0:00:35.89,0:00:35.93,OP1 - LightSigns,,0,0,0,,{=143}{\an5\pos(633.08,316.93)\fscx100.98\fscy100.98\frz0.06\fs18\c&HB4BBC9&\1a&H28&\blur0.4}Just one connection
+Dialogue: 1,0:00:35.93,0:00:35.97,OP1 - LightSigns,,0,0,0,,{=143}{\an5\pos(633.34,317.18)\fscx100.96\fscy100.96\frz0.05\fs18\c&HB4BBC9&\1a&H28&\blur0.4}Just one connection
+Dialogue: 1,0:00:35.97,0:00:36.01,OP1 - LightSigns,,0,0,0,,{=143}{\an5\pos(633.7,317.42)\fscx100.86\fscy100.86\frz0.06\fs18\c&HB4BBC9&\1a&H28&\blur0.4}Just one connection
+Dialogue: 1,0:00:36.01,0:00:36.05,OP1 - LightSigns,,0,0,0,,{=143}{\an5\pos(633.89,317.63)\fscx100.73\fscy100.73\frz0.01\fs18\c&HB4BBC9&\1a&H28&\blur0.4}Just one connection
+Dialogue: 1,0:00:36.05,0:00:36.09,OP1 - LightSigns,,0,0,0,,{=143}{\an5\pos(634.21,317.86)\fscx100.69\fscy100.69\frz0.02\fs18\c&HB4BBC9&\1a&H28&\blur0.4}Just one connection
+Dialogue: 1,0:00:36.09,0:00:36.14,OP1 - LightSigns,,0,0,0,,{=143}{\an5\pos(634.51,318.02)\fscx100.53\fscy100.53\frz0.02\fs18\c&HB4BBC9&\1a&H28&\blur0.4}Just one connection
+Dialogue: 1,0:00:36.14,0:00:36.18,OP1 - LightSigns,,0,0,0,,{=143}{\an5\pos(634.76,318.26)\fscx100.44\fscy100.44\frz-0.01\fs18\c&HB4BBC9&\1a&H28&\blur0.4}Just one connection
+Dialogue: 1,0:00:36.18,0:00:36.22,OP1 - LightSigns,,0,0,0,,{=143}{\an5\pos(635.02,318.46)\fscx100.39\fscy100.39\frz-0.01\fs18\c&HB4BBC9&\1a&H28&\blur0.4}Just one connection
+Dialogue: 1,0:00:36.22,0:00:36.26,OP1 - LightSigns,,0,0,0,,{=143}{\an5\pos(635.39,318.69)\fscx100.3\fscy100.3\frz0.01\fs18\c&HB4BBC9&\1a&H28&\blur0.4}Just one connection
+Dialogue: 1,0:00:36.26,0:00:36.30,OP1 - LightSigns,,0,0,0,,{=143}{\an5\pos(635.65,318.84)\fscx100.11\fscy100.11\frz-0.01\fs18\c&HB4BBC9&\1a&H28&\blur0.4}Just one connection
+Dialogue: 1,0:00:36.30,0:00:36.34,OP1 - LightSigns,,0,0,0,,{=143}{\an5\pos(636,319)\fs18\c&HB4BBC9&\1a&H28&\blur0.4}Just one connection
+Dialogue: 0,0:00:35.84,0:00:35.89,OP1 - LightSigns,,0,0,0,,{=142}{\an5\pos(632.28,316.29)\fscx101.12\fscy101.12\frz0.06\fs18\c&HFFD276&\1a&H78&\blur1.01}Just one connection
+Dialogue: 0,0:00:35.89,0:00:35.93,OP1 - LightSigns,,0,0,0,,{=142}{\an5\pos(632.58,316.43)\fscx100.98\fscy100.98\frz0.06\fs18\c&HFFD276&\1a&H78&\blur1.01}Just one connection
+Dialogue: 0,0:00:35.93,0:00:35.97,OP1 - LightSigns,,0,0,0,,{=142}{\an5\pos(632.84,316.68)\fscx100.96\fscy100.96\frz0.05\fs18\c&HFFD276&\1a&H78&\blur1.01}Just one connection
+Dialogue: 0,0:00:35.97,0:00:36.01,OP1 - LightSigns,,0,0,0,,{=142}{\an5\pos(633.19,316.92)\fscx100.86\fscy100.86\frz0.06\fs18\c&HFFD276&\1a&H78&\blur1.01}Just one connection
+Dialogue: 0,0:00:36.01,0:00:36.05,OP1 - LightSigns,,0,0,0,,{=142}{\an5\pos(633.38,317.12)\fscx100.73\fscy100.73\frz0.01\fs18\c&HFFD276&\1a&H78&\blur1.01}Just one connection
+Dialogue: 0,0:00:36.05,0:00:36.09,OP1 - LightSigns,,0,0,0,,{=142}{\an5\pos(633.7,317.35)\fscx100.69\fscy100.69\frz0.02\fs18\c&HFFD276&\1a&H78&\blur1.01}Just one connection
+Dialogue: 0,0:00:36.09,0:00:36.14,OP1 - LightSigns,,0,0,0,,{=142}{\an5\pos(634.01,317.52)\fscx100.53\fscy100.53\frz0.02\fs18\c&HFFD276&\1a&H78&\blur1.01}Just one connection
+Dialogue: 0,0:00:36.14,0:00:36.18,OP1 - LightSigns,,0,0,0,,{=142}{\an5\pos(634.25,317.76)\fscx100.44\fscy100.44\frz-0.01\fs18\c&HFFD276&\1a&H78&\blur1}Just one connection
+Dialogue: 0,0:00:36.18,0:00:36.22,OP1 - LightSigns,,0,0,0,,{=142}{\an5\pos(634.52,317.95)\fscx100.39\fscy100.39\frz-0.01\fs18\c&HFFD276&\1a&H78&\blur1}Just one connection
+Dialogue: 0,0:00:36.22,0:00:36.26,OP1 - LightSigns,,0,0,0,,{=142}{\an5\pos(634.88,318.19)\fscx100.3\fscy100.3\frz0.01\fs18\c&HFFD276&\1a&H78&\blur1}Just one connection
+Dialogue: 0,0:00:36.26,0:00:36.30,OP1 - LightSigns,,0,0,0,,{=142}{\an5\pos(635.14,318.34)\fscx100.11\fscy100.11\frz-0.01\fs18\c&HFFD276&\1a&H78&\blur1}Just one connection
+Dialogue: 0,0:00:36.30,0:00:36.34,OP1 - LightSigns,,0,0,0,,{=142}{\an5\pos(635.5,318.5)\fs18\c&HFFD276&\1a&H78&\blur1}Just one connection
+Dialogue: 0,0:00:35.84,0:00:35.89,OP1 - LightSigns,,0,0,0,,{=141}{\an5\pos(633.29,317.3)\fscx101.12\fscy101.12\frz0.06\fs18\c&H0C40D3&\1a&H78&\blur1.01}Just one connection
+Dialogue: 0,0:00:35.89,0:00:35.93,OP1 - LightSigns,,0,0,0,,{=141}{\an5\pos(633.59,317.44)\fscx100.98\fscy100.98\frz0.06\fs18\c&H0C40D3&\1a&H78&\blur1.01}Just one connection
+Dialogue: 0,0:00:35.93,0:00:35.97,OP1 - LightSigns,,0,0,0,,{=141}{\an5\pos(633.85,317.69)\fscx100.96\fscy100.96\frz0.05\fs18\c&H0C40D3&\1a&H78&\blur1.01}Just one connection
+Dialogue: 0,0:00:35.97,0:00:36.01,OP1 - LightSigns,,0,0,0,,{=141}{\an5\pos(634.2,317.92)\fscx100.86\fscy100.86\frz0.06\fs18\c&H0C40D3&\1a&H78&\blur1.01}Just one connection
+Dialogue: 0,0:00:36.01,0:00:36.05,OP1 - LightSigns,,0,0,0,,{=141}{\an5\pos(634.39,318.13)\fscx100.73\fscy100.73\frz0.01\fs18\c&H0C40D3&\1a&H78&\blur1.01}Just one connection
+Dialogue: 0,0:00:36.05,0:00:36.09,OP1 - LightSigns,,0,0,0,,{=141}{\an5\pos(634.71,318.36)\fscx100.69\fscy100.69\frz0.02\fs18\c&H0C40D3&\1a&H78&\blur1.01}Just one connection
+Dialogue: 0,0:00:36.09,0:00:36.14,OP1 - LightSigns,,0,0,0,,{=141}{\an5\pos(635.01,318.52)\fscx100.53\fscy100.53\frz0.02\fs18\c&H0C40D3&\1a&H78&\blur1.01}Just one connection
+Dialogue: 0,0:00:36.14,0:00:36.18,OP1 - LightSigns,,0,0,0,,{=141}{\an5\pos(635.26,318.76)\fscx100.44\fscy100.44\frz-0.01\fs18\c&H0C40D3&\1a&H78&\blur1}Just one connection
+Dialogue: 0,0:00:36.18,0:00:36.22,OP1 - LightSigns,,0,0,0,,{=141}{\an5\pos(635.52,318.96)\fscx100.39\fscy100.39\frz-0.01\fs18\c&H0C40D3&\1a&H78&\blur1}Just one connection
+Dialogue: 0,0:00:36.22,0:00:36.26,OP1 - LightSigns,,0,0,0,,{=141}{\an5\pos(635.89,319.2)\fscx100.3\fscy100.3\frz0.01\fs18\c&H0C40D3&\1a&H78&\blur1}Just one connection
+Dialogue: 0,0:00:36.26,0:00:36.30,OP1 - LightSigns,,0,0,0,,{=141}{\an5\pos(636.15,319.34)\fscx100.11\fscy100.11\frz-0.01\fs18\c&H0C40D3&\1a&H78&\blur1}Just one connection
+Dialogue: 0,0:00:36.30,0:00:36.34,OP1 - LightSigns,,0,0,0,,{=141}{\an5\pos(636.5,319.5)\fs18\c&H0C40D3&\1a&H78&\blur1}Just one connection
+Dialogue: 1,0:00:35.84,0:00:35.89,OP1 - LightSigns,,0,0,0,,{=140}{\an5\pos(632.81,333.99)\fscx101.12\fscy101.12\frz0.06\fs18\c&HB4BBC9&\1a&H28&\blur0.4}can link an entire future
+Dialogue: 1,0:00:35.89,0:00:35.93,OP1 - LightSigns,,0,0,0,,{=140}{\an5\pos(633.1,334.1)\fscx100.98\fscy100.98\frz0.06\fs18\c&HB4BBC9&\1a&H28&\blur0.4}can link an entire future
+Dialogue: 1,0:00:35.93,0:00:35.97,OP1 - LightSigns,,0,0,0,,{=140}{\an5\pos(633.35,334.35)\fscx100.96\fscy100.96\frz0.05\fs18\c&HB4BBC9&\1a&H28&\blur0.4}can link an entire future
+Dialogue: 1,0:00:35.97,0:00:36.01,OP1 - LightSigns,,0,0,0,,{=140}{\an5\pos(633.71,334.57)\fscx100.86\fscy100.86\frz0.06\fs18\c&HB4BBC9&\1a&H28&\blur0.4}can link an entire future
+Dialogue: 1,0:00:36.01,0:00:36.05,OP1 - LightSigns,,0,0,0,,{=140}{\an5\pos(633.89,334.75)\fscx100.73\fscy100.73\frz0.01\fs18\c&HB4BBC9&\1a&H28&\blur0.4}can link an entire future
+Dialogue: 1,0:00:36.05,0:00:36.09,OP1 - LightSigns,,0,0,0,,{=140}{\an5\pos(634.21,334.97)\fscx100.69\fscy100.69\frz0.02\fs18\c&HB4BBC9&\1a&H28&\blur0.4}can link an entire future
+Dialogue: 1,0:00:36.09,0:00:36.14,OP1 - LightSigns,,0,0,0,,{=140}{\an5\pos(634.52,335.11)\fscx100.53\fscy100.53\frz0.02\fs18\c&HB4BBC9&\1a&H28&\blur0.4}can link an entire future
+Dialogue: 1,0:00:36.14,0:00:36.18,OP1 - LightSigns,,0,0,0,,{=140}{\an5\pos(634.75,335.33)\fscx100.44\fscy100.44\frz-0.01\fs18\c&HB4BBC9&\1a&H28&\blur0.4}can link an entire future
+Dialogue: 1,0:00:36.18,0:00:36.22,OP1 - LightSigns,,0,0,0,,{=140}{\an5\pos(635.02,335.52)\fscx100.39\fscy100.39\frz-0.01\fs18\c&HB4BBC9&\1a&H28&\blur0.4}can link an entire future
+Dialogue: 1,0:00:36.22,0:00:36.26,OP1 - LightSigns,,0,0,0,,{=140}{\an5\pos(635.39,335.74)\fscx100.3\fscy100.3\frz0.01\fs18\c&HB4BBC9&\1a&H28&\blur0.4}can link an entire future
+Dialogue: 1,0:00:36.26,0:00:36.30,OP1 - LightSigns,,0,0,0,,{=140}{\an5\pos(635.64,335.86)\fscx100.11\fscy100.11\frz-0.01\fs18\c&HB4BBC9&\1a&H28&\blur0.4}can link an entire future
+Dialogue: 1,0:00:36.30,0:00:36.34,OP1 - LightSigns,,0,0,0,,{=140}{\an5\pos(636,336)\fs18\c&HB4BBC9&\1a&H28&\blur0.4}can link an entire future
+Dialogue: 0,0:00:35.84,0:00:35.89,OP1 - LightSigns,,0,0,0,,{=139}{\an5\pos(632.3,333.48)\fscx101.12\fscy101.12\frz0.06\fs18\c&HFFD276&\1a&H78&\blur1.01}can link an entire future
+Dialogue: 0,0:00:35.89,0:00:35.93,OP1 - LightSigns,,0,0,0,,{=139}{\an5\pos(632.59,333.59)\fscx100.98\fscy100.98\frz0.06\fs18\c&HFFD276&\1a&H78&\blur1.01}can link an entire future
+Dialogue: 0,0:00:35.93,0:00:35.97,OP1 - LightSigns,,0,0,0,,{=139}{\an5\pos(632.85,333.84)\fscx100.96\fscy100.96\frz0.05\fs18\c&HFFD276&\1a&H78&\blur1.01}can link an entire future
+Dialogue: 0,0:00:35.97,0:00:36.01,OP1 - LightSigns,,0,0,0,,{=139}{\an5\pos(633.21,334.06)\fscx100.86\fscy100.86\frz0.06\fs18\c&HFFD276&\1a&H78&\blur1.01}can link an entire future
+Dialogue: 0,0:00:36.01,0:00:36.05,OP1 - LightSigns,,0,0,0,,{=139}{\an5\pos(633.39,334.25)\fscx100.73\fscy100.73\frz0.01\fs18\c&HFFD276&\1a&H78&\blur1.01}can link an entire future
+Dialogue: 0,0:00:36.05,0:00:36.09,OP1 - LightSigns,,0,0,0,,{=139}{\an5\pos(633.71,334.47)\fscx100.69\fscy100.69\frz0.02\fs18\c&HFFD276&\1a&H78&\blur1.01}can link an entire future
+Dialogue: 0,0:00:36.09,0:00:36.14,OP1 - LightSigns,,0,0,0,,{=139}{\an5\pos(634.01,334.61)\fscx100.53\fscy100.53\frz0.02\fs18\c&HFFD276&\1a&H78&\blur1.01}can link an entire future
+Dialogue: 0,0:00:36.14,0:00:36.18,OP1 - LightSigns,,0,0,0,,{=139}{\an5\pos(634.25,334.83)\fscx100.44\fscy100.44\frz-0.01\fs18\c&HFFD276&\1a&H78&\blur1}can link an entire future
+Dialogue: 0,0:00:36.18,0:00:36.22,OP1 - LightSigns,,0,0,0,,{=139}{\an5\pos(634.52,335.02)\fscx100.39\fscy100.39\frz-0.01\fs18\c&HFFD276&\1a&H78&\blur1}can link an entire future
+Dialogue: 0,0:00:36.22,0:00:36.26,OP1 - LightSigns,,0,0,0,,{=139}{\an5\pos(634.89,335.24)\fscx100.3\fscy100.3\frz0.01\fs18\c&HFFD276&\1a&H78&\blur1}can link an entire future
+Dialogue: 0,0:00:36.26,0:00:36.30,OP1 - LightSigns,,0,0,0,,{=139}{\an5\pos(635.14,335.36)\fscx100.11\fscy100.11\frz-0.01\fs18\c&HFFD276&\1a&H78&\blur1}can link an entire future
+Dialogue: 0,0:00:36.30,0:00:36.34,OP1 - LightSigns,,0,0,0,,{=139}{\an5\pos(635.5,335.5)\fs18\c&HFFD276&\1a&H78&\blur1}can link an entire future
+Dialogue: 0,0:00:35.84,0:00:35.89,OP1 - LightSigns,,0,0,0,,{=138}{\an5\pos(633.31,334.49)\fscx101.12\fscy101.12\frz0.06\fs18\c&H0C40D3&\1a&H78&\blur1.01}can link an entire future
+Dialogue: 0,0:00:35.89,0:00:35.93,OP1 - LightSigns,,0,0,0,,{=138}{\an5\pos(633.6,334.6)\fscx100.98\fscy100.98\frz0.06\fs18\c&H0C40D3&\1a&H78&\blur1.01}can link an entire future
+Dialogue: 0,0:00:35.93,0:00:35.97,OP1 - LightSigns,,0,0,0,,{=138}{\an5\pos(633.86,334.85)\fscx100.96\fscy100.96\frz0.05\fs18\c&H0C40D3&\1a&H78&\blur1.01}can link an entire future
+Dialogue: 0,0:00:35.97,0:00:36.01,OP1 - LightSigns,,0,0,0,,{=138}{\an5\pos(634.22,335.07)\fscx100.86\fscy100.86\frz0.06\fs18\c&H0C40D3&\1a&H78&\blur1.01}can link an entire future
+Dialogue: 0,0:00:36.01,0:00:36.05,OP1 - LightSigns,,0,0,0,,{=138}{\an5\pos(634.4,335.25)\fscx100.73\fscy100.73\frz0.01\fs18\c&H0C40D3&\1a&H78&\blur1.01}can link an entire future
+Dialogue: 0,0:00:36.05,0:00:36.09,OP1 - LightSigns,,0,0,0,,{=138}{\an5\pos(634.72,335.48)\fscx100.69\fscy100.69\frz0.02\fs18\c&H0C40D3&\1a&H78&\blur1.01}can link an entire future
+Dialogue: 0,0:00:36.09,0:00:36.14,OP1 - LightSigns,,0,0,0,,{=138}{\an5\pos(635.02,335.61)\fscx100.53\fscy100.53\frz0.02\fs18\c&H0C40D3&\1a&H78&\blur1.01}can link an entire future
+Dialogue: 0,0:00:36.14,0:00:36.18,OP1 - LightSigns,,0,0,0,,{=138}{\an5\pos(635.25,335.83)\fscx100.44\fscy100.44\frz-0.01\fs18\c&H0C40D3&\1a&H78&\blur1}can link an entire future
+Dialogue: 0,0:00:36.18,0:00:36.22,OP1 - LightSigns,,0,0,0,,{=138}{\an5\pos(635.52,336.03)\fscx100.39\fscy100.39\frz-0.01\fs18\c&H0C40D3&\1a&H78&\blur1}can link an entire future
+Dialogue: 0,0:00:36.22,0:00:36.26,OP1 - LightSigns,,0,0,0,,{=138}{\an5\pos(635.89,336.25)\fscx100.3\fscy100.3\frz0.01\fs18\c&H0C40D3&\1a&H78&\blur1}can link an entire future
+Dialogue: 0,0:00:36.26,0:00:36.30,OP1 - LightSigns,,0,0,0,,{=138}{\an5\pos(636.14,336.36)\fscx100.11\fscy100.11\frz-0.01\fs18\c&H0C40D3&\1a&H78&\blur1}can link an entire future
+Dialogue: 0,0:00:36.30,0:00:36.34,OP1 - LightSigns,,0,0,0,,{=138=148}{\an5\pos(636.5,336.5)\fs18\c&H0C40D3&\1a&H78&\blur1}can link an entire future
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - LightSigns,,0,0,0,,{=45}-- Signs
 Dialogue: 0,0:01:22.52,0:01:25.52,OP1 - LightSigns,,0,0,0,,
 
@@ -382,19 +521,20 @@ Data: 68,_aegi_folddata,e1;1;5
 Data: 69,_aegi_folddata,e0;1;6
 Data: 70,_aegi_folddata,e1;1;6
 Data: 102,a-mo,e{"originalText"#3A"{\\an7\\pos(0#2C0)\\fnGaramond\\c&HFEFEFE&\\blur6\\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691"#2C"uuid"#3A"92434e70-a56a-410e-af09-2e4b908ab2dc"}
-Data: 103,a-mo,e{"originalText"#3A"{\\pos(1400#2C415)\\org(1616#2C1433)\\fscx272.8\\fscy272.15\\frz344.8\\fry-2.047\\frx7.257\\fax-0.3\\fnGaramond\\fs120\\c&H6485BA&\\blur1\\q2}Yen"#2C"uuid"#3A"2329d9d7-97c6-479e-8f8a-a28dfdaa1e28"}
-Data: 104,a-mo,e{"originalText"#3A"{\\pos(1404#2C413)\\org(1616#2C1433)\\fscx272.8\\fscy272.15\\frz344.8\\fry-2.047\\frx7.257\\fax-0.3\\fnGaramond\\fs120\\c&HEDC357&\\blur1\\q2}Yen"#2C"uuid"#3A"e8e6a958-592c-455d-a5dc-ca3af72f7c4f"}
-Data: 105,a-mo,e{"originalText"#3A"{\\pos(1402#2C412)\\org(1616#2C1433)\\fscx272.8\\fscy272.15\\frz344.8\\fry-2.047\\frx7.257\\fax-0.3\\fnGaramond\\fs120\\c&H897580&\\blur0.4\\q2}Y{\\c&H937D89&}e{\\c&H9D8692&}n{\\c&HA78F9C&}"#2C"uuid"#3A"0e83dca5-b5e2-4929-8abc-a1d238136d64"}
-Data: 112,a-mo,e{"originalText"#3A"{\\pos(-726#2C-690)\\org(1616#2C1433)\\fscx272.8\\fscy272.15\\frz-23.856\\fry-2.047\\frx7.257\\fnGaramond\\fs160\\c&H6485BA&\\blur1\\q2}Certificate of Loan"#2C"uuid"#3A"6de48f23-6018-4d35-9da1-28b4b42e4d64"}
-Data: 113,a-mo,e{"originalText"#3A"{\\pos(-725#2C-694)\\org(1616#2C1433)\\fscx272.8\\fscy272.15\\frz-23.856\\fry-2.047\\frx7.257\\fnGaramond\\fs160\\c&HEDC357&\\blur1\\q2}Certificate of Loan"#2C"uuid"#3A"c8b326fd-d871-4ff7-bed5-811e584a1ac0"}
-Data: 114,a-mo,e{"originalText"#3A"{\\pos(-729#2C-695)\\org(1616#2C1433)\\fscx272.8\\fscy272.15\\frz-23.856\\fry-2.047\\frx7.257\\fnGaramond\\fs160\\c&H5D3F4E&\\blur0.6\\q2}C{\\c&H5D404F&}e{\\c&H5D4151&}r{\\c&H5E4252&}t{\\c&H5E4354&}i{\\c&H5F4555&}f{\\c&H5F4657&}i{\\c&H5F4759&}c{\\c&H60485A&}a{\\c&H60495C&}t{\\c&H614B5D&}e {\\c&H624D60&}o{\\c&H624E62&}f {\\c&H635165&}L{\\c&H635267&}o{\\c&H645368&}a{\\c&H64546A&}n{\\c&H65566C&}"#2C"uuid"#3A"18081c6d-bd24-4dfd-9e5d-fd16337bfbca"}
 Data: 115,a-mo,e{"originalText"#3A"{\\an5\\pos(750#2C144)\\fscx105\\fax-0.15\\fnFOT-HummingStdEn-B\\fs47\\b1\\bord1\\3c&HFFFFFF&\\blur4}#E5#94#AF"#2C"uuid"#3A"ba5fa3e3-a0bd-4b89-a42e-d126f8d46722"}
 Data: 116,a-mo,e{"originalText"#3A"{\\an5\\pos(750#2C144)\\fscx105\\fax-0.15\\fnFOT-HummingStdEn-B\\fs47\\b1\\c&H724642&\\blur0.5\\f}#E5#94#AF"#2C"uuid"#3A"29b70338-a653-44f4-bdbf-6d5f33f5e1df"}
 Data: 117,a-mo,e{"originalText"#3A"{\\an5\\pos(750#2C101)\\fscx105\\fax-0.15\\fnFOT-HummingStdEn-B\\fs47\\b1\\bord1\\3c&HFFFFFF&\\blur4}#E7#B4#98"#2C"uuid"#3A"91e300cd-3abf-4b53-9873-ad0a8fd32d85"}
 Data: 118,a-mo,e{"originalText"#3A"{\\an5\\pos(750#2C101)\\fscx105\\fax-0.15\\fnFOT-HummingStdEn-B\\fs47\\b1\\c&H724642&\\blur0.5\\f}#E7#B4#98"#2C"uuid"#3A"af543b2a-27ce-4118-aa18-cf6dc04c4fc2"}
 Data: 125,_aegi_folddata,e0;1;7
 Data: 126,_aegi_folddata,e1;1;7
-Data: 127,_aegi_folddata,e0;0;7
-Data: 128,_aegi_folddata,e1;0;7
-Data: 129,_aegi_folddata,e0;0;5
-Data: 130,_aegi_folddata,e1;0;5
+Data: 138,a-mo,e{"originalText"#3A"{\\an5\\pos(636.5#2C336.5)\\fs18\\c&H0C40D3&\\1a&H78&\\blur1}can link an entire future"#2C"uuid"#3A"cb2b5dc1-886d-4462-a163-fe7dca8e250b"}
+Data: 139,a-mo,e{"originalText"#3A"{\\an5\\pos(635.5#2C335.5)\\fs18\\c&HFFD276&\\1a&H78&\\blur1}can link an entire future"#2C"uuid"#3A"3446f046-8e2e-4d66-9b2f-875ff34e1a94"}
+Data: 140,a-mo,e{"originalText"#3A"{\\an5\\pos(636#2C336)\\fs18\\c&HB4BBC9&\\blur0.4\\1a&H28&}can link an entire future"#2C"uuid"#3A"93530578-054d-4380-b5fc-748038eee92d"}
+Data: 141,a-mo,e{"originalText"#3A"{\\an5\\pos(636.5#2C319.5)\\fs18\\c&H0C40D3&\\1a&H78&\\blur1}Just one connection"#2C"uuid"#3A"8ec3cc5d-f703-4e5c-b296-d569c7776385"}
+Data: 142,a-mo,e{"originalText"#3A"{\\an5\\pos(635.5#2C318.5)\\fs18\\c&HFFD276&\\1a&H78&\\blur1}Just one connection"#2C"uuid"#3A"479289ce-3ad9-40f3-986f-6305251c5048"}
+Data: 143,a-mo,e{"originalText"#3A"{\\an5\\pos(636#2C319)\\fs18\\c&HB4BBC9&\\blur0.4\\1a&H28&}Just one connection"#2C"uuid"#3A"4c38f437-d956-4982-847d-29a657bb76f2"}
+Data: 144,a-mo,e{"originalText"#3A"{\\an5\\pos(636.5#2C298.5)\\fs13\\c&H0C40D3&\\1a&H78&\\blur1}Stopping Desertification Monthly"#2C"uuid"#3A"8e42db1b-51b3-493a-99fe-a73fb5cc6989"}
+Data: 145,a-mo,e{"originalText"#3A"{\\an5\\pos(635.5#2C297.5)\\fs13\\c&HFFD276&\\1a&H78&\\blur1}Stopping Desertification Monthly"#2C"uuid"#3A"7ac249c3-05f2-428a-8b4e-1d69fafa0b2e"}
+Data: 146,a-mo,e{"originalText"#3A"{\\an5\\pos(636#2C298)\\fs13\\c&HB4BBC9&\\blur0.4\\1a&H28&}Stopping Desertification Monthly"#2C"uuid"#3A"7fda1be3-74af-4897-b4f4-35506cb28239"}
+Data: 147,_aegi_folddata,e0;1;8
+Data: 148,_aegi_folddata,e1;1;8
