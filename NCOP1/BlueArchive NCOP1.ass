@@ -327,6 +327,30 @@ Dialogue: 0,0:00:35.68,0:00:35.72,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(7.2
 Dialogue: 0,0:00:35.72,0:00:35.76,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(4.12,6.6)\fscx99.36\fscy99.36\frz0.22\c&HE7D8CB&\blur0.99\p1}m 631 1031 l 686 996 679 984 624 1018
 Dialogue: 0,0:00:35.76,0:00:35.80,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(1.64,3.3)\fscx99.7\fscy99.7\frz0.13\c&HE7D8CB&\blur1\p1}m 631 1031 l 686 996 679 984 624 1018
 Dialogue: 0,0:00:35.80,0:00:35.84,OP1 - LightSigns,,0,0,0,,{=64=65=70}{\an7\pos(0,0)\c&HE7D8CB&\blur1\p1}m 631 1031 l 686 996 679 984 624 1018
+Comment: 0,0:00:52.53,0:00:54.12,OP1 - LightSigns,,0,0,0,,{=127}---- Loan
+Dialogue: 4,0:00:53.16,0:00:53.41,OP1 - LightSigns,credits,0,0,0,,{=118}{\an5\move(749.99,154.39,750,101,18,227)\fscx105\fax-0.15\fnFOT-HummingStdEn-B\fs47\b1\c&H724642&\blur0.5\clip\f}紘
+Dialogue: 3,0:00:53.16,0:00:53.41,OP1 - LightSigns,credits,0,0,0,,{=117}{\an5\move(749.99,154.39,750,101,18,227)\fscx105\fax-0.15\fnFOT-HummingStdEn-B\fs47\b1\bord1\3c&HFFFFFF&\blur4\clip}紘
+Dialogue: 4,0:00:53.16,0:00:53.41,OP1 - LightSigns,credits,0,0,0,,{=116}{\an5\move(749.99,197.39,750,144,18,227)\fscx105\fax-0.15\fnFOT-HummingStdEn-B\fs47\b1\c&H724642&\blur0.5\clip\f}唯
+Dialogue: 3,0:00:53.16,0:00:53.41,OP1 - LightSigns,credits,0,0,0,,{=115}{\an5\move(749.99,197.39,750,144,18,227)\fscx105\fax-0.15\fnFOT-HummingStdEn-B\fs47\b1\bord1\3c&HFFFFFF&\blur4\clip}唯
+Dialogue: 2,0:00:53.15,0:00:53.40,OP1 - LightSigns,text,0,0,0,,{\pos(-729,-695)\org(1616,1433)\fscx272.8\fscy272.15\frz-23.856\fry-2.047\frx7.257\fnGaramond\fs160\c&H5D3F4E&\blur0.6\q2}C{\c&H5D404F&}e{\c&H5D4151&}r{\c&H5E4252&}t{\c&H5E4354&}i{\c&H5F4555&}f{\c&H5F4657&}i{\c&H5F4759&}c{\c&H60485A&}a{\c&H60495C&}t{\c&H614B5D&}e {\c&H624D60&}o{\c&H624E62&}f {\c&H635165&}L{\c&H635267&}o{\c&H645368&}a{\c&H64546A&}n{\c&H65566C&}
+Dialogue: 1,0:00:53.15,0:00:53.40,OP1 - LightSigns,text,0,0,0,,{\pos(-725,-694)\org(1616,1433)\fscx272.8\fscy272.15\frz-23.856\fry-2.047\frx7.257\fnGaramond\fs160\c&HEDC357&\blur1\q2}Certificate of Loan
+Dialogue: 1,0:00:53.15,0:00:53.40,OP1 - LightSigns,text,0,0,0,,{\pos(-726,-690)\org(1616,1433)\fscx272.8\fscy272.15\frz-23.856\fry-2.047\frx7.257\fnGaramond\fs160\c&H6485BA&\blur1\q2}Certificate of Loan
+Dialogue: 0,0:00:53.16,0:00:53.41,OP1 - LightSigns,bg,0,0,0,,{\an7\pos(0,0)\fnGaramond\c&HF8F8F8&\blur10\clip(683,39,1652,75)\p1}m 698 225 l 706 75 759 74 854 52 1640 128 1566 274
+Dialogue: 0,0:00:53.16,0:00:53.41,OP1 - LightSigns,bg,0,0,0,,{\an7\pos(0,0)\fnGaramond\c&HF9F9F9&\blur10\clip(683,75,1652,110)\p1}m 698 225 l 706 75 759 74 854 52 1640 128 1566 274
+Dialogue: 0,0:00:53.16,0:00:53.41,OP1 - LightSigns,bg,0,0,0,,{\an7\pos(0,0)\fnGaramond\c&HFAFAFA&\blur10\clip(683,110,1652,146)\p1}m 698 225 l 706 75 759 74 854 52 1640 128 1566 274
+Dialogue: 0,0:00:53.16,0:00:53.41,OP1 - LightSigns,bg,0,0,0,,{\an7\pos(0,0)\fnGaramond\c&HFBFBFB&\blur10\clip(683,146,1652,181)\p1}m 698 225 l 706 75 759 74 854 52 1640 128 1566 274
+Dialogue: 0,0:00:53.16,0:00:53.41,OP1 - LightSigns,bg,0,0,0,,{\an7\pos(0,0)\fnGaramond\c&HFCFCFC&\blur10\clip(683,181,1652,217)\p1}m 698 225 l 706 75 759 74 854 52 1640 128 1566 274
+Dialogue: 0,0:00:53.16,0:00:53.41,OP1 - LightSigns,bg,0,0,0,,{\an7\pos(0,0)\fnGaramond\c&HFDFDFD&\blur10\clip(683,217,1652,252)\p1}m 698 225 l 706 75 759 74 854 52 1640 128 1566 274
+Dialogue: 0,0:00:53.16,0:00:53.41,OP1 - LightSigns,bg,0,0,0,,{\an7\pos(0,0)\fnGaramond\c&HFEFEFE&\blur10\clip(683,252,1652,287)\p1}m 698 225 l 706 75 759 74 854 52 1640 128 1566 274
+Dialogue: 2,0:00:53.15,0:00:53.40,OP1 - LightSigns,text,0,0,0,,{=105}{\pos(1414.38,401.04)\org(1622.29,1392.98)\fscx265.04\fscy264.41\frz344.8\fry-2.047\frx7.257\fax-0.3\fnGaramond\fs120\c&H897580&\blur0.4\q2}Y{\c&H937D89&}e{\c&H9D8692&}n{\c&HA78F9C&}
+Dialogue: 1,0:00:53.36,0:00:53.40,OP1 - LightSigns,text,0,0,0,,{=104}{\pos(1404,413)\org(1616,1433)\fscx272.8\fscy272.15\frz344.8\fry-2.047\frx7.257\fax-0.3\fnGaramond\fs120\c&HEDC357&\blur1\q2}Yen
+Dialogue: 1,0:00:53.36,0:00:53.40,OP1 - LightSigns,text,0,0,0,,{=103}{\pos(1400,415)\org(1616,1433)\fscx272.8\fscy272.15\frz344.8\fry-2.047\frx7.257\fax-0.3\fnGaramond\fs120\c&H6485BA&\blur1\q2}Yen
+Dialogue: 0,0:00:53.15,0:00:53.19,OP1 - LightSigns,bg,0,0,0,,{=102}{\an7\pos(52.27,0.76)\fscx97.15\fscy97.15\fnGaramond\c&HFEFEFE&\blur6\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691
+Dialogue: 0,0:00:53.19,0:00:53.24,OP1 - LightSigns,bg,0,0,0,,{=102}{\an7\pos(41.51,0.44)\fscx97.75\fscy97.75\fnGaramond\c&HFEFEFE&\blur6\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691
+Dialogue: 0,0:00:53.24,0:00:53.28,OP1 - LightSigns,bg,0,0,0,,{=102}{\an7\pos(31.3,0.43)\fscx98.3\fscy98.3\fnGaramond\c&HFEFEFE&\blur6\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691
+Dialogue: 0,0:00:53.28,0:00:53.32,OP1 - LightSigns,bg,0,0,0,,{=102}{\an7\pos(20.5,0.07)\fscx98.89\fscy98.89\fnGaramond\c&HFEFEFE&\blur6\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691
+Dialogue: 0,0:00:53.32,0:00:53.36,OP1 - LightSigns,bg,0,0,0,,{=102}{\an7\pos(10.11,-0.02)\fscx99.46\fscy99.46\fnGaramond\c&HFEFEFE&\blur6\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691
+Dialogue: 0,0:00:53.36,0:00:53.40,OP1 - LightSigns,bg,0,0,0,,{=102=128}{\an7\pos(0,0)\fnGaramond\c&HFEFEFE&\blur6\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - LightSigns,,0,0,0,,{=45}-- Signs
 Dialogue: 0,0:01:22.52,0:01:25.52,OP1 - LightSigns,,0,0,0,,
 
@@ -357,3 +381,18 @@ Data: 67,_aegi_folddata,e0;1;5
 Data: 68,_aegi_folddata,e1;1;5
 Data: 69,_aegi_folddata,e0;1;6
 Data: 70,_aegi_folddata,e1;1;6
+Data: 102,a-mo,e{"originalText"#3A"{\\an7\\pos(0#2C0)\\fnGaramond\\c&HFEFEFE&\\blur6\\p1}m 1535 560 l 1695 588 1825 593 1875 629 1832 734 1437 691"#2C"uuid"#3A"92434e70-a56a-410e-af09-2e4b908ab2dc"}
+Data: 103,a-mo,e{"originalText"#3A"{\\pos(1400#2C415)\\org(1616#2C1433)\\fscx272.8\\fscy272.15\\frz344.8\\fry-2.047\\frx7.257\\fax-0.3\\fnGaramond\\fs120\\c&H6485BA&\\blur1\\q2}Yen"#2C"uuid"#3A"2329d9d7-97c6-479e-8f8a-a28dfdaa1e28"}
+Data: 104,a-mo,e{"originalText"#3A"{\\pos(1404#2C413)\\org(1616#2C1433)\\fscx272.8\\fscy272.15\\frz344.8\\fry-2.047\\frx7.257\\fax-0.3\\fnGaramond\\fs120\\c&HEDC357&\\blur1\\q2}Yen"#2C"uuid"#3A"e8e6a958-592c-455d-a5dc-ca3af72f7c4f"}
+Data: 105,a-mo,e{"originalText"#3A"{\\pos(1402#2C412)\\org(1616#2C1433)\\fscx272.8\\fscy272.15\\frz344.8\\fry-2.047\\frx7.257\\fax-0.3\\fnGaramond\\fs120\\c&H897580&\\blur0.4\\q2}Y{\\c&H937D89&}e{\\c&H9D8692&}n{\\c&HA78F9C&}"#2C"uuid"#3A"0e83dca5-b5e2-4929-8abc-a1d238136d64"}
+Data: 112,a-mo,e{"originalText"#3A"{\\pos(-726#2C-690)\\org(1616#2C1433)\\fscx272.8\\fscy272.15\\frz-23.856\\fry-2.047\\frx7.257\\fnGaramond\\fs160\\c&H6485BA&\\blur1\\q2}Certificate of Loan"#2C"uuid"#3A"6de48f23-6018-4d35-9da1-28b4b42e4d64"}
+Data: 113,a-mo,e{"originalText"#3A"{\\pos(-725#2C-694)\\org(1616#2C1433)\\fscx272.8\\fscy272.15\\frz-23.856\\fry-2.047\\frx7.257\\fnGaramond\\fs160\\c&HEDC357&\\blur1\\q2}Certificate of Loan"#2C"uuid"#3A"c8b326fd-d871-4ff7-bed5-811e584a1ac0"}
+Data: 114,a-mo,e{"originalText"#3A"{\\pos(-729#2C-695)\\org(1616#2C1433)\\fscx272.8\\fscy272.15\\frz-23.856\\fry-2.047\\frx7.257\\fnGaramond\\fs160\\c&H5D3F4E&\\blur0.6\\q2}C{\\c&H5D404F&}e{\\c&H5D4151&}r{\\c&H5E4252&}t{\\c&H5E4354&}i{\\c&H5F4555&}f{\\c&H5F4657&}i{\\c&H5F4759&}c{\\c&H60485A&}a{\\c&H60495C&}t{\\c&H614B5D&}e {\\c&H624D60&}o{\\c&H624E62&}f {\\c&H635165&}L{\\c&H635267&}o{\\c&H645368&}a{\\c&H64546A&}n{\\c&H65566C&}"#2C"uuid"#3A"18081c6d-bd24-4dfd-9e5d-fd16337bfbca"}
+Data: 115,a-mo,e{"originalText"#3A"{\\an5\\pos(750#2C144)\\fscx105\\fax-0.15\\fnFOT-HummingStdEn-B\\fs47\\b1\\bord1\\3c&HFFFFFF&\\blur4}#E5#94#AF"#2C"uuid"#3A"ba5fa3e3-a0bd-4b89-a42e-d126f8d46722"}
+Data: 116,a-mo,e{"originalText"#3A"{\\an5\\pos(750#2C144)\\fscx105\\fax-0.15\\fnFOT-HummingStdEn-B\\fs47\\b1\\c&H724642&\\blur0.5\\f}#E5#94#AF"#2C"uuid"#3A"29b70338-a653-44f4-bdbf-6d5f33f5e1df"}
+Data: 117,a-mo,e{"originalText"#3A"{\\an5\\pos(750#2C101)\\fscx105\\fax-0.15\\fnFOT-HummingStdEn-B\\fs47\\b1\\bord1\\3c&HFFFFFF&\\blur4}#E7#B4#98"#2C"uuid"#3A"91e300cd-3abf-4b53-9873-ad0a8fd32d85"}
+Data: 118,a-mo,e{"originalText"#3A"{\\an5\\pos(750#2C101)\\fscx105\\fax-0.15\\fnFOT-HummingStdEn-B\\fs47\\b1\\c&H724642&\\blur0.5\\f}#E7#B4#98"#2C"uuid"#3A"af543b2a-27ce-4118-aa18-cf6dc04c4fc2"}
+Data: 125,_aegi_folddata,e0;1;7
+Data: 126,_aegi_folddata,e1;1;7
+Data: 127,_aegi_folddata,e0;0;7
+Data: 128,_aegi_folddata,e1;0;7
