@@ -150,7 +150,7 @@ Dialogue: 0,0:00:21.62,0:00:23.75,OP1-R,eng tri,0,0,0,kara,{\k6}{\k12}On {\k15}t
 Dialogue: 0,0:00:23.75,0:00:25.77,OP1-R,eng tri,0,0,0,kara,{\k6}{\k26}Ga{\k14}zing {\k17}at {\k10}the {\k30}blue {\k20}of {\k15}the {\k55}sky{\k9}
 Dialogue: 0,0:00:25.99,0:00:28.05,OP1-R,eng tri,0,0,0,kara,{\k7}{\k13}As {\k13}the {\k27}clouds {\k13}swim {\k40}by {\k26}like {\k14}fluf{\k25}fy {\k28}whales{\k0}
 Dialogue: 0,0:00:28.01,0:00:29.72,OP1-R,eng tri,0,0,0,kara,{\k3}{\k13}Tur{\k13}ning {\k12}to {\k29}new {\k40}fan{\k17}tas{\k10}tic {\k23}shapes{\k11}
-Dialogue: 0,0:00:29.70,0:00:33.83,OP1-R,eng dia,0,0,0,kara,{\k5}{\k29}We {\k28}bear {\k25}the {\k27}bur{\k13}den {\k40}of {\k29}a {\k24}dis{\k14}tant {\k39}past {\k28}that {\k25}ne{\k14}ver {\k39}can {\k14}re{\k19}turn{\k1}
+Dialogue: 0,0:00:29.70,0:00:33.83,OP1-R,eng dia,0,0,0,kara,{\k5}{\k29}We {\k28}bear {\k25}the {\k27}bur{\k13}den {\k40}of {\k29}a {\k24}dis{\k14}tant {\k39}past {\k28}we {\k25}ne{\k14}ver {\k39}can {\k14}es{\k19}cape{\k1}
 Dialogue: 0,0:00:33.87,0:00:36.64,OP1-R,eng dia,0,0,0,kara,{\k3}{\k27}But {\k40}in {\k19}this {\k18}world {\k28}that's {\k37}full {\k23}of {\k23}sand {\k23}and {\k36}dust{\k0}
 Dialogue: 0,0:00:36.64,0:00:39.32,OP1-R,eng dia,0,0,0,kara,{\k4}{\k26}We {\k28}still {\k13}can {\k36}find {\k23}the {\k27}time {\k21}to {\k24}share {\k13}a {\k48}drink{\k5}
 Dialogue: 0,0:00:39.56,0:00:41.23,OP1-R,eng dia,0,0,0,kara,{\k4}{\k15}If {\k14}I {\k15}was {\k14}a{\k22}lone {\k10}and {\k28}emp{\k45}ty
@@ -396,3 +396,5 @@ Data: 125,_aegi_folddata,e0;1;7
 Data: 126,_aegi_folddata,e1;1;7
 Data: 127,_aegi_folddata,e0;0;7
 Data: 128,_aegi_folddata,e1;0;7
+Data: 129,_aegi_folddata,e0;0;5
+Data: 130,_aegi_folddata,e1;0;5
