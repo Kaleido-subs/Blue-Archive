@@ -289,6 +289,35 @@ Dialogue: 0,0:00:36.68,0:00:36.72,OP1 - LightSigns,,0,0,0,,{=30}{\an7\pos(1409.5
 Dialogue: 0,0:00:36.72,0:00:36.76,OP1 - LightSigns,,0,0,0,,{=30}{\an7\pos(1408.52,115.13)\bord1\xshad0.01\4c&HE5F2F9&\1a&HFE&\3a&HFF&\blur1\p1}m 74 36 b 68 33 68 27 68 22 69 8 71 -5 66 -19 87 -12 73 23 74 36
 Dialogue: 0,0:00:36.76,0:00:36.80,OP1 - LightSigns,,0,0,0,,{=30}{\an7\pos(1407.43,115.41)\bord1\xshad0.01\4c&HE5F2F9&\1a&HFE&\3a&HFF&\blur1\p1}m 74 36 b 68 33 68 27 68 22 69 8 71 -5 66 -19 87 -12 73 23 74 36
 Dialogue: 0,0:00:36.80,0:00:36.85,OP1 - LightSigns,,0,0,0,,{=30=41}{\an7\pos(1406.37,115.66)\bord1\xshad0.01\4c&HE5F2F9&\1a&HFE&\3a&HFF&\blur1\p1}m 74 36 b 68 33 68 27 68 22 69 8 71 -5 66 -19 87 -12 73 23 74 36
+Comment: 0,0:00:35.26,0:00:35.27,OP1 - LightSigns,,0,0,0,,{=64=66=67}---- Nonomi notebook
+Dialogue: 1,0:00:35.26,0:00:35.30,OP1 - LightSigns,,0,0,0,,{=64=66}{\an5\pos(635.61,1030.15)\org(587.11,941.91)\fscx19.58\fscy20.09\frz32.98\fry-1.219\frx-0.095\fnRoses Everywhere Personal Use\c&H634243&\blur0.38}Izayoi Nonomi
+Dialogue: 1,0:00:35.30,0:00:35.34,OP1 - LightSigns,,0,0,0,,{=64=66}{\an5\pos(633.59,1031.41)\org(585.1,942.75)\fscx19.65\fscy20.16\frz32.86\fry-1.219\frx-0.095\fnRoses Everywhere Personal Use\c&H634243&\blur0.38}Izayoi Nonomi
+Dialogue: 1,0:00:35.34,0:00:35.39,OP1 - LightSigns,,0,0,0,,{=64=66}{\an5\pos(631.86,1032.53)\org(583.3,943.55)\fscx19.71\fscy20.22\frz32.81\fry-1.219\frx-0.095\fnRoses Everywhere Personal Use\c&H634243&\blur0.39}Izayoi Nonomi
+Dialogue: 1,0:00:35.39,0:00:35.43,OP1 - LightSigns,,0,0,0,,{=64=66}{\an5\pos(629.94,1033.89)\org(581.31,944.45)\fscx19.8\fscy20.31\frz32.72\fry-1.219\frx-0.095\fnRoses Everywhere Personal Use\c&H634243&\blur0.39}Izayoi Nonomi
+Dialogue: 1,0:00:35.43,0:00:35.47,OP1 - LightSigns,,0,0,0,,{=64=66}{\an5\pos(628.17,1034.95)\org(579.52,945.24)\fscx19.84\fscy20.36\frz32.66\fry-1.219\frx-0.095\fnRoses Everywhere Personal Use\c&H634243&\blur0.39}Izayoi Nonomi
+Dialogue: 1,0:00:35.47,0:00:35.51,OP1 - LightSigns,,0,0,0,,{=64=66}{\an5\pos(626.27,1036.24)\org(577.57,946.13)\fscx19.92\fscy20.43\frz32.58\fry-1.219\frx-0.095\fnRoses Everywhere Personal Use\c&H634243&\blur0.39}Izayoi Nonomi
+Dialogue: 1,0:00:35.51,0:00:35.55,OP1 - LightSigns,,0,0,0,,{=64=66}{\an5\pos(624.4,1037.44)\org(575.66,946.95)\fscx19.98\fscy20.5\frz32.5\fry-1.219\frx-0.095\fnRoses Everywhere Personal Use\c&H634243&\blur0.39}Izayoi Nonomi
+Dialogue: 1,0:00:35.55,0:00:35.59,OP1 - LightSigns,,0,0,0,,{=64=66}{\an5\pos(622.36,1038.67)\org(573.62,947.79)\fscx20.05\fscy20.57\frz32.39\fry-1.219\frx-0.095\fnRoses Everywhere Personal Use\c&H634243&\blur0.39}Izayoi Nonomi
+Dialogue: 1,0:00:35.59,0:00:35.64,OP1 - LightSigns,,0,0,0,,{=64=66}{\an5\pos(620.91,1039.9)\org(572,948.76)\fscx20.11\fscy20.63\frz32.41\fry-1.219\frx-0.095\fnRoses Everywhere Personal Use\c&H634243&\blur0.39}Izayoi Nonomi
+Dialogue: 1,0:00:35.64,0:00:35.68,OP1 - LightSigns,,0,0,0,,{=64=66}{\an5\pos(618.73,1041.11)\org(569.86,949.54)\fscx20.18\fscy20.71\frz32.28\fry-1.219\frx-0.095\fnRoses Everywhere Personal Use\c&H634243&\blur0.39}Izayoi Nonomi
+Dialogue: 1,0:00:35.68,0:00:35.72,OP1 - LightSigns,,0,0,0,,{=64=66}{\an5\pos(616.72,1042.41)\org(567.81,950.41)\fscx20.26\fscy20.78\frz32.19\fry-1.219\frx-0.095\fnRoses Everywhere Personal Use\c&H634243&\blur0.4}Izayoi Nonomi
+Dialogue: 1,0:00:35.72,0:00:35.76,OP1 - LightSigns,,0,0,0,,{=64=66}{\an5\pos(615.2,1043.62)\org(566.16,951.4)\fscx20.31\fscy20.84\frz32.19\fry-1.219\frx-0.095\fnRoses Everywhere Personal Use\c&H634243&\blur0.4}Izayoi Nonomi
+Dialogue: 1,0:00:35.76,0:00:35.80,OP1 - LightSigns,,0,0,0,,{=64=66}{\an5\pos(613.13,1044.88)\org(564.07,952.26)\fscx20.38\fscy20.91\frz32.1\fry-1.219\frx-0.095\fnRoses Everywhere Personal Use\c&H634243&\blur0.4}Izayoi Nonomi
+Dialogue: 1,0:00:35.80,0:00:35.84,OP1 - LightSigns,,0,0,0,,{=64=66}{\an5\pos(611,1046)\org(562,953)\fscx20.44\fscy20.97\frz31.97\fry-1.219\frx-0.095\fnRoses Everywhere Personal Use\c&H634243&\blur0.4}Izayoi Nonomi
+Dialogue: 0,0:00:35.26,0:00:35.30,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(32.85,38.67)\fscx95.79\fscy95.79\frz1.01\c&HE7D8CB&\blur0.96\p1}m 631 1031 l 686 996 679 984 624 1018
+Dialogue: 0,0:00:35.30,0:00:35.34,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(30.68,35.1)\fscx96.13\fscy96.13\frz0.89\c&HE7D8CB&\blur0.96\p1}m 631 1031 l 686 996 679 984 624 1018
+Dialogue: 0,0:00:35.34,0:00:35.39,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(28.03,32.54)\fscx96.43\fscy96.43\frz0.83\c&HE7D8CB&\blur0.96\p1}m 631 1031 l 686 996 679 984 624 1018
+Dialogue: 0,0:00:35.39,0:00:35.43,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(25.06,28.67)\fscx96.85\fscy96.85\frz0.75\c&HE7D8CB&\blur0.97\p1}m 631 1031 l 686 996 679 984 624 1018
+Dialogue: 0,0:00:35.43,0:00:35.47,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(22.91,26.65)\fscx97.08\fscy97.08\frz0.68\c&HE7D8CB&\blur0.97\p1}m 631 1031 l 686 996 679 984 624 1018
+Dialogue: 0,0:00:35.47,0:00:35.51,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(20.11,23.37)\fscx97.44\fscy97.44\frz0.61\c&HE7D8CB&\blur0.97\p1}m 631 1031 l 686 996 679 984 624 1018
+Dialogue: 0,0:00:35.51,0:00:35.55,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(17.64,20.3)\fscx97.77\fscy97.77\frz0.53\c&HE7D8CB&\blur0.98\p1}m 631 1031 l 686 996 679 984 624 1018
+Dialogue: 0,0:00:35.55,0:00:35.59,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(15.49,16.9)\fscx98.1\fscy98.1\frz0.42\c&HE7D8CB&\blur0.98\p1}m 631 1031 l 686 996 679 984 624 1018
+Dialogue: 0,0:00:35.59,0:00:35.64,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(11.89,15.28)\fscx98.4\fscy98.4\frz0.44\c&HE7D8CB&\blur0.98\p1}m 631 1031 l 686 996 679 984 624 1018
+Dialogue: 0,0:00:35.64,0:00:35.68,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(9.91,11.58)\fscx98.74\fscy98.74\frz0.31\c&HE7D8CB&\blur0.99\p1}m 631 1031 l 686 996 679 984 624 1018
+Dialogue: 0,0:00:35.68,0:00:35.72,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(7.25,7.94)\fscx99.11\fscy99.11\frz0.21\c&HE7D8CB&\blur0.99\p1}m 631 1031 l 686 996 679 984 624 1018
+Dialogue: 0,0:00:35.72,0:00:35.76,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(4.12,6.6)\fscx99.36\fscy99.36\frz0.22\c&HE7D8CB&\blur0.99\p1}m 631 1031 l 686 996 679 984 624 1018
+Dialogue: 0,0:00:35.76,0:00:35.80,OP1 - LightSigns,,0,0,0,,{=64=65}{\an7\pos(1.64,3.3)\fscx99.7\fscy99.7\frz0.13\c&HE7D8CB&\blur1\p1}m 631 1031 l 686 996 679 984 624 1018
+Dialogue: 0,0:00:35.80,0:00:35.84,OP1 - LightSigns,,0,0,0,,{=64=65=68}{\an7\pos(0,0)\c&HE7D8CB&\blur1\p1}m 631 1031 l 686 996 679 984 624 1018
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - LightSigns,,0,0,0,,{=45}-- Signs
 Dialogue: 0,0:01:22.52,0:01:25.52,OP1 - LightSigns,,0,0,0,,
 
@@ -312,3 +341,10 @@ Data: 44,_aegi_folddata,e0;0;3
 Data: 45,_aegi_folddata,e1;0;3
 Data: 52,_aegi_folddata,e0;1;4
 Data: 53,_aegi_folddata,e1;1;4
+Data: 64,_aegi_perspective_ambient_plane,e472.05;900.69#7C621.30;806.35#7C754.33;1017.62#7C602.49;1110.44
+Data: 65,a-mo,e{"originalText"#3A"{\\an7\\pos(0#2C0)\\c&HE7D8CB&\\blur1\\p1}m 631 1031 l 686 996 679 984 624 1018"#2C"uuid"#3A"c12a00da-7c02-4505-8c26-62cbc9d14f01"}
+Data: 66,a-mo,e{"originalText"#3A"{\\an5\\pos(611#2C1046)\\org(562#2C953)\\fscx20.44\\fscy20.97\\frz31.971\\fry-1.219\\frx-0.095\\fnRoses Everywhere Personal Use\\c&H634243&\\blur0.4}Izayoi Nonomi"#2C"uuid"#3A"382257f8-b7e1-4868-b725-e04084ef23b7"}
+Data: 67,_aegi_folddata,e0;1;5
+Data: 68,_aegi_folddata,e1;1;5
+Data: 69,_aegi_folddata,e0;0;5
+Data: 70,_aegi_folddata,e1;0;5
