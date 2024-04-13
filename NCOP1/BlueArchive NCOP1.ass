@@ -118,6 +118,7 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char style OP1-R layer 10 nobl
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R layer 10,{\t(!st(0)!,!math.min(st(0.25), st(0)+60)!,0.5,\fscx185\fscy110\3c!get_hl_color()!)\t(!math.min(st(0.25), st(0)+60)!,!math.min(st(1.25), st(1) + 50)!,1.4,\fscx175\fscy100\3c!gc(3)!)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R t_actor hl,!retime("syl",-50,0)!
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R t_actor hl,{\t(0,!math.min(sd(0.25), 60)!,0.5,\fscx185\fscy110)\t(!math.min(sd(0.25), 60)!,!math.min(sd(1.25), sd(1) + 50)!,1.4,\fscx175\fscy100)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,{=53}
 Comment: 0,0:00:05.28,0:00:05.28,Default,,0,0,0,sync,{OPSync — First hard cut (sunrise shot)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,{=67}-- lyrics
