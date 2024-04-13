@@ -30,6 +30,7 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function pos_y() return orgline.actor:match('rom alt') and -784 or orgline.actor:match('rom') and -912 or 0; end --meta.res_y - 2*line.styleref.margin_v
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,BPM = 114; BEAT_DUR = 60 * 1000 / BPM; LONG_SYL = BEAT_DUR --quarter notes are long now apparently
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function is_longsyl() return syl.duration >= LONG_SYL * 0.95 end
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function has_singer() return syl.inline_fx ~= "" end
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,BASE_LAYER = 10
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,TRI_SPACE = 40; CHAR_FADE_SPEED = 2;
@@ -60,7 +61,13 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sylfx
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sylfx,{\alpha&H40&\blur0.8}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sylfx no_t_actor sparkle,{\c&HFFF915&}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sparkle,{\c!util.rand.item({"&HFFFA38&", "&H56F9FF&", "&HF972FF&"})!}
+Comment: 0,0:00:57.49,0:00:59.71,OP1,,0,0,0,mixin line style OP1-R t_actor sparkle unless has_singer,{\c!util.rand.item({"&HFFFA38&", "&H56F9FF&", "&HF972FF&"})!}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R t_actor sparkle inlinefx hoshino,{\c&HAC9AFB&}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R t_actor sparkle inlinefx serika,{\c&H9C5CFF&}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R t_actor sparkle inlinefx ayane,{\c&H4A4AE2&}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R t_actor sparkle inlinefx nonomi,{\c&H11FF88&}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R t_actor sparkle inlinefx shiroko,{\c&HEEEB54&}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R t_actor sparkle inlinefx all,{\c!util.rand.item({"&HAC9AFB&", "&H5D33D1&", "&H4A4AE2&", "&H11FF88&", "&HEEEB54&"})!}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sylfx,{\t(0,!math.random(1000,1300)!,-1.2,\alpha&HFF&)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sylfx,!retime("presyl", -50, 400 + rnd(0, 200))!
@@ -87,7 +94,7 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor tri,!util.rand.bool() and mskip() or nil!{\frz180}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor tri,{\p1}!ln.shapes.triangle(math.floor(rnd(22,30)))!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor dia,!set('sidelen', math.random(7,12))!{\p1\frz45}!ln.shapes.shift(ln.shapes.rectangle(sidelen, sidelen), -sidelen/2, -sidelen/2)!
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line style OP1-R t_actor sparkle,{\p1}m 0 -16.25 b 0 -8.12 -6.25 0 -12.5 0 -6.25 0 0 8.13 0 16.25 0 8.13 6.25 0 12.5 0 6.25 0 0 -8.12 0 -16.25
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl style OP1-R t_actor sparkle,{\p1}m 0 -16.25 b 0 -8.12 -6.25 0 -12.5 0 -6.25 0 0 8.13 0 16.25 0 8.13 6.25 0 12.5 0 6.25 0 0 -8.12 0 -16.25
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,OP1,main,0,0,0,template syl style OP1-R noblank anystyle,!relayer(BASE_LAYER)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,main hl,0,0,0,template syl style OP1-R noblank anystyle,!relayer(BASE_LAYER+1)!
@@ -127,7 +134,7 @@ Dialogue: 0,0:00:49.32,0:00:53.59,OP1-R,rom spark,0,0,0,kara,{\k4}{\k32}se{\k27}
 Dialogue: 0,0:00:53.49,0:00:57.45,OP1-R,rom spark,0,0,0,kara,{\k11}{\k34}su{\k25}na {\k27}no {\k42}you {\k37}ni {\k25}ki{\k30}e{\k52}te{\k27}shi{\k27}ma{\k12}tte {\k44}mo{\k14}
 Dialogue: 0,0:00:57.49,0:00:59.71,OP1-R,rom spark,0,0,0,kara,{\k9}{\k20}{\-hoshino}so{\k28}ra {\k39}to {\k25}{\-serika}u{\k41}mi {\k55}to{\k5}
 Dialogue: 0,0:00:59.71,0:01:01.50,OP1-R,rom spark,0,0,0,kara,{\k4}{\k17}{\-nonomi}ka{\k25}ze {\k38}to {\k30}{\-ayane}ki{\k38}mi {\k21}ga{\k1}
-Dialogue: 0,0:01:01.54,0:01:04.00,OP1-R,rom spark,0,0,0,kara,{\k3}{\k34}{-shiroko}so{\k28}ko {\k27}ni {\k27}a{\k14}re{\k111}ba{\k4}
+Dialogue: 0,0:01:01.54,0:01:04.00,OP1-R,rom spark,0,0,0,kara,{\k3}{\k34}{\-shiroko}so{\k28}ko {\k27}ni {\k27}a{\k14}re{\k111}ba{\k4}
 Dialogue: 0,0:01:04.04,0:01:06.32,OP1-R,rom spark,0,0,0,kara,{\k18}{\k18}{\-all}se{\k17}i{\k39}shun {\k26}wa {\k14}o{\k39}wan{\k48}nai{\k9}
 Dialogue: 0,0:01:06.36,0:01:10.56,OP1-R,rom spark,0,0,0,kara,{\k5}{\k26}ma{\k27}mo{\k28}ru {\k39}be{\k39}ki {\k26}ri{\k28}yu{\k52}u {\k25}wa {\k27}i{\k14}tsu{\k68}mo{\k16}
 Dialogue: 0,0:01:10.60,0:01:15.78,OP1-R,rom spark,0,0,0,kara,{\k5}{\k27}tan{\k27}ju{\k26}n{\k40}mei{\k40}kai {\k27}ko{\k26}no {\k53}ba{\k27}sho {\k28}ga {\k12}wa{\k41}ta{\k25}shi {\k25}ta{\k29}chi {\k55}no{\k5}
