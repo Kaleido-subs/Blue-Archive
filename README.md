@@ -9,7 +9,7 @@
 
 ### Staff
 
-| Episode Staff         |                |     | Song Staff            |                |
+| Episode Staff         |                |     | Song Staff            | Opening        |
 | --------------------- | -------------- | --- | --------------------- | -------------- |
 | **Translation**       | ikskalibur     |     | **Translation**       | chron          |
 | **Translation Check** | RapidDragon    |     | **Translation Check** | rasen          |
