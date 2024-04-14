@@ -10,32 +10,22 @@
 
 ### Staff
 
-| Episode Staff     |                |
-| ----------------- | -------------- |
-| Translation       | ikskalibur     |
-| Translation Check | RapidDragon    |
-|                   | 路宇図シカ     |
-| Editing           | LightArrowsEXE |
-| Encode            | LightArrowsEXE |
-| Timing            | MarioLuigi0404 |
-| Typesetting       | LightArrowsEXE |
-|                   | MSO            |
-|                   | petzku         |
-|                   | GrygrFlzr (01) |
-|                   | Period (01)    |
-| Quality Control   | MarioLuigi0404 |
-|                   | petzku         |
-| Special Thanks    | Phrenapates    |
-
-| Song Staff        |                |
-| ----------------- | -------------- |
-| Translation       | chron          |
-| Translation Check | rasen          |
-| Editing           | rcombs         |
-| Timing            | LightArrowsEXE |
-| Typesetting       | LightArrowsEXE |
-| Song Styling      | LightArrowsEXE |
-|                   | petzku         |
+| Episode Staff     |                |     | Song Staff        | Opening        |
+| ----------------- | -------------- | --- | ----------------- | -------------- |
+| Translation       | ikskalibur     |     | Translation       | chron          |
+| Translation Check | RapidDragon    |     | Translation Check | rasen          |
+|                   | 路宇図シカ       |     | Editing           | rcombs         |
+| Editing           | LightArrowsEXE |     | Timing            | LightArrowsEXE |
+| Encode            | LightArrowsEXE |     | Typesetting       | LightArrowsEXE |
+| Timing            | MarioLuigi0404 |     | Song Styling      | LightArrowsEXE |
+| Typesetting       | LightArrowsEXE |     |                   | petzku         |
+|                   | MSO            |     |                   |                |
+|                   | petzku         |     |                   |                |
+|                   | GrygrFlzr (01) |     |                   |                |
+|                   | Period (01)    |     |                   |                |
+| Quality Control   | MarioLuigi0404 |     |                   |                |
+|                   | petzku         |     |                   |                |
+| Special Thanks    | Phrenapates    |     |                   |                |
 
 ### Video
 
