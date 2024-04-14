@@ -1,31 +1,30 @@
 [![cover][cover-art]][anidb-id]
 
-| Anime Information |                            |
-| ----------------- | -------------------------- |
-| **Title**         | Blue Archive the Animation |
-| **TVDB ID**       | [430095][tvdb-id]          |
-| **AniDB ID**      | [17834][anidb-id]          |
-| **Season**        | 1                          |
-| **TVDB Order**    | [Aired Order][tvdb-order]  |
+| Anime Information |                               |
+| ----------------- | ----------------------------- |
+| **Title**         | Blue Archive the Animation    |
+| **TVDB ID**       | [430095][tvdb-id]             |
+| **AniDB ID**      | [17834][anidb-id]             |
+| **Season**        | 1 ([Aired Order][tvdb-order]) |
 
 ### Staff
 
-| Episode Staff     |                |     | Song Staff        | Opening        |
-| ----------------- | -------------- | --- | ----------------- | -------------- |
-| Translation       | ikskalibur     |     | Translation       | chron          |
-| Translation Check | RapidDragon    |     | Translation Check | rasen          |
-|                   | 路宇図シカ       |     | Editing           | rcombs         |
-| Editing           | LightArrowsEXE |     | Timing            | LightArrowsEXE |
-| Encode            | LightArrowsEXE |     | Typesetting       | LightArrowsEXE |
-| Timing            | MarioLuigi0404 |     | Song Styling      | LightArrowsEXE |
-| Typesetting       | LightArrowsEXE |     |                   | petzku         |
-|                   | MSO            |     |                   |                |
-|                   | petzku         |     |                   |                |
-|                   | GrygrFlzr (01) |     |                   |                |
-|                   | Period (01)    |     |                   |                |
-| Quality Control   | MarioLuigi0404 |     |                   |                |
-|                   | petzku         |     |                   |                |
-| Special Thanks    | Phrenapates    |     |                   |                |
+| Episode Staff         |                |     | Song Staff            |                |
+| --------------------- | -------------- | --- | --------------------- | -------------- |
+| **Translation**       | ikskalibur     |     | **Translation**       | chron          |
+| **Translation Check** | RapidDragon    |     | **Translation Check** | rasen          |
+|                       | 路宇図シカ     |     | **Editing**           | rcombs         |
+| **Editing**           | LightArrowsEXE |     | **Timing**            | LightArrowsEXE |
+| **Encode**            | LightArrowsEXE |     | **Typesetting**       | LightArrowsEXE |
+| **Timing**            | MarioLuigi0404 |     | **Song Styling**      | LightArrowsEXE |
+| **Typesetting**       | LightArrowsEXE |     |                       | petzku         |
+|                       | MSO            |     |                       |                |
+|                       | petzku         |     |                       |                |
+|                       | GrygrFlzr (01) |     |                       |                |
+|                       | Period (01)    |     |                       |                |
+| **Quality Control**   | MarioLuigi0404 |     |                       |                |
+|                       | petzku         |     |                       |                |
+| **Special Thanks**    | Phrenapates    |     |                       |                |
 
 ### Video
 
@@ -39,9 +38,9 @@
 
 ### Audio
 
-| Track    | Codec | Channels | Bitrate  | Source           | Default | Forced |
-| -------- | ----- | -------- | -------- | ---------------- | ------- | ------ |
-| Japanese | EAC-3 | 2.0      | 224 kbps | [Amazon][amazon] | Yes     | No     |
+| Track        | Codec | Channels | Bitrate  | Source           | Default | Forced |
+| ------------ | ----- | -------- | -------- | ---------------- | ------- | ------ |
+| **Japanese** | EAC-3 | 2.0      | 224 kbps | [Amazon][amazon] | Yes     | No     |
 
 ### Subtitles
 
