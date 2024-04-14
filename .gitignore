@@ -36,3 +36,6 @@
 
 # Extracted files
 *Track*
+
+# Unignore CCs
+!Blue Archive - * (TX).srt
