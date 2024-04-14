@@ -9,33 +9,33 @@
 
 ### Staff
 
-| Episode Staff         |                |     | Song Staff            | Opening        |
-| --------------------- | -------------- | --- | --------------------- | -------------- |
-| **Translation**       | ikskalibur     |     | **Translation**       | chron          |
-| **Translation Check** | RapidDragon    |     | **Translation Check** | rasen          |
-|                       | 路宇図シカ     |     | **Editing**           | rcombs         |
-| **Editing**           | LightArrowsEXE |     | **Timing**            | LightArrowsEXE |
-| **Encode**            | LightArrowsEXE |     | **Typesetting**       | LightArrowsEXE |
-| **Timing**            | MarioLuigi0404 |     | **Song Styling**      | LightArrowsEXE |
-| **Typesetting**       | LightArrowsEXE |     |                       | petzku         |
-|                       | MSO            |     |                       |                |
-|                       | petzku         |     |                       |                |
-|                       | GrygrFlzr (01) |     |                       |                |
-|                       | Period (01)    |     |                       |                |
-| **Quality Control**   | MarioLuigi0404 |     |                       |                |
-|                       | petzku         |     |                       |                |
-| **Special Thanks**    | Phrenapates    |     |                       |                |
+| Episode Staff         |                  |     | Song Staff            | Opening        |
+| --------------------- | ---------------- | --- | --------------------- | -------------- |
+| **Translation**       | ikskalibur       |     | **Translation**       | chron          |
+| **Translation Check** | RapidDragon      |     | **Translation Check** | rasen          |
+|                       | 路宇図シカ       |     | **Editing**           | rcombs         |
+| **Editing**           | LightArrowsEXE   |     | **Timing**            | LightArrowsEXE |
+| **Encode**            | LightArrowsEXE   |     | **Typesetting**       | LightArrowsEXE |
+| **Timing**            | MarioLuigi0404   |     | **Song Styling**      | LightArrowsEXE |
+| **Typesetting**       | LightArrowsEXE   |     |                       | petzku         |
+|                       | MSO              |     |                       |                |
+|                       | petzku           |     |                       |                |
+|                       | GrygrFlzr (01)   |     |                       |                |
+|                       | Period (01)      |     |                       |                |
+| **Quality Control**   | MarioLuigi0404   |     |                       |                |
+|                       | petzku           |     |                       |                |
+| **Special Thanks**    | Phrenapates      |     |                       |                |
 |                       | IllidanStormrage |     |                       |                |
 
 ### Video
 
-|                  |                           |
-| ---------------- | ------------------------- |
-| **Source**       | [Amazon JP (CBR)][amazon] |
-|                  | [ABEMA][abema]            |
-| **Resolution**   | 1920x1080p                |
-| **Codec**        | H.265 (x265) 10-bit       |
-| **Aspect Ratio** | 16:9                      |
+|                  |                              |                        |
+| ---------------- | ---------------------------- | ---------------------- |
+| **Sources**      | [Amazon JP (CBR)][amazon]    | [ABEMA][abema]         |
+| **Resolution**   | 1920x1080p                   |                        |
+| **Codec**        | H.265 (x265) 10-bit          |                        |
+| **Aspect Ratio** | 16:9                         |                        |
+| **Extra**        | [Video Comparison][slowpics] | [MediaInfo][mediainfo] |
 
 ### Audio
 
@@ -76,6 +76,8 @@ you can ask us to render out our song styling for you in our [Discord server][di
 [abema]: https://nyaa.si/?f=0&c=0_0&q=Ioroid+Blue+Archive+the+Animation+ABEMA+WEB-DL
 
 [//]: <> (Encode info)
+[slowpics]: https://slow.pics/c/1GXUOKNh
+[mediainfo]: https://paste2.org/5s8jUaDL
 
 [//]: <> (Other)
 [discord]: https://discord.gg/dk7aadV
