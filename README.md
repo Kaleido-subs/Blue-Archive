@@ -53,7 +53,7 @@ This release contains an alternative honorifics track.
 This track also changes words like "Teacher" to "Sensei" and includes adjustments to a couple of lines.
 Set your media player to play "enm" language tracks by default to automatically play honorifics tracks.
 
-Spot an issue or want to chat? Join our [Discord server][discord]!
+Spot an issue, want to chat, or want to check out the project's progress? Join our [Discord server][discord]!
 
 We only support [mpv][]! Please try out a recent mpv build if you run into any playback issues.
 
