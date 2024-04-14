@@ -25,13 +25,13 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=8}---- Chapters
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=10}---- Chapters
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Comment: 0,0:01:35.49,0:01:35.49,Default,chapter,0,0,0,,{Part A}
 Comment: 0,0:13:12.10,0:13:12.10,Default,chapter,0,0,0,,{Part B}
 Comment: 0,0:21:31.39,0:21:31.39,Default,chapter,0,0,0,,{OP}
 Comment: 0,0:21:36.69,0:21:36.69,Default,,0,0,0,opsync,{OPSync — First hard cut (sunrise shot)}
-Comment: 0,0:23:01.36,0:23:01.36,Default,chapter,0,0,0,,{=9}{Outro}
+Comment: 0,0:23:01.36,0:23:01.36,Default,chapter,0,0,0,,{=11}{Outro}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=6}---- Dialogue
 Dialogue: 10,0:00:08.28,0:00:10.03,Default,,0,0,0,,It was my mistake.
 Dialogue: 10,0:00:10.70,0:00:16.75,Default,,0,0,0,,It was my decision, \nand it led to this entire state of affairs.
@@ -43,11 +43,11 @@ Dialogue: 10,0:00:53.95,0:00:57.70,Default,,0,0,0,,It's not experiences that mat
 Dialogue: 10,0:00:58.50,0:01:01.50,Default,,0,0,0,,Choices that only {\i1}you{\i0} can make.
 Dialogue: 10,0:01:01.50,0:01:04.21,Default,,0,0,0,,That's your duty, your responsibility, as an adult.
 Dialogue: 10,0:01:04.79,0:01:08.59,Default,,0,0,0,,I know you're an adult I can trust.
-Dialogue: 10,0:01:08.59,0:01:13.18,Default,,0,0,0,,If it's you, I have faith that you'll find \na choice that will lead to a different outcome.
+Dialogue: 10,0:01:08.59,0:01:13.18,Default,,0,0,0,,I have faith you'll find a choice \nthat will lead to a different outcome.
 Dialogue: 10,0:01:14.22,0:01:18.18,Default,,0,0,0,,Away from the dark, twisted destination that lies ahead.
 Dialogue: 10,0:01:19.23,0:01:20.98,Default,,0,0,0,,So, {*}Teacher{*Sensei}.
 Dialogue: 10,0:01:21.27,0:01:22.31,Default,,0,0,100,,I beg you.
-Dialogue: 10,0:02:09.73,0:02:11.15,Default,,0,0,0,ED,Nice weather.{still don't quite love this but the only other thing that comes to mind is "How nice" -p}{### I hate these phatic(?)-like expressions}
+Dialogue: 10,0:02:09.73,0:02:11.15,Default,,0,0,0,,It's nice out.
 Dialogue: 10,0:02:47.98,0:02:52.74,Default,,0,0,0,,Amidst the General Student Council's turmoil \nfollowing the President's disappearance,
 Dialogue: 10,0:02:52.74,0:02:57.41,Default,,0,0,0,,Sanctum Tower has been re-lit, \nand administrative functions are back on track.
 Dialogue: 10,0:02:57.99,0:03:03.41,Default,,0,0,0,,They anticipate that following this, the unrest throughout \nour academy city, Kivotos, will slowly subside.
@@ -87,11 +87,11 @@ Dialogue: 10,0:05:17.13,0:05:20.38,Default,,0,0,0,,Oh, and about forty dumbbells
 Dialogue: 10,0:05:20.72,0:05:21.68,Default,,0,0,0,,What.
 Dialogue: 10,0:05:22.39,0:05:25.39,Default,,0,0,0,,Let's begin with our regular meeting.
 Dialogue: 10,0:05:25.39,0:05:29.35,Default,,0,0,0,,To begin, let's discuss the major event \nthat's been in the news recently.
-Dialogue: 10,0:05:29.35,0:05:34.15,Default,,0,0,0,ED,The General Student Council, or GSC for short, \nis tasked with maintaining harmony among the schools{this split feels bad, both cps-wise (17 + 10 is meh) and splitting "the schools" from "in the academy city" but needs rewording to fix. the clear pause in the audio doesn't line up with anything good  -p}{maybe move GSCP to this line and the whole "harmony" bit to the second? -p}
-Dialogue: 10,0:05:34.15,0:05:41.40,Default,,0,0,0,,in the academy city of Kivotos, under the guidance \nof the General Student Council President.
+Dialogue: 10,0:05:29.35,0:05:34.15,Default,,0,0,0,,The General Student Council, or GSC for short, \nis tasked with maintaining harmony
+Dialogue: 10,0:05:34.15,0:05:41.40,Default,,0,0,0,,among the schools in the academy city of Kivotos, \nunder the guidance of the General Student Council President.
 Dialogue: 10,0:05:41.40,0:05:46.91,Default,,0,0,0,,However, reports indicate that the GSCP \nwent missing a few days ago.
 Dialogue: 10,0:05:47.58,0:05:52.42,Default,,0,0,0,,This incident may be what sparked \nthe recent unrest in various school districts.
-Dialogue: 10,0:05:55.29,0:05:59.51,Default,,0,0,0,,Speaking of the GSC, what happened \nwith that treaty thing?
+Dialogue: 10,0:05:55.29,0:05:59.51,Default,,0,0,0,,Speaking of the GSC, \nwhat happened with that treaty thing?
 Dialogue: 10,0:05:59.51,0:06:05.05,Default,,0,0,0,,The non-aggression pact \nbetween Trinity General and Gehenna?
 Dialogue: 10,0:06:05.05,0:06:06.47,Default,,0,0,0,,You mean the Eden Treaty.
 Dialogue: 10,0:06:06.47,0:06:08.43,Default,,0,0,0,,Yes, that's the one!
@@ -349,3 +349,5 @@ Data: 6,_aegi_folddata,e0;0;2
 Data: 7,_aegi_folddata,e1;0;2
 Data: 8,_aegi_folddata,e0;0;1
 Data: 9,_aegi_folddata,e1;0;1
+Data: 10,_aegi_folddata,e0;1;1
+Data: 11,_aegi_folddata,e1;1;1
