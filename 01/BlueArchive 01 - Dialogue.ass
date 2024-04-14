@@ -47,11 +47,11 @@ Dialogue: 10,0:01:08.59,0:01:13.18,Default,,0,0,0,,If it's you, I have faith tha
 Dialogue: 10,0:01:14.22,0:01:18.18,Default,,0,0,0,,Away from the dark, twisted destination that lies ahead.
 Dialogue: 10,0:01:19.23,0:01:20.98,Default,,0,0,0,,So, {*}Teacher{*Sensei}.
 Dialogue: 10,0:01:21.27,0:01:22.31,Default,,0,0,100,,I beg you.
-Dialogue: 10,0:02:09.73,0:02:11.15,Default,,0,0,0,,Nice weather.
+Dialogue: 10,0:02:09.73,0:02:11.15,Default,,0,0,0,ED,Nice weather.{still don't quite love this but the only other thing that comes to mind is "How nice" -p}
 Dialogue: 10,0:02:47.98,0:02:52.74,Default,,0,0,0,,Amidst the General Student Council's turmoil \nfollowing the President's disappearance,
 Dialogue: 10,0:02:52.74,0:02:57.41,Default,,0,0,0,,Sanctum Tower has been re-lit, \nand administrative functions are back on track.
-Dialogue: 10,0:02:57.99,0:03:03.41,Default,,0,0,0,,It's anticipated that following this, the unrest throughout\nthe academy city, Kivotos, will slowly subside.
-Dialogue: 10,0:03:15.97,0:03:16.55,Default,,0,0,0,,Also...
+Dialogue: 10,0:02:57.99,0:03:03.41,Default,,0,0,0,ED,It's anticipated that following this, the unrest throughout\nthe academy city, Kivotos, will slowly subside.{is this local news? feels weird to say "the academy city, Kivotos" if this is the case -p}{"our academy city of Kivotos"? -p}{consider moving "following this" to start of line -p}{depending how news-speak-y you want to be (or not be), consider: "Following this, we anticipate unrest [...] to slowly subside." or "Following this, unrest throughout [...] is expected to slowly subside." -p}
+Dialogue: 10,0:03:15.97,0:03:16.55,Default,,0,0,0,ED,Also...{"Oh, and..."? -p}
 Dialogue: 10,0:03:22.64,0:03:24.81,Default,,0,0,0,,{*}Meow{*Nyaa}, {*}meow{*nyaa}, {*}meow{*nyaa}. {## is this a cat website reference?!?!!}
 Dialogue: 10,0:03:27.65,0:03:30.52,Default,,0,0,0,,The next stop is Abydos High School.
 Dialogue: 10,0:03:31.07,0:03:32.94,Default,,0,0,0,,This is my stop!
@@ -60,7 +60,7 @@ Dialogue: 10,0:03:53.50,0:03:54.30,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:03:54.30,0:03:57.84,Default,,0,0,0,,You {\i1}biked{\i0} to the Abydos industrial district and back?
 Dialogue: 10,0:03:57.84,0:04:00.09,Default,,0,0,0,,Do you have any idea how far that is?!
 Dialogue: 10,0:04:00.09,0:04:03.22,Default,,0,0,0,,I wanted to go since I'd never \ntaken a good look at it before.
-Dialogue: 10,0:04:03.64,0:04:06.06,Default,,0,0,0,,It ended up being just the right distance.
+Dialogue: 10,0:04:03.64,0:04:06.06,Default,,0,0,0,ED,It ended up being just the right distance.{"just far/close enough"? might need TLC on this -p}
 Dialogue: 10,0:04:07.39,0:04:09.73,Default,,0,0,0,,You're crazy, Shiroko{**-senpai}.
 Dialogue: 10,0:04:09.73,0:04:12.19,Default,,0,0,0,,What did you do over the weekend, Serika?
 Dialogue: 10,0:04:12.19,0:04:14.86,Default,,0,0,0,,I, uh...
@@ -87,12 +87,12 @@ Dialogue: 10,0:05:17.13,0:05:20.38,Default,,0,0,0,,Oh, and about forty dumbbells
 Dialogue: 10,0:05:20.72,0:05:21.68,Default,,0,0,0,,What.
 Dialogue: 10,0:05:22.39,0:05:25.39,Default,,0,0,0,,Let's begin with our regular meeting.
 Dialogue: 10,0:05:25.39,0:05:29.35,Default,,0,0,0,,To begin, let's discuss the major event \nthat's been in the news recently.
-Dialogue: 10,0:05:29.35,0:05:34.15,Default,,0,0,0,,The General Student Council, or GSC for short, \nis tasked with maintaining harmony among the schools
+Dialogue: 10,0:05:29.35,0:05:34.15,Default,,0,0,0,ED,The General Student Council, or GSC for short, \nis tasked with maintaining harmony among the schools{this split feels bad, both cps-wise (17 + 10 is meh) and splitting "the schools" from "in the academy city" but needs rewording to fix. the clear pause in the audio doesn't line up with anything good  -p}{maybe move GSCP to this line and the whole "harmony" bit to the second? -p}
 Dialogue: 10,0:05:34.15,0:05:41.40,Default,,0,0,0,,in the academy city of Kivotos, under the guidance \nof the General Student Council President.
 Dialogue: 10,0:05:41.40,0:05:46.91,Default,,0,0,0,,However, reports indicate that the GSCP \nwent missing a few days ago.
 Dialogue: 10,0:05:47.58,0:05:52.42,Default,,0,0,0,,This incident may be what sparked \nthe recent unrest in various school districts.
 Dialogue: 10,0:05:55.29,0:05:59.51,Default,,0,0,0,,Speaking of the GSC, what happened \nwith that treaty thing?
-Dialogue: 10,0:05:59.51,0:06:05.05,Default,,0,0,0,,The non-aggression pact between \nTrinity General School and Gehenna Academy?
+Dialogue: 10,0:05:59.51,0:06:05.05,Default,,0,0,0,ED,The non-aggression pact between \nTrinity General School and Gehenna Academy?{would suggest dropping "school" and "academy"; also doing this in general going forward. i.e. "... between Trinity General and Gehenna?". people don't really talk about schools in english while specifying it's a school; you talk about "Harvard", "Yale", etc, not "Harvard University" -p}
 Dialogue: 10,0:06:05.05,0:06:06.47,Default,,0,0,0,,You mean the Eden Treaty.
 Dialogue: 10,0:06:06.47,0:06:08.43,Default,,0,0,0,,Yes, that's the one!
 Dialogue: 10,0:06:08.43,0:06:10.06,Default,,0,0,0,,Has that been signed yet?
@@ -344,8 +344,6 @@ Dialogue: 10,0:23:28.60,0:23:30.10,Default,,0,0,0,,Hey there, Arona.
 Dialogue: 10,0:23:37.02,0:23:39.61,Default,,0,0,0,,{=7}I've been expecting you, {*}Teacher{*Sensei}!
 
 [Aegisub Extradata]
-Data: 0,_aegi_folddata,e0;1;1
-Data: 1,_aegi_folddata,e1;1;1
 Data: 6,_aegi_folddata,e0;0;2
 Data: 7,_aegi_folddata,e1;0;2
 Data: 8,_aegi_folddata,e0;0;1
