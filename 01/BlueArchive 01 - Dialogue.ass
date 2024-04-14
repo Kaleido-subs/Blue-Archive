@@ -50,7 +50,7 @@ Dialogue: 10,0:01:21.27,0:01:22.31,Default,,0,0,100,,I beg you.
 Dialogue: 10,0:02:09.73,0:02:11.15,Default,,0,0,0,,It's nice out.
 Dialogue: 10,0:02:47.98,0:02:52.74,Default,,0,0,0,,Amidst the General Student Council's turmoil \nfollowing the President's disappearance,
 Dialogue: 10,0:02:52.74,0:02:57.41,Default,,0,0,0,,Sanctum Tower has been re-lit, \nand administrative functions are back on track.
-Dialogue: 10,0:02:57.99,0:03:03.41,Default,,0,0,0,,They anticipate that following this, the unrest throughout \nour academy city, Kivotos, will slowly subside.
+Dialogue: 10,0:02:57.99,0:03:03.41,Default,,0,0,0,,Following this, the unrest throughout our \nacademy city of Kivotos, is expected to slowly subside.
 Dialogue: 10,0:03:15.97,0:03:16.55,Default,,0,0,0,,Oh, and...
 Dialogue: 10,0:03:22.64,0:03:24.81,Default,,0,0,0,,{*}Meow{*Nyaa}, {*}meow{*nyaa}, {*}meow{*nyaa}. {## is this a cat website reference?!?!!}
 Dialogue: 10,0:03:27.65,0:03:30.52,Default,,0,0,0,,The next stop is Abydos High School.
@@ -155,7 +155,7 @@ Dialogue: 10,0:10:34.49,0:10:35.53,Default,,0,0,0,,Huh?
 Dialogue: 10,0:10:35.53,0:10:37.24,Default,,0,0,0,,So he's a client?
 Dialogue: 10,0:10:37.24,0:10:39.12,Default,,0,0,0,,That's right.
 Dialogue: 10,0:10:39.12,0:10:40.49,Default,,0,0,0,,So that's it.
-Dialogue: 10,0:10:46.88,0:10:49.75,Default,,0,0,0,,I knew Abydos was a desert,{"in the middle of a desert"? or is the desert named Abydos -p}
+Dialogue: 10,0:10:46.88,0:10:49.75,Default,,0,0,0,,I knew Abydos was a desert,
 Dialogue: 10,0:10:50.34,0:10:54.01,Default,,0,0,0,,but I didn't anticipate it being {\i1}this{\i0} hot.
 Dialogue: 10,0:10:54.51,0:10:57.51,Default,,0,0,0,,I was so dehydrated on the way here that I collapsed.
 Dialogue: 10,0:11:06.81,0:11:08.90,Default,,0,0,0,,Um, if you wouldn't mind,
@@ -347,7 +347,5 @@ Dialogue: 10,0:23:37.02,0:23:39.61,Default,,0,0,0,,{=7}I've been expecting you, 
 [Aegisub Extradata]
 Data: 6,_aegi_folddata,e0;0;2
 Data: 7,_aegi_folddata,e1;0;2
-Data: 8,_aegi_folddata,e0;0;1
-Data: 9,_aegi_folddata,e1;0;1
 Data: 10,_aegi_folddata,e0;1;1
 Data: 11,_aegi_folddata,e1;1;1
