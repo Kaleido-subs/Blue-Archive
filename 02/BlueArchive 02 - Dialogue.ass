@@ -197,38 +197,39 @@ Dialogue: 10,0:10:54.76,0:10:58.10,Default,,0,0,0,,At the end of the day, my job
 Dialogue: 10,0:10:58.10,0:11:00.37,Default,,0,0,0,,into the hungry folk that show up at my doorstep. {wayyyyyyyyyyy too long but i see what iskalibar is going for, probably shorten it --rapid}
 Dialogue: 10,0:11:00.37,0:11:02.79,Default,,0,0,0,,That's just how I run!
 Dialogue: 10,0:11:04.62,0:11:06.15,Default,,0,0,0,,That's beautiful!
-Dialogue: 10,0:11:06.65,0:11:11.11,Default,,0,0,0,,I should follow in your lead and put even more effort into supporting these girls!
-Dialogue: 10,0:11:11.11,0:11:13.28,Default,,0,0,0,,Aye, that’s the spirit!
-Dialogue: 10,0:11:13.28,0:11:15.07,Default,,0,0,0,,Here, have another one on the house! {ML fix tm pls}
-Dialogue: 10,0:11:13.44,0:11:16.66,Default,,0,0,0,,Thank you, please come again!
-Dialogue: 10,0:11:20.95,0:11:23.41,Default,,0,0,0,,See you tomorrow, Serika-chan.
-Dialogue: 10,0:11:23.95,0:11:24.66,Default,,0,0,0,,See you later {everyone but hoshino}
-Dialogue: 10,0:11:24.83,0:11:26.67,Default,,0,0,0,,{make up something more old man for hoshino, can't think of an old man goodbye statement}
-Dialogue: 10,0:11:28.21,0:11:31.21,Default,,0,0,0,,What was all that even about…
-Dialogue: 10,0:11:38.68,0:11:41.47,Default,,0,0,0,,Serika-chan. That’s enough for today.
-Dialogue: 10,0:11:41.47,0:11:42.68,Default,,0,0,0,,Sounds good!
-Dialogue: 10,0:11:46.14,0:11:47.73,Default,,0,0,0,,Hey, Serika-chan.
-Dialogue: 10,0:11:48.31,0:11:52.48,Default,,0,0,0,,That teacher really cares about his students. He’s a good man.
-Dialogue: 10,0:11:52.48,0:11:53.44,Default,,0,0,0,,Huh?
-Dialogue: 10,0:11:53.44,0:11:55.03,Default,,0,0,0,,Least, that’s what I think.
-Dialogue: 10,0:11:58.41,0:12:00.24,Default,,0,0,0,,I’ll be on my way, then.
-Dialogue: 10,0:12:16.97,0:12:18.72,Default,,0,0,0,,Hey. Heading home? {feel like hey doesn't really capture it, she's more noting "good job at work"--rapid}
-Dialogue: 10,0:12:26.06,0:12:28.98,Default,,0,0,0,,That ramen was good.
-Dialogue: 10,0:12:28.98,0:12:31.06,Default,,0,0,0,,The owner seems like a good person too.
-Dialogue: 10,0:12:31.06,0:12:33.57,Default,,0,0,0,,He seems like the reliable sort.
-Dialogue: 10,0:12:34.32,0:12:35.07,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:12:42.24,0:12:43.58,Default,,0,0,0,,Hey, Serika {think the "you know" ikskalibar had didn't flow--rapid}
-Dialogue: 10,0:12:43.58,0:12:44.20,Default,,0,0,0,,Hm?
-Dialogue: 10,0:12:45.62,0:12:49.46,Default,,0,0,0,,I think Sensei is also the kind of adult we can rely on. {maybe: I think we can rely on Sensei the same way}
-Dialogue: 10,0:12:54.75,0:12:57.26,Default,,0,0,0,,Bye, Serika. See you tomorrow.
-Dialogue: 10,0:13:00.76,0:13:04.05,Default,,0,0,0,,The boss said the exact same thing.
-Dialogue: 10,0:13:05.64,0:13:07.85,Default,,0,0,0,,Sensei... {omit the "ka" bc not really used in english in the same way}
-Dialogue: 10,0:13:09.31,0:13:12.27,Default,,0,0,0,,I wonder if I should just open up to him.
-Dialogue: 10,0:13:12.77,0:13:15.57,Default,,0,0,0,,No, no, I can’t!
-Dialogue: 10,0:13:15.57,0:13:17.44,Default,,0,0,0,,If i do, Abydos High School will..
-Dialogue: 10,0:13:23.41,0:13:25.41,Default,,0,0,0,,What is this...
-Dialogue: 10,0:13:33.33,0:13:35.00,Default,Sensei,0,0,0,,Wait, are you sure?!
-Dialogue: 10,0:13:35.29,0:13:37.30,Default,Hoshino,0,0,0,,Serika{*Serika-chan} is missing?
+Dialogue: 10,0:11:06.57,0:11:11.10,Default,,0,0,0,,I should follow in your lead and put even more effort into supporting these girls!
+Dialogue: 10,0:11:11.10,0:11:12.99,Default,,0,0,0,,Aye, that’s the spirit!
+Dialogue: 10,0:11:12.99,0:11:16.49,Default,,0,0,0,,Here, have another one on the house! {ML fix tm pls} {TM: Pretty sure these are in the right order}
+Dialogue: 10,0:11:13.25,0:11:15.26,Alt,,0,0,0,,Thank you, please come again! {TM: Check if this should snap, probably not?}
+Dialogue: 10,0:11:20.94,0:11:23.25,Default,,0,0,0,,See you tomorrow, Serika-chan.
+Dialogue: 10,0:11:23.86,0:11:24.81,Default,,0,0,0,,See you later {everyone but hoshino}
+Dialogue: 10,0:11:24.81,0:11:26.75,Default,,0,0,0,,{make up something more old man for hoshino, can't think of an old man goodbye statement}
+Dialogue: 10,0:11:28.18,0:11:29.75,Default,,0,0,0,,What was all that even about… {TM: Not sure if I want to time with the sigh, come back and add a commeted version I guess}
+Dialogue: 10,0:11:38.68,0:11:41.46,Default,,0,0,0,,Serika-chan. That’s enough for today.
+Dialogue: 10,0:11:41.46,0:11:42.47,Default,,0,0,0,,Sounds good!
+Dialogue: 10,0:11:46.16,0:11:47.77,Default,,0,0,0,,Hey, Serika-chan.
+Dialogue: 10,0:11:48.27,0:11:52.19,Default,,0,0,0,,That teacher really cares about his students. He’s a good man.
+Dialogue: 10,0:11:52.43,0:11:53.49,Default,,0,0,0,,Huh?
+Dialogue: 10,0:11:53.49,0:11:55.10,Default,,0,0,0,,Least, that’s what I think.
+Dialogue: 10,0:11:58.40,0:12:00.24,Default,,0,0,0,,I’ll be on my way, then.
+Dialogue: 10,0:12:16.76,0:12:18.76,Default,,0,0,0,,Hey. Heading home? {feel like hey doesn't really capture it, she's more noting "good job at work"--rapid}
+Dialogue: 10,0:12:26.04,0:12:29.02,Default,,0,0,0,,That ramen was good.
+Dialogue: 10,0:12:29.02,0:12:31.09,Default,,0,0,0,,The owner seems like a good person too.
+Dialogue: 10,0:12:31.09,0:12:33.60,Default,,0,0,0,,He seems like the reliable sort.
+Dialogue: 10,0:12:34.29,0:12:35.61,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:12:42.23,0:12:43.55,Default,,0,0,0,,Hey, Serika {think the "you know" ikskalibar had didn't flow--rapid}
+Dialogue: 10,0:12:43.55,0:12:44.12,Default,,0,0,0,,Hm?
+Dialogue: 10,0:12:45.56,0:12:49.37,Default,,0,0,0,,I think Sensei is also the kind of adult we can rely on. {maybe: I think we can rely on Sensei the same way}
+Dialogue: 10,0:12:54.59,0:12:57.33,Default,,0,0,0,,Bye, Serika. See you tomorrow.
+Dialogue: 10,0:13:00.68,0:13:04.10,Default,,0,0,0,,The boss said the exact same thing. {TM: Check for snap, likely not though}
+Dialogue: 10,0:13:05.69,0:13:08.10,Default,,0,0,0,,Sensei... {omit the "ka" bc not really used in english in the same way} {TM: Check this leadin}
+Dialogue: 10,0:13:09.30,0:13:12.33,Default,,0,0,0,,I wonder if I should just open up to him.
+Dialogue: 10,0:13:12.84,0:13:15.58,Default,,0,0,0,,No, no, I can’t!
+Comment: 10,0:13:15.58,0:13:16.86,Default,,0,0,0,,If I do, Abydos High School will... {TM: unmarked scene change in a really weird spot. I don't know if a snap would be good but adding it as an option.}
+Dialogue: 10,0:13:15.58,0:13:17.49,Default,,0,0,0,,If I do, Abydos High School will...
+Dialogue: 10,0:13:23.41,0:13:25.45,Default,,0,0,0,,What is this...
+Dialogue: 10,0:13:33.38,0:13:35.00,Default,Sensei,0,0,0,,Wait, are you sure?!
+Dialogue: 10,0:13:35.29,0:13:37.30,Default,Hoshino,0,0,0,,Serika{**-chan} is missing?
 Dialogue: 10,0:13:37.30,0:13:38.42,Default,Ayane,0,0,0,,I’m positive!
 Dialogue: 10,0:13:38.42,0:13:43.43,Default,Ayane,0,0,0,,She wasn't answering the door,\Nso I got worried and went into her room,
 Dialogue: 10,0:13:44.80,0:13:47.22,Default,Ayane,0,0,0,,but she wasn't there,\Nnor were her bags and uniform...
@@ -386,3 +387,5 @@ Data: 0,_aegi_folddata,e0;1;1
 Data: 1,_aegi_folddata,e1;1;1
 Data: 4,_aegi_folddata,e0;0;2
 Data: 5,_aegi_folddata,e1;0;2
+Data: 8,_aegi_folddata,e0;0;1
+Data: 9,_aegi_folddata,e1;0;1
