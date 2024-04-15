@@ -15,9 +15,9 @@ Video File: ../../../anime/seasonals/blue archive/[Ioroid] Blue Archive the Anim
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 183
-Active Line: 195
-Video Position: 19356
+Scroll Position: 30
+Active Line: 42
+Video Position: 5411
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -68,7 +68,7 @@ Dialogue: 0,0:03:33.03,0:03:35.35,Default,Ayane,0,0,0,,Good work, everyone.
 Dialogue: 0,0:03:35.74,0:03:40.20,Default,Ayane,0,0,0,,With this, we managed to recapture another one of the Helmet Gang's hideouts{拠点}.
 Dialogue: 0,0:03:40.20,0:03:41.74,Default,Shiroko,0,0,0,,Yep, looks like it.
 Dialogue: 0,0:03:41.91,0:03:44.20,Default,Arona,0,0,0,,Good work, {*}Teacher{*Sensei}.
-Dialogue: 0,0:03:44.20,0:03:45.71,Default,Sensei,0,0,0,,Thanks.
+Dialogue: 0,0:03:44.20,0:03:45.71,Default,Sensei,0,0,0,,Thanks, Arona
 Dialogue: 0,0:03:49.79,0:03:51.92,Default,Hoshino,0,0,0,,This old man's all tuckered out
 Dialogue: 0,0:03:51.92,0:03:53.38,Default,Hoshino,0,0,0,,I want to go home and sleep.
 Dialogue: 0,0:03:53.38,0:03:54.71,Default,Nonomi,0,0,0,,My, my.{*Ara ara}
