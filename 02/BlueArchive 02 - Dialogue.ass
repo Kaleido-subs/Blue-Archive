@@ -64,87 +64,89 @@ Dialogue: 0,0:01:47.17,0:01:50.99,Default,Arona,0,0,0,,And from now on, I’ll b
 Dialogue: 0,0:01:50.99,0:01:52.72,Default,Sensei,0,0,0,,Nice to meet you, Arona.
 Dialogue: 0,0:01:52.72,0:01:53.22,Default,Arona,0,0,0,,Yes!
 Dialogue: 0,0:01:53.74,0:01:56.43,Default,Arona,0,0,0,,Nice to meet you, too, {*}Teacher{*Sensei}!
-Dialogue: 0,0:03:28.19,0:03:29.40,Default,,0,0,0,,Ahh! Run away!
-Dialogue: 0,0:03:29.40,0:03:30.98,Default,,0,0,0,,Retreat!
+Dialogue: 0,0:03:28.10,0:03:29.38,Default,,0,0,0,,Ahh! Run away!
+Dialogue: 0,0:03:29.38,0:03:30.98,Default,,0,0,0,,Retreat!
 Comment: 0,0:03:31.23,0:03:33.03,Default,,0,0,0,,
-Dialogue: 0,0:03:33.03,0:03:35.35,Default,Ayane,0,0,0,,Good work, everyone.
-Dialogue: 0,0:03:35.74,0:03:40.20,Default,Ayane,0,0,0,,With this, we managed to recapture another one of the Helmet Gang's hideouts{拠点}.
-Dialogue: 0,0:03:40.20,0:03:41.74,Default,Shiroko,0,0,0,,Yep, looks like it.
-Dialogue: 0,0:03:41.91,0:03:44.20,Default,Arona,0,0,0,,Good work, {*}Teacher{*Sensei}.
-Dialogue: 0,0:03:44.20,0:03:45.71,Default,Sensei,0,0,0,,Thanks, Arona
-Dialogue: 0,0:03:49.79,0:03:51.92,Default,Hoshino,0,0,0,,This old man's all tuckered out
-Dialogue: 0,0:03:51.92,0:03:53.38,Default,Hoshino,0,0,0,,I want to go home and sleep.
-Dialogue: 0,0:03:53.38,0:03:54.71,Default,Nonomi,0,0,0,,My, my.{*Ara ara}
-Dialogue: 0,0:03:54.88,0:03:57.22,Default,Sensei,0,0,0,,In that case, lets head back.
+Dialogue: 0,0:03:33.02,0:03:35.74,Default,Ayane,0,0,0,,Good work, everyone.
+Dialogue: 0,0:03:35.74,0:03:40.15,Default,Ayane,0,0,0,,With this, we managed to recapture another one of the Helmet Gang's hideouts{拠点}.
+Dialogue: 0,0:03:40.15,0:03:41.74,Default,Shiroko,0,0,0,,Yep, looks like it.
+Dialogue: 0,0:03:41.74,0:03:44.24,Default,Arona,0,0,0,,Good work, {*}Teacher{*Sensei}.
+Dialogue: 0,0:03:44.24,0:03:45.71,Default,Sensei,0,0,0,,Thanks, Arona
+Dialogue: 0,0:03:49.80,0:03:51.73,Default,Hoshino,0,0,0,,This old man's all tuckered out
+Dialogue: 0,0:03:51.73,0:03:53.35,Default,Hoshino,0,0,0,,I want to go home and sleep.
+Dialogue: 0,0:03:53.35,0:03:54.71,Default,Nonomi,0,0,0,,My, my.{*Ara ara}
+Dialogue: 0,0:03:54.71,0:03:57.22,Default,Sensei,0,0,0,,In that case, lets head back.
 Dialogue: 0,0:03:57.22,0:03:58.22,Default,Hoshino,0,0,0,,Okaaaay.
-Dialogue: 0,0:03:57.43,0:03:58.22,Default,Nonomi,0,0,0,,Okay!
-Dialogue: 0,0:04:02.22,0:04:04.35,Default,,0,0,0,,Concerning the Helmet Gang,
+Dialogue: 0,0:03:57.45,0:03:58.22,Alt,Nonomi,0,0,0,,Okay!
+Dialogue: 0,0:04:02.25,0:04:04.35,Default,,0,0,0,,Concerning the Helmet Gang,
 Dialogue: 0,0:04:04.35,0:04:08.35,Default,,0,0,0,,We manged to take down their closest base, so we shouldn't be bothered by them for now.
-Dialogue: 0,0:04:08.77,0:04:10.56,Default,,0,0,0,,It’s all thanks to {*}our teacher{*Sensei}.
-Dialogue: 0,0:04:10.56,0:04:12.86,Default,,0,0,0,,I didn't really do much.
-Dialogue: 0,0:04:12.86,0:04:14.11,Default,,0,0,0,,There you go, being modest.
-Dialogue: 0,0:04:14.11,0:04:16.90,Default,,0,0,0,,You are {\i1}the{\i0} Teacher{*Sensei} of Shale, after all.
-Dialogue: 0,0:04:18.57,0:04:21.57,Default,,0,0,0,,We can finally focus on repaying our debt.
-Dialogue: 0,0:04:21.57,0:04:24.74,Default,,0,0,0,,By the way, how much is it anyway?
-Dialogue: 0,0:04:25.75,0:04:27.41,Default,,0,0,0,,Around 900 million, I think?
-Dialogue: 0,0:04:28.25,0:04:29.37,Default,,0,0,0,,900 million?!
-Dialogue: 0,0:04:29.37,0:04:33.42,Default,,0,0,0,,962,350,000 credits to be exact,
-Dialogue: 0,0:04:33.96,0:04:36.38,Default,,0,0,0,,How in the world\Ndid you rack up that much debt?
-Dialogue: 0,0:04:40.64,0:04:42.26,Default,,0,0,0,,A few decades ago,
-Dialogue: 0,0:04:42.26,0:04:46.89,Default,,0,0,0,,an enormous sandstorm occurred in the Abydos suburbs.
-Dialogue: 0,0:04:47.31,0:04:49.89,Default,,0,0,0,,The scale of the storm was beyond anyone's imagination.
-Dialogue: 0,0:04:50.27,0:04:53.69,Default,,0,0,0,,Every last corner of the Abydos district were buried in sand
-Dialogue: 0,0:04:54.65,0:04:57.61,Default,,0,0,0,,It was extremely costly to repair the damage,
-Dialogue: 0,0:04:57.61,0:05:01.45,Default,,0,0,0,,but they couldn't find any bank to loan them the money…
-Dialogue: 0,0:05:01.45,0:05:06.29,Default,,0,0,0,,Eventually they had to turn to Kaiser Loan, a predatory financial agency
-Dialogue: 0,0:05:07.79,0:05:11.79,Default,,0,0,0,,I believe it started as a small sum, something that could easily be paid off.
-Dialogue: 0,0:05:12.71,0:05:13.79,Default,,0,0,0,,But…
-Dialogue: 0,0:05:15.21,0:05:19.88,Default,,0,0,0,,Giant sandstorms continued to hit Abydos over and over again.
-Dialogue: 0,0:05:19.88,0:05:24.30,Default,,0,0,0,,Eventually, over half of Abydos was swallowed up by the sand.
-Dialogue: 0,0:05:25.18,0:05:27.14,Default,,0,0,0,,The students lost all hope, and in the end,
-Dialogue: 0,0:05:27.14,0:05:30.77,Default,,0,0,0,,All that remained was the massively bloated debt.
-Dialogue: 0,0:05:31.39,0:05:33.40,Default,,0,0,0,,If we can't pay off the debt
-Dialogue: 0,0:05:33.40,0:05:35.73,Default,,0,0,0,,the loan will default to the bank,
-Dialogue: 0,0:05:35.73,0:05:38.32,Default,,0,0,0,,And we'll be forced to close the school for good.
-Dialogue: 0,0:05:39.07,0:05:44.32,Default,,0,0,0,,Still, the odds of us actually paying everything off are close to none....
-Dialogue: 0,0:05:44.32,0:05:48.74,Default,,0,0,0,,Nearly all of the students gave up and left the school.
-Dialogue: 0,0:05:48.74,0:05:51.58,Default,,0,0,0,,We’re all that’s left.
-Dialogue: 0,0:05:53.96,0:05:57.00,Default,,0,0,0,,Well, that's the story. Sorry to bore you.
-Dialogue: 0,0:06:00.01,0:06:02.34,Default,,0,0,0,,Thank you for telling me your story.
-Dialogue: 0,0:06:03.13,0:06:07.01,Default,,0,0,0,,I understand what you're going through a little better now.
-Dialogue: 0,0:06:07.68,0:06:10.02,Default,,0,0,0,,You certainly have a lot of debt.
-Dialogue: 0,0:06:10.02,0:06:12.98,Default,,0,0,0,,But you can’t just give up, either.
-Dialogue: 0,0:06:12.98,0:06:16.73,Default,,0,0,0,,Isn’t that right, everyone?\NIf it’s alright with you,
-Dialogue: 0,0:06:16.73,0:06:19.07,Default,,0,0,0,,Could I continue helping you as your teacher?
-Dialogue: 0,0:06:19.07,0:06:20.69,Default,,0,0,0,,You mean…?
-Dialogue: 0,0:06:20.69,0:06:21.90,Default,,0,0,0,,Y- Yes!
-Dialogue: 0,0:06:21.90,0:06:24.03,Default,,0,0,0,,We’d be happy to have you.
-Dialogue: 0,0:06:24.03,0:06:25.41,Default,,0,0,0,,Is that really ok?
-Dialogue: 0,0:06:26.12,0:06:29.66,Default,,0,0,0,,He’s still an outsider at the end of the day.
-Dialogue: 0,0:06:29.66,0:06:34.37,Default,,0,0,0,,But he also give us a new point of view to our problems.
-Dialogue: 0,0:06:34.37,0:06:35.58,Default,,0,0,0,,Even so!
-Dialogue: 0,0:06:36.38,0:06:40.38,Default,,0,0,0,,Until now, we've taken care of our school's problems just fine!
-Dialogue: 0,0:06:40.38,0:06:43.30,Default,,0,0,0,,But now we're supposed to listen to this newbie grown-up? {old line was way too wordy, did my best to shorten. old line: But now suddenly this grown-up shows up and we’re supposed to just do what he says? --rapid}
-Dialogue: 0,0:06:43.30,0:06:46.18,Default,,0,0,0,,I just want to help all of you...
-Dialogue: 0,0:06:46.18,0:06:48.18,Default,,0,0,0,,Oh, how very gracious of you!
-Dialogue: 0,0:06:49.01,0:06:51.77,Default,,0,0,0,,I won’t accept this!
-Dialogue: 0,0:06:52.64,0:06:53.89,Default,,0,0,0,,Serika-chan!
-Dialogue: 0,0:06:57.15,0:07:00.40,Default,,0,0,0,,What’s wrong with them?\NSensei this, Sensei that.
-Dialogue: 0,0:07:21.63,0:07:23.55,Default,,0,0,0,,What’s wrong, Sensei?
-Dialogue: 0,0:07:23.55,0:07:26.01,Default,,0,0,0,,Well, yesterday after school…
-Dialogue: 0,0:07:27.26,0:07:29.43,Default,,0,0,0,,Hey there, Serika. Heading home?
-Dialogue: 0,0:07:33.10,0:07:36.44,Default,,0,0,0,,Hey, Serika. Why don't we chat over some tea? {coffee is more natual, but i digress --rapid}
-Dialogue: 0,0:07:39.15,0:07:41.86,Default,,0,0,0,,H-hey there, Serika. Could we maybe talk…?
-Dialogue: 0,0:07:41.86,0:07:44.19,Default,,0,0,0,,What’s your problem?! Quit stalking me!
-Dialogue: 0,0:07:45.70,0:07:50.45,Default,,0,0,0,,Well, I feel like anyone would get angry at that, not just our Serika. {not just our Tsundere Serika -- rapid}
-Dialogue: 0,0:07:51.33,0:07:55.16,Default,,0,0,0,,Speaking of Serika, I know she always leaves right after school,
-Dialogue: 0,0:07:55.16,0:07:56.91,Default,,0,0,0,,but where does she goes?
-Dialogue: 0,0:07:56.91,0:08:00.88,Default,,0,0,0,,Now that you mention it, she's always slow to reply on Momotalk, too. {she always takes a while to reply --rapid}
-Dialogue: 0,0:08:00.88,0:08:02.46,Default,,0,0,0,,That true.
-Dialogue: 0,0:08:03.38,0:08:08.47,Default,,0,0,0,,Oh, then, why don’t we tail Serika-chan after school to see where she goes?
-Dialogue: 0,0:08:08.68,0:08:09.55,Default,,0,0,0,,Eh?
-Dialogue: 0,0:08:09.55,0:08:11.10,Default,,0,0,0,,Great idea!
-Dialogue: 0,0:08:12.47,0:08:13.64,Default,,0,0,0,,Morning.
+Dialogue: 0,0:04:08.78,0:04:10.54,Default,,0,0,0,,It’s all thanks to {*}our teacher{*Sensei}.
+Dialogue: 0,0:04:10.54,0:04:12.82,Default,,0,0,0,,I didn't really do much.
+Dialogue: 0,0:04:12.82,0:04:14.11,Default,,0,0,0,,There you go, being modest.
+Dialogue: 0,0:04:14.11,0:04:17.02,Default,,0,0,0,,You are {\i1}the{\i0} Teacher{*Sensei} of Shale, after all.
+Dialogue: 0,0:04:18.58,0:04:21.55,Default,,0,0,0,,We can finally focus on repaying our debt.
+Dialogue: 0,0:04:21.55,0:04:24.74,Default,,0,0,0,,By the way, how much is it anyway?
+Dialogue: 0,0:04:25.74,0:04:27.62,Default,,0,0,0,,Around 900 million, I think?
+Dialogue: 0,0:04:28.38,0:04:29.35,Default,,0,0,0,,900 million?!
+Dialogue: 0,0:04:29.35,0:04:33.97,Default,,0,0,0,,962,350,000 credits to be exact, {TM: come back to this}
+Dialogue: 0,0:04:33.97,0:04:36.38,Default,,0,0,0,,How in the world\Ndid you rack up that much debt?
+Dialogue: 0,0:04:40.65,0:04:42.21,Default,,0,0,0,,A few decades ago,
+Dialogue: 0,0:04:42.21,0:04:46.89,Default,,0,0,0,,an enormous sandstorm occurred in the Abydos suburbs.
+Dialogue: 0,0:04:47.28,0:04:49.89,Default,,0,0,0,,The scale of the storm was beyond anyone's imagination.
+Dialogue: 0,0:04:50.28,0:04:53.74,Default,,0,0,0,,Every last corner of the Abydos district were buried in sand
+Dialogue: 0,0:04:54.40,0:04:57.60,Default,,0,0,0,,It was extremely costly to repair the damage,
+Dialogue: 0,0:04:57.60,0:05:01.45,Default,,0,0,0,,but they couldn't find any bank to loan them the money…
+Dialogue: 0,0:05:01.45,0:05:06.66,Default,,0,0,0,,Eventually they had to turn to Kaiser Loan, a predatory financial agency.
+Dialogue: 0,0:05:07.75,0:05:12.17,Default,,0,0,0,,I believe it started as a small sum, something that could easily be paid off.
+Dialogue: 0,0:05:12.70,0:05:13.84,Default,,0,0,0,,But…
+Dialogue: 0,0:05:15.20,0:05:19.67,Default,,0,0,0,,Giant sandstorms continued to hit Abydos over and over again.
+Dialogue: 0,0:05:19.67,0:05:24.18,Default,,0,0,0,,Eventually, over half of Abydos was swallowed up by the sand.
+Dialogue: 0,0:05:25.20,0:05:27.10,Default,,0,0,0,,The students lost all hope, and in the end,
+Dialogue: 0,0:05:27.10,0:05:31.06,Default,,0,0,0,,All that remained was the massively bloated debt.
+Dialogue: 0,0:05:31.37,0:05:33.40,Default,,0,0,0,,If we can't pay off the debt {TM: Might snap}
+Dialogue: 0,0:05:33.40,0:05:35.65,Default,,0,0,0,,the loan will default to the bank,
+Dialogue: 0,0:05:35.65,0:05:38.57,Default,,0,0,0,,and we'll be forced to close the school for good. {TM: Might snap? Probably not}
+Dialogue: 0,0:05:39.07,0:05:43.56,Default,,0,0,0,,Still, the odds of us actually paying everything off are close to none....
+Dialogue: 0,0:05:44.14,0:05:48.33,Default,,0,0,0,,Nearly all of the students gave up and left the school.
+Dialogue: 0,0:05:48.76,0:05:52.08,Default,,0,0,0,,We’re all that’s left.
+Dialogue: 0,0:05:53.96,0:05:56.63,Default,,0,0,0,,Well, that's the story. Sorry to bore you.
+Dialogue: 0,0:05:59.99,0:06:02.35,Default,,0,0,0,,Thank you for telling me your story. {TM: Check}
+Dialogue: 0,0:06:03.12,0:06:06.89,Default,,0,0,0,,I understand what you're going through a little better now. {TM: Might snap}
+Dialogue: 0,0:06:07.66,0:06:10.01,Default,,0,0,0,,You certainly have a lot of debt.
+Dialogue: 0,0:06:10.01,0:06:12.99,Default,,0,0,0,,But you can’t just give up, either.
+Dialogue: 0,0:06:12.99,0:06:16.72,Default,,0,0,0,,Isn’t that right, everyone?\NIf it’s alright with you,
+Comment: 0,0:06:12.99,0:06:14.40,Default,,0,0,0,,Isn’t that right, everyone? {TM: Split ver}
+Comment: 0,0:06:14.40,0:06:16.72,Default,,0,0,0,,If it’s alright with you,
+Dialogue: 0,0:06:16.72,0:06:19.07,Default,,0,0,0,,Could I continue helping you as your teacher?
+Dialogue: 0,0:06:19.07,0:06:20.40,Default,,0,0,0,,You mean…?
+Dialogue: 0,0:06:20.73,0:06:21.88,Default,,0,0,0,,Y- Yes!
+Dialogue: 0,0:06:21.88,0:06:24.06,Default,,0,0,0,,We’d be happy to have you.
+Dialogue: 0,0:06:24.06,0:06:25.91,Default,,0,0,0,,Is that really ok?
+Dialogue: 0,0:06:25.91,0:06:29.41,Default,,0,0,0,,He’s still an outsider at the end of the day.
+Dialogue: 0,0:06:29.65,0:06:34.30,Default,,0,0,0,,But he also give us a new point of view to our problems. {TM: Might snap}
+Dialogue: 0,0:06:34.30,0:06:35.96,Default,,0,0,0,,Even so! {TM: Check leadin}
+Dialogue: 0,0:06:36.44,0:06:39.96,Default,,0,0,0,,Until now, we've taken care of our school's problems just fine!
+Dialogue: 0,0:06:40.29,0:06:43.31,Default,,0,0,0,,But now we're supposed to listen to this newbie grown-up? {old line was way too wordy, did my best to shorten. old line: But now suddenly this grown-up shows up and we’re supposed to just do what he says? --rapid} {TM: Might snap?}
+Dialogue: 0,0:06:43.31,0:06:46.16,Default,,0,0,0,,I just want to help all of you...
+Dialogue: 0,0:06:46.16,0:06:48.30,Default,,0,0,0,,Oh, how very gracious of you! {TM: Check leadin}
+Dialogue: 0,0:06:48.86,0:06:51.56,Default,,0,0,0,,I won’t accept this!
+Dialogue: 0,0:06:52.52,0:06:53.98,Default,,0,0,0,,Serika-chan!
+Dialogue: 0,0:06:56.98,0:07:00.23,Default,,0,0,0,,What’s wrong with them?\NSensei this, Sensei that.
+Dialogue: 0,0:07:21.64,0:07:23.54,Default,,0,0,0,,What’s wrong, Sensei?
+Dialogue: 0,0:07:23.54,0:07:26.06,Default,,0,0,0,,Well, yesterday after school…
+Dialogue: 0,0:07:27.30,0:07:29.44,Default,,0,0,0,,Hey there, Serika. Heading home?
+Dialogue: 0,0:07:33.12,0:07:36.69,Default,,0,0,0,,Hey, Serika. Why don't we chat over some tea? {coffee is more natual, but i digress --rapid}
+Dialogue: 0,0:07:39.14,0:07:41.88,Default,,0,0,0,,H-Hey there, Serika. Could we maybe talk…?
+Dialogue: 0,0:07:41.88,0:07:43.98,Default,,0,0,0,,What’s your problem?! Quit stalking me!
+Dialogue: 0,0:07:45.49,0:07:49.99,Default,,0,0,0,,Well, I feel like anyone would get angry at that, not just our Serika. {not just our Tsundere Serika -- rapid}
+Dialogue: 0,0:07:51.30,0:07:55.18,Default,,0,0,0,,Speaking of Serika, I know she always leaves right after school,
+Dialogue: 0,0:07:55.18,0:07:56.94,Default,,0,0,0,,but where does she go?
+Dialogue: 0,0:07:56.94,0:08:00.83,Default,,0,0,0,,Now that you mention it, she's always slow to reply on Momotalk, too. {she always takes a while to reply --rapid}
+Dialogue: 0,0:08:00.83,0:08:02.40,Default,,0,0,0,,That's true.
+Dialogue: 0,0:08:03.41,0:08:08.38,Default,,0,0,0,,Oh, then, why don’t we tail Serika-chan after school to see where she goes?
+Dialogue: 0,0:08:08.66,0:08:09.56,Default,,0,0,0,,Eh?
+Dialogue: 0,0:08:09.56,0:08:11.08,Default,,0,0,0,,Great idea!
+Dialogue: 0,0:08:12.30,0:08:13.73,Default,,0,0,0,,Morning.
 Dialogue: 0,0:08:31.32,0:08:34.49,Default,,0,0,0,,The target is passing through Point A.
 Dialogue: 0,0:08:34.49,0:08:36.50,Default,,0,0,0,,Now following the target.
 Dialogue: 0,0:08:36.83,0:08:38.50,Default,,0,0,0,,Will continue behind them.
