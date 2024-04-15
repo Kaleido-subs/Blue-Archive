@@ -27,14 +27,14 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=0}---- Chapters
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=8}---- Chapters
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Comment: 0,0:01:57.51,0:01:57.51,Default,chapter,0,0,0,,{OP}
 Comment: 0,0:02:02.81,0:02:02.85,Default,,0,0,0,opsync,{OPSync — First hard cut (sunrise shot)}
 Comment: 0,0:03:27.48,0:03:27.48,Default,chapter,0,0,0,,{Part A}
 Comment: 0,0:13:32.46,0:13:32.46,Default,chapter,0,0,0,,{Part B}?
 Comment: 0,0:21:46.45,0:21:46.45,Default,chapter,0,0,0,,{ED}
-Comment: 0,0:23:16.42,0:23:16.42,Default,chapter,0,0,0,,{=1}{Outro}
+Comment: 0,0:23:16.42,0:23:16.42,Default,chapter,0,0,0,,{=9}{Outro}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=4}---- Dialogue
 Dialogue: 10,0:00:13.35,0:00:16.87,Default,Rin,0,0,0,,Seems like you were able to safely recapture Schale HQ, Teacher{**Sensei}.
 Dialogue: 10,0:00:17.33,0:00:19.25,Default,Sensei,0,0,0,,Its was a group effort, Rin.
@@ -229,162 +229,161 @@ Comment: 10,0:13:15.58,0:13:16.86,Default,,0,0,0,,If I do, Abydos High School wi
 Dialogue: 10,0:13:15.58,0:13:17.49,Default,,0,0,0,,If I do, Abydos High School will...
 Dialogue: 10,0:13:23.41,0:13:25.45,Default,,0,0,0,,What is this...
 Dialogue: 10,0:13:33.38,0:13:35.00,Default,Sensei,0,0,0,,Wait, are you sure?!
-Dialogue: 10,0:13:35.29,0:13:37.30,Default,Hoshino,0,0,0,,Serika{**-chan} is missing?
-Dialogue: 10,0:13:37.30,0:13:38.42,Default,Ayane,0,0,0,,I’m positive!
-Dialogue: 10,0:13:38.42,0:13:43.43,Default,Ayane,0,0,0,,She wasn't answering the door,\Nso I got worried and went into her room,
-Dialogue: 10,0:13:44.80,0:13:47.22,Default,Ayane,0,0,0,,but she wasn't there,\Nnor were her bags and uniform...
-Dialogue: 10,0:13:47.64,0:13:49.10,Default,Nonomi,0,0,0,,Did you try calling her?
-Dialogue: 10,0:13:49.10,0:13:51.73,Default,Ayane,0,0,0,,Yes, but she hasn't been picking up!
+Dialogue: 10,0:13:35.34,0:13:37.30,Default,Hoshino,0,0,0,,Serika{**-chan} is missing?
+Dialogue: 10,0:13:37.30,0:13:38.42,Default,Ayane,0,0,0,,I'm positive!
+Dialogue: 10,0:13:38.42,0:13:43.45,Default,Ayane,0,0,0,,She wasn't answering the door,\Nso I got worried and went into her room,
+Dialogue: 10,0:13:44.76,0:13:47.22,Default,Ayane,0,0,0,,but she wasn't there,\Nnor were her bags and uniform...
+Dialogue: 10,0:13:47.62,0:13:49.12,Default,Nonomi,0,0,0,,Did you try calling her?
+Dialogue: 10,0:13:49.12,0:13:51.73,Default,Ayane,0,0,0,,Yes, but she hasn't been picking up!
 Dialogue: 10,0:13:51.73,0:13:54.06,Default,Shiroko,0,0,0,,No way, did something happen last night ...?
-Dialogue: 10,0:13:54.06,0:13:55.90,Default,Sensei,0,0,0,,Everyone, stay calm. {did we use girls or everyone last episode --rapid}
-Dialogue: 10,0:14:01.07,0:14:03.99,Default,Arona,0,0,0,,Ah, my old friend, the sea.{微妙}
-Comment: 10,0:14:05.32,0:14:05.95,Default,Arona,0,0,0,,Huh?
-Dialogue: 10,0:14:06.20,0:14:08.08,Default,Arona,0,0,0,,Huh? Ah, hello, Sense—
-Dialogue: 10,0:14:07.03,0:14:08.08,Default,Sensei,0,0,0,,Arona!
+Dialogue: 10,0:13:54.06,0:13:55.95,Default,Sensei,0,0,0,,Everyone, stay calm. {did we use girls or everyone last episode --rapid}
+Dialogue: 10,0:14:01.07,0:14:04.07,Default,Arona,0,0,0,,Ah, my old friend, the sea.{微妙}
+Comment: 10,0:14:05.24,0:14:05.95,Default,Arona,0,0,0,,Huh?
+Dialogue: 10,0:14:05.95,0:14:08.08,Default,Arona,0,0,0,,Huh? Ah, hello, Sense—
+Dialogue: 10,0:14:07.08,0:14:08.08,Alt,Sensei,0,0,0,,Arona!
 Dialogue: 10,0:14:08.08,0:14:09.20,Default,Arona,0,0,0,,I need your help!
-Dialogue: 10,0:14:09.66,0:14:11.71,Default,Sensei,0,0,0,,Please find Serika's location, quickly! {might be better to drop the location bc he is being urgent --rapid}
-Dialogue: 10,0:14:12.46,0:14:14.71,Default,Arona,0,0,0,,Huh? O-of course!
-Dialogue: 10,0:14:17.09,0:14:18.84,Default,Sensei,0,0,0,,I've identified Serika's location!
-Dialogue: 10,0:14:19.34,0:14:21.22,Default,Nonomi,0,0,0,,What? H-how?
-Dialogue: 10,0:14:21.22,0:14:24.47,Default,Sensei,0,0,0,,I tapped into the GSC’s central network
-Dialogue: 10,0:14:24.59,0:14:26.64,Default,Sensei,0,0,0,,and used it to locate Serika's smartphone.
-Dialogue: 10,0:14:26.64,0:14:28.31,Default,Ayane,0,0,0,,How did you even get those privileges?!
-Dialogue: 10,0:14:28.31,0:14:30.14,Default,Shiroko,0,0,0,,Never mind that, where is Serika?
-Comment: 10,0:14:30.14,0:14:30.85,Default,Sensei,0,0,0,,
-Dialogue: 10,0:14:31.06,0:14:33.10,Default,Sensei,0,0,0,,It looks like she's still in transit.
-Dialogue: 10,0:14:33.60,0:14:35.65,Default,Nonomi,0,0,0,,The desert area in the suburbs?
-Dialogue: 10,0:14:36.27,0:14:41.19,Default,Nonomi,0,0,0,,Ah, this is near a route the Kata-Kata Helmet Gang was confirmed to be using!
+Dialogue: 10,0:14:09.71,0:14:11.71,Default,Sensei,0,0,0,,Please find Serika's location, quickly! {might be better to drop the location bc he is being urgent --rapid}
+Dialogue: 10,0:14:12.49,0:14:14.71,Default,Arona,0,0,0,,Huh? O-Of course!
+Dialogue: 10,0:14:17.08,0:14:19.21,Default,Sensei,0,0,0,,I've identified Serika's location!
+Dialogue: 10,0:14:19.21,0:14:21.23,Default,Nonomi,0,0,0,,What? H-How?
+Dialogue: 10,0:14:21.23,0:14:24.47,Default,Sensei,0,0,0,,I tapped into the GSC’s central network
+Dialogue: 10,0:14:24.47,0:14:26.63,Default,Sensei,0,0,0,,and used it to locate Serika's smartphone.
+Dialogue: 10,0:14:26.63,0:14:28.30,Default,Ayane,0,0,0,,How did you even get those privileges?!
+Dialogue: 10,0:14:28.30,0:14:30.60,Default,Shiroko,0,0,0,,Never mind that, where is Serika?
+Comment: 10,0:14:30.15,0:14:30.60,Default,Sensei,0,0,0,,
+Dialogue: 10,0:14:31.10,0:14:33.10,Default,Sensei,0,0,0,,It looks like she's still in transit.
+Dialogue: 10,0:14:33.55,0:14:36.11,Default,Nonomi,0,0,0,,The desert area in the suburbs?
+Dialogue: 10,0:14:36.11,0:14:41.61,Default,Nonomi,0,0,0,,Ah, this is near a route the Kata-Kata Helmet Gang was confirmed to be using!
 Dialogue: 10,0:14:41.94,0:14:45.07,Default,Hoshino,0,0,0,,So they're taking a hostage to threaten us this time?
 Dialogue: 10,0:14:45.07,0:14:47.12,Default,Nonomi,0,0,0,,No sense in thinking about that now.
-Dialogue: 10,0:14:47.12,0:14:49.45,Default,Nonomi,0,0,0,,We need to hurry and rescue Serika{*Serika-chan}!
+Dialogue: 10,0:14:47.12,0:14:49.50,Default,Nonomi,0,0,0,,We need to hurry and rescue Serika{**-chan}!
 Dialogue: 10,0:14:51.70,0:14:52.79,Default,Ayane,0,0,0,,Wait one minute!
-Dialogue: 10,0:15:08.64,0:15:11.85,Default,Serika,0,0,0,,I’m… in a car?
-Dialogue: 10,0:15:13.23,0:15:15.56,Default,Serika,0,0,0,,Was I… kidnapped?
-Dialogue: 10,0:15:17.77,0:15:20.61,Default,Serika,0,0,0,,Wait, are we going through the desert?{literal: Wait, is this perhaps around the desert area?}
+Dialogue: 10,0:15:08.67,0:15:11.94,Default,Serika,0,0,0,,I'm… in a car?
+Dialogue: 10,0:15:12.89,0:15:15.75,Default,Serika,0,0,0,,Was I… kidnapped?
+Dialogue: 10,0:15:17.94,0:15:20.62,Default,Serika,0,0,0,,Wait, are we going through the desert?{literal: Wait, is this perhaps around the desert area?}
 Dialogue: 10,0:15:21.78,0:15:23.40,Default,,0,0,0,,Transport squad speaking.
-Dialogue: 10,0:15:23.40,0:15:26.16,Default,,0,0,0,,Come in, Kata-Kata Helmet Gang HQ.
-Dialogue: 10,0:15:26.91,0:15:28.91,Default,,0,0,0,,Kata-Kata Helmet Gang HQ speaking.
-Dialogue: 10,0:15:29.20,0:15:32.08,Default,,0,0,0,,You're late, transport squad.\NWhat the hold up?
-Dialogue: 10,0:15:32.08,0:15:33.91,Default,,0,0,0,,The client will be here any minute.
-Dialogue: 10,0:15:34.12,0:15:36.92,Default,,0,0,0,,What are going to do if you\N don't make it for the hand-off? {couldn't decide between more literal an more expletive ikskalibars version: "If you don’t hurry the hell up you won’t make the hand-off!" this is less literal (HQ is asking a question, this is not) but it gets the energy across better as a sacrifice}
-Dialogue: 10,0:15:36.92,0:15:40.17,Default,,0,0,0,,Relax. We'll be there in 10 minutes. {sikha had eta -- rapid}
-Dialogue: 10,0:15:40.34,0:15:42.63,Default,,0,0,0,,Whatever, just hurry up!
-Dialogue: 10,0:15:42.63,0:15:43.92,Default,,0,0,0,,Rodger
-Dialogue: 10,0:15:43.92,0:15:46.51,Default,Serika,0,0,0,,I need to get out of here…
-Dialogue: 10,0:15:47.93,0:15:48.93,Default,Serika,0,0,0,,Damnit!
-Dialogue: 10,0:15:49.80,0:15:51.18,Default,Serika,0,0,0,,What should I do....
-Dialogue: 10,0:15:51.18,0:15:53.68,Default,Serika,0,0,0,,Everyone must be worried sick…
-Dialogue: 10,0:15:54.27,0:15:58.19,Default,Serika,0,0,0,,Are they going to bury me somewhere in the desert?
-Dialogue: 10,0:15:59.56,0:16:00.94,Default,Serika,0,0,0,,I want...
-Dialogue: 10,0:16:00.94,0:16:02.94,Default,Serika,0,0,0,,to see everyone again....
-Dialogue: 10,0:16:10.12,0:16:11.03,Default,Serika,0,0,0,,W-What?!
-Dialogue: 10,0:16:16.58,0:16:18.96,Default,Hoshino,0,0,0,,Nice going, Shiroko{*Shiroko-chan}!
-Dialogue: 10,0:16:18.96,0:16:21.13,Default,Nonomi,0,0,0,,Let’s hurry and get Serika-chan out of there!
-Dialogue: 10,0:16:21.46,0:16:24.38,Default,Sensei,0,0,0,,Ayane! Where'd you get this buggy?
+Dialogue: 10,0:15:23.40,0:15:26.20,Default,,0,0,0,,Come in, Kata-Kata Helmet Gang HQ.
+Dialogue: 10,0:15:26.71,0:15:28.91,Default,,0,0,0,,Kata-Kata Helmet Gang HQ speaking.
+Dialogue: 10,0:15:29.18,0:15:32.07,Default,,0,0,0,,You're late, transport squad.\NWhat the hold up?
+Dialogue: 10,0:15:32.07,0:15:33.91,Default,,0,0,0,,The client will be here any minute.
+Dialogue: 10,0:15:34.14,0:15:36.78,Default,,0,0,0,,What are going to do if you\N don't make it for the hand-off? {couldn't decide between more literal an more expletive ikskalibars version: "If you don’t hurry the hell up you won’t make the hand-off!" this is less literal (HQ is asking a question, this is not) but it gets the energy across better as a sacrifice} {TM: Check if snap}
+Dialogue: 10,0:15:36.78,0:15:40.17,Default,,0,0,0,,Relax. We'll be there in 10 minutes. {sikha had eta -- rapid}
+Dialogue: 10,0:15:40.17,0:15:42.66,Default,,0,0,0,,Whatever, just hurry up!
+Dialogue: 10,0:15:42.66,0:15:43.92,Default,,0,0,0,,Rodger
+Dialogue: 10,0:15:43.92,0:15:46.59,Default,Serika,0,0,0,,I need to get out of here…
+Dialogue: 10,0:15:47.97,0:15:49.43,Default,Serika,0,0,0,,Damnit!
+Dialogue: 10,0:15:49.68,0:15:51.08,Default,Serika,0,0,0,,What should I do.... {TM: Snap?}
+Dialogue: 10,0:15:51.08,0:15:53.68,Default,Serika,0,0,0,,Everyone must be worried sick…
+Dialogue: 10,0:15:54.30,0:15:58.26,Default,Serika,0,0,0,,Are they going to bury me somewhere in the desert? {TM: Might split?}
+Dialogue: 10,0:15:59.58,0:16:00.94,Default,Serika,0,0,0,,I want...
+Dialogue: 10,0:16:01.63,0:16:02.88,Default,Serika,0,0,0,,to see everyone again.... {TM: Double check}
+Dialogue: 10,0:16:10.17,0:16:11.03,Default,Serika,0,0,0,,W-What?! {TM: Check}
+Dialogue: 10,0:16:16.49,0:16:18.97,Default,Hoshino,0,0,0,,Nice going, Shiroko{**-chan}! {TM: Probably snap}
+Dialogue: 10,0:16:18.97,0:16:21.13,Default,Nonomi,0,0,0,,Let's hurry and get Serika-chan out of there!
+Dialogue: 10,0:16:21.47,0:16:24.38,Default,Sensei,0,0,0,,Ayane! Where'd you get this buggy?
 Dialogue: 10,0:16:24.38,0:16:27.13,Default,Ayane,0,0,0,,I found it gathering dust in the warehouse.
-Dialogue: 10,0:16:27.59,0:16:30.18,Default,Ayane,0,0,0,,I didn't expect it to come in handy like this, though…
-Dialogue: 10,0:16:31.47,0:16:32.97,Default,Ayane,0,0,0,,Hang on tight!
+Dialogue: 10,0:16:27.61,0:16:30.30,Default,Ayane,0,0,0,,I didn't expect it to come in handy like this, though… {TM: Check leadout}
+Dialogue: 10,0:16:31.42,0:16:32.97,Default,Ayane,0,0,0,,Hang on tight!
 Comment: 10,0:16:36.81,0:16:39.52,Default,,0,0,0,,Fire! Fire!{kinda hard to hear so leaving it out --sikha}{i think you should add it back in, but don't know how --rapid}
-Dialogue: 10,0:16:49.15,0:16:50.70,Default,,0,0,0,,Stop them!
-Dialogue: 10,0:16:53.70,0:16:56.16,Default,Serika,0,0,0,,What? What's going on?
-Dialogue: 10,0:16:58.37,0:17:00.87,Default,Shiroko,0,0,0,,One teary-faced Serika, identified.{maybe there's a better word than this for discovered}
-Dialogue: 10,0:17:01.00,0:17:02.88,Default,Ayane,0,0,0,,Serika{*Serika-chan}!
-Dialogue: 10,0:17:03.00,0:17:06.67,Default,Hoshino,0,0,0,,My cute Serika{*Serika-chan}!\NMissed us that much?
-Dialogue: 10,0:17:06.67,0:17:07.63,Default,Serika,0,0,0,,Shut up!
-Dialogue: 10,0:17:08.13,0:17:09.84,Default,Nonomi,0,0,0,,Don't cry now, Serika{*Serika-chan}.
-Dialogue: 10,0:17:09.84,0:17:12.47,Default,Nonomi,0,0,0,,We'll wipe those tears away!
-Dialogue: 10,0:17:12.47,0:17:14.14,Default,Serika,0,0,0,,I'm glad you sound okay, Serika.
-Dialogue: 10,0:17:14.51,0:17:17.39,Default,Sensei,0,0,0,,I'm glad you're safe, Serika.
-Dialogue: 10,0:17:17.52,0:17:19.48,Default,Serika,0,0,0,,W-Why is Teacher{*Sensei} here?
-Dialogue: 10,0:17:19.48,0:17:21.77,Default,Sensei,0,0,0,,I didn't stalk you all that time for nothing!
-Dialogue: 10,0:17:21.77,0:17:22.94,Default,Serika,0,0,0,,Is that supposed to sound cool? {lit: whats that supposed to mean --rapid}
-Dialogue: 10,0:17:23.48,0:17:25.77,Default,Serika,0,0,0,,Quit screwing around at a time like this.
-Dialogue: 10,0:17:26.36,0:17:28.03,Default,Serika,0,0,0,,Are you an idiot?!
-Dialogue: 10,0:17:29.03,0:17:31.45,Default,Sensei,0,0,0,,Okay, girls. You know what to do.
-Dialogue: 10,0:17:31.45,0:17:32.32,Default,Hoshino,0,0,0,,Aye.{that's a Yes but pick something for Hoshino.}
-Dialogue: 10,0:17:31.61,0:17:32.32,Default,Nonomi,0,0,0,,Yes!
-Dialogue: 10,0:17:33.03,0:17:34.58,Default,Sensei,0,0,0,,Counteroffensive, go!
-Dialogue: 10,0:17:37.54,0:17:39.04,Default,,0,0,0,,Don't let them get away!
-Dialogue: 10,0:17:42.58,0:17:44.88,Default,Nonomi,0,0,0,,I won't let you cause any more trouble!
-Dialogue: 10,0:17:45.04,0:17:47.05,Default,Hoshino,0,0,0,,We won't hold back anymore.
-Dialogue: 10,0:17:51.63,0:17:53.80,Default,Ayane,0,0,0,,I won't get hit that easily!
-Dialogue: 10,0:17:56.22,0:17:58.39,Default,Serika,0,0,0,,This is payback for kidnapping me!
-Dialogue: 10,0:18:02.19,0:18:03.06,Default,Shiroko,0,0,0,,How about this, then?
-Dialogue: 10,0:18:09.07,0:18:10.90,Default,Ayane,0,0,0,,You did it, Shiroko{*Shiroko-senpai}!
-Dialogue: 10,0:18:11.28,0:18:12.74,Default,Sensei,0,0,0,,Look out! Ayane!
+Dialogue: 10,0:16:49.10,0:16:50.88,Default,,0,0,0,,Stop them!
+Dialogue: 10,0:16:53.53,0:16:56.22,Default,Serika,0,0,0,,What? What's going on?
+Dialogue: 10,0:16:58.31,0:17:00.87,Default,Shiroko,0,0,0,,One teary-faced Serika, identified.{maybe there's a better word than this for discovered} {teary-eyed is the more common expression - ML}  
+Dialogue: 10,0:17:01.18,0:17:02.88,Default,Ayane,0,0,0,,Serika{**-chan}! {TM: might snap this}
+Dialogue: 10,0:17:02.88,0:17:06.68,Default,Hoshino,0,0,0,,My cute Serika{**-chan}!\NMissed us that much?
+Dialogue: 10,0:17:06.68,0:17:07.63,Default,Serika,0,0,0,,Shut up!
+Dialogue: 10,0:17:08.12,0:17:09.81,Default,Nonomi,0,0,0,,Don't cry now, Serika{**-chan}.
+Dialogue: 10,0:17:09.81,0:17:12.46,Default,Nonomi,0,0,0,,We'll wipe those tears away!
+Dialogue: 10,0:17:12.47,0:17:14.14,Default,Serika,0,0,0,,I'm not crying!
+Dialogue: 10,0:17:14.50,0:17:17.39,Default,Sensei,0,0,0,,I'm glad you're safe, Serika. {TM: Probably doesn't need snap but check}
+Dialogue: 10,0:17:17.39,0:17:19.48,Default,Serika,0,0,0,,Wh-Why is {*}Teacher{*Sensei} here?
+Dialogue: 10,0:17:19.48,0:17:21.78,Default,Sensei,0,0,0,,I didn't stalk you all that time for nothing!
+Dialogue: 10,0:17:21.78,0:17:22.94,Default,Serika,0,0,0,,Is that supposed to sound cool? {lit: whats that supposed to mean --rapid}
+Dialogue: 10,0:17:23.50,0:17:26.15,Default,Serika,0,0,0,,Quit screwing around at a time like this.
+Dialogue: 10,0:17:26.46,0:17:28.10,Default,Serika,0,0,0,,Are you an idiot?! {TM: Check snap(s)?}
+Dialogue: 10,0:17:28.87,0:17:31.46,Default,Sensei,0,0,0,,Okay, girls. You know what to do.
+Dialogue: 10,0:17:31.46,0:17:32.32,Default,Hoshino,0,0,0,,Aye.{that's a Yes but pick something for Hoshino.}
+Dialogue: 10,0:17:31.62,0:17:32.32,Alt,Nonomi,0,0,0,,Yes!
+Dialogue: 10,0:17:33.14,0:17:34.68,Default,Sensei,0,0,0,,Counteroffensive, go!
+Dialogue: 10,0:17:37.45,0:17:38.98,Default,,0,0,0,,Don't let them get away!
+Dialogue: 10,0:17:42.37,0:17:44.88,Default,Nonomi,0,0,0,,I won't let you cause any more trouble!
+Dialogue: 10,0:17:45.12,0:17:47.30,Default,Hoshino,0,0,0,,We won't hold back anymore. {TM: Snap? probs not}
+Dialogue: 10,0:17:51.65,0:17:53.80,Default,Ayane,0,0,0,,I won't get hit that easily!
+Dialogue: 10,0:17:56.05,0:17:58.81,Default,Serika,0,0,0,,This is payback for kidnapping me!
+Dialogue: 10,0:18:02.06,0:18:03.32,Default,Shiroko,0,0,0,,How about this, then?
+Dialogue: 10,0:18:09.06,0:18:10.90,Default,Ayane,0,0,0,,You did it, Shiroko{**-senpai}!
+Dialogue: 10,0:18:11.32,0:18:12.78,Default,Sensei,0,0,0,,Look out! Ayane!
 Dialogue: 10,0:18:19.70,0:18:21.41,Default,,0,0,0,,We've stopped you in your tracks!
-Dialogue: 10,0:18:21.62,0:18:24.63,Default,,0,0,0,,There's nowhere for you to run or hide!
-Dialogue: 10,0:18:24.63,0:18:26.63,Default,Ayane,0,0,0,,Are you okay, Teacher{*Sensei}?
-Dialogue: 10,0:18:26.63,0:18:28.67,Default,Sensei,0,0,0,,Y-Yeah, thanks for the save.
-Dialogue: 10,0:18:28.88,0:18:30.88,Default,Nonomi,0,0,0,,Get ready for this!
-Dialogue: 10,0:18:38.47,0:18:39.47,Default,Hoshino,0,0,0,,How about this!
+Dialogue: 10,0:18:21.41,0:18:24.64,Default,,0,0,0,,There's nowhere for you to run or hide!
+Dialogue: 10,0:18:24.64,0:18:26.64,Default,Ayane,0,0,0,,Are you okay, Teacher{*Sensei}?
+Dialogue: 10,0:18:26.64,0:18:28.67,Default,Sensei,0,0,0,,Y-Yeah, thanks for the save.
+Dialogue: 10,0:18:28.67,0:18:30.92,Default,Nonomi,0,0,0,,Get ready for this!
+Dialogue: 10,0:18:38.46,0:18:39.47,Default,Hoshino,0,0,0,,How about this!
 Dialogue: 10,0:18:46.94,0:18:50.19,Default,,0,0,0,,You're gonna need a bigger gun to get through this armor!
-Dialogue: 10,0:18:50.40,0:18:52.11,Default,Serika,0,0,0,,They're tougher than they look.
+Dialogue: 10,0:18:50.19,0:18:52.11,Default,Serika,0,0,0,,They're tougher than they look.
 Dialogue: 10,0:18:52.11,0:18:54.82,Default,Sensei,0,0,0,,Everyone, listen up.
-Dialogue: 10,0:18:54.91,0:18:57.12,Default,,0,0,0,,Quit hiding! Come out and fight!
-Dialogue: 10,0:18:59.12,0:19:01.33,Default,Sensei,0,0,0,,And that's my suggestion.
-Dialogue: 10,0:19:01.62,0:19:03.08,Default,Sensei,0,0,0,,What do you all think?
-Comment: 10,0:19:03.41,0:19:04.46,Default,Shiroko,0,0,0,,
-Dialogue: 10,0:19:04.46,0:19:05.46,Default,Shiroko,0,0,0,,Yeah. I like it.
-Dialogue: 10,0:19:05.79,0:19:08.09,Default,Nonomi,0,0,0,,Yes. Let's go with that!
-Dialogue: 10,0:19:08.09,0:19:10.09,Default,Ayane,0,0,0,,Leave the support to me!
-Dialogue: 10,0:19:10.09,0:19:12.21,Default,Hoshino,0,0,0,,We're counting on you, Serika{*Serika-chan}!
-Dialogue: 10,0:19:13.13,0:19:14.97,Default,Serika,0,0,0,,Okay. I'll give them my best.{literal: Okay, I'll try to do it. -sikha}
-Dialogue: 10,0:19:16.51,0:19:17.89,Default,Ayane,0,0,0,,Everything's ready.
-Dialogue: 10,0:19:17.89,0:19:20.22,Default,Ayane,0,0,0,,All hands, commence the operation!
-Dialogue: 10,0:19:21.89,0:19:22.89,Default,,0,0,0,,Rodger that!
-Dialogue: 10,0:19:24.06,0:19:26.44,Default,,0,0,0,,Resistance is futile no matter where you run!
-Dialogue: 10,0:19:27.40,0:19:29.65,Default,Sensei,0,0,0,,Ayane! Now's your chance!
-Dialogue: 10,0:19:29.65,0:19:30.94,Default,Ayane,0,0,0,,Got it!
-Dialogue: 10,0:19:34.90,0:19:36.74,Default,,0,0,0,,It's pointless!
-Dialogue: 10,0:19:36.78,0:19:39.24,Default,,0,0,0,,Just get that through your heads and give up already!
-Dialogue: 10,0:19:54.84,0:19:56.80,Default,,0,0,0,,What, done playing tag already?
-Dialogue: 10,0:19:56.80,0:19:58.80,Default,,0,0,0,,Looks like it’s over for you!
-Dialogue: 10,0:20:04.35,0:20:04.85,Default,Shiroko,0,0,0,,Ten.
-Dialogue: 10,0:20:05.35,0:20:06.35,Default,Shiroko,0,0,0,,Nine.
-Dialogue: 10,0:20:06.35,0:20:06.73,Default,Shiroko,0,0,0,,Eight.
-Dialogue: 10,0:20:07.39,0:20:08.40,Default,Shiroko,0,0,0,,Seven.
-Dialogue: 10,0:20:08.40,0:20:09.19,Default,Shiroko,0,0,0,,Six.
-Dialogue: 10,0:20:09.44,0:20:10.36,Default,Shiroko,0,0,0,,Five.
-Dialogue: 10,0:20:10.48,0:20:11.19,Default,Shiroko,0,0,0,,Four.
-Dialogue: 10,0:20:11.19,0:20:12.36,Default,Shiroko,0,0,0,,Three.
-Dialogue: 10,0:20:12.36,0:20:13.19,Default,Shiroko,0,0,0,,Two.
-Dialogue: 10,0:20:13.44,0:20:14.11,Default,Shiroko,0,0,0,,One.
-Dialogue: 10,0:20:14.48,0:20:16.15,Default,Sensei,0,0,0,,Now, Serika!
-Dialogue: 10,0:20:24.83,0:20:25.83,Default,,0,0,0,,Huh! No way!
-Dialogue: 10,0:20:32.71,0:20:34.50,Default,,0,0,0,,Pull back!
-Dialogue: 10,0:20:37.42,0:20:38.72,Default,,0,0,0,,You'll pay for this!
-Dialogue: 10,0:20:40.55,0:20:44.06,Default,Serika,0,0,0,,That's what you get for kidnapping me!
-Dialogue: 10,0:20:46.56,0:20:49.44,Default,Hoshino,0,0,0,,Whew, all's well that ends well.
-Dialogue: 10,0:20:49.44,0:20:51.23,Default,Sensei,0,0,0,,Great job out there, everyone.
-Dialogue: 10,0:20:51.61,0:20:53.98,Default,Nonomi,0,0,0,,You too, Teacher{*Sensei}!
-Dialogue: 10,0:20:53.98,0:20:56.99,Default,Hoshino,0,0,0,,Man, our teacher sure is something!
-Comment: 10,0:20:57.36,0:20:57.94,Default,Sensei,0,0,0,,Well, haha...
-Dialogue: 10,0:20:59.53,0:21:02.74,Default,Ayane,0,0,0,,I'm sure the Helmet Gang\Nhave learned their lesson this time!
-Dialogue: 10,0:21:02.74,0:21:04.66,Default,Shiroko,0,0,0,,Yeah, I'm sure of it.
-Dialogue: 10,0:21:09.25,0:21:11.25,Default,Sensei,0,0,0,,Serika, thank you.
-Dialogue: 10,0:21:13.54,0:21:15.25,Default,Serika,0,0,0,,Oh, j- just shut up already!
-Dialogue: 10,0:21:15.25,0:21:18.55,Default,Serika,0,0,0,,I could have gotten out of there on my own, without your help.
+Dialogue: 10,0:18:54.82,0:18:57.28,Default,,0,0,0,,Quit hiding! Come out and fight!
+Dialogue: 10,0:18:59.09,0:19:01.33,Default,Sensei,0,0,0,,And that's my suggestion.
+Dialogue: 10,0:19:01.62,0:19:03.08,Default,Sensei,0,0,0,,What do you all think? {TM: Snap?}
+Comment: 10,0:19:03.40,0:19:04.43,Default,Shiroko,0,0,0,,
+Dialogue: 10,0:19:04.43,0:19:05.46,Default,Shiroko,0,0,0,,Yeah. I like it.
+Dialogue: 10,0:19:05.80,0:19:08.12,Default,Nonomi,0,0,0,,Yes. Let's go with that!
+Dialogue: 10,0:19:08.12,0:19:10.12,Default,Ayane,0,0,0,,Leave the support to me!
+Dialogue: 10,0:19:10.12,0:19:12.33,Default,Hoshino,0,0,0,,We're counting on you, Serika{**-chan}! {TM: Might add split version in case but probs not}
+Dialogue: 10,0:19:13.12,0:19:14.97,Default,Serika,0,0,0,,Okay. I'll give them my best.{literal: Okay, I'll try to do it. -sikha}
+Dialogue: 10,0:19:16.49,0:19:17.90,Default,Ayane,0,0,0,,Everything's ready.
+Dialogue: 10,0:19:17.90,0:19:20.56,Default,Ayane,0,0,0,,All hands, commence the operation!
+Dialogue: 10,0:19:21.72,0:19:22.99,Default,,0,0,0,,Rodger that!
+Dialogue: 10,0:19:23.98,0:19:26.44,Default,,0,0,0,,Resistance is futile no matter where you run!
+Dialogue: 10,0:19:27.41,0:19:29.67,Default,Sensei,0,0,0,,Ayane! Now's your chance! {TM: make split ver}
+Dialogue: 10,0:19:29.67,0:19:30.98,Default,Ayane,0,0,0,,Got it! {TM: fine tune leadout}
+Dialogue: 10,0:19:34.89,0:19:36.74,Default,,0,0,0,,It's pointless!
+Dialogue: 10,0:19:36.74,0:19:39.24,Default,,0,0,0,,Just get that through your heads and give up already!
+Dialogue: 10,0:19:54.71,0:19:56.79,Default,,0,0,0,,What, done playing tag already?
+Dialogue: 10,0:19:56.79,0:19:58.83,Default,,0,0,0,,Looks like it's over for you! {TM: this sucks but snapping would be worse I think}
+Dialogue: 10,0:20:04.30,0:20:04.85,Default,Shiroko,0,0,0,,Ten.
+Dialogue: 10,0:20:05.37,0:20:06.23,Default,Shiroko,0,0,0,,Nine.
+Dialogue: 10,0:20:06.23,0:20:06.73,Default,Shiroko,0,0,0,,Eight.
+Dialogue: 10,0:20:07.42,0:20:08.60,Default,Shiroko,0,0,0,,Seven.
+Dialogue: 10,0:20:08.60,0:20:09.43,Default,Shiroko,0,0,0,,Six.
+Dialogue: 10,0:20:09.43,0:20:10.48,Default,Shiroko,0,0,0,,Five.
+Dialogue: 10,0:20:10.48,0:20:11.33,Default,Shiroko,0,0,0,,Four.
+Dialogue: 10,0:20:11.33,0:20:12.36,Default,Shiroko,0,0,0,,Three.
+Dialogue: 10,0:20:12.36,0:20:13.46,Default,Shiroko,0,0,0,,Two.
+Dialogue: 10,0:20:13.46,0:20:14.09,Default,Shiroko,0,0,0,,One.
+Dialogue: 10,0:20:14.50,0:20:16.30,Default,Sensei,0,0,0,,Now, Serika! {TM: Check if there's a snap there}
+Dialogue: 10,0:20:24.86,0:20:25.87,Default,,0,0,0,,Huh! No way!
+Dialogue: 10,0:20:32.68,0:20:34.71,Default,,0,0,0,,Pull back!
+Dialogue: 10,0:20:37.39,0:20:38.72,Default,,0,0,0,,You'll pay for this!
+Dialogue: 10,0:20:40.58,0:20:44.47,Default,Serika,0,0,0,,That's what you get for kidnapping me!
+Dialogue: 10,0:20:46.54,0:20:49.45,Default,Hoshino,0,0,0,,Whew, all's well that ends well.
+Dialogue: 10,0:20:49.45,0:20:51.23,Default,Sensei,0,0,0,,Great job out there, everyone.
+Dialogue: 10,0:20:51.64,0:20:53.97,Default,Nonomi,0,0,0,,You too, {*}Teacher{*Sensei}!
+Dialogue: 10,0:20:53.97,0:20:56.99,Default,Hoshino,0,0,0,,Man, our teacher sure is something!
+Comment: 10,0:20:57.22,0:20:59.54,Default,Sensei,0,0,0,,Well, haha...
+Dialogue: 10,0:20:59.54,0:21:02.78,Default,Ayane,0,0,0,,I'm sure the Helmet Gang\Nhave learned their lesson this time!
+Dialogue: 10,0:21:02.78,0:21:04.70,Default,Shiroko,0,0,0,,Yeah, I'm sure of it.
+Dialogue: 10,0:21:09.28,0:21:11.38,Default,Sensei,0,0,0,,Serika, thank you.
+Dialogue: 10,0:21:13.56,0:21:15.45,Default,Serika,0,0,0,,Oh, j-just shut up already!
+Dialogue: 10,0:21:15.45,0:21:18.55,Default,Serika,0,0,0,,I could have gotten out of there on my own, without your help.
 Dialogue: 10,0:21:18.55,0:21:20.88,Default,Serika,0,0,0,,And I could've handled the Helmet Gang by my own...
-Dialogue: 10,0:21:21.55,0:21:23.93,Default,Serika,0,0,0,,But...um...
-Dialogue: 10,0:21:25.18,0:21:27.27,Default,Serika,0,0,0,,You did save me, so…
-Dialogue: 10,0:21:29.06,0:21:31.02,Default,Serika,0,0,0,,T-Thanks, Teacher{*Sensei},
-Dialogue: 10,0:21:33.86,0:21:35.82,Default,Hoshino,0,0,0,,Oooh, Serika’s finally softened up. {alt: Oh my, Serika-chan's *dere* side is showing!}{lol why am i bothering with weeb track -sihka}{to spite light for no sensei --rapid}
-Dialogue: 10,0:21:35.82,0:21:37.73,Default,Serika,0,0,0,,N- No I haven’t!
-Dialogue: 10,0:21:37.73,0:21:38.74,Default,Hoshino,0,0,0,,You sure?
-Dialogue: 10,0:21:38.74,0:21:40.45,Default,Serika,0,0,0,,It's not like that!
-Dialogue: 10,0:21:40.57,0:21:43.28,Default,Hoshino,0,0,0,,You really aren't honest.
-Dialogue: 10,0:21:43.28,0:21:45.28,Default,Serika,0,0,0,,I'm just saying my thanks!
-Dialogue: 10,0:21:44.07,0:21:45.28,Default,Hoshino,0,0,0,,Love ya, Serika.{hoshino doesn't say her name but I feel like it's more natural to have her state it here}
-Comment: 10,0:21:43.03,0:21:44.07,Default,Shiroko,0,0,0,,
-Dialogue: 10,0:23:25.63,0:23:28.89,Default,Aru,0,0,0,,Who… who the hell are you?
-Dialogue: 10,0:23:28.89,0:23:31.81,Default,Aru,0,0,0,,We're Problem Solver 68.
-Dialogue: 10,0:23:32.39,0:23:34.89,Default,Aru,0,0,0,,We'll do anything for the money.
-Dialogue: 10,0:23:35.98,0:23:37.40,Default,Aru,0,0,0,,{=5}Anything.
+Dialogue: 10,0:21:21.55,0:21:23.72,Default,Serika,0,0,0,,But... um... {TM: timed without sigh, might do option with. Probs not.}
+Dialogue: 10,0:21:25.11,0:21:27.50,Default,Serika,0,0,0,,You did save me, so…
+Dialogue: 10,0:21:29.07,0:21:31.02,Default,Serika,0,0,0,,T-Thanks, {*}Teacher{*Sensei},
+Dialogue: 10,0:21:33.86,0:21:35.79,Default,Hoshino,0,0,0,,Oooh, Serika’s finally softened up. {alt: Oh my, Serika-chan's *dere* side is showing!}{lol why am i bothering with weeb track -sihka}{to spite light for no sensei --rapid}
+Dialogue: 10,0:21:35.79,0:21:37.71,Default,Serika,0,0,0,,N- No I haven't!
+Dialogue: 10,0:21:37.71,0:21:38.73,Default,Hoshino,0,0,0,,You sure?
+Dialogue: 10,0:21:38.73,0:21:40.45,Default,Serika,0,0,0,,It's not like that!
+Dialogue: 10,0:21:40.45,0:21:42.94,Default,Hoshino,0,0,0,,You really aren't honest.
+Comment: 10,0:21:42.95,0:21:44.52,Default,Shiroko,0,0,0,,{TM: missing TL *and* a bit of a pain to time... not really sure what you'll wanna do here but I'll time it both with link to Hoshino's line and without}
+Comment: 10,0:21:42.95,0:21:44.03,Default,Shiroko,0,0,0,,{TM: missing TL *and* a bit of a pain to time... not really sure what you wanna do here but I'll time it both with link to Hoshino's line and without}
+Dialogue: 10,0:21:42.94,0:21:45.59,Default,Serika,0,0,0,,I'm just saying my thanks!
+Dialogue: 10,0:21:44.04,0:21:45.59,Alt,Hoshino,0,0,0,,Love ya, Serika.{hoshino doesn't say her name but I feel like it's more natural to have her state it here}
+Dialogue: 10,0:23:25.62,0:23:28.55,Default,Aru,0,0,0,,Who… who the hell are you?
+Dialogue: 10,0:23:28.88,0:23:31.89,Default,Aru,0,0,0,,We're Problem Solver 68. {TM: Snap?}
+Dialogue: 10,0:23:32.40,0:23:34.56,Default,Aru,0,0,0,,We'll do anything for the money.
+Dialogue: 10,0:23:35.93,0:23:37.55,Default,Aru,0,0,0,,{=5}Anything.
 
 [Aegisub Extradata]
-Data: 0,_aegi_folddata,e0;1;1
-Data: 1,_aegi_folddata,e1;1;1
 Data: 4,_aegi_folddata,e0;0;2
 Data: 5,_aegi_folddata,e1;0;2
 Data: 8,_aegi_folddata,e0;0;1
