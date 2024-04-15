@@ -14,10 +14,10 @@ Audio File: ../../../anime/seasonals/blue archive/[Ioroid] Blue Archive the Anim
 Video File: ../../../anime/seasonals/blue archive/[Ioroid] Blue Archive the Animation - 02 [ABEMA WEB-DL 1080p AVC AAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 48
-Active Line: 73
-Video Position: 7930
+Video Zoom Percent: 0.750000
+Scroll Position: 183
+Active Line: 195
+Video Position: 19356
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -100,130 +100,128 @@ Dialogue: 0,0:05:15.21,0:05:19.88,Default,,0,0,0,,Giant sandstorms continued to 
 Dialogue: 0,0:05:19.88,0:05:24.30,Default,,0,0,0,,Eventually, over half of Abydos was swallowed up by the sand.
 Dialogue: 0,0:05:25.18,0:05:27.14,Default,,0,0,0,,The students lost all hope, and in the end,
 Dialogue: 0,0:05:27.14,0:05:30.77,Default,,0,0,0,,All that remained was the massively bloated debt.
-Dialogue: 0,0:05:31.39,0:05:33.40,Default,,0,0,0,,
-Dialogue: 0,0:05:33.40,0:05:35.73,Default,,0,0,0,,
-Dialogue: 0,0:05:35.73,0:05:38.32,Default,,0,0,0,,
-Dialogue: 0,0:05:39.07,0:05:44.32,Default,,0,0,0,,
-Dialogue: 0,0:05:44.32,0:05:46.33,Default,,0,0,0,,
-Dialogue: 0,0:05:46.33,0:05:48.74,Default,,0,0,0,,
-Dialogue: 0,0:05:48.74,0:05:51.58,Default,,0,0,0,,
-Dialogue: 0,0:05:53.96,0:05:57.00,Default,,0,0,0,,
-Dialogue: 0,0:06:00.01,0:06:02.34,Default,,0,0,0,,
-Dialogue: 0,0:06:03.13,0:06:05.05,Default,,0,0,0,,
-Dialogue: 0,0:06:05.05,0:06:07.01,Default,,0,0,0,,
-Dialogue: 0,0:06:07.68,0:06:10.02,Default,,0,0,0,,
-Dialogue: 0,0:06:10.02,0:06:12.98,Default,,0,0,0,,
-Dialogue: 0,0:06:12.98,0:06:16.73,Default,,0,0,0,,
-Dialogue: 0,0:06:16.73,0:06:19.07,Default,,0,0,0,,
-Dialogue: 0,0:06:19.07,0:06:20.69,Default,,0,0,0,,
-Dialogue: 0,0:06:20.69,0:06:21.90,Default,,0,0,0,,
-Dialogue: 0,0:06:21.90,0:06:24.03,Default,,0,0,0,,
-Dialogue: 0,0:06:24.03,0:06:25.41,Default,,0,0,0,,
-Dialogue: 0,0:06:26.12,0:06:29.66,Default,,0,0,0,,
-Dialogue: 0,0:06:29.66,0:06:32.62,Default,,0,0,0,,
-Dialogue: 0,0:06:32.62,0:06:34.37,Default,,0,0,0,,
-Dialogue: 0,0:06:34.37,0:06:35.58,Default,,0,0,0,,
-Dialogue: 0,0:06:36.38,0:06:40.38,Default,,0,0,0,,
-Dialogue: 0,0:06:40.38,0:06:43.30,Default,,0,0,0,,
-Dialogue: 0,0:06:43.30,0:06:46.18,Default,,0,0,0,,
-Dialogue: 0,0:06:46.18,0:06:48.18,Default,,0,0,0,,
-Dialogue: 0,0:06:49.01,0:06:51.77,Default,,0,0,0,,
-Dialogue: 0,0:06:52.64,0:06:53.89,Default,,0,0,0,,
-Dialogue: 0,0:06:57.15,0:07:00.40,Default,,0,0,0,,{might split, but probably not}
-Dialogue: 0,0:07:21.63,0:07:23.55,Default,,0,0,0,,
-Dialogue: 0,0:07:23.55,0:07:26.01,Default,,0,0,0,,
-Dialogue: 0,0:07:27.26,0:07:29.43,Default,,0,0,0,,
-Dialogue: 0,0:07:33.10,0:07:36.44,Default,,0,0,0,,
-Dialogue: 0,0:07:39.15,0:07:40.77,Default,,0,0,0,,
-Dialogue: 0,0:07:40.77,0:07:41.86,Default,,0,0,0,,
-Dialogue: 0,0:07:41.86,0:07:44.19,Default,,0,0,0,,
-Dialogue: 0,0:07:45.70,0:07:50.45,Default,,0,0,0,,
-Dialogue: 0,0:07:51.33,0:07:55.16,Default,,0,0,0,,
-Dialogue: 0,0:07:55.16,0:07:56.91,Default,,0,0,0,,
-Dialogue: 0,0:07:56.91,0:08:00.88,Default,,0,0,0,,
-Dialogue: 0,0:08:00.88,0:08:02.46,Default,,0,0,0,,
-Dialogue: 0,0:08:03.38,0:08:08.47,Default,,0,0,0,,
-Dialogue: 0,0:08:08.68,0:08:09.55,Default,,0,0,0,,
-Dialogue: 0,0:08:09.55,0:08:11.10,Default,,0,0,0,,
-Dialogue: 0,0:08:12.47,0:08:13.64,Default,,0,0,0,,
-Dialogue: 0,0:08:31.32,0:08:34.49,Default,,0,0,0,,
-Dialogue: 0,0:08:34.49,0:08:36.50,Default,,0,0,0,,
-Dialogue: 0,0:08:36.83,0:08:38.50,Default,,0,0,0,,
-Dialogue: 0,0:08:47.05,0:08:48.51,Default,,0,0,0,,
-Dialogue: 0,0:08:49.05,0:08:50.76,Default,,0,0,0,,
-Dialogue: 0,0:08:50.76,0:08:53.30,Default,,0,0,0,,
-Dialogue: 0,0:09:10.53,0:09:12.53,Default,,0,0,0,,
-Dialogue: 0,0:09:13.32,0:09:15.16,Default,,0,0,0,,
-Dialogue: 0,0:09:15.16,0:09:17.45,Default,,0,0,0,,
-Dialogue: 0,0:09:21.33,0:09:22.54,Default,,0,0,0,,
-Dialogue: 0,0:09:23.50,0:09:24.88,Default,,0,0,0,,
-Dialogue: 0,0:09:26.55,0:09:28.96,Default,,0,0,0,,
-Dialogue: 0,0:09:28.96,0:09:31.30,Default,,0,0,0,,
-Dialogue: 0,0:09:31.30,0:09:34.14,Default,,0,0,0,,
-Dialogue: 0,0:09:34.14,0:09:37.85,Default,,0,0,0,,
-Dialogue: 0,0:09:37.85,0:09:39.35,Default,,0,0,0,,
-Dialogue: 0,0:09:43.02,0:09:44.56,Default,,0,0,0,,
-Dialogue: 0,0:09:44.56,0:09:45.94,Default,,0,0,0,,
-Dialogue: 0,0:09:45.94,0:09:47.48,Default,,0,0,0,,
-Dialogue: 0,0:09:47.48,0:09:49.36,Default,,0,0,0,,
-Dialogue: 0,0:09:49.36,0:09:51.70,Default,,0,0,0,,
-Dialogue: 0,0:09:51.70,0:09:52.99,Default,,0,0,0,,
-Dialogue: 0,0:09:52.99,0:09:55.66,Default,,0,0,0,,
-Dialogue: 0,0:09:55.66,0:09:58.91,Default,,0,0,0,,
-Dialogue: 0,0:10:00.75,0:10:02.58,Default,,0,0,0,,
-Dialogue: 0,0:10:02.58,0:10:05.00,Default,,0,0,0,,
-Dialogue: 0,0:10:05.84,0:10:09.17,Default,,0,0,0,,
-Dialogue: 0,0:10:09.17,0:10:10.88,Default,,0,0,0,,
-Dialogue: 0,0:10:10.88,0:10:12.34,Default,,0,0,0,,
-Dialogue: 0,0:10:12.34,0:10:13.47,Default,,0,0,0,,
+Dialogue: 0,0:05:31.39,0:05:33.40,Default,,0,0,0,,If we can't pay off the debt
+Dialogue: 0,0:05:33.40,0:05:35.73,Default,,0,0,0,,the loan will default to the bank,
+Dialogue: 0,0:05:35.73,0:05:38.32,Default,,0,0,0,,And we'll be forced to close the school for good.
+Dialogue: 0,0:05:39.07,0:05:44.32,Default,,0,0,0,,Still, the odds of us actually paying everything off are close to none....
+Dialogue: 0,0:05:44.32,0:05:48.74,Default,,0,0,0,,Nearly all of the students gave up and left the school. 
+Dialogue: 0,0:05:48.74,0:05:51.58,Default,,0,0,0,,We’re all that’s left.
+Dialogue: 0,0:05:53.96,0:05:57.00,Default,,0,0,0,,Well, that's the story. Sorry to bore you.
+Dialogue: 0,0:06:00.01,0:06:02.34,Default,,0,0,0,,Thank you for telling me your story.
+Dialogue: 0,0:06:03.13,0:06:07.01,Default,,0,0,0,,I understand what you're going through a little better now. 
+Dialogue: 0,0:06:07.68,0:06:10.02,Default,,0,0,0,,You certainly have a lot of debt.
+Dialogue: 0,0:06:10.02,0:06:12.98,Default,,0,0,0,,But you can’t just give up, either.
+Dialogue: 0,0:06:12.98,0:06:16.73,Default,,0,0,0,,Isn’t that right, everyone?\NIf it’s alright with you,
+Dialogue: 0,0:06:16.73,0:06:19.07,Default,,0,0,0,,Could I continue helping you as your teacher?
+Dialogue: 0,0:06:19.07,0:06:20.69,Default,,0,0,0,,You mean…?
+Dialogue: 0,0:06:20.69,0:06:21.90,Default,,0,0,0,,Y- Yes!
+Dialogue: 0,0:06:21.90,0:06:24.03,Default,,0,0,0,,We’d be happy to have you.
+Dialogue: 0,0:06:24.03,0:06:25.41,Default,,0,0,0,,Is that really ok?
+Dialogue: 0,0:06:26.12,0:06:29.66,Default,,0,0,0,,He’s still an outsider at the end of the day. 
+Dialogue: 0,0:06:29.66,0:06:34.37,Default,,0,0,0,,But he also give us a new point of view to our problems. 
+Dialogue: 0,0:06:34.37,0:06:35.58,Default,,0,0,0,,Even so!
+Dialogue: 0,0:06:36.38,0:06:40.38,Default,,0,0,0,,Until now, we've taken care of our school's problems just fine!
+Dialogue: 0,0:06:40.38,0:06:43.30,Default,,0,0,0,,But now we're supposed to listen to this newbie grown-up? {old line was way too wordy, did my best to shorten. old line: But now suddenly this grown-up shows up and we’re supposed to just do what he says? --rapid}
+Dialogue: 0,0:06:43.30,0:06:46.18,Default,,0,0,0,,I just want to help all of you...
+Dialogue: 0,0:06:46.18,0:06:48.18,Default,,0,0,0,,Oh, how very gracious of you!
+Dialogue: 0,0:06:49.01,0:06:51.77,Default,,0,0,0,,I won’t accept this!
+Dialogue: 0,0:06:52.64,0:06:53.89,Default,,0,0,0,,Serika-chan!
+Dialogue: 0,0:06:57.15,0:07:00.40,Default,,0,0,0,,What’s wrong with them?\NSensei this, Sensei that.
+Dialogue: 0,0:07:21.63,0:07:23.55,Default,,0,0,0,,What’s wrong, Sensei?
+Dialogue: 0,0:07:23.55,0:07:26.01,Default,,0,0,0,,Well, yesterday after school…
+Dialogue: 0,0:07:27.26,0:07:29.43,Default,,0,0,0,,Hey there, Serika. Heading home?
+Dialogue: 0,0:07:33.10,0:07:36.44,Default,,0,0,0,,Hey, Serika. Why don't we chat over some tea? {coffee is more natual, but i digress --rapid}
+Dialogue: 0,0:07:39.15,0:07:41.86,Default,,0,0,0,,H-hey there, Serika. Could we maybe talk…? 
+Dialogue: 0,0:07:41.86,0:07:44.19,Default,,0,0,0,,What’s your problem?! Quit stalking me!
+Dialogue: 0,0:07:45.70,0:07:50.45,Default,,0,0,0,,Well, I feel like anyone would get angry at that, not just our Serika. {not just our Tsundere Serika -- rapid}
+Dialogue: 0,0:07:51.33,0:07:55.16,Default,,0,0,0,,Speaking of Serika, I know she always leaves right after school,
+Dialogue: 0,0:07:55.16,0:07:56.91,Default,,0,0,0,,but where does she goes?
+Dialogue: 0,0:07:56.91,0:08:00.88,Default,,0,0,0,,Now that you mention it, she's always slow to reply on Momotalk, too. {she always takes a while to reply --rapid}
+Dialogue: 0,0:08:00.88,0:08:02.46,Default,,0,0,0,,That true.
+Dialogue: 0,0:08:03.38,0:08:08.47,Default,,0,0,0,,Oh, then, why don’t we tail Serika-chan after school to see where she goes?
+Dialogue: 0,0:08:08.68,0:08:09.55,Default,,0,0,0,,Eh?
+Dialogue: 0,0:08:09.55,0:08:11.10,Default,,0,0,0,,Great idea!
+Dialogue: 0,0:08:12.47,0:08:13.64,Default,,0,0,0,,Morning.
+Dialogue: 0,0:08:31.32,0:08:34.49,Default,,0,0,0,,The target is passing through Point A.
+Dialogue: 0,0:08:34.49,0:08:36.50,Default,,0,0,0,,Now following the target.
+Dialogue: 0,0:08:36.83,0:08:38.50,Default,,0,0,0,,Will continue behind them.
+Dialogue: 0,0:08:47.05,0:08:48.51,Default,,0,0,0,,Hounds, changing shift.
+Dialogue: 0,0:08:49.05,0:08:50.76,Default,,0,0,0,,Rodger that.
+Dialogue: 0,0:08:50.76,0:08:53.30,Default,,0,0,0,,Keep it up, and stay on her tail.
+Dialogue: 0,0:09:09.28,0:09:12.53,Default,,0,0,0,,This is… Shiba Seki Ramen?
+Dialogue: 0,0:09:13.32,0:09:15.16,Default,,0,0,0,,Now that I think of it...
+Dialogue: 0,0:09:15.16,0:09:17.45,Default,,0,0,0,,Their ramen is good {CHECK WITH EP 1, more focused on getting through -rapid}
+Dialogue: 0,0:09:21.33,0:09:22.54,Default,,0,0,0,,Thanks for the food.
+Dialogue: 0,0:09:23.50,0:09:24.88,Default,,0,0,0,,It was great.
+Dialogue: 0,0:09:26.55,0:09:28.96,Default,,0,0,0,,Hey boss, it’s me again.
+Dialogue: 0,0:09:28.96,0:09:31.30,Default,,0,0,0,,Serika’s not coming out.
+Dialogue: 0,0:09:31.30,0:09:34.14,Default,,0,0,0,,Maybe she's doing an eating challenge?
+Dialogue: 0,0:09:34.14,0:09:37.85,Default,,0,0,0,,I'm feeling a bit hungry, so why don't we all head inside?
+Dialogue: 0,0:09:37.85,0:09:39.35,Default,,0,0,0,,Good idea!
+Dialogue: 0,0:09:37.85,0:09:39.35,Default,,0,0,0,,Mm.
+Dialogue: 0,0:09:37.85,0:09:39.35,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:09:43.02,0:09:44.56,Default,,0,0,0,,Hey, welcome!
+Dialogue: 0,0:09:44.56,0:09:45.94,Default,,0,0,0,,Welcome! How man- ugh {delete ugh if manga brain runs it}
+Dialogue: 0,0:09:45.94,0:09:47.48,Default,,0,0,0,,Ooooh. 
+Dialogue: 0,0:09:47.48,0:09:49.36,Default,,0,0,0,,Howdy, Serika-chan
+Dialogue: 0,0:09:49.36,0:09:51.70,Default,,0,0,0,,Your uniform is so cute!
+Dialogue: 0,0:09:51.70,0:09:52.99,Default,,0,0,0,,Wha, wha,
+Dialogue: 0,0:09:52.99,0:09:55.66,Default,,0,0,0,,So you're students from Abydos?
+Dialogue: 0,0:09:55.66,0:09:58.91,Default,,0,0,0,,If you Serika-chann's friends, I’ll add in a little something extra 
+Dialogue: 0,0:10:00.75,0:10:02.58,Default,,0,0,0,,Um, well,
+Dialogue: 0,0:10:02.58,0:10:05.00,Default,,0,0,0,,T- this way, please…
+Dialogue: 0,0:10:05.84,0:10:09.17,Default,,0,0,0,,Are you the kind that picks a job based on the uniform, Serika-chan?
+Dialogue: 0,0:10:09.17,0:10:10.88,Default,,0,0,0,,Enough about me already!
+Dialogue: 0,0:10:10.88,0:10:12.34,Default,,0,0,0,,…Can I take your order?
+Dialogue: 0,0:10:12.34,0:10:13.47,Default,,0,0,0,,{yeah ill come back when not eepy -rapid}
 Dialogue: 0,0:10:12.59,0:10:13.47,Default,,0,0,0,,
-Dialogue: 0,0:10:13.47,0:10:15.55,Default,,0,0,0,,
-Dialogue: 0,0:10:15.55,0:10:18.60,Default,,0,0,0,,
-Dialogue: 0,0:10:19.47,0:10:22.10,Default,,0,0,0,,
-Dialogue: 0,0:10:24.60,0:10:25.65,Default,,0,0,0,,
-Dialogue: 0,0:10:29.07,0:10:31.03,Default,,0,0,0,,
-Dialogue: 0,0:10:37.03,0:10:39.33,Default,,0,0,0,,
-Dialogue: 0,0:10:39.33,0:10:40.62,Default,,0,0,0,,
+Dialogue: 0,0:10:13.47,0:10:15.55,Default,,0,0,0,,Not all at once!
+Dialogue: 0,0:10:15.55,0:10:18.60,Default,,0,0,0,,Don’t be shy, Sensei. Order what you want!
+Dialogue: 0,0:10:19.47,0:10:22.10,Default,,0,0,0,,Well, then I'll...
+Dialogue: 0,0:10:24.60,0:10:25.65,Default,,0,0,0,,I mean… hahaha…
+Dialogue: 0,0:10:29.07,0:10:31.03,Default,,0,0,0,,Thanks for the food!
+Dialogue: 0,0:10:37.03,0:10:39.33,Default,,0,0,0,,So? How do you like our ramen?
+Dialogue: 0,0:10:39.33,0:10:40.62,Default,,0,0,0,,It’s great! {they all say oishii or oishii desu}
 Dialogue: 0,0:10:39.54,0:10:40.62,Default,,0,0,0,,
-Dialogue: 0,0:10:40.79,0:10:45.00,Default,,0,0,0,,
-Dialogue: 0,0:10:45.00,0:10:47.08,Default,,0,0,0,,
-Dialogue: 0,0:10:47.08,0:10:50.63,Default,,0,0,0,,
-Dialogue: 0,0:10:51.21,0:10:52.63,Default,,0,0,0,,
-Dialogue: 0,0:10:52.63,0:10:54.93,Default,,0,0,0,,
-Dialogue: 0,0:10:54.93,0:10:58.05,Default,,0,0,0,,
-Dialogue: 0,0:10:58.05,0:11:00.43,Default,,0,0,0,,
-Dialogue: 0,0:11:00.43,0:11:02.64,Default,,0,0,0,,
-Dialogue: 0,0:11:04.64,0:11:06.65,Default,,0,0,0,,
-Dialogue: 0,0:11:06.65,0:11:11.11,Default,,0,0,0,,
-Dialogue: 0,0:11:11.11,0:11:13.28,Default,,0,0,0,,
-Dialogue: 0,0:11:13.28,0:11:15.07,Default,,0,0,0,,
-Dialogue: 0,0:11:13.44,0:11:16.66,Default,,0,0,0,,
-Dialogue: 0,0:11:20.95,0:11:23.41,Default,,0,0,0,,
-Dialogue: 0,0:11:23.95,0:11:24.66,Default,,0,0,0,,
-Dialogue: 0,0:11:24.83,0:11:26.67,Default,,0,0,0,,
-Dialogue: 0,0:11:28.21,0:11:31.21,Default,,0,0,0,,
-Dialogue: 0,0:11:38.68,0:11:41.47,Default,,0,0,0,,
-Dialogue: 0,0:11:41.47,0:11:42.68,Default,,0,0,0,,
-Dialogue: 0,0:11:46.14,0:11:47.73,Default,,0,0,0,,
-Dialogue: 0,0:11:48.31,0:11:52.48,Default,,0,0,0,,
-Dialogue: 0,0:11:52.48,0:11:53.44,Default,,0,0,0,,
-Dialogue: 0,0:11:53.44,0:11:55.03,Default,,0,0,0,,
-Dialogue: 0,0:11:58.41,0:12:00.24,Default,,0,0,0,,
-Dialogue: 0,0:12:16.97,0:12:18.72,Default,,0,0,0,,
-Dialogue: 0,0:12:26.06,0:12:28.98,Default,,0,0,0,,
-Dialogue: 0,0:12:28.98,0:12:31.06,Default,,0,0,0,,
-Dialogue: 0,0:12:31.06,0:12:33.57,Default,,0,0,0,,
-Dialogue: 0,0:12:34.32,0:12:35.07,Default,,0,0,0,,
-Dialogue: 0,0:12:42.24,0:12:43.58,Default,,0,0,0,,
-Dialogue: 0,0:12:43.58,0:12:44.20,Default,,0,0,0,,
-Dialogue: 0,0:12:45.62,0:12:49.46,Default,,0,0,0,,
-Dialogue: 0,0:12:54.75,0:12:57.26,Default,,0,0,0,,
-Dialogue: 0,0:13:00.76,0:13:04.05,Default,,0,0,0,,
-Dialogue: 0,0:13:05.64,0:13:07.85,Default,,0,0,0,,
-Dialogue: 0,0:13:09.31,0:13:12.27,Default,,0,0,0,,
-Dialogue: 0,0:13:12.77,0:13:15.57,Default,,0,0,0,,
-Dialogue: 0,0:13:15.57,0:13:17.44,Default,,0,0,0,,
-Dialogue: 0,0:13:23.41,0:13:25.41,Default,,0,0,0,,
+Dialogue: 0,0:10:40.79,0:10:45.00,Default,,0,0,0,,I know, right! I knew Serika’s friends would have good taste.
+Dialogue: 0,0:10:45.00,0:10:47.08,Default,,0,0,0,,Looks like business is booming.
+Dialogue: 0,0:10:47.08,0:10:50.63,Default,,0,0,0,,Well, actually, we’ve been seeing fewer customers lately.
+Dialogue: 0,0:10:51.21,0:10:52.63,Default,,0,0,0,,Huh? Is it because...
+Dialogue: 0,0:10:52.63,0:10:54.93,Default,,0,0,0,,Well, no sense in worrying about it!
+Dialogue: 0,0:10:54.93,0:10:58.05,Default,,0,0,0,,At the end of the day, my job is to put a hot bowl of the good stuff
+Dialogue: 0,0:10:58.05,0:11:00.43,Default,,0,0,0,, into the hungry folk that show up at my doorstep. {wayyyyyyyyyyy too long but i see what iskalibar is going for, probably shorten it --rapid}
+Dialogue: 0,0:11:00.43,0:11:02.64,Default,,0,0,0,,That's just how I run!
+Dialogue: 0,0:11:04.64,0:11:06.65,Default,,0,0,0,,That's beautiful!
+Dialogue: 0,0:11:06.65,0:11:11.11,Default,,0,0,0,,I should follow in your lead and put even more effort into supporting these girls!
+Dialogue: 0,0:11:11.11,0:11:13.28,Default,,0,0,0,,Aye, that’s the spirit!
+Dialogue: 0,0:11:13.28,0:11:15.07,Default,,0,0,0,,Here, have another one on the house! {ML fix tm pls}
+Dialogue: 0,0:11:13.44,0:11:16.66,Default,,0,0,0,,Thank you, please come again!
+Dialogue: 0,0:11:20.95,0:11:23.41,Default,,0,0,0,,See you tomorrow, Serika-chan.
+Dialogue: 0,0:11:23.95,0:11:24.66,Default,,0,0,0,,See you later {everyone but hoshino}
+Dialogue: 0,0:11:24.83,0:11:26.67,Default,,0,0,0,,{im too tired to make out what what she says with the other talking over something something funny old man saying}
+Dialogue: 0,0:11:28.21,0:11:31.21,Default,,0,0,0,,What was all that even about…
+Dialogue: 0,0:11:38.68,0:11:41.47,Default,,0,0,0,,Serika-chan. That’s enough for today.
+Dialogue: 0,0:11:41.47,0:11:42.68,Default,,0,0,0,,Sounds good!
+Dialogue: 0,0:11:46.14,0:11:47.73,Default,,0,0,0,,Hey, Serika-chan.
+Dialogue: 0,0:11:48.31,0:11:52.48,Default,,0,0,0,,That teacher really cares about his students. He’s a good man.
+Dialogue: 0,0:11:52.48,0:11:53.44,Default,,0,0,0,,Huh?
+Dialogue: 0,0:11:53.44,0:11:55.03,Default,,0,0,0,,Least, that’s what I think.
+Dialogue: 0,0:11:58.41,0:12:00.24,Default,,0,0,0,,I’ll be on my way, then.
+Dialogue: 0,0:12:16.97,0:12:18.72,Default,,0,0,0,,Hey. Heading home? {feel like hey doesn't really capture it, she's more noting "good job at work"--rapid}
+Dialogue: 0,0:12:26.06,0:12:28.98,Default,,0,0,0,,That ramen was good.
+Dialogue: 0,0:12:28.98,0:12:31.06,Default,,0,0,0,,The owner seems like a good person too.
+Dialogue: 0,0:12:31.06,0:12:33.57,Default,,0,0,0,,He seems like the reliable sort.
+Dialogue: 0,0:12:34.32,0:12:35.07,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:12:42.24,0:12:43.58,Default,,0,0,0,,Hey, Serika {think the "you know" ikskalibar had didn't flow--rapid}
+Dialogue: 0,0:12:43.58,0:12:44.20,Default,,0,0,0,,Hm?
+Dialogue: 0,0:12:45.62,0:12:49.46,Default,,0,0,0,,I think Sensei is also the kind of adult we can rely on. {maybe: I think we can rely on Sensei the same way}
+Dialogue: 0,0:12:54.75,0:12:57.26,Default,,0,0,0,,Bye, Serika. See you tomorrow.
+Dialogue: 0,0:13:00.76,0:13:04.05,Default,,0,0,0,,The boss said the exact same thing.
+Dialogue: 0,0:13:05.64,0:13:07.85,Default,,0,0,0,,Sensei... {omit the "ka" bc not really used in english in the same way}
+Dialogue: 0,0:13:09.31,0:13:12.27,Default,,0,0,0,,I wonder if I should just open up to him.
+Dialogue: 0,0:13:12.77,0:13:15.57,Default,,0,0,0,,No, no, I can’t!
+Dialogue: 0,0:13:15.57,0:13:17.44,Default,,0,0,0,,If i do, Abydos High School will..
+Dialogue: 0,0:13:23.41,0:13:25.41,Default,,0,0,0,,What is this...
 Comment: 0,0:13:32.46,0:13:32.50,Default,,0,0,0,,{WIP tl/scene timing start}
 Dialogue: 0,0:13:33.33,0:13:35.00,Default,Sensei,0,0,0,,What, no way!
 Dialogue: 0,0:13:35.29,0:13:37.30,Default,Hoshino,0,0,0,,Serika{*Serika-chan} is missing?
