@@ -16,8 +16,7 @@ Keyframes File: BlueArchive_S01E02_scening.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 352
-Active Line: 357
+Active Line: 10
 Video Position: 34067
 
 [V4+ Styles]
@@ -37,14 +36,14 @@ Comment: 0,0:21:46.45,0:21:46.45,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:23:16.42,0:23:16.42,Default,chapter,0,0,0,,{=9}{Outro}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=4}---- Dialogue
 Dialogue: 10,0:00:13.35,0:00:16.87,Default,Rin,0,0,0,,Seems like you were able to safely recapture Schale HQ, {*}Teacher{*Sensei}.
-Dialogue: 10,0:00:17.33,0:00:19.25,Default,Sensei,0,0,0,,Its was a group effort, Rin.
+Dialogue: 10,0:00:17.33,0:00:19.25,Default,Sensei,0,0,0,,It was a group effort, Rin.
 Dialogue: 10,0:00:20.01,0:00:22.25,Default,Rin,0,0,0,,Now, if you would follow me.
 Dialogue: 10,0:00:25.89,0:00:29.51,Default,Rin,0,0,0,,There's something the GSC President left behind. We've been storing it here.
 Dialogue: 10,0:00:32.46,0:00:34.76,Default,Rin,0,0,0,,Please take this, {*}Teacher{*Sensei}
 Dialogue: 10,0:00:35.18,0:00:36.85,Default,Sensei,0,0,0,,A tablet?
 Dialogue: 10,0:00:36.85,0:00:40.97,Default,Rin,0,0,0,,The GSC president intended for you to have this.
 Dialogue: 10,0:00:40.97,0:00:42.69,Default,Rin,0,0,0,,The Shittim Chest.
-Dialogue: 10,0:00:43.23,0:00:47.34,Default,Rin,0,0,0,,It's OS, architecture, and everything else is a black box.
+Dialogue: 10,0:00:43.23,0:00:47.34,Default,Rin,0,0,0,,Its OS, architecture, and everything else is a black box.
 Dialogue: 10,0:00:47.34,0:00:50.20,Default,Rin,0,0,0,,We weren't even able to power it on.
 Dialogue: 10,0:00:50.20,0:00:52.70,Default,Rin,0,0,0,,However, I suspect that if it’s you...
 Dialogue: 10,0:01:06.24,0:01:10.10,Default,Arona,0,0,0,,If there’s castella~
@@ -244,7 +243,7 @@ Comment: 10,0:14:05.24,0:14:05.95,Default,Arona,0,0,0,,Huh?
 Dialogue: 10,0:14:05.95,0:14:08.08,Default,Arona,0,0,0,,Huh? Ah, hello, Sense—
 Dialogue: 10,0:14:07.08,0:14:08.08,Alt,Sensei,0,0,0,,Arona!
 Dialogue: 10,0:14:08.08,0:14:09.20,Default,Arona,0,0,0,,I need your help!
-Dialogue: 10,0:14:09.71,0:14:11.71,Default,Sensei,0,0,0,,Find where Serika is, quickly! 
+Dialogue: 10,0:14:09.71,0:14:11.71,Default,Sensei,0,0,0,,Find where Serika is, quickly!
 Dialogue: 10,0:14:12.49,0:14:14.71,Default,Arona,0,0,0,,Huh? O-Of course!
 Dialogue: 10,0:14:17.08,0:14:19.21,Default,Sensei,0,0,0,,I've identified Serika's location!
 Dialogue: 10,0:14:19.21,0:14:21.23,Default,Nonomi,0,0,0,,What? H-How?
