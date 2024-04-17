@@ -214,93 +214,113 @@ Dialogue: 2,0:11:29.75,0:11:33.76,LightSigns,sheen,0,0,0,,{=3257=3270}{\an7\pos(
 Dialogue: 1,0:11:29.75,0:11:33.76,LightSigns,text,0,0,0,,{=3257=3270}{\an7\pos(607,571)\org(685,1197)\fscx37.43\fscy67.74\frz2.52\fry-6.822\frx-0.617\fnBrush Japanese_hun\xbord0.59\ybord0.7\yshad0.01\4c&H352F61&\1a&HFE&\3a&HFF&\blur1.2\t(1107,1941,0.8,\4c&H0F0903&)}Shiba Seki Ramen
 Dialogue: 0,0:11:29.75,0:11:33.76,LightSigns,indent,0,0,0,,{=3256=3270=3272}{\an7\pos(608,572)\org(685,1197)\fscx37.43\fscy67.74\frz2.52\fry-6.822\frx-0.617\fnBrush Japanese_hun\xbord0.59\ybord0.7\yshad0.01\4c&H313A58&\1a&HFE&\3a&HFF&\blur1.2\t(1107,1941,0.8,\4c&H0F0903&)}Shiba Seki Ramen
 Comment: 0,0:09:08.90,0:09:12.41,LightSigns,,0,0,0,,{=3274}-- Shiba Seki Ramen Logo
-Comment: 0,0:14:14.71,0:14:14.71,LightSigns,,0,0,0,,{=3289}---- Shittim Chest
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(867.02,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}N
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(887.77,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}o
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(908.89,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}w
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(935.76,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}c
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(952.49,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}o
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(971.2,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}n
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(990.1,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}n
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1008.22,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}e
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1024.37,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}c
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1037.6,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}t
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1047.64,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}i
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1061.37,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}n
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1080.23,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}g
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1102.93,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}t
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1117.95,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}o
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1140.51,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}t
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1155.72,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}h
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1173.84,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}e
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1198.5,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}S
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1215.59,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}a
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1233.67,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}n
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1250.59,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}c
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1263.82,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}t
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1279.03,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}u
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1302.48,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}m
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1332.57,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}T
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1350.39,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}o
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1371.51,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}w
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1392.05,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}e
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1407.24,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}r
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1417.56,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}'
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1428.82,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}s
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1453.21,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}d
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1471.25,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}a
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1485.65,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}t
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1500.05,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}a
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1523.67,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}s
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1539.03,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}y
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1554.39,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}s
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1567.61,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}t
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1582.05,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}e
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1604.73,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}m
-Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1626.19,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,2,\fscx0\fscy0)}s
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(871.02,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}N
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(891.77,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}o
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(912.89,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}w
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(939.76,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}c
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(956.49,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}o
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(975.2,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}n
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(994.1,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}n
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1012.22,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}e
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1028.37,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}c
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1041.6,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}t
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1051.64,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}i
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1065.37,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}n
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1084.23,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}g
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1106.93,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}t
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1121.95,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}o
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1144.51,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}t
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1159.72,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}h
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1177.84,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}e
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1202.5,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}S
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1219.59,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}a
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1237.67,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}n
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1254.59,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}c
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1267.82,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}t
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1283.03,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}u
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1306.48,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}m
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1336.57,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}T
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1354.39,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}o
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1375.51,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}w
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1396.05,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}e
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1411.24,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}r
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1421.56,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}'
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1432.82,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}s
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1457.21,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}d
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1475.25,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}a
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1489.65,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}t
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1504.05,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}a
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1527.67,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}s
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1543.03,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}y
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1558.39,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}s
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1571.61,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}t
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1586.05,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}e
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1608.73,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}m
-Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\pos(1630.19,542.61)\org(2028,1332)\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,2,\fscx0\fscy0)}s
+Comment: 0,0:14:14.71,0:14:16.71,LightSigns,,0,0,0,,{=3293}---- Shittim Chest
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(851.02,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}N
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(871.77,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}o
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(892.89,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}w
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(919.76,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}c
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(936.49,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}o
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(955.2,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}n
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(974.1,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}n
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(992.22,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}e
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1008.37,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}c
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1021.6,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}t
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1031.64,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}i
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1045.37,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}n
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1064.23,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}g
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1086.93,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}t
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1101.95,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}o
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1124.51,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}t
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1139.72,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}h
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1157.84,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}e
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1182.5,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}S
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1199.59,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}a
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1217.67,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}n
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1234.59,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}c
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1247.82,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}t
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1263.03,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}u
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1286.48,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}m
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1316.57,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}T
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1334.39,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}o
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1355.51,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}w
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1376.05,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}e
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1391.24,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}r
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1401.56,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}'
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1412.82,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}s
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1437.21,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}d
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1455.25,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}a
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1469.65,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}t
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1484.05,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}a
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1507.67,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}s
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1523.03,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}y
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1538.39,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}s
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1551.61,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}t
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1566.05,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}e
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1588.73,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}m
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1610.19,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}s
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(855.02,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}N
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(875.77,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}o
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(896.89,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}w
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(923.76,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}c
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(940.49,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}o
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(959.2,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}n
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(978.1,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}n
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(996.22,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}e
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1012.37,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}c
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1025.6,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}t
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1035.64,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}i
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1049.37,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}n
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1068.23,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}g
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1090.93,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}t
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1105.95,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}o
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1128.51,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}t
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1143.72,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}h
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1161.84,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}e
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1186.5,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}S
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1203.59,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}a
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1221.67,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}n
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1238.59,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}c
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1251.82,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}t
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1267.03,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}u
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1290.48,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}m
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1320.57,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}T
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1338.39,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}o
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1359.51,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}w
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1380.05,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}e
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1395.24,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}r
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1405.56,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}'
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1416.82,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}s
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1441.21,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}d
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1459.25,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}a
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1473.65,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}t
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1488.05,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}a
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1511.67,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}s
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1527.03,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}y
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1542.39,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}s
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1555.61,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}t
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1570.05,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}e
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1592.73,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}m
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1614.19,532.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}s
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1166.68,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}P
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1181.5,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}l
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1195.59,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}e
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1212.67,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}a
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1228.59,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}s
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1244.49,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}e
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1275.06,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}W
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1297.51,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}a
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1310.57,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}i
+Dialogue: 2,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1321.71,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\blur1\t(800,0,1.75,\fscx0\fscy0)}t
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1169.68,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}P
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1184.5,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}l
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1198.59,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}e
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1215.67,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}a
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1231.59,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}s
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1247.49,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}e
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1278.06,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}W
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1300.51,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}a
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1313.57,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}i
+Dialogue: 1,0:14:14.71,0:14:15.67,LightSigns,,0,0,0,,{=3288}{\an2\pos(1324.71,580.61)\org(2028,1332)\fscy105\frz19.025\fry0.621\frx-0.297\fnSource Han Sans\fs42\b900\c&HF1F150&\blur0.8\t(800,0,1.75,\fscx0\fscy0)}t
 Dialogue: 0,0:14:14.71,0:14:15.79,LightSigns,,0,0,0,,{\an7\pos(725,402)\bord0.7\xshad0.01\4c&HEACDAA&\1a&HFE&\3a&HFF&\blur0.8\fad(0,200)\p1}m -4 486 b -6 487 -7 485 -9 485 -6 484 -5 483 -4 481 -3 481 -2 482 -2 483 -2 484 -2 485 -4 486
 Dialogue: 0,0:14:14.71,0:14:15.79,LightSigns,,0,0,0,,{\an7\pos(725,402)\bord0.7\xshad0.01\4c&HECCEB0&\1a&HFE&\3a&HFF&\blur0.8\fad(0,200)\p1}m -43 494 b -43 495 -43 495 -42 496 -43 497 -43 499 -45 499 -45 498 -45 497 -45 495 -45 495 -44 495 -44 494 -44 494 -44 494 -43 494
 Dialogue: 0,0:14:14.71,0:14:15.79,LightSigns,,0,0,0,,{\an7\pos(725,402)\bord0.7\xshad0.01\4c&HECCFAC&\1a&HFE&\3a&HFF&\blur0.8\fad(0,200)\p1}m -9 477 b -8 477 -8 476 -8 476 -7 475 -6 475 -5 475 -3 475 -2 473 0 473 1 474 1 475 1 476 2 476 1 476 1 477 0 478 -2 477 -2 479 -2 481 -1 480 0 481 0 482 1 482 2 482 2 484 0 484 0 485 0 486 0 487 0 487 -1 489 -3 490 -4 492 -5 493 -6 492 -6 492 -7 493 -8 492 -8 493 -9 493 -10 493 -10 493 -10 493 -10 492 -10 492 -9 491 -7 490 -6 489 -7 488 -9 489 -10 488 -11 484 -8 481 -9 477 m -4 486 b -2 485 -2 484 -2 483 -2 482 -3 481 -4 481 -5 483 -6 484 -9 485 -7 485 -6 487 -4 486
@@ -885,7 +905,7 @@ Dialogue: 0,0:14:14.71,0:14:15.79,LightSigns,,0,0,0,,{\an7\pos(725,402)\bord0.7\
 Dialogue: 0,0:14:14.71,0:14:15.79,LightSigns,,0,0,0,,{\an7\pos(725,402)\bord0.7\xshad0.01\4c&HF6E6CE&\1a&HFE&\3a&HFF&\blur0.8\fad(0,200)\p1}m 100 439 b 100 439 101 439 101 440 101 440 100 440 100 440 100 440 100 440 100 439
 Dialogue: 0,0:14:14.71,0:14:15.79,LightSigns,,0,0,0,,{\an7\pos(725,402)\bord0.7\xshad0.01\4c&HF6E8D6&\1a&HFE&\3a&HFF&\blur0.8\fad(0,200)\p1}m 6 469 b 5 469 5 469 5 469 5 469 5 469 5 468 5 468 6 469 6 469
 Dialogue: 0,0:14:14.71,0:14:15.79,LightSigns,,0,0,0,,{\an7\pos(725,402)\bord0.7\xshad0.01\4c&HF7E5CF&\1a&HFE&\3a&HFF&\blur0.8\fad(0,200)\p1}m 378 364 b 378 364 379 365 379 365 379 366 379 366 378 366 378 366 377 365 377 364 377 364 377 364 378 364
-Dialogue: 0,0:14:14.71,0:14:15.79,LightSigns,,0,0,0,,{=3290}{\an7\pos(725,402)\bord0.7\xshad0.01\4c&HF7EDE3&\1a&HFE&\3a&HFF&\blur0.8\fad(0,200)\p1}m -59 509 b -59 509 -59 509 -59 508 -59 508 -59 508 -58 508 -58 509 -58 509 -58 509 -59 509 -59 509 -59 509
+Dialogue: 0,0:14:14.71,0:14:15.79,LightSigns,,0,0,0,,{=3294}{\an7\pos(725,402)\bord0.7\xshad0.01\4c&HF7EDE3&\1a&HFE&\3a&HFF&\blur0.8\fad(0,200)\p1}m -59 509 b -59 509 -59 509 -59 508 -59 508 -59 508 -58 508 -58 509 -58 509 -58 509 -59 509 -59 509 -59 509
 
 [Aegisub Extradata]
 Data: 4,_aegi_folddata,e0;0;2
@@ -908,5 +928,7 @@ Data: 3272,_aegi_folddata,e1;1;8
 Data: 3273,_aegi_folddata,e0;1;9
 Data: 3274,_aegi_folddata,e1;1;9
 Data: 3288,_aegi_perspective_ambient_plane,e128.34;337.11#7C1315.71;-18.57#7C1599.05;787.47#7C448.19;1161.54
-Data: 3289,_aegi_folddata,e0;1;10
-Data: 3290,_aegi_folddata,e1;1;10
+Data: 3291,_aegi_folddata,e0;0;10
+Data: 3292,_aegi_folddata,e1;0;10
+Data: 3293,_aegi_folddata,e0;1;10
+Data: 3294,_aegi_folddata,e1;1;10
