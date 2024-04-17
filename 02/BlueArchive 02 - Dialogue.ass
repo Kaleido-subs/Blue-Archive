@@ -358,7 +358,7 @@ Dialogue: 10,0:21:25.10,0:21:27.52,Default,Serika,0,0,0,,Y-You {\i1}did{\i0} sav
 Dialogue: 10,0:21:29.06,0:21:31.02,Default,Serika,0,0,0,,Thanks, {*}Teacher{*Sensei},
 Dialogue: 10,0:21:33.86,0:21:35.77,Default,Hoshino,0,0,0,***,Ooh, Serika's finally softened up. {alt: Oh my, Serika-chan's *dere* side is showing!}{lol why am i bothering with weeb track -sikha}{to spite light for no sensei --rapid}{I'm winning -ML}{ik yes... good...}{### joke's on you I was the one who added tsundere back in all those previous times}
 Comment: 10,0:21:33.86,0:21:35.77,Default,Hoshino,0,0,0,***,Ooh, Serika-chan's {\i1}dere{\i0} side is finally showing.
-Dialogue: 10,0:21:35.77,0:21:37.69,Default,Serika,0,0,0,,N-No, {*}I haven't{*it hasn't}!
+Dialogue: 10,0:21:35.77,0:21:37.69,Default,Serika,0,0,0,,N-No, {*}I haven't{*it isn't}!
 Dialogue: 10,0:21:37.69,0:21:38.74,Default,Hoshino,0,0,0,,You sure?
 Dialogue: 10,0:21:38.74,0:21:40.45,Default,Serika,0,0,0,,It's not like that!
 Dialogue: 10,0:21:40.45,0:21:42.95,Default,Hoshino,0,0,0,,Aw, look at you, trying so hard to hide it.
