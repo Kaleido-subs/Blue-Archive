@@ -37,7 +37,7 @@ Dialogue: 10,0:00:17.33,0:00:19.25,Default,Sensei,0,0,0,,It was a group effort, 
 Dialogue: 10,0:00:20.00,0:00:22.25,Default,Rin,0,0,0,,Now, if you would follow me, please.
 Dialogue: 10,0:00:25.88,0:00:29.51,Default,Rin,0,0,0,,We've been preserving an artefact \Nthe GSC president left behind.
 Dialogue: 10,0:00:32.47,0:00:34.76,Default,Rin,0,0,0,,Please take this, {*}Teacher{*Sensei}.
-Dialogue: 10,0:00:35.18,0:00:36.85,Default,Sensei,0,0,0,,A smart tablet?
+Dialogue: 10,0:00:35.18,0:00:36.85,Default,Sensei,0,0,0,,A tablet?
 Dialogue: 10,0:00:36.85,0:00:40.98,Default,Rin,0,0,0,,Yes. The President intended for you to have this.
 Dialogue: 10,0:00:40.98,0:00:42.69,Default,Rin,0,0,0,,It's called the Shittim Chest.
 Dialogue: 10,0:00:43.23,0:00:47.36,Default,Rin,0,0,0,,We have no information on its OS, architecture, \Nanything. It's effectively a black box.
@@ -86,7 +86,7 @@ Dialogue: 10,0:04:47.27,0:04:49.89,Default,,0,0,0,,The scale of it was beyond an
 Dialogue: 10,0:04:50.27,0:04:53.73,Default,,0,0,0,,Many areas in the district were buried in sand.
 Dialogue: 10,0:04:54.40,0:04:57.61,Default,,0,0,0,,It was extremely costly to repair the damage,
 Dialogue: 10,0:04:57.61,0:05:01.45,Default,,0,0,0,,but they couldn't find a single bank \Nwho would lend them the money.
-Dialogue: 10,0:05:01.45,0:05:06.66,Default,,0,0,0,,In the end, they were forced to turn \Nto Kaiser Loan, a predatory finance company.
+Dialogue: 10,0:05:01.45,0:05:06.66,Default,,0,0,0,,In the end, they were forced to turn to \Nthe loan sharks at Kaiser Loan.
 Dialogue: 10,0:05:07.75,0:05:12.17,Default,,0,0,0,,I believe it started as a small sum, \Nsomething that could easily be paid off.
 Dialogue: 10,0:05:12.71,0:05:13.83,Default,,0,0,0,,But...
 Dialogue: 10,0:05:15.21,0:05:19.67,Default,,0,0,0,,Abydos kept getting struck \Nwith more sandstorms over time.
