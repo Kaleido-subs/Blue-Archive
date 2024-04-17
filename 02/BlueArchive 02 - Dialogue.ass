@@ -59,7 +59,7 @@ Dialogue: 10,0:01:53.73,0:01:56.46,Default,Arona,0,0,0,,It's nice to meet you, {
 Dialogue: 10,0:03:28.73,0:03:29.27,Default,Baddies,0,0,0,,Run for it!
 Dialogue: 10,0:03:29.27,0:03:30.98,Default,Baddies,0,0,0,,Retreat!
 Dialogue: 10,0:03:33.03,0:03:35.74,Default,Ayane,0,0,0,,Good work, everyone.
-Dialogue: 10,0:03:35.74,0:03:40.16,Default,Ayane,0,0,0,,With this, we managed to recapture \Nanother one of the Helmet Gang's hideouts{拠点}.
+Dialogue: 10,0:03:35.74,0:03:40.16,Default,Ayane,0,0,0,,With this, we managed to recapture \Nanother one of the Helmet Gang's hideouts.
 Dialogue: 10,0:03:40.16,0:03:41.74,Default,Shiroko,0,0,0,,Yep, looks like it.
 Dialogue: 10,0:03:41.74,0:03:44.20,Default,Arona,0,0,0,,Good work, {*}Teacher{*Sensei}.
 Dialogue: 10,0:03:44.20,0:03:46.54,Default,Sensei,0,0,0,,Thank you, Arona
@@ -223,7 +223,7 @@ Dialogue: 10,0:13:47.64,0:13:49.10,Default,Nonomi,0,0,0,,Did you try calling her
 Dialogue: 10,0:13:49.10,0:13:51.73,Default,Ayane,0,0,0,,Yes, but she's not picking up.
 Dialogue: 10,0:13:51.73,0:13:54.06,Default,Shiroko,0,0,0,,Did something happen last night?
 Dialogue: 10,0:13:54.06,0:13:55.94,Default,Sensei,0,0,0,,Everyone, stay calm.
-Dialogue: 10,0:14:01.07,0:14:04.07,Default,Arona,0,0,0,,Ah, my old friend, the sea.{微妙}
+Dialogue: 10,0:14:01.07,0:14:04.07,Default,Arona,0,0,0,,Ah, my old friend, the sea.
 Dialogue: 10,0:14:05.24,0:14:05.95,Default,Arona,0,0,0,,Huh?
 Dialogue: 10,0:14:05.95,0:14:08.08,Default,Arona,0,0,0,,Oh, hello, {*}Teach{*Sense}—
 Dialogue: 10,0:14:07.08,0:14:08.08,Alt,Sensei,0,0,0,,Arona!
@@ -356,7 +356,7 @@ Dialogue: 10,0:21:18.55,0:21:20.88,Default,Serika,0,0,0,,I could've handled the 
 Dialogue: 10,0:21:21.55,0:21:23.72,Default,Serika,0,0,0,,But... um...
 Dialogue: 10,0:21:25.10,0:21:27.52,Default,Serika,0,0,0,,Y-You {\i1}did{\i0} save me, so...
 Dialogue: 10,0:21:29.06,0:21:31.02,Default,Serika,0,0,0,,Thanks, {*}Teacher{*Sensei},
-Dialogue: 10,0:21:33.86,0:21:35.77,Default,Hoshino,0,0,0,***,Ooh, Serika's finally softened up. {alt: Oh my, Serika-chan's *dere* side is showing!}{lol why am i bothering with weeb track -sihka}{to spite light for no sensei --rapid}{I'm winning -ML}{ik yes... good...}{### joke's on you I was the one who added tsundere back in all those previous times}
+Dialogue: 10,0:21:33.86,0:21:35.77,Default,Hoshino,0,0,0,***,Ooh, Serika's finally softened up. {alt: Oh my, Serika-chan's *dere* side is showing!}{lol why am i bothering with weeb track -sikha}{to spite light for no sensei --rapid}{I'm winning -ML}{ik yes... good...}{### joke's on you I was the one who added tsundere back in all those previous times}
 Comment: 10,0:21:33.86,0:21:35.77,Default,Hoshino,0,0,0,***,Ooh, Serika-chan's {\i1}dere{\i0} side is finally showing.
 Dialogue: 10,0:21:35.77,0:21:37.69,Default,Serika,0,0,0,,N-No, {*}I haven't{*it hasn't}!
 Dialogue: 10,0:21:37.69,0:21:38.74,Default,Hoshino,0,0,0,,You sure?
