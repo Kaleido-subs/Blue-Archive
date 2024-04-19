@@ -18,10 +18,75 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: ED1,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.6,0,2,100,100,60,1
+Style: ED1,Bohemian Typewriter,64,&H00FFFFFF,&H000000FF,&H78204CEA,&H50FAD756,0,0,0,0,75,100,0,0,1,0,5,2,100,100,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,ncchapter,0,0,0,,{NCED1}
 Comment: 0,0:00:05.28,0:00:05.28,Default,,0,0,0,sync,{EDSync — ???}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,ffms = _G.aegisub.frame_from_ms; msff = _G.aegisub.ms_from_frame
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,yutils = require 'Yutils'
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,local path = _G.aegisub.project_properties().audio_file:gsub("([\\/])[^\\/]+$", "%1"); wav = yutils.decode.create_wav_reader(path .. "ba-ed-audio.wav")
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,local minamp, _ = wav.min_max_amplitude(); samples = {}; for i, s in _G.ipairs(wav.samples(30000)[1]) do samples[i] = s / -minamp; end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function samples_range_ms(from, to) local first = wav.sample_from_ms(from); local last = wav.sample_from_ms(to); wav.position(first); local maxamp = -wav.min_max_amplitude(); local samp = {}; for i, s in _G.ipairs(wav.samples(last - first)[1]) do samp[i] = s / maxamp; end; prevstart = from; prevdata = samp; return samp; end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,local prevstart; local prevanal; function visualizer(from, to, freqstart, freqend) local anal; if from == prevstart then anal = prevanal; else anal = yutils.decode.create_frequency_analyzer(samples_range_ms(from, to), wav.sample_rate()); prevstart = from; prevanal = anal end local maxfreq = wav.sample_rate() / 2; local fs = math.pow(freqstart, 3) * maxfreq + 10; local fe = math.pow(freqend, 3) * maxfreq + 30; return anal.frequency_range_weight(math.min(fs, maxfreq), math.min(fe, maxfreq)); end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function get_weight() local w = loopctx.state.w; local halfmax = loopctx.max.w / 2; local fs = math.abs(w - halfmax); if fs < 0 then fs = 1 - fs end; local fe = fs + 5; return visualizer(line.start_time - 50, line.end_time + 50, fs/halfmax, fe/halfmax); end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,FRAMES_PER_KF = 4
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,VIS_STRIP_WIDTH = 10
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code syl,local endf = ffms(orgline.start_time + syl.end_time); local dur_frames = endf - ffms(orgline.start_time + syl.start_time); local extra = FRAMES_PER_KF - dur_frames % FRAMES_PER_KF; local new_end = msff(endf + extra); syl.end_delta = new_end - (orgline.start_time + syl.end_time)
+Comment: 1,0:00:00.00,0:00:00.00,ED1,main presyl,0,0,0,template syl,!retime("start2syl", -200)!{\fad(150,0)}
+Comment: 1,0:00:00.00,0:00:00.00,ED1,main shake,0,0,0,template char loop layer -1,!util.fbf("syl", nil, char.syl.end_delta, FRAMES_PER_KF)!
+Comment: 1,0:00:00.00,0:00:00.00,ED1,main postsyl,0,0,0,template syl,!retime("syl2end", syl.end_delta, 200)!{\fad(0,150)}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Dialogue: 0,0:00:00.00,0:00:00.00,ED1,vis,0,0,0,template line notext loop w -1,!maxloop('w', math.ceil(orgline.width / 20)*2 + 2*3)!!util.fbf('line', -200,200)!
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main,!maxloop('layer', 3)!!relayer($loop_layer)!
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main layer 1,{\c!gc(3)!\3c!gc(3)!\4a!ga(3)!\1a!ga(3)!\3a!ga(3)!\4c!gc(3)!\blur5\bord3}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main layer 2,{\c!gc(4)!\1a!ga(4)!\blur1}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main layer 3,{\shad0\blur0.7}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function engy() return orgline.actor:match("eng") and -meta.res_y + 2*orgline.styleref.margin_v + line.height or 0 end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main no_t_actor shake,{!ln.tag.pos(5,5,nil, engy())!\fscx}
+Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor shake,!set('frz_height', 5 * math.min(line.height/syl.width, 1))!{!ln.tag.pos(5, 5, rnd(-2,2), rnd(-2,2))!\frz!rnd(-frz_height,frz_height)!}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor shake layer 1,!set('xoff', rnd(-2, 2))!!set('yoff', rnd(-2, 2))!!set('frz', rnd(-5, 5))!
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor shake,{!ln.tag.pos(5, 5, xoff, yoff+engy())!\frz!frz!}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,local EDGE = 0.25; function attune(h) local w = loopctx.state.w; local maxw = loopctx.max.w; local edge = math.floor(maxw * EDGE) if maxw-w < w then w = (maxw+1)-w end; local fact = 1; if w <= edge then fact = math.pow((w-0.5)/edge, 0.33) end; return util.ftoa(h * fact, 0); end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function get_fadein() return line.start_time < orgline.start_time - 50 and (line.start_time - (orgline.start_time-200))/150 end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function get_fadeout() return line.start_time > orgline.end_time + 50 and (orgline.end_time+200 - line.start_time)/150 end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis if get_fadein,{\alpha!_G.util.ass_alpha(255*(1-get_fadein()))!}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis if get_fadeout,{\alpha!_G.util.ass_alpha(255*(1-get_fadeout()))!}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis,{\an5\pos(!orgline.center - ($maxloop_w)*10/2 + ($loop_w-1) * 10!,!orgline.middle!)}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis,{\bord0\shad0\c&HFFC38B&}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis,{\fscy!attune(80 + get_weight() * 100)!}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis,{\p1}m 0 0 l 10 0 10 100 0 100
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Dialogue: 0,0:00:14.81,0:00:18.04,ED1,eng,0,0,0,kara,{\k24}Ga{\k25}zing {\k23}out {\k20}the {\k25}win{\k44}dow, {\k24}I {\k20}seek {\k24}a {\k44}place {\k20}to {\k30}store
+Dialogue: 0,0:00:18.25,0:00:20.99,ED1,eng,0,0,0,kara,{\k42}these {\k26}e{\k23}ver-{\k22}chang{\k22}ing {\k47}fee{\k25}lings {\k22}of {\k45}mine
+Dialogue: 0,0:00:23.23,0:00:26.85,ED1,eng,0,0,0,kara,{\k25}To {\k44}keep {\k21}them {\k49}safe {\k46}from {\k21}sti{\k23}f{\k45}ling {\k48}sad{\k40}ness
+Dialogue: 0,0:00:29.38,0:00:32.76,ED1,eng,0,0,0,kara,{\k22}We {\k24}ribbed {\k21}each {\k26}o{\k21}ther {\k44}and {\k24}laughed, {\k23}for{\k23}get{\k22}ting {\k25}all {\k23}the {\k40}days
+Dialogue: 0,0:00:33.01,0:00:35.47,ED1,eng,0,0,0,kara,{\k24}where {\k25}we {\k23}didn{\k21}'t {\k24}under{\k45}stand {\k45}a {\k39}thing
+Dialogue: 0,0:00:36.10,0:00:41.54,ED1,eng,0,0,0,kara,{\k32}E{\k25}ven {\k29}if {\k84}{\k22}we {\k24}were {\k22}just {\k22}an {\k46}e{\k44}ve{\k46}ry{\k24}day {\k44}group {\k24}of {\k56}kids,
+Dialogue: 0,0:00:14.81,0:00:20.99,ED1,rom,0,0,0,kara,{\k24}ma{\k25}do{\k23}gi{\k20}wa {\k25}no {\k44}seki {\k24}de {\k20}u{\k24}tsu{\k22}ro{\k22}u {\k20}ki{\k52}mochi {\k21}no {\k20}o{\k26}ki{\k23}ba {\k22}wo {\k22}sa{\k47}gashi{\k23}te{\k24}i{\k45}ru
+Dialogue: 0,0:00:23.23,0:00:26.85,ED1,rom,0,0,0,kara,{\k25}ka{\k23}na{\k21}shi{\k21}mi {\k49}ni {\k46}oo{\k21}wa{\k23}re{\k24}na{\k21}i {\k24}yo{\k24}u {\k40}ni
+Dialogue: 0,0:00:29.38,0:00:35.47,ED1,rom,0,0,0,kara,{\k22}wa{\k24}ke {\k21}mo {\k26}wa{\k21}ka{\k44}razu {\k24}to{\k23}ki {\k23}wo {\k22}wa{\k25}su{\k23}re{\k42}te{\k23} {\k22}o{\k25}do{\k23}ke{\k21}te {\k24}wa{\k45}rai{\k45}a{\k41}tta
+Dialogue: 0,0:00:36.10,0:00:41.54,ED1,rom,0,0,0,kara,{\k32}so{\k25}re {\k29}ga{\k84} {\k22}a{\k24}ri{\k22}fu{\k22}re{\k46}ta {\k44}gun{\k46}zou {\k24}da {\k21}to {\k23}shi{\k24}te{\k56}mo
+Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,sonna hibi o / mou ikkai mou ikkai nante
+Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,kanawanai tte wakatteru
+Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,mahiru no sora no tsuki no you ni / tsuyoku utsukushiku iraretara
+Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,ano hi no ayamachi mo koukai mo / zenbu kirei ni yuruseta kana
+Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,daiji na koto wa itsu datte
+Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,sugisatte kara youyaku ki ga tsuku nda
+Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,mahiru no sora no tsuki ni mukatte
+Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,te o nobashita tte sawarenai keredo
+Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,wasure wa shinai itoshii hibi yo
 Dialogue: 0,0:00:05.28,0:00:08.28,ED1,,0,0,0,,
