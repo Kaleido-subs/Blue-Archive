@@ -23,7 +23,7 @@ Style: ED1,Bohemian Typewriter,64,&H00FFFFFF,&H000000FF,&H78204CEA,&H50FAD756,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,ncchapter,0,0,0,,{NCED1}
-Comment: 0,0:00:05.28,0:00:05.28,Default,,0,0,0,sync,{EDSync — ???}
+Comment: 0,0:00:35.89,0:00:35.89,Default,,0,0,0,sync,{EDSync — First hard cut (Nonomi washing room shot)}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,ffms = _G.aegisub.frame_from_ms; msff = _G.aegisub.ms_from_frame
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
