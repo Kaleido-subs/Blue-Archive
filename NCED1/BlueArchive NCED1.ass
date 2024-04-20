@@ -18,7 +18,7 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: ED1,Bohemian Typewriter,64,&H00FFFFFF,&H000000FF,&H78204CEA,&H50FAD756,0,0,0,0,75,100,0,0,1,0,5,2,100,100,60,1
+Style: ED1,Bohemian Typewriter,64,&H00FFFFFF,&H000000FF,&H78204CEA,&H50FAD756,0,0,0,0,75,100,0,0,1,0,5,8,100,100,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
