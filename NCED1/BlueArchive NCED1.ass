@@ -71,23 +71,44 @@ Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis,{\bord0\shad0
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis,{\fscy!attune(80 + get_weight() * 100)!}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis,{\p1}m 0 0 l 10 0 10 100 0 100
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
-Dialogue: 0,0:00:14.81,0:00:18.04,ED1,eng,0,0,0,kara,{\k24}Ga{\k25}zing {\k23}out {\k20}the {\k25}win{\k44}dow, {\k24}I {\k20}seek {\k24}a {\k44}place {\k20}to {\k30}store
-Dialogue: 0,0:00:18.25,0:00:20.99,ED1,eng,0,0,0,kara,{\k42}these {\k26}e{\k23}ver-{\k22}chang{\k22}ing {\k47}fee{\k25}lings {\k22}of {\k45}mine
-Dialogue: 0,0:00:23.23,0:00:26.85,ED1,eng,0,0,0,kara,{\k25}To {\k44}keep {\k21}them {\k49}safe {\k46}from {\k21}sti{\k23}f{\k45}ling {\k48}sad{\k40}ness
-Dialogue: 0,0:00:29.38,0:00:32.76,ED1,eng,0,0,0,kara,{\k22}We {\k24}ribbed {\k21}each {\k26}o{\k21}ther {\k44}and {\k24}laughed, {\k23}for{\k23}get{\k22}ting {\k25}all {\k23}the {\k40}days
-Dialogue: 0,0:00:33.01,0:00:35.47,ED1,eng,0,0,0,kara,{\k24}where {\k25}we {\k23}didn{\k21}'t {\k24}under{\k45}stand {\k45}a {\k39}thing
-Dialogue: 0,0:00:36.10,0:00:41.54,ED1,eng,0,0,0,kara,{\k32}E{\k25}ven {\k29}if {\k84}{\k22}we {\k24}were {\k22}just {\k22}an {\k46}e{\k44}ve{\k46}ry{\k24}day {\k44}group {\k24}of {\k56}kids,
-Dialogue: 0,0:00:14.81,0:00:20.99,ED1,rom,0,0,0,kara,{\k24}ma{\k25}do{\k23}gi{\k20}wa {\k25}no {\k44}seki {\k24}de {\k20}u{\k24}tsu{\k22}ro{\k22}u {\k20}ki{\k52}mochi {\k21}no {\k20}o{\k26}ki{\k23}ba {\k22}wo {\k22}sa{\k47}gashi{\k23}te{\k24}i{\k45}ru
-Dialogue: 0,0:00:23.23,0:00:26.85,ED1,rom,0,0,0,kara,{\k25}ka{\k23}na{\k21}shi{\k21}mi {\k49}ni {\k46}oo{\k21}wa{\k23}re{\k24}na{\k21}i {\k24}yo{\k24}u {\k40}ni
-Dialogue: 0,0:00:29.38,0:00:35.47,ED1,rom,0,0,0,kara,{\k22}wa{\k24}ke {\k21}mo {\k26}wa{\k21}ka{\k44}razu {\k24}to{\k23}ki {\k23}wo {\k22}wa{\k25}su{\k23}re{\k42}te{\k23} {\k22}o{\k25}do{\k23}ke{\k21}te {\k24}wa{\k45}rai{\k45}a{\k41}tta
-Dialogue: 0,0:00:36.10,0:00:41.54,ED1,rom,0,0,0,kara,{\k32}so{\k25}re {\k29}ga{\k84} {\k22}a{\k24}ri{\k22}fu{\k22}re{\k46}ta {\k44}gun{\k46}zou {\k24}da {\k21}to {\k23}shi{\k24}te{\k56}mo
-Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,sonna hibi o / mou ikkai mou ikkai nante
-Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,kanawanai tte wakatteru
-Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,mahiru no sora no tsuki no you ni / tsuyoku utsukushiku iraretara
-Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,ano hi no ayamachi mo koukai mo / zenbu kirei ni yuruseta kana
-Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,daiji na koto wa itsu datte
-Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,sugisatte kara youyaku ki ga tsuku nda
-Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,mahiru no sora no tsuki ni mukatte
-Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,te o nobashita tte sawarenai keredo
-Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,wasure wa shinai itoshii hibi yo
+Comment: 0,0:00:14.81,0:00:16.66,ED1,rom,0,0,0,kara,{\k3}{\k22}ma{\k24}do{\k21}gi{\k24}wa {\k23}no {\k44}seki {\k21}de{\k3}
+Comment: 0,0:00:16.66,0:00:20.99,ED1,rom,0,0,0,kara,{\k0}{\k21}u{\k23}tsu{\k22}ro{\k22}u {\k24}ki{\k46}mochi {\k23}no {\k22}o{\k23}ki{\k22}ba {\k23}wo {\k21}sa{\k48}gashi{\k24}te{\k18}i{\k47}ru{\k4}
+Comment: 0,0:00:23.13,0:00:26.85,ED1,rom,0,0,0,kara,{\k8}{\k26}ka{\k23}na{\k23}shi{\k22}mi {\k45}ni {\k46}oo{\k22}wa{\k23}re{\k22}na{\k22}i {\k26}yo{\k21}u {\k41}ni{\k2}
+Comment: 0,0:00:29.30,0:00:30.97,ED1,rom,0,0,0,kara,{\k7}{\k21}wa{\k26}ke {\k21}mo {\k24}wa{\k22}ka{\k43}razu{\k3}
+Comment: 0,0:00:30.97,0:00:32.80,ED1,rom,0,0,0,kara,{\k21}to{\k24}ki {\k22}wo {\k25}wa{\k21}su{\k23}re{\k42}te{\k5}
+Comment: 0,0:00:32.80,0:00:35.47,ED1,rom,0,0,0,kara,{\k21}{\k22}o{\k22}do{\k25}ke{\k21}te {\k23}wa{\k46}rai{\k25}a{\k21}t{\k38}ta{\k3}
+Comment: 0,0:00:36.10,0:00:37.14,ED1,rom,0,0,0,kara,{\k2}{\k31}so{\k22}re {\k40}ga{\k9}
+Comment: 0,0:00:37.73,0:00:41.54,ED1,rom,0,0,0,kara,{\k6}{\k22}a{\k24}ri{\k21}fu{\k23}re{\k45}ta {\k43}gun{\k49}zou {\k23}da {\k22}to {\k24}shi{\k21}te{\k51}mo{\k7}
+Comment: 0,0:00:42.46,0:00:44.15,ED1,rom,0,0,0,kara,{\k1}{\k54}so{\k24}nna {\k21}hi{\k23}bi {\k41}wo{\k5}
+Comment: 0,0:00:44.15,0:00:47.55,ED1,rom,0,0,0,kara,{\k4}{\k41}mou {\k44}i{\k47}kkai {\k23}mo{\k21}u {\k46}i{\k45}kkai {\k47}nan{\k20}te{\k2}
+Comment: 0,0:00:47.76,0:00:50.79,ED1,rom,0,0,0,kara,{\k2}{\k23}ka{\k22}na{\k24}wa{\k23}na{\k44}i {\k20}tte {\k24}wa{\k23}ka{\k24}t{\k26}te{\k44}ru{\k4}
+Comment: 0,0:00:51.19,0:00:54.74,ED1,rom,0,0,0,kara,{\k2}{\k18}ma{\k31}hi{\k17}ru {\k24}no {\k23}so{\k20}ra {\k23}no {\k24}tsu{\k46}ki {\k44}no {\k49}you {\k31}ni{\k3}
+Comment: 0,0:00:54.74,0:00:58.09,ED1,rom,0,0,0,kara,{\k1}{\k30}tsu{\k23}yo{\k23}ku {\k24}u{\k22}tsu{\k44}kushi{\k22}ku {\k25}i{\k23}ra{\k23}re{\k22}ta{\k49}ra{\k4}
+Comment: 0,0:00:58.47,0:01:02.04,ED1,rom,0,0,0,kara,{\k2}{\k20}a{\k20}no {\k26}hi {\k27}no {\k18}a{\k25}ya{\k43}machi {\k45}mo {\k45}kou{\k48}kai {\k24}mo{\k14}
+Comment: 0,0:01:02.04,0:01:05.34,ED1,rom,0,0,0,kara,{\k4}{\k25}ze{\k24}n{\k21}bu {\k26}ki{\k19}re{\k23}i {\k23}ni {\k24}yu{\k22}ru{\k24}se{\k20}ta {\k27}ka{\k45}na{\k3}
+Comment: 0,0:01:05.94,0:01:08.75,ED1,rom,0,0,0,kara,{\k3}{\k27}da{\k18}i{\k23}ji {\k20}na {\k25}ko{\k23}to {\k22}wa {\k23}i{\k23}tsu {\k24}da{\k22}t{\k25}te{\k3}
+Comment: 0,0:01:08.82,0:01:12.90,ED1,rom,0,0,0,kara,{\k1}{\k31}su{\k26}gi{\k43}sa{\k21}tte {\k25}ka{\k21}ra {\k25}yo{\k16}u{\k28}ya{\k21}ku {\k26}ki {\k19}ga {\k23}tsu{\k24}ku {\k26}n{\k28}da{\k4}
+Comment: 0,0:01:12.97,0:01:16.45,ED1,rom,0,0,0,kara,{\k5}{\k15}ma{\k31}hi{\k20}ru {\k24}no {\k24}so{\k22}ra {\k23}no {\k19}tsu{\k48}ki {\k22}ni {\k24}mu{\k46}ka{\k23}tte{\k2}
+Comment: 0,0:01:16.64,0:01:21.11,ED1,rom,0,0,0,kara,{\k2}{\k20}te {\k24}wo {\k23}no{\k45}bashi{\k46}ta {\k25}tte {\k20}sa{\k25}wa{\k47}re{\k43}nai {\k22}ke{\k21}re{\k75}do{\k9}
+Comment: 0,0:01:21.19,0:01:25.67,ED1,rom,0,0,0,kara,{\k2}{\k21}wa{\k24}su{\k23}re {\k21}wa {\k23}shi{\k39}nai{\k31} {\k21}i{\k22}to{\k44}shii {\k49}hi{\k21}bi {\k102}yo{\k5}
+Comment: 0,0:00:14.81,0:00:16.66,ED1,eng,0,0,0,kara,{\k3}{\k22}I'm {\k24}ga{\k21}zing {\k24}out {\k23}the {\k44}win{\k21}dow{\k3}
+Comment: 0,0:00:16.66,0:00:20.99,ED1,eng,0,0,0,kara,{\k21}And {\k23}loo{\k22}king {\k22}for {\k24}a {\k46}place {\k23}to {\k22}pro{\k23}tect {\k22}the {\k23}ten{\k21}der {\k48}fee{\k24}lings {\k18}with{\k47}in{\k4}
+Comment: 0,0:00:23.13,0:00:26.85,ED1,eng,0,0,0,kara,{\k8}{\k26}Try{\k23}ing {\k23}to {\k22}es{\k45}cape {\k46}this {\k22}me{\k23}lan{\k22}cho{\k22}lic {\k26}som{\k21}bre{\k41}ness{\k2}
+Comment: 0,0:00:29.30,0:00:30.97,ED1,eng,0,0,0,kara,{\k7}{\k21}We {\k26}put {\k21}a{\k24}side {\k22}the {\k43}days{\k3}
+Comment: 0,0:00:30.97,0:00:32.80,ED1,eng,0,0,0,kara,{\k21}When {\k24}we {\k22}did{\k25}n't {\k21}know {\k23}a {\k42}thing{\k5}
+Comment: 0,0:00:32.80,0:00:35.47,ED1,eng,0,0,0,kara,{\k21}{\k22}And {\k22}took {\k25}some {\k21}time {\k23}to {\k46}joke {\k46}and {\k38}laugh{\k3}
+Comment: 0,0:00:36.10,0:00:37.14,ED1,eng,0,0,0,kara,{\k2}{\k31}And {\k22}it {\k40}felt{\k9}
+Comment: 0,0:00:37.73,0:00:41.54,ED1,eng,0,0,0,kara,{\k6}{\k22}Like {\k24}we {\k21}were {\k23}the {\k45}nor{\k43}mal {\k49}kids {\k23}we {\k22}were {\k24}meant {\k21}to {\k51}be{\k7}
+Comment: 0,0:00:42.46,0:00:44.15,ED1,eng,0,0,0,kara,{\k1}{\k54}Wish {\k24}that {\k21}I {\k23}could {\k41}go{\k5}
+Comment: 0,0:00:44.15,0:00:47.55,ED1,eng,0,0,0,kara,{\k4}{\k41}Back {\k44}a{\k47}gain, {\k23}back {\k21}to {\k46}those {\k45}nor{\k47}mal {\k20}days{\k2}
+Comment: 0,0:00:47.76,0:00:50.79,ED1,eng,0,0,0,kara,{\k2}{\k23}E{\k22}ven {\k24}though {\k23}I {\k44}know {\k20}that {\k24}they'll {\k23}ne{\k24}ver {\k26}re{\k44}turn{\k4}
+Comment: 0,0:00:51.19,0:00:54.74,ED1,eng,0,0,0,kara,{\k2}{\k18}If {\k31}I {\k17}could {\k24}be {\k23}as {\k20}pure {\k23}as {\k24}the {\k46}mid{\k44}day {\k49}moon{\k31}light{\k3}
+Comment: 0,0:00:54.74,0:00:58.09,ED1,eng,0,0,0,kara,{\k1}{\k30}As {\k23}in{\k23}no{\k24}cent {\k22}and {\k44}fair {\k22}as {\k25}its {\k23}de{\k23}li{\k22}cate {\k49}glow{\k4}
+Comment: 0,0:00:58.47,0:01:02.04,ED1,eng,0,0,0,kara,{\k2}{\k20}I {\k20}won{\k26}der {\k27}if {\k18}the {\k25}fail{\k43}ings {\k45}I {\k45}still {\k48}car{\k24}ry{\k14}
+Comment: 0,0:01:02.04,0:01:05.34,ED1,eng,0,0,0,kara,{\k4}{\k25}Could {\k24}e{\k21}ver {\k26}be {\k19}for{\k23}gi{\k23}ven {\k24}by {\k22}the {\k24}ones {\k20}that {\k27}I {\k45}owe{\k3}
+Comment: 0,0:01:05.94,0:01:08.75,ED1,eng,0,0,0,kara,{\k3}{\k27}Eve{\k18}ry{\k23}thing {\k20}we {\k25}che{\k23}rish {\k22}from {\k23}the {\k23}depths {\k24}of {\k22}our {\k25}hearts{\k3}
+Comment: 0,0:01:08.82,0:01:12.90,ED1,eng,0,0,0,kara,{\k1}{\k31}Could {\k26}be {\k43}gone {\k21}at {\k25}a{\k21}ny {\k41}time {\k28}be{\k21}fore {\k26}we {\k19}know {\k23}what {\k24}we're {\k26}mis{\k28}sing{\k4}
+Comment: 0,0:01:12.97,0:01:16.45,ED1,eng,0,0,0,kara,{\k5}{\k15}I'm {\k31}ga{\k20}zing {\k24}at {\k24}the {\k22}moon {\k23}in {\k19}a {\k48}sky {\k22}full {\k24}of {\k46}day{\k23}light{\k2}
+Comment: 0,0:01:16.64,0:01:21.11,ED1,eng,0,0,0,kara,{\k2}{\k20}But {\k24}still {\k23}it's {\k45}out {\k46}of {\k25}reach {\k20}han{\k25}ging {\k47}up {\k43}a{\k22}bove {\k11}in {\k10}the {\k75}blue{\k9}
+Comment: 0,0:01:21.19,0:01:25.67,ED1,eng,0,0,0,kara,{\k2}{\k21}I {\k24}ne{\k23}ver {\k21}can {\k23}for{\k39}get {\k31}{\k21}the {\k22}time {\k44}we {\k49}spent {\k21}with {\k102}you{\k5}
 Dialogue: 0,0:00:05.28,0:00:08.28,ED1,,0,0,0,,
