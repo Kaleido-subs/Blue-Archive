@@ -54,7 +54,7 @@ Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main layer 1,{\c!
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main layer 2,{\c!gc(4)!\1a!ga(4)!\blur1}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main layer 3,{\shad0\blur0.7}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function engy() return orgline.actor:match("rom") and -meta.res_y + 2*orgline.styleref.margin_v + line.height or 0 end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function engy() return orgline.actor:match("rom") and 64 or 0 end
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main no_t_actor shake,{!ln.tag.pos(5,5,nil, engy())!\fscx}
 Dialogue: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor shake,!set('frz_height', 5 * math.min(line.height/syl.width, 1))!{!ln.tag.pos(5, 5, rnd(-2,2), rnd(-2,2))!\frz!rnd(-frz_height,frz_height)!}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor shake layer 1,!set('xoff', rnd(-2, 2))!!set('yoff', rnd(-2, 2))!!set('frz', rnd(-5, 5))!
