@@ -42,3 +42,6 @@
 
 # Unignore CCs
 !Blue Archive - * (TX).srt
+
+# Unignore ED wav file for ktemplate
+!/NCED1/ba-ed-audio.wav
