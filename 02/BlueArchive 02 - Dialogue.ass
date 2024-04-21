@@ -192,7 +192,7 @@ Dialogue: 10,0:11:23.87,0:11:24.83,Default,,0,0,0,,See you at school.
 Dialogue: 10,0:11:23.87,0:11:24.83,Alt,,0,0,0,,Bye now.
 Dialogue: 10,0:11:24.83,0:11:26.75,Default,,0,0,0,,Catch you later.
 Dialogue: 10,0:11:28.17,0:11:31.30,Default,,0,0,0,,Sheesh, what's wrong with them?
-Dialogue: 10,0:11:38.68,0:11:41.47,Default,,0,0,0,,Serika{**-chan}. You can leave for today.
+Dialogue: 10,0:11:38.68,0:11:41.47,Default,,0,0,0,,Serika{**-chan}. Yer good to go home for the day.
 Dialogue: 10,0:11:41.47,0:11:42.47,Default,,0,0,0,,Got it.
 Dialogue: 10,0:11:46.14,0:11:47.77,Default,,0,0,0,,Hey, Serika{**-chan}.
 Dialogue: 10,0:11:48.27,0:11:52.19,Default,,0,0,0,,That teacher cares a whole lot 'bout \nhis students. He's a good man.
@@ -260,7 +260,7 @@ Dialogue: 10,0:15:43.92,0:15:46.59,Default,Serika,0,0,0,,I need to get out of he
 Dialogue: 10,0:15:47.97,0:15:49.43,Default,Serika,0,0,0,,Damn it!
 Dialogue: 10,0:15:49.43,0:15:51.10,Default,Serika,0,0,0,,{\i1}What should I do?
 Dialogue: 10,0:15:51.10,0:15:53.68,Default,Serika,0,0,0,,{\i1}They must be worried sick about me.
-Dialogue: 10,0:15:54.31,0:15:58.27,Default,Serika,0,0,0,,{\i1}Are they going to bury me somewhere \nin the desert no one can find me?
+Dialogue: 10,0:15:54.31,0:15:58.27,Default,Serika,0,0,0,,{\i1}Are they going to bury me somewhere \nin the desert where no one can find me?
 Dialogue: 10,0:15:59.56,0:16:00.94,Default,Serika,0,0,0,,{\i1}Guys...
 Dialogue: 10,0:16:01.65,0:16:02.90,Default,Serika,0,0,0,,{\i1}Where are you?
 Dialogue: 10,0:16:09.66,0:16:11.03,Default,Serika,0,0,0,,Wh-What was that?!
