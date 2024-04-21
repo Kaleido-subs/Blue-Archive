@@ -15,7 +15,7 @@
 | **Translation Check** | RapidDragon      |     | **Translation Check** | rasen          | rasen          |
 |                       | 路宇図シカ       |     | **Editing**           | rcombs         | rcombs         |
 | **Editing**           | LightArrowsEXE   |     | **Timing**            | LightArrowsEXE | LightArrowsEXE |
-| **Encode**            | LightArrowsEXE   |     | **Typesetting**       | LightArrowsEXE | LightArrowsEXE |
+| **Encode**            | LightArrowsEXE   |     | **Typesetting**       | LightArrowsEXE | JohnnyZB       |
 | **Timing**            | MarioLuigi0404   |     | **Song Styling**      | LightArrowsEXE | LightArrowsEXE |
 | **Typesetting**       | LightArrowsEXE   |     |                       | petzku         | petzku         |
 |                       | MSO              |     |                       |                |                |
