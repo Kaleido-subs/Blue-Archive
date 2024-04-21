@@ -9,23 +9,23 @@
 
 ### Staff
 
-| Episode Staff         |                  |     | Song Staff            | Opening        |
-| --------------------- | ---------------- | --- | --------------------- | -------------- |
-| **Translation**       | ikskalibur       |     | **Translation**       | chron          |
-| **Translation Check** | RapidDragon      |     | **Translation Check** | rasen          |
-|                       | 路宇図シカ       |     | **Editing**           | rcombs         |
-| **Editing**           | LightArrowsEXE   |     | **Timing**            | LightArrowsEXE |
-| **Encode**            | LightArrowsEXE   |     | **Typesetting**       | LightArrowsEXE |
-| **Timing**            | MarioLuigi0404   |     | **Song Styling**      | LightArrowsEXE |
-| **Typesetting**       | LightArrowsEXE   |     |                       | petzku         |
-|                       | MSO              |     |                       |                |
-|                       | petzku           |     |                       |                |
-|                       | GrygrFlzr (01)   |     |                       |                |
-|                       | Period (01)      |     |                       |                |
-| **Quality Control**   | MarioLuigi0404   |     |                       |                |
-|                       | petzku           |     |                       |                |
-| **Special Thanks**    | Phrenapates      |     |                       |                |
-|                       | IllidanStormrage |     |                       |                |
+| Episode Staff         |                  |     | Song Staff            | Opening        | Ending         |
+| --------------------- | ---------------- | --- | --------------------- | -------------- | -------------- |
+| **Translation**       | ikskalibur       |     | **Translation**       | chron          | chron          |
+| **Translation Check** | RapidDragon      |     | **Translation Check** | rasen          | rasen          |
+|                       | 路宇図シカ       |     | **Editing**           | rcombs         | rcombs         |
+| **Editing**           | LightArrowsEXE   |     | **Timing**            | LightArrowsEXE | LightArrowsEXE |
+| **Encode**            | LightArrowsEXE   |     | **Typesetting**       | LightArrowsEXE | LightArrowsEXE |
+| **Timing**            | MarioLuigi0404   |     | **Song Styling**      | LightArrowsEXE | LightArrowsEXE |
+| **Typesetting**       | LightArrowsEXE   |     |                       | petzku         | petzku         |
+|                       | MSO              |     |                       |                |                |
+|                       | petzku           |     |                       |                |                |
+|                       | GrygrFlzr (01)   |     |                       |                |                |
+|                       | Period (01)      |     |                       |                |                |
+| **Quality Control**   | MarioLuigi0404   |     |                       |                |                |
+|                       | petzku           |     |                       |                |                |
+| **Special Thanks**    | Phrenapates      |     |                       |                |                |
+|                       | IllidanStormrage |     |                       |                |                |
 
 ### Video
 
