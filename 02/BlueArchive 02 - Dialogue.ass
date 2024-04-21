@@ -235,8 +235,8 @@ Dialogue: 10,0:14:19.21,0:14:21.22,Default,Nonomi,0,0,0,,What? H-How?
 Dialogue: 10,0:14:21.22,0:14:24.47,Default,Sensei,0,0,0,,I tapped into the GSC's central network
 Dialogue: 10,0:14:24.47,0:14:26.64,Default,Sensei,0,0,0,,and used it to locate Serika's smartphone.
 Dialogue: 10,0:14:26.64,0:14:28.31,Default,Ayane,0,0,0,,How did you even get those privileges?!
-Dialogue: 10,0:14:28.31,0:14:30.24,Default,Shiroko,0,0,0,,Never mind that. Where is she?
-Comment: 10,0:14:30.14,0:14:30.60,Default,Sensei,0,0,0,,
+Dialogue: 10,0:14:28.31,0:14:30.14,Default,Shiroko,0,0,0,,Never mind that. Where is she?
+Dialogue: 10,0:14:30.14,0:14:30.60,Default,Sensei,0,0,0,,Here.
 Dialogue: 10,0:14:31.10,0:14:33.10,Default,Sensei,0,0,0,,It looks like she's still in transit.
 Dialogue: 10,0:14:33.56,0:14:36.11,Default,Nonomi,0,0,0,,The desert area in the suburbs?
 Dialogue: 10,0:14:36.11,0:14:41.61,Default,Nonomi,0,0,0,,Wait, this is close to one of the routes \nwe confirmed the Helmet Gang was using!
