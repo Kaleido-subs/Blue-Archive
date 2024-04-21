@@ -26,7 +26,7 @@ Style: MSOSigns - Phone User,Calibri,80,&H00E5E6BB,&H00FFFFFF,&H00000000,&H00000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:07:08.30,0:07:12.60,MSOSigns,,0,0,0,,SIGN: PHONE
+Comment: 0,0:07:08.30,0:07:12.60,MSOSigns,,0,0,0,,{=169}SIGN: PHONE
 Comment: 1,0:07:08.30,0:07:12.60,MSOSigns - Phone User,,0,0,0,,{=166}{\an6\blur1.7\c&HE9E6A1&\fax0.043258\fscx58.59\fscy54.80\frz18.5816\frx-0.5337\fry-0.3718\org(553.59,45.32)\pos(602.18,45.32)}4 read
 Comment: 0,0:07:08.30,0:07:12.60,MSOSigns,,0,0,0,,{=67}{\blur2\pos(0,540)\p1\c&HFBFCC1&}m 567.85 -438.57 l 647.75 -465.06 651.14 -479.44 638.7 -495.61 556.53 -473.31
 Comment: 2,0:07:08.30,0:07:12.60,MSOSigns - Phone User,,0,0,0,,{=67}{\blur1.7\fax0.055533\fscx68.53\fscy70.01\frz18.3019\frx-0.5318\fry-0.3709\org(462.79,252.64)\pos(386.07,252.64)}Hoshino
@@ -2441,7 +2441,7 @@ Dialogue: 0,0:07:12.41,0:07:12.45,MSOSigns,,0,0,0,,{=153}{\fscx99.69\fscy99.69\a
 Dialogue: 0,0:07:12.45,0:07:12.49,MSOSigns,,0,0,0,,{=153}{\fscx99.77\fscy99.77\alpha&H00&\pos(959.97,539.96)\p1}m 889.41 518.69 l 919.47 581.86 491.33 708.97 464.68 649.23
 Dialogue: 0,0:07:12.49,0:07:12.53,MSOSigns,,0,0,0,,{=153}{\fscx99.85\fscy99.85\alpha&H00&\pos(960,540.01)\p1}m 889.41 518.69 l 919.47 581.86 491.33 708.97 464.68 649.23
 Dialogue: 0,0:07:12.53,0:07:12.57,MSOSigns,,0,0,0,,{=153}{\fscx99.92\fscy99.92\alpha&H00&\pos(959.99,539.97)\p1}m 889.41 518.69 l 919.47 581.86 491.33 708.97 464.68 649.23
-Dialogue: 0,0:07:12.57,0:07:12.62,MSOSigns,,0,0,0,,{=153}{\fscx100\fscy100\alpha&H00&\pos(960,540)\p1}m 889.41 518.69 l 919.47 581.86 491.33 708.97 464.68 649.23
+Dialogue: 0,0:07:12.57,0:07:12.62,MSOSigns,,0,0,0,,{=153=170}{\fscx100\fscy100\alpha&H00&\pos(960,540)\p1}m 889.41 518.69 l 919.47 581.86 491.33 708.97 464.68 649.23
 
 [Aegisub Extradata]
 Data: 0,_aegi_perspective_ambient_plane,e587.34;460.00#7C1332.66;460.00#7C1332.66;620.00#7C587.34;620.00
@@ -2559,3 +2559,7 @@ Data: 162,_aegi_perspective_ambient_plane,e458.72;698.62#7C942.09;545.44#7C985.2
 Data: 166,_aegi_perspective_ambient_plane,e458.70;698.60#7C942.06;545.40#7C985.22;657.73#7C502.41;808.90
 Data: 167,a-mo,e{"uuid"#3A"51079657-358a-4e79-88cb-54682505676c"#2C"originalText"#3A"{\\blur2\\pos(0#2C540)\\p1\\c&HFBFCC1&}m 567.85 -438.57 l 647.75 -465.06 651.14 -479.44 638.7 -495.61 556.53 -473.31"}
 Data: 168,a-mo,e{"uuid"#3A"a38f1048-f483-4383-9cf0-f66983b4797b"#2C"originalText"#3A"{\\an6\\blur1.7\\c&HE9E6A1&\\fax0.043258\\fscx58.59\\fscy54.80\\frz18.5816\\frx-0.5337\\fry-0.3718\\org(553.59#2C45.32)\\pos(602.18#2C45.32)}4 read"}
+Data: 169,_aegi_folddata,e0;1;1
+Data: 170,_aegi_folddata,e1;1;1
+Data: 171,_aegi_folddata,e0;0;1
+Data: 172,_aegi_folddata,e1;0;1
