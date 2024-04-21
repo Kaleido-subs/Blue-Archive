@@ -40,9 +40,9 @@ Dialogue: 10,0:00:32.47,0:00:34.76,Default,Rin,0,0,0,,Please take this, {*}Teach
 Dialogue: 10,0:00:35.18,0:00:36.85,Default,Sensei,0,0,0,,A tablet?
 Dialogue: 10,0:00:36.85,0:00:40.98,Default,Rin,0,0,0,,Yes. The President intended for you to have this.
 Dialogue: 10,0:00:40.98,0:00:42.69,Default,Rin,0,0,0,,It's called the Shittim Chest.
-Dialogue: 10,0:00:43.23,0:00:47.36,Default,Rin,0,0,0,,We know nothing about its OS, architecture, \nanything. It's effectively a black box.
-Dialogue: 10,0:00:47.36,0:00:50.20,Default,Rin,0,0,0,TM,We were unable to even power it on.{fairly low lead-in -p}
-Dialogue: 10,0:00:50.45,0:00:52.70,Default,Rin,0,0,0,TM,However, I suspect you may succeed.{single frame leadin, consider snapping kf -p}
+Dialogue: 10,0:00:43.23,0:00:47.28,Default,Rin,0,0,0,,We know nothing about its OS, architecture, \nanything. It's effectively a black box.
+Dialogue: 10,0:00:47.28,0:00:50.20,Default,Rin,0,0,0,,We were unable to even power it on.
+Dialogue: 10,0:00:50.20,0:00:52.70,Default,Rin,0,0,0,,However, I suspect you may succeed.
 Dialogue: 10,0:01:06.25,0:01:10.09,Default,Arona,0,0,0,,With castella cake...
 Dialogue: 10,0:01:10.09,0:01:12.76,Default,Arona,0,0,0,,Banana milk is better than strawberry...
 Dialogue: 10,0:01:23.23,0:01:27.07,Default,Arona,0,0,0,,If you made it here, does that mean you're...
@@ -54,7 +54,7 @@ Dialogue: 10,0:01:41.50,0:01:42.92,Default,Arona,0,0,0,,My name is Arona.
 Dialogue: 10,0:01:42.92,0:01:47.17,Default,Arona,0,0,0,,I operate as both the system administrator \nand main OS of the Shittim Chest.
 Dialogue: 10,0:01:47.17,0:01:50.96,Default,Arona,0,0,0,,From now on, consider me your trusty personal assistant!
 Dialogue: 10,0:01:50.96,0:01:52.72,Default,Sensei,0,0,0,,Pleasure to meet you, Arona.
-Dialogue: 10,0:01:52.72,0:01:53.22,Default,Arona,0,0,0,TM,Same here!{annoyingly fast; i don't suppose there's much to be done here though. extending past kf is even uglier, and the leadin is already pretty generous -p}
+Dialogue: 10,0:01:52.72,0:01:53.22,Default,Arona,0,0,0,,Same here!
 Dialogue: 10,0:01:53.73,0:01:56.46,Default,Arona,0,0,0,,It's nice to meet you, {*}Teacher{*Sensei}!
 Dialogue: 10,0:03:28.73,0:03:29.27,Default,Baddies,0,0,0,,Run for it!
 Dialogue: 10,0:03:29.27,0:03:30.98,Default,Baddies,0,0,0,,Retreat!
@@ -82,7 +82,7 @@ Dialogue: 10,0:04:28.37,0:04:29.33,Default,,0,0,0,,900 million?!
 Dialogue: 10,0:04:29.33,0:04:33.92,Default,,0,0,0,,962,350,000 yen, to be precise.
 Dialogue: 10,0:04:33.92,0:04:36.38,Default,,0,0,0,,How in the {\i1}world{\i0} did you rack up so much debt?
 Dialogue: 10,0:04:40.64,0:04:46.89,Default,,0,0,0,,Several decades ago, a giant sandstorm \nswept through the Abydos suburbs.
-Dialogue: 10,0:04:47.27,0:04:49.89,Default,,0,0,0,TM,The scale of it was beyond anyone's imagination.{consdfier extending past kf -p}
+Dialogue: 10,0:04:47.27,0:04:50.27,Default,,0,0,0,,The scale of it was beyond anyone's imagination.
 Dialogue: 10,0:04:50.27,0:04:53.73,Default,,0,0,0,,Many areas in the district were buried in sand.
 Dialogue: 10,0:04:54.40,0:04:57.61,Default,,0,0,0,,It was extremely costly to repair the damage,
 Dialogue: 10,0:04:57.61,0:05:01.45,Default,,0,0,0,,but they couldn't find a single bank \nwho would lend them the money.
@@ -186,7 +186,7 @@ Dialogue: 10,0:11:04.60,0:11:06.15,Default,,0,0,0,,That's amazing! {### tempted 
 Dialogue: 10,0:11:06.56,0:11:11.11,Default,,0,0,0,,I'll do my best to follow your lead and \ngive it all my all to support my students in need!
 Dialogue: 10,0:11:11.11,0:11:12.99,Default,,0,0,0,,Aye, that's the spirit!
 Dialogue: 10,0:11:12.99,0:11:16.49,Default,,0,0,0,,I like you! Have another bowl, on the house!
-Dialogue: 10,0:11:13.24,0:11:15.28,Alt,,0,0,0,TM,Thank you, please come again!{this looks quite awkward, maybe put serika's line at an8. alt or not, your choice (i would alt) -p}
+Dialogue: 10,0:11:13.24,0:11:15.28,Alt,,0,0,0,,{\an8}Thank you, please come again!
 Dialogue: 10,0:11:20.95,0:11:23.25,Default,,0,0,0,,See you tomorrow, Serika{**-chan}.
 Dialogue: 10,0:11:23.87,0:11:24.83,Default,,0,0,0,,See you at school.
 Dialogue: 10,0:11:23.87,0:11:24.83,Alt,,0,0,0,,Bye now.
@@ -235,7 +235,7 @@ Dialogue: 10,0:14:19.21,0:14:21.22,Default,Nonomi,0,0,0,,What? H-How?
 Dialogue: 10,0:14:21.22,0:14:24.47,Default,Sensei,0,0,0,,I tapped into the GSC's central network
 Dialogue: 10,0:14:24.47,0:14:26.64,Default,Sensei,0,0,0,,and used it to locate Serika's smartphone.
 Dialogue: 10,0:14:26.64,0:14:28.31,Default,Ayane,0,0,0,,How did you even get those privileges?!
-Dialogue: 10,0:14:28.31,0:14:30.60,Default,Shiroko,0,0,0,TM,Never mind that. Where is she?{arguably better not snapped, even if sensei noise itn's subbed -p}
+Dialogue: 10,0:14:28.31,0:14:30.24,Default,Shiroko,0,0,0,,Never mind that. Where is she?
 Comment: 10,0:14:30.14,0:14:30.60,Default,Sensei,0,0,0,,
 Dialogue: 10,0:14:31.10,0:14:33.10,Default,Sensei,0,0,0,,It looks like she's still in transit.
 Dialogue: 10,0:14:33.56,0:14:36.11,Default,Nonomi,0,0,0,,The desert area in the suburbs?
