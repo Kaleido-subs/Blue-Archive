@@ -40,7 +40,7 @@ Dialogue: 10,0:00:32.47,0:00:34.76,Default,Rin,0,0,0,,Please take this, {*}Teach
 Dialogue: 10,0:00:35.18,0:00:36.85,Default,Sensei,0,0,0,,A tablet?
 Dialogue: 10,0:00:36.85,0:00:40.98,Default,Rin,0,0,0,,Yes. The President intended for you to have this.
 Dialogue: 10,0:00:40.98,0:00:42.69,Default,Rin,0,0,0,,It's called the Shittim Chest.
-Dialogue: 10,0:00:43.23,0:00:47.36,Default,Rin,0,0,0,,We have no information on its OS, architecture, \nanything. It's effectively a black box.
+Dialogue: 10,0:00:43.23,0:00:47.36,Default,Rin,0,0,0,,We know nothing about its OS, architecture, \nanything. It's effectively a black box.
 Dialogue: 10,0:00:47.36,0:00:50.20,Default,Rin,0,0,0,,We were unable to even power it on.
 Dialogue: 10,0:00:50.45,0:00:52.70,Default,Rin,0,0,0,,However, I suspect you may succeed.
 Dialogue: 10,0:01:06.25,0:01:10.09,Default,Arona,0,0,0,,With castella cake...
