@@ -156,7 +156,7 @@ Dialogue: 10,0:09:47.23,0:09:49.32,Default,,0,0,0,,Howdy, Serika{**-chan}!
 Dialogue: 10,0:09:49.32,0:09:51.65,Default,,0,0,0,,Your uniform is adorable!
 Dialogue: 10,0:09:51.65,0:09:52.74,Default,,0,0,0,,Wh-Wha...
 Dialogue: 10,0:09:52.74,0:09:55.66,Default,,0,0,0,,So yer her schoolmates from Abydos?
-Dialogue: 10,0:09:55.66,0:09:58.99,Default,,0,0,0,,A friend o' Serika{**-chan} is a friend o' mine. \nHave a little extra on the house.
+Dialogue: 10,0:09:55.66,0:09:58.99,Default,,0,0,0,,A friend o' Serika{**-chan}'s a friend o' mine. \nI'll get ya a little extra on the house.
 Dialogue: 10,0:10:00.70,0:10:02.41,Default,,0,0,0,,Um, well...
 Dialogue: 10,0:10:02.41,0:10:05.25,Default,,0,0,0,,Th-This way, please.
 Dialogue: 10,0:10:05.84,0:10:09.13,Default,,0,0,0,,Do you pick jobs based on \nwhat the uniform's like, Serika{**-chan}?
@@ -175,7 +175,7 @@ Dialogue: 10,0:10:36.82,0:10:39.29,Default,,0,0,0,,Well? Enjoyin' our ramen?
 Dialogue: 10,0:10:39.29,0:10:40.66,Default,,0,0,0,,It's very good.
 Dialogue: 10,0:10:39.29,0:10:40.66,Alt,,0,0,0,,It's great!
 Dialogue: 10,0:10:40.66,0:10:42.37,Default,,0,0,0,,Ain't it?
-Dialogue: 10,0:10:42.37,0:10:44.67,Default,,0,0,0,,I knew Serika's pals would 'ave good taste.
+Dialogue: 10,0:10:42.37,0:10:44.67,Default,,0,0,0,,I knew Serika{**-chan}'s pals would 'ave good taste.
 Dialogue: 10,0:10:45.00,0:10:47.08,Default,,0,0,0,,I see business is booming.
 Dialogue: 10,0:10:47.08,0:10:50.92,Default,,0,0,0,,Well, actually, we've been seein' fewer customers lately.
 Dialogue: 10,0:10:50.92,0:10:52.76,Default,,0,0,0,,Is it because...
@@ -351,11 +351,11 @@ Dialogue: 10,0:20:59.53,0:21:02.78,Default,Ayane,0,0,0,QC,I'm sure the Helmet Ga
 Dialogue: 10,0:21:02.78,0:21:04.70,Default,Shiroko,0,0,0,,Yeah, I'm sure.
 Dialogue: 10,0:21:09.29,0:21:11.37,Default,Sensei,0,0,0,,Serika, thank you.
 Dialogue: 10,0:21:13.54,0:21:15.46,Default,Serika,0,0,0,,Oh, j-just shut up already!
-Dialogue: 10,0:21:15.46,0:21:18.55,Default,Serika,0,0,0,,I could've gotten out of there anytime. \nI didn't need {\i1}your{\i0} help!
+Dialogue: 10,0:21:15.46,0:21:18.55,Default,Serika,0,0,0,,I could've gotten out of there by myself. \nI didn't need {\i1}your{\i0} help!
 Dialogue: 10,0:21:18.55,0:21:20.88,Default,Serika,0,0,0,,I could've handled the Helmet Gang on my own, too...
 Dialogue: 10,0:21:21.55,0:21:23.72,Default,Serika,0,0,0,,But... um...
 Dialogue: 10,0:21:25.10,0:21:27.52,Default,Serika,0,0,0,,Y-You {\i1}did{\i0} save me, so...
-Dialogue: 10,0:21:29.06,0:21:31.02,Default,Serika,0,0,0,,Thanks, {*}Teacher{*Sensei},
+Dialogue: 10,0:21:29.06,0:21:31.02,Default,Serika,0,0,0,,Thanks, {*}Teacher{*Sensei}!
 Dialogue: 10,0:21:33.86,0:21:35.77,Default,Hoshino,0,0,0,***,Ooh, Serika's finally softened up. {alt: Oh my, Serika-chan's *dere* side is showing!}{lol why am i bothering with weeb track -sikha}{to spite light for no sensei --rapid}{I'm winning -ML}{ik yes... good...}{### joke's on you I was the one who added tsundere back in all those previous times}
 Comment: 10,0:21:33.86,0:21:35.77,Default,Hoshino,0,0,0,***,Ooh, Serika-chan's {\i1}dere{\i0} side is finally showing.
 Dialogue: 10,0:21:35.77,0:21:37.69,Default,Serika,0,0,0,,N-No, {*}I haven't{*it isn't}!
