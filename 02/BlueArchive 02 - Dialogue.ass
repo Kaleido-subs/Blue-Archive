@@ -228,9 +228,9 @@ Dialogue: 10,0:14:05.24,0:14:05.95,Default,Arona,0,0,0,,Huh?
 Dialogue: 10,0:14:05.95,0:14:08.08,Default,Arona,0,0,0,,Oh, hello, {*}Teach{*Sense}—
 Dialogue: 10,0:14:07.08,0:14:08.08,Alt,Sensei,0,0,0,,Arona!
 Dialogue: 10,0:14:08.08,0:14:09.20,Default,Arona,0,0,0,,I need your help!
-Dialogue: 10,0:14:09.70,0:14:11.71,Default,Sensei,0,0,0,,Find Serika's location for me, quickly!
+Dialogue: 10,0:14:09.70,0:14:11.71,Default,Sensei,0,0,0,,Locate Serika for me, quickly!
 Dialogue: 10,0:14:12.50,0:14:14.71,Default,Arona,0,0,0,,Huh? O-Of course!
-Dialogue: 10,0:14:17.09,0:14:19.21,Default,Sensei,0,0,0,ED,I've identified Serika's location!{pinned down? -p}
+Dialogue: 10,0:14:17.09,0:14:19.21,Default,Sensei,0,0,0,,I've pinned down Serika's location!
 Dialogue: 10,0:14:19.21,0:14:21.22,Default,Nonomi,0,0,0,,What? H-How?
 Dialogue: 10,0:14:21.22,0:14:24.47,Default,Sensei,0,0,0,,I tapped into the GSC's central network
 Dialogue: 10,0:14:24.47,0:14:26.64,Default,Sensei,0,0,0,,and used it to locate Serika's smartphone.
