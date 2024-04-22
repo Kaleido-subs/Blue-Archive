@@ -300,7 +300,7 @@ Dialogue: 10,0:18:09.07,0:18:10.90,Default,Ayane,0,0,0,,You did it, Shiroko{**-s
 Dialogue: 10,0:18:11.32,0:18:12.78,Default,Sensei,0,0,0,,Watch out, Ayane!
 Dialogue: 10,0:18:19.70,0:18:21.41,Default,,0,0,0,,There goes your car!
 Dialogue: 10,0:18:21.41,0:18:24.62,Default,,0,0,0,,Let's see you run from us now!
-Dialogue: 10,0:18:24.62,0:18:26.63,Default,Ayane,0,0,0,,Are you okay, Teacher{*Sensei}?
+Dialogue: 10,0:18:24.62,0:18:26.63,Default,Ayane,0,0,0,,Are you okay, {*}Teacher{*Sensei}?
 Dialogue: 10,0:18:26.63,0:18:28.67,Default,Sensei,0,0,0,,Y-Yeah, thanks for the save.
 Dialogue: 10,0:18:28.67,0:18:30.92,Default,Nonomi,0,0,0,,Here I go! {ik - check what the official sub on that voice line is, should be Nonomi EX skill 2 or something}{### too lazy. ML, can you do it?}
 Dialogue: 10,0:18:38.47,0:18:39.47,Default,Hoshino,0,0,0,,Take this!
