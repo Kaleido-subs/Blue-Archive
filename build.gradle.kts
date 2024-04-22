@@ -16,8 +16,9 @@ fun String.isKaraTemplate(): Boolean {
 
 // Check whether a line is part of a ktemplate
 fun EventLine.isKaraTemplate(): Boolean {
-    return this.comment && this.effect.isKaraTemplate()
+    return this.effect.isKaraTemplate()
 }
+
 // Check if a line is entirely blank (commented, no text, actor, or effect)
 fun EventLine.isBlank(): Boolean {
     return this.comment && this.text.isEmpty() && this.actor.isEmpty() && this.effect.isEmpty()
