@@ -110,6 +110,7 @@ Comment: 0,0:01:08.82,0:01:12.90,ED1,eng,0,0,0,kara,{\k1}{\k31}Could {\k26}be {\
 Comment: 0,0:01:12.97,0:01:16.45,ED1,eng,0,0,0,kara,{\k5}{\k15}I'm {\k31}ga{\k20}zing {\k24}at {\k24}the {\k22}moon {\k23}in {\k19}a {\k48}sky {\k22}full {\k24}of {\k46}day{\k23}light{\k2}
 Comment: 0,0:01:16.64,0:01:21.11,ED1,eng,0,0,0,kara,{\k2}{\k20}But {\k24}still {\k23}it's {\k45}out {\k46}of {\k25}reach {\k20}han{\k25}ging {\k47}up {\k43}a{\k22}bove {\k11}in {\k10}the {\k75}blue{\k9}
 Comment: 0,0:01:21.19,0:01:25.67,ED1,eng,0,0,0,kara,{\k2}{\k21}I {\k24}ne{\k23}ver {\k21}can {\k23}for{\k39}get {\k31}{\k21}the {\k22}time {\k44}we {\k49}spent {\k21}with {\k102}you{\k5}
+Comment: 0,0:01:19.76,0:01:19.77,JohnnyEDSigns,,0,0,0,,{=0}---- Momotalk notifications
 Dialogue: 1,0:01:19.76,0:01:20.27,JohnnyEDSigns,,0,0,0,,{\an4\move(800.59,352.76,798,350)\fscx98.5\fscy98.5\frz0.1\fs15\c&H131002&\alpha&HF9&\blur0.9\t(\fscy100\fscx100\alpha&H99&)}You have 9 unread messages.
 Dialogue: 1,0:01:19.76,0:01:20.27,JohnnyEDSigns,,0,0,0,,{\move(1120.62,352.68,1123.5,350)\fscx94.23\fscy94.23\frz0.1\fs15\c&H131002&\alpha&HF9&\blur0.9\t(\fscy100\fscx100\alpha&H9F&)}Expand
 Dialogue: 1,0:01:20.26,0:01:20.77,JohnnyEDSigns,,0,0,0,,{\an4\move(797.93,352.05,794.5,348)\fscx97.8\fscy97.8\fs15\c&H131002&\alpha&H80&\blur0.82\t(\fscy100\fscx100\alpha&H30&)}You have 11 unread messages.
@@ -357,7 +358,7 @@ Dialogue: 2,0:01:22.93,0:01:22.97,JohnnyEDSigns,,0,0,0,,{\pos(1146.77,324.34)\fs
 Dialogue: 1,0:01:22.97,0:01:23.02,JohnnyEDSigns,,0,0,0,,{\pos(1145.98,323)\fscx103.07\fscy103.07\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
 Dialogue: 2,0:01:22.97,0:01:23.02,JohnnyEDSigns,,0,0,0,,{\pos(1147.01,324.03)\fscx103.07\fscy103.07\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
 Dialogue: 1,0:01:23.02,0:01:23.06,JohnnyEDSigns,,0,0,0,,{\pos(1146.25,322.7)\fscx102.93\fscy102.93\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
-Dialogue: 2,0:01:23.02,0:01:23.06,JohnnyEDSigns,,0,0,0,,{\pos(1147.28,323.73)\fscx102.93\fscy102.93\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 2,0:01:23.02,0:01:23.06,JohnnyEDSigns,,0,0,0,,{=1}{\pos(1147.28,323.73)\fscx102.93\fscy102.93\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
 Dialogue: 0,0:00:05.28,0:00:08.28,ED1,,0,0,0,,
 Dialogue: 1,0:00:14.66,0:00:14.83,ED1,rom,0,0,0,fx,{\fad(150,0)\c&H204CEA&\3c&H204CEA&\4a&H78&\1a&H78&\3a&H78&\4c&H204CEA&\blur5\bord3\an5\pos(801.83,156.00)\fs-2.5}ma
 Dialogue: 2,0:00:14.66,0:00:14.83,ED1,rom,0,0,0,fx,{\fad(150,0)\c&HFAD756&\1a&H50&\blur1\an5\pos(801.83,156.00)\fs-2.5}ma
@@ -10310,3 +10311,7 @@ Dialogue: 3,0:01:25.27,0:01:25.44,ED1,eng,0,0,0,fx,{\shad0\blur0.7\an5\pos(1500.
 Dialogue: 1,0:01:25.44,0:01:25.61,ED1,eng,0,0,0,fx,{\c&H204CEA&\3c&H204CEA&\4a&H78&\1a&H78&\3a&H78&\4c&H204CEA&\blur5\bord3\an5\pos(1502.17,91.52)\frz-4.9}u
 Dialogue: 2,0:01:25.44,0:01:25.61,ED1,eng,0,0,0,fx,{\c&HFAD756&\1a&H50&\blur1\an5\pos(1502.17,91.52)\frz-4.9}u
 Dialogue: 3,0:01:25.44,0:01:25.61,ED1,eng,0,0,0,fx,{\shad0\blur0.7\an5\pos(1502.17,91.52)\frz-4.9}u
+
+[Aegisub Extradata]
+Data: 0,_aegi_folddata,e0;1;1
+Data: 1,_aegi_folddata,e1;1;1
