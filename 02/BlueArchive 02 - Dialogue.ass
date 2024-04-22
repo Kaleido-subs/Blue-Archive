@@ -174,7 +174,7 @@ Dialogue: 10,0:10:28.90,0:10:30.82,Default,,0,0,0,,Thanks for the food!
 Dialogue: 10,0:10:36.82,0:10:39.29,Default,,0,0,0,,Well? Enjoyin' our ramen?
 Dialogue: 10,0:10:39.29,0:10:40.66,Default,,0,0,0,,It's very good.
 Dialogue: 10,0:10:39.29,0:10:40.66,Alt,,0,0,0,,It's great!
-Dialogue: 10,0:10:40.66,0:10:42.37,Default,,0,0,0,,Ain't it just"?
+Dialogue: 10,0:10:40.66,0:10:42.37,Default,,0,0,0,,Ain't it just?
 Dialogue: 10,0:10:42.37,0:10:44.67,Default,,0,0,0,,I knew Serika{**-chan}'s pals would 'ave good taste.
 Dialogue: 10,0:10:45.00,0:10:47.08,Default,,0,0,0,,I see business is booming.
 Dialogue: 10,0:10:47.08,0:10:50.92,Default,,0,0,0,,Well, actually, we've been seein' fewer customers lately.
@@ -183,7 +183,7 @@ Dialogue: 10,0:10:52.76,0:10:54.76,Default,,0,0,0,,Well, no sense worryin' 'bout
 Dialogue: 10,0:10:54.76,0:11:00.39,Default,,0,0,0,,{\q2}At the end o' the day, my job's a simple one—\nSupport my hungry customers with a bowl o' piping hot joy!
 Dialogue: 10,0:11:00.39,0:11:02.81,Default,,0,0,0,,That's all that matters.
 Dialogue: 10,0:11:04.60,0:11:06.15,Default,,0,0,0,,That's amazing! {### tempted to change this to something like "I get what you mean! I'll also give it my all to support my students in need!". Thoughts?}
-Dialogue: 10,0:11:06.56,0:11:11.11,Default,,0,0,0,,I'll do my best to follow your lead and \ngive it all my all to support my students in need!
+Dialogue: 10,0:11:06.56,0:11:11.11,Default,,0,0,0,,I'll do my best to follow your lead and \ngive it my all to support my students in need!
 Dialogue: 10,0:11:11.11,0:11:12.99,Default,,0,0,0,,Aye, that's the spirit!
 Dialogue: 10,0:11:12.99,0:11:16.49,Default,,0,0,0,,I like you! Have another bowl, on the house!
 Dialogue: 10,0:11:13.24,0:11:15.28,Alt,,0,0,0,,{\an8}Thank you, please come again!
