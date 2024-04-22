@@ -27,20 +27,11 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,ncchapter,0,0,0,,{NCED1}
 Comment: 0,0:00:35.89,0:00:35.89,Default,,0,0,0,sync,{EDSync — First hard cut (Nonomi washing room shot)}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,ffms = _G.aegisub.frame_from_ms; msff = _G.aegisub.ms_from_frame
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,yutils = require 'Yutils'
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,math.randomseed(1512)
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,local path = _G.aegisub.project_properties().audio_file:gsub("([\\/])[^\\/]+$", "%1"); wav = yutils.decode.create_wav_reader(path .. "ba-ed-audio.wav")
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,local minamp, _ = wav.min_max_amplitude(); samples = {}; for i, s in _G.ipairs(wav.samples(30000)[1]) do samples[i] = s / -minamp; end
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function samples_range_ms(from, to) local first = wav.sample_from_ms(from); local last = wav.sample_from_ms(to); wav.position(first); local maxamp = -wav.min_max_amplitude(); local samp = {}; for i, s in _G.ipairs(wav.samples(last - first)[1]) do samp[i] = s / maxamp; end; prevstart = from; prevdata = samp; return samp; end
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,local prevstart; local prevanal; function visualizer(from, to, freqstart, freqend) local anal; if from == prevstart then anal = prevanal; else anal = yutils.decode.create_frequency_analyzer(samples_range_ms(from, to), wav.sample_rate()); prevstart = from; prevanal = anal end local maxfreq = wav.sample_rate() / 2; local fs = math.pow(freqstart, 3) * maxfreq + 10; local fe = math.pow(freqend, 3) * maxfreq + 30; return anal.frequency_range_weight(math.min(fs, maxfreq), math.min(fe, maxfreq)); end
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function get_weight() local w = loopctx.state.w; local halfmax = loopctx.max.w / 2; local fs = math.abs(w - halfmax); if fs < 0 then fs = 1 - fs end; local fe = fs + 5; return visualizer(line.start_time - 50, line.end_time + 50, fs/halfmax, fe/halfmax); end
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function framefix(s, e) retime("abs", s and msff(ffms(line.start_time)) or line.start_time, e and msff(ffms(line.end_time)) or line.end_time) end
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,FRAMES_PER_KF = 4
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,VIS_STRIP_WIDTH = 10
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
 Comment: 1,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function is_last_syl() return orgline.chars[#orgline.chars].syl == syl end
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code syl,local endf = ffms(orgline.start_time + syl.end_time); local dur_frames = endf - ffms(orgline.start_time + syl.start_time); local extra = (is_last_syl() and 0 or FRAMES_PER_KF) - dur_frames % FRAMES_PER_KF; local new_end = msff(endf + extra); syl.end_delta = new_end - (orgline.start_time + syl.end_time)
@@ -62,17 +53,6 @@ Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main no_t_actor s
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main actor rom,{\fs!ROM_SIZE!}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor shake layer 1,!set('xoff', rnd(-2, 2))!!set('yoff', rnd(-2, 2))!!set('frz', rnd(-5, 5))!
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor shake,{!ln.tag.pos(5, 5, xoff + romx(), yoff + engy())!\frz!util.ftoa(frz, 1)!}
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,local EDGE = 0.25; function attune(h) local w = loopctx.state.w; local maxw = loopctx.max.w; local edge = math.floor(maxw * EDGE) if maxw-w < w then w = (maxw+1)-w end; local fact = 1; if w <= edge then fact = math.pow((w-0.5)/edge, 0.33) end; return util.ftoa(h * fact, 0); end
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function get_fadein() return line.start_time < orgline.start_time - 50 and (line.start_time - (orgline.start_time-200))/150 end
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function get_fadeout() return line.start_time > orgline.end_time + 50 and (orgline.end_time+200 - line.start_time)/150 end
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis if get_fadein,{\alpha!_G.util.ass_alpha(255*(1-get_fadein()))!}
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis if get_fadeout,{\alpha!_G.util.ass_alpha(255*(1-get_fadeout()))!}
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis,{\an5\pos(!orgline.center - ($maxloop_w)*10/2 + ($loop_w-1) * 10!,!orgline.middle!)}
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis,{\bord0\shad0\c&HFFC38B&}
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis,{\fscy!attune(80 + get_weight() * 100)!}
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor vis,{\p1}m 0 0 l 10 0 10 100 0 100
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
 Comment: 0,0:00:14.81,0:00:16.66,ED1,rom,0,0,0,kara,{\k3}{\k22}ma{\k24}do{\k21}gi{\k24}wa {\k23}no {\k44}seki {\k21}de{\k3}
 Comment: 0,0:00:16.66,0:00:20.99,ED1,rom,0,0,0,kara,{\k0}{\k21}u{\k23}tsu{\k22}ro{\k22}u {\k24}ki{\k46}mochi {\k23}no {\k22}o{\k23}ki{\k22}ba {\k23}wo {\k21}sa{\k48}gashi{\k24}te{\k18}i{\k47}ru{\k4}
