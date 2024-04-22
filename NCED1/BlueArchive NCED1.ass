@@ -43,9 +43,10 @@ Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,VIS_STRIP_WIDTH = 10
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
 Comment: 1,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function is_last_syl() return orgline.chars[#orgline.chars].syl == syl end
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code syl,local endf = ffms(orgline.start_time + syl.end_time); local dur_frames = endf - ffms(orgline.start_time + syl.start_time); local extra = (is_last_syl() and 0 or FRAMES_PER_KF) - dur_frames % FRAMES_PER_KF; local new_end = msff(endf + extra); syl.end_delta = new_end - (orgline.start_time + syl.end_time)
-Comment: 1,0:00:00.00,0:00:00.00,ED1,main presyl,0,0,0,template syl noblank,!retime("start2syl")!!framefix(false, true)!{\fad(150,0)}
+Comment: 1,0:00:00.00,0:00:00.00,ED1,main presyl,0,0,0,template syl noblank,!retime("start2syl", -150, 0)!!framefix(false, true)!{\fad(150,0)}
 Comment: 1,0:00:00.00,0:00:00.00,ED1,main shake,0,0,0,template char noblank loop layer -1,!util.fbf("syl", nil, char.syl.end_delta, FRAMES_PER_KF)!
-Comment: 1,0:00:00.00,0:00:00.00,ED1,main postsyl,0,0,0,template syl noblank,!retime("syl2end", syl.end_delta, 200)!{\fad(0,150)}
+Comment: 1,0:00:00.00,0:00:00.00,ED1,main postsyl,0,0,0,template syl noblank,!retime("syl2end", syl.end_delta, 150)!{\fad(0,150)}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor postsyl,!retime("delta", 0, line.next and line.end_time > line.next.start_time and math.min(0, line.next.start_time - line.end_time) or 0)!
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:00.00,ED1,vis,0,0,0,template line notext loop w -1,!maxloop('w', math.ceil(orgline.width / 20)*2 + 2*3)!!util.fbf('line', -200,200)!
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
