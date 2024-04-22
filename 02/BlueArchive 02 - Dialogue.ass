@@ -59,7 +59,7 @@ Dialogue: 10,0:01:53.73,0:01:56.46,Default,Arona,0,0,0,,It's nice to meet you, {
 Dialogue: 10,0:03:28.73,0:03:29.27,Default,Baddies,0,0,0,,Run for it!
 Dialogue: 10,0:03:29.27,0:03:30.98,Default,Baddies,0,0,0,,Retreat!
 Dialogue: 10,0:03:33.03,0:03:35.74,Default,Ayane,0,0,0,,Good work, everyone.
-Dialogue: 10,0:03:35.74,0:03:40.16,Default,Ayane,0,0,0,,With this, we managed to recapture \nanother one of the Helmet Gang's hideouts.
+Dialogue: 10,0:03:35.74,0:03:40.16,Default,Ayane,0,0,0,,With this, we managed to capture \nanother one of the Helmet Gang's hideouts.
 Dialogue: 10,0:03:40.16,0:03:41.74,Default,Shiroko,0,0,0,,Yep, looks like it.
 Dialogue: 10,0:03:41.74,0:03:44.20,Default,Arona,0,0,0,,Good work, {*}Teacher{*Sensei}.
 Dialogue: 10,0:03:44.20,0:03:46.54,Default,Sensei,0,0,0,,Thank you, Arona.
@@ -77,12 +77,12 @@ Dialogue: 10,0:04:12.82,0:04:14.11,Default,,0,0,0,,Oh, always the modest one!
 Dialogue: 10,0:04:14.11,0:04:17.03,Default,,0,0,0,,You are {\i1}the{\i0} {*}Teacher{*Sensei} of Schale, after all.
 Dialogue: 10,0:04:18.57,0:04:21.53,Default,,0,0,0,,Now we can finally focus on repaying our debt.
 Dialogue: 10,0:04:21.53,0:04:24.74,Default,,0,0,0,,Speaking of which, how much do you owe them exactly?
-Dialogue: 10,0:04:25.70,0:04:27.62,Default,,0,0,0,,Somewhere around 900 million, I think?
+Dialogue: 10,0:04:25.70,0:04:27.62,Default,,0,0,0,,Maybe about 900 million, I think?
 Dialogue: 10,0:04:28.37,0:04:29.33,Default,,0,0,0,,900 million?!
 Dialogue: 10,0:04:29.33,0:04:33.92,Default,,0,0,0,,962,350,000 yen, to be precise.
 Dialogue: 10,0:04:33.92,0:04:36.38,Default,,0,0,0,,How in the {\i1}world{\i0} did you rack up so much debt?
 Dialogue: 10,0:04:40.64,0:04:46.89,Default,,0,0,0,,Several decades ago, a giant sandstorm \nswept through the Abydos suburbs.
-Dialogue: 10,0:04:47.27,0:04:50.27,Default,,0,0,0,,The scale of it was beyond anyone's imagination.
+Dialogue: 10,0:04:47.27,0:04:50.27,Default,,0,0,0,,The scale of it was unprecedented.
 Dialogue: 10,0:04:50.27,0:04:53.73,Default,,0,0,0,,Many areas in the district were buried in sand.
 Dialogue: 10,0:04:54.40,0:04:57.61,Default,,0,0,0,,It was extremely costly to repair the damage,
 Dialogue: 10,0:04:57.61,0:05:01.45,Default,,0,0,0,,but they couldn't find a single bank \nwho would lend them the money.
@@ -94,9 +94,9 @@ Dialogue: 10,0:05:19.67,0:05:24.18,Default,,0,0,0,,Over half of Abydos was event
 Dialogue: 10,0:05:25.18,0:05:31.06,Default,,0,0,0,,The students lost all hope, and in the end, \nall that remained was the massively bloated debt.
 Dialogue: 10,0:05:31.35,0:05:35.65,Default,,0,0,0,,If we can't pay off the debt, the school will go bankrupt,
 Dialogue: 10,0:05:35.65,0:05:38.57,Default,,0,0,0,,and we'll be forced to close Abydos High for good.
-Dialogue: 10,0:05:39.07,0:05:43.57,Default,,0,0,0,,But the likelihood of us actually \nclearing the debt is practically zero.
+Dialogue: 10,0:05:39.07,0:05:43.57,Default,,0,0,0,,But the likelihood of us clearing \nthe debt is practically zero.
 Dialogue: 10,0:05:44.16,0:05:48.33,Default,,0,0,0,,Nearly all the students gave up and left the school.
-Dialogue: 10,0:05:48.74,0:05:52.08,Default,,0,0,0,,We're the last ones holding the fort.
+Dialogue: 10,0:05:48.74,0:05:52.08,Default,,0,0,0,,We're the only ones left.
 Dialogue: 10,0:05:53.96,0:05:56.63,Default,,0,0,0,,The end. Sorry to bore you.
 Dialogue: 10,0:06:00.01,0:06:02.34,Default,,0,0,0,,Thank you for telling me.
 Dialogue: 10,0:06:02.88,0:06:06.89,Default,,0,0,0,,I understand what you're going through a little better now.
@@ -110,8 +110,8 @@ Dialogue: 10,0:06:24.07,0:06:25.91,Default,,0,0,0,,You sure about that?
 Dialogue: 10,0:06:25.91,0:06:29.41,Default,,0,0,0,,At the end of the day, he's still an outsider.
 Dialogue: 10,0:06:29.41,0:06:34.29,Default,,0,0,0,,He might give us a fresh perspective \non how to handle our problem.
 Dialogue: 10,0:06:34.29,0:06:35.96,Default,,0,0,0,,Still!
-Dialogue: 10,0:06:36.46,0:06:39.96,Default,,0,0,0,,We've always taken care of ourselves \nwithout needing help!
-Dialogue: 10,0:06:40.30,0:06:43.30,Default,,0,0,0,,But now some{ random} guy shows up and \nwe're supposed to just blindly follow him?
+Dialogue: 10,0:06:36.46,0:06:39.96,Default,,0,0,0,,We've always taken care of ourselves \nwithout anyone's help!
+Dialogue: 10,0:06:40.30,0:06:43.30,Default,,0,0,0,,But now some grown-up shows up and \nwe're supposed to just blindly follow him?
 Dialogue: 10,0:06:43.30,0:06:46.18,Default,,0,0,0,,I'm just trying to help.
 Dialogue: 10,0:06:46.18,0:06:48.30,Default,,0,0,0,,Oh, how noble of you!
 Dialogue: 10,0:06:48.85,0:06:51.56,Default,,0,0,0,,I'll never accept you!
@@ -126,7 +126,7 @@ Dialogue: 10,0:07:41.90,0:07:43.98,Default,,0,0,0,,Screw off! Quit stalking me!
 Dialogue: 10,0:07:45.49,0:07:49.99,Default,,0,0,0,,I think just about anyone would \nblow up at you, not just our little {*}Serika{*tsundere}.
 Dialogue: 10,0:07:51.28,0:07:55.16,Default,,0,0,0,,Speaking of Serika, she never sticks around after school.
 Dialogue: 10,0:07:55.16,0:07:56.96,Default,,0,0,0,,Does anyone know where she goes?
-Dialogue: 10,0:07:56.96,0:08:00.84,Default,,0,0,0,,Come to think of it, she's usually \nslow to respond on Momotalk, too.
+Dialogue: 10,0:07:56.96,0:08:00.84,Default,,0,0,0,,Come to think of it, she's usually \nslow to respond on MomoTalk, too.
 Dialogue: 10,0:08:00.84,0:08:02.42,Default,,0,0,0,,Oh, true!
 Dialogue: 10,0:08:03.42,0:08:08.38,Default,,0,0,0,,Why not tail her after school \nand see what she's up to?
 Dialogue: 10,0:08:08.68,0:08:09.55,Default,,0,0,0,,Huh?
@@ -186,7 +186,7 @@ Dialogue: 10,0:11:04.60,0:11:06.15,Default,,0,0,0,,That's amazing! {### tempted 
 Dialogue: 10,0:11:06.56,0:11:11.11,Default,,0,0,0,,I'll do my best to follow your lead and \ngive it my all to support my students in need!
 Dialogue: 10,0:11:11.11,0:11:12.99,Default,,0,0,0,,Aye, that's the spirit!
 Dialogue: 10,0:11:12.99,0:11:16.49,Default,,0,0,0,,I like you! Have another bowl, on the house!
-Dialogue: 10,0:11:13.24,0:11:15.28,Alt,,0,0,0,,{\an8}Thank you, please come again!
+Dialogue: 10,0:11:13.24,0:11:15.28,Default,,0,0,0,,{\an8}Thank you, please come again!
 Dialogue: 10,0:11:20.95,0:11:23.25,Default,,0,0,0,,See you tomorrow, Serika{**-chan}.
 Dialogue: 10,0:11:23.87,0:11:24.83,Default,,0,0,0,,See you at school.
 Dialogue: 10,0:11:23.87,0:11:24.83,Alt,,0,0,0,,Bye now.
@@ -241,7 +241,7 @@ Dialogue: 10,0:14:31.10,0:14:33.10,Default,Sensei,0,0,0,,It looks like she's sti
 Dialogue: 10,0:14:33.56,0:14:36.11,Default,Nonomi,0,0,0,,The desert area in the suburbs?
 Dialogue: 10,0:14:36.11,0:14:41.61,Default,Nonomi,0,0,0,,Wait, this is close to one of the routes \nwe confirmed the Helmet Gang was using!
 Dialogue: 10,0:14:41.94,0:14:45.07,Default,Hoshino,0,0,0,,So now they've resorted to taking her hostage, huh?
-Dialogue: 10,0:14:45.07,0:14:47.12,Default,Nonomi,0,0,0,,Figuring out the reason can wait.
+Dialogue: 10,0:14:45.07,0:14:47.12,Default,Nonomi,0,0,0,,We can think about that later.
 Dialogue: 10,0:14:47.12,0:14:49.49,Default,Nonomi,0,0,0,,We need to go rescue her, now!
 Dialogue: 10,0:14:51.70,0:14:52.79,Default,Ayane,0,0,0,,Hold on a minute!
 Dialogue: 10,0:15:08.68,0:15:11.93,Default,Serika,0,0,0,,Is this... the back of a truck?
@@ -338,9 +338,9 @@ Dialogue: 10,0:20:12.36,0:20:13.44,Default,Shiroko,0,0,0,,Two.
 Dialogue: 10,0:20:13.44,0:20:14.11,Default,Shiroko,0,0,0,,One.
 Dialogue: 10,0:20:14.48,0:20:16.32,Default,Sensei,0,0,0,,Now, Serika!
 Dialogue: 10,0:20:23.98,0:20:24.45,Default,,0,0,0,,Huh?
-Dialogue: 10,0:20:24.83,0:20:25.92,Default,,0,0,0,ST,No way!{fade -p}
+Dialogue: 10,0:20:24.83,0:20:25.92,Default,,0,0,0,,No way!
 Dialogue: 10,0:20:32.67,0:20:34.71,Default,,0,0,0,,Pull back!
-Dialogue: 10,0:20:37.38,0:20:38.72,Default,,0,0,0,,You'll pay for this!
+Comment: 10,0:20:37.38,0:20:38.72,Default,,0,0,0,,You'll pay for this!
 Dialogue: 10,0:20:40.59,0:20:44.47,Default,Serika,0,0,0,,That's what you get for kidnapping me!
 Dialogue: 10,0:20:46.56,0:20:49.44,Default,Hoshino,0,0,0,,Whew, that went surprisingly well.
 Dialogue: 10,0:20:49.44,0:20:51.23,Default,Sensei,0,0,0,,Great job out there, everyone.
