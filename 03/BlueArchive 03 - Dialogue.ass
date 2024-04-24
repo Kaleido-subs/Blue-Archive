@@ -103,7 +103,7 @@ Dialogue: 10,0:05:13.17,0:05:13.83,Default,,0,0,0,,What?
 Dialogue: 10,0:05:13.83,0:05:15.84,Default,,0,0,0,,Put yourselves in their shoes!
 Dialogue: 10,0:05:16.30,0:05:19.97,Default,,0,0,0,,Would you happily sign those documents \Nif {\i1}you{\i0} were kidnapped?!
 Dialogue: 10,0:05:19.97,0:05:23.05,Default,,0,0,0,,Moreover, their school's prefects \Nwould have our heads!
-Dialogue: 10,0:05:23.05,0:05:25.47,Default,,0,0,0,,Yeah, figures.
+Dialogue: 10,0:05:23.05,0:05:25.47,Default,,0,0,0,,Yeah, figures that's a no-go.
 Dialogue: 10,0:05:27.31,0:05:30.69,Default,,0,0,0,,I beg you, please take this even a little seriously.
 Dialogue: 10,0:05:30.69,0:05:33.73,Default,,0,0,0,,Hey, Ayane. I have an even better idea.
 Dialogue: 10,0:05:33.73,0:05:36.61,Default,,0,0,0,,Go ahead, second-year Sunaookami Shiroko{**-san}.
@@ -161,124 +161,129 @@ Dialogue: 11,0:07:45.65,0:07:45.70,Default,,0,0,0,shenan,{\pos(960,1046)\fscx110
 Dialogue: 11,0:07:45.65,0:07:45.70,Default,,0,0,0,shenan,{\pos(960,1047)\fscx110\fscy110\bord0\shad0\blur2}Would you please
 Dialogue: 10,0:07:45.99,0:07:47.45,Default,,0,0,0,,quit messing around!
 Dialogue: 10,0:07:47.99,0:07:51.91,Default,,0,0,0,,Oh dear, Ayane{**-chan}'s mad...
-Dialogue: 10,0:08:01.63,0:08:04.21,Default,,0,0,0,,We've secured the target.
-Dialogue: 10,0:08:03.75,0:08:04.71,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:08:04.71,0:08:09.80,Default,,0,0,0,,Yo, Aru. Did we really have to go so far just to recover some stolen goods?
-Dialogue: 10,0:08:09.80,0:08:14.14,Default,,0,0,0,,Call me Boss while we're on mission, Section Head Mutsuki.
-Dialogue: 10,0:08:14.14,0:08:18.19,Default,,0,0,0,,Sacrifices are inevitable in the face of completing the request.
-Dialogue: 10,0:08:18.19,0:08:21.11,Default,,0,0,0,,Can't go fretting over every little egg.
-Dialogue: 10,0:08:21.11,0:08:24.28,Default,,0,0,0,,We're outlaws. It comes with the territory.
-Dialogue: 10,0:08:24.28,0:08:27.57,Default,,0,0,0,,Aww, Aru's doing that thing again.
-Dialogue: 10,0:08:27.57,0:08:30.24,Default,,0,0,0,,Hey, Boss...
-Dialogue: 10,0:08:30.24,0:08:32.83,Default,,0,0,0,,W-what is it, Section Chief Kayoko?
-Dialogue: 10,0:08:32.83,0:08:37.58,Default,,0,0,0,,The client specifically said the target had to be undamaged, correct?
-Dialogue: 10,0:08:37.58,0:08:40.46,Default,,0,0,0,,Yes, of course. What about it?
-Dialogue: 10,0:08:44.59,0:08:47.05,Default,,0,0,0,,Hm?
-Dialogue: 10,0:08:47.05,0:08:48.34,Default,,0,0,0,,Wha, wh-wha?
-Dialogue: 10,0:08:48.34,0:08:50.93,Default,,0,0,0,,Boss, does this mean...?
+Dialogue: 10,0:08:01.63,0:08:04.21,Default,,0,0,0,,Target secured.
+Dialogue: 10,0:08:03.75,0:08:04.21,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:08:04.51,0:08:05.46,Default,,0,0,0,,Hey, Aru{**-chan}.
+Dialogue: 10,0:08:05.46,0:08:09.72,Default,,0,0,0,,Did we {\i1}really{\i0} have to go that far \Njust to recover some stolen goods?
+Dialogue: 10,0:08:09.72,0:08:13.89,Default,,0,0,0,,Refer to me as "Boss" while \Nwe're on the job, Chief of Staff Mutsuki.
+Dialogue: 10,0:08:14.14,0:08:17.52,Default,,0,0,0,,Sacrifices are inevitable in the pursuit \Nof completing a request.
+Dialogue: 10,0:08:17.98,0:08:21.11,Default,,0,0,0,,We can't go fretting over every little egg.
+Dialogue: 10,0:08:21.90,0:08:24.28,Default,,0,0,0,,We're outlaws. It comes with the territory.
+Dialogue: 10,0:08:24.28,0:08:27.57,Default,,0,0,0,,Aw, Aru{**-chan}'s doing her thing again.
+Dialogue: 10,0:08:28.78,0:08:30.20,Default,,0,0,0,,Hey, Boss.
+Dialogue: 10,0:08:30.20,0:08:32.32,Default,,0,0,0,,Wh-What is it, Section Chief Kayoko?
+Dialogue: 10,0:08:32.83,0:08:37.50,Default,,0,0,0,,Just to confirm, the client demanded \Nthe target be unharmed, didn’t they?
+Dialogue: 10,0:08:37.50,0:08:38.71,Default,,0,0,0,,Yes, of course.
+Dialogue: 10,0:08:38.71,0:08:40.37,Default,,0,0,0,,What about it?
+Dialogue: 10,0:08:44.46,0:08:45.05,Default,,0,0,0,,Huh?
+Dialogue: 10,0:08:47.63,0:08:48.76,Default,,0,0,0,,{\an8}Wh-wh-wha?
+Dialogue: 10,0:08:48.34,0:08:50.93,Default,,0,0,0,,Boss, does this mean...
 Dialogue: 10,0:08:51.64,0:08:53.55,Default,,0,0,0,,{\an8}Wha, wha, wha
-Dialogue: 10,0:08:50.93,0:08:52.80,Default,,0,0,0,,There goes our payment.
-Dialogue: 10,0:08:55.18,0:08:57.48,Default,,0,0,0,,{\an8}Wha, wh-wh-wh-
-Dialogue: 10,0:08:57.48,0:09:00.81,Default,,0,0,0,,Wh-What do you mean?!
-Dialogue: 10,0:09:04.77,0:09:07.90,Default,,0,0,0,,Come on, Ayane, I said I'm sorry.
-Dialogue: 10,0:09:07.90,0:09:10.95,Default,,0,0,0,,I'll pay for your ramen, so don't be angry.
-Dialogue: 10,0:09:10.95,0:09:12.53,Default,,0,0,0,,I'm not angry.
-Dialogue: 10,0:09:12.53,0:09:15.45,Default,,0,0,0,,Here, let's wipe that cute little mouth.
-Dialogue: 10,0:09:15.45,0:09:17.79,Default,,0,0,0,,Please. I'm not a baby.
-Dialogue: 10,0:09:17.79,0:09:19.79,Default,,0,0,0,,Ayane, want more chashu?
-Dialogue: 10,0:09:19.79,0:09:21.04,Default,,0,0,0,,Yes.
-Dialogue: 10,0:09:21.62,0:09:25.17,Default,,0,0,0,,Welcome. How many in your party?
-Dialogue: 10,0:09:25.17,0:09:31.09,Default,,0,0,0,,Um, C-Could I please ask how much the c-cheapest item on the m-menu is?
-Dialogue: 10,0:09:31.09,0:09:34.76,Default,,0,0,0,,The cheapest one is the Shiba Seki Ramen for 580 yen.
-Dialogue: 10,0:09:34.76,0:09:37.14,Default,,0,0,0,,It's our signature item. I highly recommend it!
-Dialogue: 10,0:09:37.14,0:09:39.31,Default,,0,0,0,,Th-Thank you very much!
-Dialogue: 10,0:09:41.39,0:09:45.65,Default,,0,0,0,,Miss Aru, their signature ramen is apparently 580 yen
-Dialogue: 10,0:09:45.65,0:09:48.69,Default,,0,0,0,,Finally! A place with something 600 yen or less.
-Dialogue: 10,0:09:48.69,0:09:51.57,Default,,0,0,0,,You see? There's a solution to every problem.
+Dialogue: 10,0:08:50.93,0:08:52.80,Default,,0,0,0,,We can kiss our payout goodbye.
+Dialogue: 10,0:08:55.14,0:08:58.52,Default,,0,0,0,,Wh-wh-wh-wh—
+Dialogue: 10,0:08:58.52,0:09:02.52,Default,,0,0,0,,What do we do?! {### petzku can you think of any fun memes here?}
+Dialogue: 10,0:09:04.77,0:09:07.90,Default,,0,0,0,,Relax, Ayane{**-chan}. We're sorry, okay?
+Dialogue: 10,0:09:07.90,0:09:10.95,Default,,0,0,0,,It's my treat, so stop being angry, okay?
+Dialogue: 10,0:09:10.95,0:09:12.53,Default,,0,0,0,,I'm {\i1}not{\i0} angry.
+Dialogue: 10,0:09:12.53,0:09:15.28,Default,,0,0,0,,Here, let's wipe that cute little mouth.
+Dialogue: 10,0:09:15.28,0:09:17.54,Default,,0,0,0,,Would you stop patronising me?
+Dialogue: 10,0:09:17.54,0:09:19.79,Default,,0,0,0,,Ayane, want more chashu?
+Dialogue: 10,0:09:19.79,0:09:21.04,Default,,0,0,0,,Sure.
+Dialogue: 10,0:09:21.58,0:09:22.92,Default,,0,0,0,,Welcome!
+Dialogue: 10,0:09:23.25,0:09:24.42,Default,,0,0,0,,How many in your party?
+Dialogue: 10,0:09:24.42,0:09:30.93,Default,,0,0,0,,Um, c-could I please ask how much \Nthe c-cheapest item on the m-menu is?
+Dialogue: 10,0:09:31.09,0:09:34.76,Default,,0,0,0,,That would be the Shiba Seki Ramen for 580 yen.
+Dialogue: 10,0:09:34.76,0:09:37.14,Default,,0,0,0,,It's our signature dish. I highly recommend it!
+Dialogue: 10,0:09:37.14,0:09:39.31,Default,,0,0,0,,Oh, um, th-thank you!
+Dialogue: 10,0:09:41.39,0:09:45.65,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}, their signature ramen \Nis apparently 580 yen.
+Dialogue: 10,0:09:45.65,0:09:48.69,Default,,0,0,0,,Finally, a place where something \Ncosts less than 600 yen!
+Dialogue: 10,0:09:48.69,0:09:51.57,Default,,0,0,0,,See? Every problem has a solution. {###}
 Dialogue: 10,0:09:51.57,0:09:53.24,Default,,0,0,0,,It's all part of the plan!
-Dialogue: 10,0:09:53.24,0:09:56.24,Default,,0,0,0,,Welcome.
-Dialogue: 10,0:09:56.24,0:09:59.66,Default,,0,0,0,,Party of four? Please follow me.
-Dialogue: 10,0:09:59.66,0:10:02.75,Default,,0,0,0,,No, no, we're only ordering the one bowl,
-Dialogue: 10,0:10:02.75,0:10:05.38,Default,,0,0,0,,so we'll just have it to-go.
-Dialogue: 10,0:10:05.38,0:10:07.63,Default,,0,0,0,,Either way, why not have a seat?
-Dialogue: 10,0:10:07.63,0:10:09.30,Default,,0,0,0,,We have plenty of space.
-Dialogue: 10,0:10:09.30,0:10:11.38,Default,,0,0,0,,Aww, you're so sweet.
-Dialogue: 10,0:10:11.38,0:10:14.43,Default,,0,0,0,,In that case, we'll take you up on that offer.
-Dialogue: 10,0:10:14.43,0:10:17.89,Default,,0,0,0,,Oh, and while we're at it, make that four pairs of chopsticks, please.
-Dialogue: 10,0:10:17.89,0:10:22.43,Default,,0,0,0,,Huh? Wait, does that mean you're planning on splitting one bowl of ramen four ways?
-Dialogue: 10,0:10:22.43,0:10:25.73,Default,,0,0,0,,S-sorry! I'm sorry! I'm sorry for being poor!
-Dialogue: 10,0:10:25.73,0:10:28.73,Default,,0,0,0,,Oh, no, I mean, you don't need to apologize...
-Dialogue: 10,0:10:28.73,0:10:31.90,Default,,0,0,0,,No, I'm sorry. Having no money is like having no head. {### this feels like some very literal proverb or idiom}
-Dialogue: 10,0:10:31.90,0:10:33.90,Default,,0,0,0,,I shouldn't even be alive right now.
-Dialogue: 10,0:10:33.90,0:10:36.74,Default,,0,0,0,,I'm lowlier than even the tiniest worm!
-Dialogue: 10,0:10:36.74,0:10:38.45,Default,,0,0,0,,I'm sorry for being a worm!
-Dialogue: 10,0:10:38.45,0:10:40.87,Default,,0,0,0,,Haruka, you're making a scene.
-Dialogue: 10,0:10:40.87,0:10:42.00,Default,,0,0,0,,Don't say that!
-Dialogue: 10,0:10:42.00,0:10:44.75,Default,,0,0,0,,There's no shame in not having money!
+Dialogue: 10,0:09:55.16,0:09:56.20,Default,,0,0,0,,Welcome.
+Dialogue: 10,0:09:56.20,0:09:59.45,Default,,0,0,0,,Party of four? I'll show you to your seat.
+Dialogue: 10,0:09:59.45,0:10:00.41,Default,,0,0,0,,Oh, no, no.
+Dialogue: 10,0:10:00.75,0:10:02.83,Default,,0,0,0,,You don't have to. We're only ordering for one.
+Dialogue: 10,0:10:02.83,0:10:04.42,Default,,0,0,0,,We'll take it to-go.
+Dialogue: 10,0:10:05.38,0:10:07.63,Default,,0,0,0,,You may as well be comfortable.
+Dialogue: 10,0:10:07.63,0:10:09.30,Default,,0,0,0,,We have plenty of tables.
+Dialogue: 10,0:10:09.30,0:10:11.42,Default,,0,0,0,,Aw, you're so sweet.
+Dialogue: 10,0:10:11.42,0:10:14.34,Default,,0,0,0,,If you insist, we'll gladly take you up on that.
+Dialogue: 10,0:10:14.34,0:10:17.85,Default,,0,0,0,,Oh, while we're at it, could you get us \Nfour pairs of chopsticks? Thanks.
+Dialogue: 10,0:10:17.85,0:10:22.48,Default,,0,0,0,,Huh? Y-You're not planning on splitting \Na single bowl between the four of you, right?
+Dialogue: 10,0:10:22.48,0:10:25.69,Default,,0,0,0,,S-Sorry! I'm s-so sorry we're poor!
+Dialogue: 10,0:10:25.69,0:10:28.61,Default,,0,0,0,,Oh, no, that's nothing worth apologising over!
+Dialogue: 10,0:10:28.61,0:10:32.07,Default,,0,0,0,,No, I mean it! Without money, \Nwe're just a waste of oxygen!
+Dialogue: 10,0:10:32.07,0:10:33.86,Default,,0,0,0,,I don't even deserve to be alive!
+Dialogue: 10,0:10:33.86,0:10:36.32,Default,,0,0,0,,I'm lower than dirt.
+Dialogue: 10,0:10:36.66,0:10:38.83,Default,,0,0,0,,I'm sorry for being the scum of the earth!
+Dialogue: 10,0:10:38.83,0:10:40.62,Default,,0,0,0,,Haruka, you're making a scene.
+Dialogue: 10,0:10:40.62,0:10:41.58,Default,,0,0,0,,Don't say that!
+Dialogue: 10,0:10:42.00,0:10:44.75,Default,,0,0,0,,Being poor is nothing to be ashamed of!
 Dialogue: 10,0:10:44.75,0:10:45.58,Default,,0,0,0,,Huh?
-Dialogue: 10,0:10:45.58,0:10:47.08,Default,,0,0,0,,Isn't that right, Boss?
-Dialogue: 10,0:10:47.08,0:10:50.21,Default,,0,0,0,,Darn straight! Every dog has his day!{I've never heard this idiom before so not sure how many people will understand this has to do with money and that everyone has a chance, and it's used to comfort broke people - sikha}
-Dialogue: 10,0:10:50.21,0:10:52.30,Default,,0,0,0,,You girls are students, ain'tcha?
-Dialogue: 10,0:10:52.30,0:10:53.38,Default,,0,0,0,,Yes, that's right...
-Dialogue: 10,0:10:53.38,0:10:55.76,Default,,0,0,0,,And yet you've scraped together what you have
-Dialogue: 10,0:10:55.76,0:10:58.76,Default,,0,0,0,,to come eat my ramen. I'm right chuffed!
-Dialogue: 10,0:10:58.76,0:11:00.14,Default,,0,0,0,,This won't take but a minute.
-Dialogue: 10,0:11:00.14,0:11:01.81,Default,,0,0,0,,Just sit back and relax!
+Dialogue: 10,0:10:45.58,0:10:47.08,Default,,0,0,0,,Don't you agree, Boss?
+Dialogue: 10,0:10:47.08,0:10:50.21,Default,,0,0,0,,Darn straight! Ev'ry dog \Nwill have his moment in the sun. {I've never heard this idiom before so not sure how many people will understand this has to do with money and that everyone has a chance, and it's used to comfort broke people - sikha}{### How's this, if we wanna keep dog here (because it's the dog saying this)?}
+Dialogue: 10,0:10:50.21,0:10:52.30,Default,,0,0,0,,You girls are students, aintcha?
+Dialogue: 10,0:10:52.30,0:10:53.84,Default,,0,0,0,,Y-Yes, that's right.
+Dialogue: 10,0:10:53.84,0:10:56.93,Default,,0,0,0,,But y'all still scrounged up enough \Nto share a bowl o' ramen.
+Dialogue: 10,0:10:56.93,0:10:58.85,Default,,0,0,0,,I'm right chuffed!
+Dialogue: 10,0:10:58.85,0:11:00.14,Default,,0,0,0,,Just sit tight, y'hear?
+Dialogue: 10,0:11:00.14,0:11:01.81,Default,,0,0,0,,Please, have a seat.
 Dialogue: 10,0:11:01.81,0:11:02.39,Default,,0,0,0,,O-Okay.
 Dialogue: 10,0:11:03.35,0:11:05.94,Default,,0,0,0,,I feel like he got the wrong idea about us.
-Dialogue: 10,0:11:05.94,0:11:08.73,Default,,0,0,0,,We're usually not {\i1}that{\i0} poor, after all.
-Dialogue: 10,0:11:08.73,0:11:11.94,Default,,0,0,0,,Plus, if we're pointing fingers, it's Aru's fault for wasting it.
-Dialogue: 10,0:11:11.94,0:11:15.32,Default,,0,0,0,,Not only did that last job end up being a complete wash,
-Dialogue: 10,0:11:15.32,0:11:20.12,Default,,0,0,0,,we've sunk almost everything into getting the manpower for the next job.
-Dialogue: 10,0:11:20.12,0:11:23.08,Default,,0,0,0,,But you see, we're still here, eating ramen, aren't we?
-Dialogue: 10,0:11:23.08,0:11:25.79,Default,,0,0,0,,This is all easily within expectations.
-Dialogue: 10,0:11:25.79,0:11:30.25,Default,,0,0,0,,Still, Boss, is the next target really dangerous enough to have to do all that?
-Dialogue: 10,0:11:30.25,0:11:31.46,Default,,0,0,0,,Well...
-Dialogue: 10,0:11:31.46,0:11:34.01,Default,,0,0,0,,I'm sure Aru doesn't even know herself.
-Dialogue: 10,0:11:34.80,0:11:37.26,Default,,0,0,0,,That's why she got scared and ended up hiring all the help.
-Dialogue: 10,0:11:37.26,0:11:39.05,Default,,0,0,0,,Who are you calling scared?!
-Dialogue: 10,0:11:39.26,0:11:40.76,Default,,0,0,0,,Failure is not an option.
-Dialogue: 10,0:11:41.06,0:11:43.68,Default,,0,0,0,,We use every resource available to us.
-Dialogue: 10,0:11:43.68,0:11:46.56,Default,,0,0,0,,That's our motto as Problem Solver 68!
-Dialogue: 10,0:11:46.81,0:11:48.98,Default,,0,0,0,,First time I've heard of it.
-Dialogue: 10,0:11:48.98,0:11:50.94,Default,,0,0,0,,Oh come on, she obviously made it up just now.
+Dialogue: 10,0:11:05.94,0:11:08.81,Default,,0,0,0,,Yeah, not like we're out begging on the streets.
+Dialogue: 10,0:11:08.81,0:11:11.86,Default,,0,0,0,,But if we wanna point fingers, \NAru{**-chan} was the one who blew all our cash.
+Dialogue: 10,0:11:12.57,0:11:15.40,Default,,0,0,0,,Not only did that last job end up being a complete wash,
+Dialogue: 10,0:11:15.40,0:11:19.45,Default,,0,0,0,,but now we've sunk almost all our money \Ninto hiring goons for our next job.
+Dialogue: 10,0:11:20.12,0:11:23.08,Default,,0,0,0,,But you see, I made sure we had enough for ramen!
+Dialogue: 10,0:11:23.08,0:11:25.79,Default,,0,0,0,,This was well within my expectations.
+Dialogue: 10,0:11:25.79,0:11:30.25,Default,,0,0,0,,But still, is our next target really so dangerous \Nthat it warrants us starving now? {###}
+Dialogue: 10,0:11:30.25,0:11:31.46,Default,,0,0,0,,Maybe...
+Dialogue: 10,0:11:31.46,0:11:34.01,Default,,0,0,0,,I bet Aru{**-chan} doesn't even know herself!
+Dialogue: 10,0:11:34.80,0:11:37.26,Default,,0,0,0,,That's why she spent all our cash—\Nbecause she's chicken!
+Dialogue: 10,0:11:37.26,0:11:39.05,Default,,0,0,0,,Who are you calling a chicken?!
+Dialogue: 10,0:11:39.26,0:11:40.76,Default,,0,0,0,,Failure is {\i1}never{\i0} an option.
+Dialogue: 10,0:11:41.06,0:11:43.68,Default,,0,0,0,,We make full use every resource available to us.
+Dialogue: 10,0:11:43.68,0:11:46.56,Default,,0,0,0,,That's Problem Solver 68's motto!
+Dialogue: 10,0:11:46.81,0:11:48.98,Default,,0,0,0,,This is the first I'm hearing about that.
+Dialogue: 10,0:11:48.98,0:11:50.94,Default,,0,0,0,,Oh, come on. She literally made it up on the spot.
 Dialogue: 10,0:11:50.94,0:11:52.48,Default,,0,0,0,,Q-Quiet, you!
 Dialogue: 10,0:11:52.48,0:11:54.57,Default,,0,0,0,,Thank you for waiting!
-Dialogue: 10,0:11:56.03,0:11:57.40,Default,,0,0,0,,What on earth?!
-Dialogue: 10,0:11:57.40,0:11:58.86,Default,,0,0,0,,Look at all that ramen!
-Dialogue: 10,0:11:58.86,0:12:01.53,Default,,0,0,0,,There's gotta be enough for ten people in here!
-Dialogue: 10,0:12:01.12,0:12:03.91,Default,,0,0,0,,Th-This has to be a mistake.
-Dialogue: 10,0:12:03.91,0:12:07.29,Default,,0,0,0,,I'm sorry, but we can't possibly afford this.
-Dialogue: 10,0:12:07.29,0:12:09.58,Default,,0,0,0,,No, no, that's definitely your order.
-Dialogue: 10,0:12:09.58,0:12:12.38,Default,,0,0,0,,One normal-sized Shiba Seki ramen for 580!
-Dialogue: 10,0:12:12.38,0:12:13.88,Default,,0,0,0,,Isn't that right, boss?
-Dialogue: 10,0:12:13.88,0:12:15.88,Default,,0,0,0,,Had a little mishap in the kitchen, ya see.
-Dialogue: 10,0:12:15.88,0:12:17.88,Default,,0,0,0,,Figured might as well, so go ahead, enjoy.
-Dialogue: 10,0:12:20.26,0:12:24.60,Default,,0,0,0,,I have to admit, this was a surprise, but I won't let this goodwill go to waste.
+Dialogue: 10,0:11:56.03,0:11:57.40,Default,,0,1400,0,shenan,{\q2}What on earth?!
+Dialogue: 10,0:11:57.40,0:11:59.32,Default,,1400,0,0,shenan,{\q2}Look at all that ramen!
+Dialogue: 10,0:11:59.32,0:12:01.12,Default,,800,0,0,shenan,This is enough to feed ten people!
+Dialogue: 10,0:12:01.12,0:12:03.58,Default,,0,800,0,shenan,Th-This has to be a mistake.
+Dialogue: 10,0:12:03.91,0:12:07.29,Default,,0,0,0,,I-I'm sorry, but we couldn't possibly afford this...
+Dialogue: 10,0:12:07.29,0:12:09.54,Default,,0,0,0,,This is exactly what you ordered, right?
+Dialogue: 10,0:12:09.54,0:12:12.09,Default,,0,0,0,,One regular-sized Shiba Seki ramen for 580 yen!
+Dialogue: 10,0:12:12.38,0:12:13.88,Default,,0,0,0,,Isn't that right, Boss?
+Dialogue: 10,0:12:13.88,0:12:15.84,Default,,0,0,0,,Had a li'l mishap in the kitchen, y'see?
+Dialogue: 10,0:12:15.84,0:12:18.18,Default,,0,0,0,,Figured I may as well, so enjoy.
+Dialogue: 10,0:12:20.26,0:12:24.60,Default,,0,0,0,,I didn't see this coming, \Nbut I won't let this goodwill go to waste.
 Dialogue: 10,0:12:24.60,0:12:26.35,Default,,0,0,0,,Thank you, we'll enjoy it.
-Dialogue: 10,0:12:26.35,0:12:28.52,Default,,0,0,0,,Come on, Aru, let's eat!
-Dialogue: 10,0:12:28.52,0:12:29.94,Default,,0,0,0,,Yes, let's.
-Dialogue: 10,0:12:29.94,0:12:32.48,Default,,0,0,0,,Thanks for the food!
-Dialogue: 10,0:12:40.11,0:12:43.66,Default,,0,0,0,,It's so good!
+Dialogue: 10,0:12:26.35,0:12:28.39,Default,,0,0,0,,Come on, Aru{**-chan}! Let's dig in already!
+Dialogue: 10,0:12:28.39,0:12:29.98,Default,,0,0,0,,Yes, let's.
+Dialogue: 10,0:12:29.98,0:12:32.23,Default,,0,0,0,,Thanks for the food!
+Dialogue: 10,0:12:41.28,0:12:43.28,Default,,0,0,0,,Yummy!
 Dialogue: 10,0:12:43.66,0:12:44.24,Default,,0,0,0,,Heh.
-Dialogue: 10,0:12:44.79,0:12:46.70,Default,,0,0,0,,I know, right?
-Dialogue: 10,0:12:46.29,0:12:49.08,Default,,0,0,0,,The ramen here is simply amazing.
-Dialogue: 10,0:12:49.08,0:12:53.25,Default,,0,0,0,,I can tell. I've eaten plenty of things in plenty of different places,
-Dialogue: 10,0:12:53.25,0:12:57.21,Default,,0,0,0,,but ramen this good is hard to come by.
-Dialogue: 10,0:12:57.21,0:13:01.43,Default,,0,0,0,,Are those uniforms Gehenna? You're a long way from home.
+Dialogue: 10,0:12:44.79,0:12:46.29,Default,,0,0,0,,I know, right?
+Dialogue: 10,0:12:46.29,0:12:48.54,Default,,0,0,0,,Isn't the ramen here just the best?
+Dialogue: 10,0:12:49.08,0:12:53.25,Default,,0,0,0,,I can tell. I've had my fair share \Nof delightful dishes from many restaurants,
+Dialogue: 10,0:12:53.25,0:12:57.55,Default,,0,0,0,,but ramen {\i1}this{\i0} good is hard to come by.
+Dialogue: 10,0:12:57.55,0:12:59.51,Default,,0,0,0,,Are those uniforms Gehenna's?
+Dialogue: 10,0:12:59.51,0:13:01.43,Default,,0,0,0,,You're a long way from home.
 Dialogue: 10,0:13:01.43,0:13:02.80,Default,,0,0,0,,Oh, uh, yes.
 Dialogue: 10,0:13:03.60,0:13:06.93,Default,,0,0,0,,We're actually regulars here.
 Dialogue: 10,0:13:06.10,0:13:06.85,Default,,0,0,0,,Really?
 Dialogue: 10,0:13:07.39,0:13:09.18,Default,,0,0,0,,{\an8}I'm jealous.
-Dialogue: 10,0:13:08.06,0:13:10.81,Default,,0,0,0,,Hey, Kayoko, aren't those girls...?
-Dialogue: 10,0:13:10.81,0:13:11.69,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:13:12.48,0:13:14.73,Default,,0,0,0,,They're from Abydos High School.
-Dialogue: 10,0:13:14.73,0:13:19.78,Default,,0,0,0,,I have to say, I didn't expect to meet so many kindred souls out here,
-Dialogue: 10,0:13:19.78,0:13:25.62,Default,,0,0,0,,but I guess these kinds of unexpected things are what make life so interesting, after all.
-Dialogue: 10,0:13:25.62,0:13:29.29,Default,,0,0,0,,Yeah, maybe you're right.
-Dialogue: 10,0:13:29.29,0:13:31.75,Default,,0,0,0,,It doesn't look like she realizes, though?
+Dialogue: 10,0:13:08.06,0:13:10.81,Default,,0,0,0,,Hey, Kayoko, is it just me, or...
+Dialogue: 10,0:13:10.81,0:13:11.69,Default,,0,0,0,,It's not.
+Dialogue: 10,0:13:12.35,0:13:14.69,Default,,0,0,0,,They're from Abydos High School.
+Dialogue: 10,0:13:15.52,0:13:19.61,Default,,0,0,0,,I didn't expect to run into \Nso many kindred souls out here.
+Dialogue: 10,0:13:19.78,0:13:25.66,Default,,0,0,0,,Sometimes life loves to throw us \Nwonderful surprises, wouldn't you agree?
+Dialogue: 10,0:13:25.66,0:13:26.99,Default,,0,0,0,,Yeah, you may be right.
+Dialogue: 10,0:13:29.29,0:13:31.75,Default,,0,0,0,,I don't think she's put two and two together.
 Dialogue: 10,0:13:31.75,0:13:33.00,Default,,0,0,0,,Should we tell her?
-Dialogue: 10,0:13:33.46,0:13:35.67,Default,,0,0,0,,No, no, it's so much more fun this way.
+Dialogue: 10,0:13:33.75,0:13:35.88,Default,,0,0,0,,Nah, this is way funnier.
 Dialogue: 10,0:13:37.67,0:13:39.26,Default,,0,0,0,,All right, take care.
 Dialogue: 10,0:13:39.26,0:13:41.93,Default,,0,0,0,,I hope your job goes well.
 Dialogue: 10,0:13:41.93,0:13:44.64,Default,,0,0,0,,Good luck restoring your school, too.
