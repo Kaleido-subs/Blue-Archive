@@ -172,7 +172,7 @@ Dialogue: 10,0:08:09.70,0:08:13.89,Default,,0,0,0,,Refer to me as "Boss" while \
 Dialogue: 10,0:08:13.89,0:08:17.52,Default,,0,0,0,,Sacrifices are inevitable in the pursuit \Nof completing a request.
 Dialogue: 10,0:08:17.98,0:08:21.19,Default,,0,0,0,,We can't go fretting over every little egg.
 Dialogue: 10,0:08:21.90,0:08:24.22,Default,,0,0,0,,We're outlaws. It comes with the territory.
-Dialogue: 10,0:08:24.22,0:08:27.85,Default,,0,0,0,,Aw, Aru{**-chan}'s doing her thing again.
+Dialogue: 10,0:08:24.22,0:08:27.85,Default,,0,0,0,,Aw, Aru{**-chan}'s doing her thing again. {im so sad we canlt do kuhuhu --rapid}
 Dialogue: 10,0:08:28.80,0:08:30.17,Default,,0,0,0,,Hey, Boss.
 Dialogue: 10,0:08:30.17,0:08:32.32,Default,,0,0,0,,Wh-What is it, Section Chief Kayoko?
 Dialogue: 10,0:08:32.66,0:08:37.51,Default,,0,0,0,,Just to confirm, the client demanded \Nthe target be unharmed, didn’t they?
@@ -184,14 +184,14 @@ Dialogue: 10,0:08:48.71,0:08:50.13,Default,,0,0,0,,Boss, does this mean...
 Dialogue: 10,0:08:51.60,0:08:55.14,Default,,0,0,0,,{\an8}Wh-wh-wh-wha— {TM: not entirely sure if this and 154 should be an8}
 Dialogue: 10,0:08:50.88,0:08:52.89,Default,,0,0,0,,We can kiss our payout goodbye.
 Dialogue: 10,0:08:55.14,0:08:58.52,Default,,0,0,0,,Wh-wh-wh-wha—
-Dialogue: 10,0:08:58.52,0:09:02.52,Default,,0,0,0,,What do we do?! {### petzku can you think of any fun memes here?}
+Dialogue: 10,0:08:58.52,0:09:02.52,Default,,0,0,0,,What do we do?! {### petzku can you think of any fun memes here?} {there are 100% better things, but i also can't think --rapid}
 Dialogue: 10,0:09:04.77,0:09:07.87,Default,,0,0,0,,Relax, Ayane{**-chan}. We're sorry, okay?
 Dialogue: 10,0:09:07.87,0:09:10.83,Default,,0,0,0,,It's my treat, so stop being angry, okay?
 Dialogue: 10,0:09:10.83,0:09:12.53,Default,,0,0,0,,I'm {\i1}not{\i0} angry.
 Dialogue: 10,0:09:12.53,0:09:15.30,Default,,0,0,0,,Here, let's wipe that cute little mouth.
-Dialogue: 10,0:09:15.30,0:09:17.54,Default,,0,0,0,,Would you stop patronising me?
+Dialogue: 10,0:09:15.30,0:09:17.54,Default,,0,0,0,,Would you stop patronising me? {patronizing isn't the right word here its more like "Would you stop babying me?" --rapid}
 Dialogue: 10,0:09:17.54,0:09:19.83,Default,,0,0,0,,Ayane, want more chashu?
-Dialogue: 10,0:09:19.83,0:09:20.96,Default,,0,0,0,,Sure. {I think it'd be funnier if she just immediately says "yes" after complaining about being patronised -- ik}
+Dialogue: 10,0:09:19.83,0:09:20.96,Default,,0,0,0,,Sure. {I think it'd be funnier if she just immediately says "yes" after complaining about being patronised -- ik} {sure --rapid}
 Dialogue: 10,0:09:21.59,0:09:22.92,Default,,0,0,0,,Welcome!
 Dialogue: 10,0:09:23.30,0:09:24.42,Default,,0,0,0,,How many in your party?
 Dialogue: 10,0:09:24.42,0:09:30.93,Default,,0,0,0,,Um, c-could I please ask how much \Nthe c-cheapest item on the m-menu is?
@@ -224,11 +224,11 @@ Dialogue: 10,0:10:40.66,0:10:41.58,Default,,0,0,0,,Don't say that!
 Dialogue: 10,0:10:42.42,0:10:44.87,Default,,0,0,0,,Being poor is nothing to be ashamed of!
 Dialogue: 10,0:10:44.87,0:10:45.58,Default,,0,0,0,,Huh?
 Dialogue: 10,0:10:45.58,0:10:46.98,Default,,0,0,0,,Don't you agree, Boss?
-Dialogue: 10,0:10:46.98,0:10:50.24,Default,,0,0,0,,Darn straight! Ev'ry dog \Nwill have his moment in the sun. {I've never heard this idiom before so not sure how many people will understand this has to do with money and that everyone has a chance, and it's used to comfort broke people - sikha}{### How's this, if we wanna keep dog here (because it's the dog saying this)?} {Is "every dog has his day" not common usage? Not as familiar with this one --ik}
+Dialogue: 10,0:10:46.98,0:10:50.24,Default,,0,0,0,,Darn straight! Ev'ry dog \Nwill have his moment in the sun. {I've never heard this idiom before so not sure how many people will understand this has to do with money and that everyone has a chance, and it's used to comfort broke people - sikha}{### How's this, if we wanna keep dog here (because it's the dog saying this)?} {Is "every dog has his day" not common usage? Not as familiar with this one --ik} {ik's is much more common, use that one --rapid}
 Dialogue: 10,0:10:50.24,0:10:52.21,Default,,0,0,0,,You girls are students, aintcha?
 Dialogue: 10,0:10:52.21,0:10:53.34,Default,,0,0,0,,Y-Yes, that's right.
 Dialogue: 10,0:10:53.89,0:10:56.93,Default,,0,0,0,,But y'all still scrounged up enough \Nto share a bowl o' ramen.
-Dialogue: 10,0:10:56.93,0:10:58.85,Default,,0,0,0,,I'm right chuffed! {I'm shocked this made it through. English Shiba Seki confirmed? --ik}
+Dialogue: 10,0:10:56.93,0:10:58.85,Default,,0,0,0,,I'm right chuffed! {I'm shocked this made it through. English Shiba Seki confirmed? --ik} {noooooooo don't make him british just make him say something like "gives me hope in the youngins" or smth --rapid}
 Dialogue: 10,0:10:58.85,0:11:00.10,Default,,0,0,0,,Just sit tight, y'hear?
 Dialogue: 10,0:11:00.10,0:11:01.69,Default,,0,0,0,,Please, have a seat.
 Dialogue: 10,0:11:01.69,0:11:02.35,Default,,0,0,0,,O-Okay.
@@ -239,7 +239,7 @@ Dialogue: 10,0:11:12.60,0:11:15.41,Default,,0,0,0,,Not only did that last job en
 Dialogue: 10,0:11:15.41,0:11:19.42,Default,,0,0,0,,but now we've sunk almost all our money \Ninto hiring goons for our next job.
 Dialogue: 10,0:11:20.28,0:11:23.17,Default,,0,0,0,,But you see, I made sure we had enough for ramen!
 Dialogue: 10,0:11:23.17,0:11:25.04,Default,,0,0,0,,This was well within my expectations.
-Dialogue: 10,0:11:25.42,0:11:30.23,Default,,0,0,0,,But still, is our next target really so dangerous \Nthat it warrants us starving now? {###} {maybe just "warrants all this" since she's not actually that hung up over the food. In fact, pretty much everyone in PS68 trusts Aru wholeheartedly, but they (read: Mutsuki) just love to mess with her -- ik}
+Dialogue: 10,0:11:25.42,0:11:30.23,Default,,0,0,0,,But still, is our next target really so dangerous \Nthat it warrants us starving now? {###} {maybe just "warrants all this" since she's not actually that hung up over the food. In fact, pretty much everyone in PS68 trusts Aru wholeheartedly, but they (read: Mutsuki) just love to mess with her -- ik} {yeah i agree with ik --rapid}
 Dialogue: 10,0:11:30.23,0:11:31.71,Default,,0,0,0,,You know...
 Dialogue: 10,0:11:31.71,0:11:34.76,Default,,0,0,0,,I bet Aru{**-chan} doesn't even know herself!
 Dialogue: 10,0:11:34.76,0:11:37.36,Default,,0,0,0,,That's why she spent all our cash—\Nbecause she's chicken!
@@ -275,7 +275,7 @@ Dialogue: 10,0:12:53.24,0:12:57.05,Default,,0,0,0,,but ramen {\i1}this{\i0} good
 Dialogue: 10,0:12:57.31,0:12:59.51,Default,,0,0,0,,Are those uniforms Gehenna's?
 Dialogue: 10,0:12:59.51,0:13:01.39,Default,,0,0,0,,You're a long way from home.
 Dialogue: 10,0:13:01.39,0:13:02.68,Default,,0,0,0,,Oh, uh, yes.
-Dialogue: 10,0:13:03.67,0:13:05.98,Default,,0,0,0,,We're actually regulars here.
+Dialogue: 10,0:13:03.67,0:13:05.98,Default,,0,0,0,,We're actually regulars here. {1- timing fucked up 2- tone is fucked up, sounds off, prolly doesn't need actually --rapid}
 Dialogue: 10,0:13:05.98,0:13:06.93,Default,,0,0,0,,Really?
 Dialogue: 10,0:13:07.38,0:13:09.54,Default,,0,0,0,,{\an8}I'm jealous.
 Dialogue: 10,0:13:08.11,0:13:10.82,Default,,0,0,0,,Hey, Kayoko, is it just me, or...
@@ -312,12 +312,12 @@ Dialogue: 10,0:14:34.81,0:14:37.05,Default,,0,0,0,,No way... There's no way...
 Dialogue: 10,0:14:37.05,0:14:39.32,Default,,0,0,0,,Those sweethearts are our targets?
 Dialogue: 10,0:14:39.64,0:14:41.07,Default,,0,0,0,,"No morals, no mercy."
 Dialogue: 10,0:14:41.07,0:14:43.54,Default,,0,0,0,,"We do the crime if you got the dime."
-Dialogue: 10,0:14:43.54,0:14:45.07,Default,,0,0,0,,You didn't forget our motto, did you? {"Wasn't that the motto?"}
-Dialogue: 10,0:14:45.07,0:14:47.70,Default,,0,0,0,,No reason to let your emotions \Nget the better of you now. {Maybe "No point overthinking it now" for brevity -- ik}
+Dialogue: 10,0:14:43.54,0:14:45.07,Default,,0,0,0,,You didn't forget our motto, did you? {"Wasn't that the motto?"} {alt one is better and techically more accurate --rapid}
+Dialogue: 10,0:14:45.07,0:14:47.70,Default,,0,0,0,,No reason to let your emotions \Nget the better of you now. {Maybe "No point overthinking it now" for brevity -- ik} {either or is fine --rapid}
 Dialogue: 10,0:14:47.70,0:14:49.88,Default,,0,0,0,,I-I mean, that's true, but...
 Dialogue: 10,0:14:49.88,0:14:53.08,Default,,0,0,0,,This job's really tearing you apart, huh?
 Dialogue: 10,0:14:55.58,0:14:58.21,Default,,0,0,0,,{\i1}Come on, Aru, get a grip!
-Dialogue: 10,0:14:58.58,0:15:00.71,Default,,0,0,0,,{\i1}You're the boss of this company! {### "You've got to set an example!"?}
+Dialogue: 10,0:14:58.58,0:15:00.71,Default,,0,0,0,,{\i1}You're the boss of this company! {### "You've got to set an example!"?} {current one is better --rapid}
 Dialogue: 10,0:15:02.04,0:15:03.21,Default,,0,0,0,,Let's do it!
 Dialogue: 10,0:15:06.50,0:15:10.12,Default,,0,0,0,,Ah, so that's what you were up to yesterday afternoon.
 Dialogue: 10,0:15:10.12,0:15:14.28,Default,,0,0,0,,Yes! And now we're friends \Nwith some students from Gehenna.
