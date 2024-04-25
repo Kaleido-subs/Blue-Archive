@@ -439,7 +439,11 @@ Dialogue: 10,0:20:55.03,0:20:56.65,Default,,0,0,0,,Well, aren't we in a pickle.
 Dialogue: 10,0:20:56.65,0:20:58.78,Default,,0,0,0,,What now, Aru{**-chan}? Should we run for it?
 Dialogue: 10,0:21:00.82,0:21:03.07,Default,,0,0,0,,You haven't seen the last of us, you hear me?!
 Dialogue: 10,0:21:04.58,0:21:07.95,Default,,0,0,0,,Come on, Aru{**-chan}, you sound \Nlike a B-movie villain right now!
-Dialogue: 10,0:21:07.95,0:21:12.21,Default,,0,0,0,,Shut up! We're run—I mean retreating! {This is where I was thinking we could put "We're run" then delete "un" on screen and replace with "We're retreating" for shenanigans -- ik}{I for one fully support shenanigans here --ML}{idk how to do the funny but do it --rapid}
+Comment: 10,0:21:07.95,0:21:12.21,Default,,0,0,0,,Shut up! We're run—I mean retreating! {This is where I was thinking we could put "We're run" then delete "un" on screen and replace with "We're retreating" for shenanigans -- ik}{I for one fully support shenanigans here --ML}{idk how to do the funny but do it --rapid}
+Dialogue: 10,0:21:07.95,0:21:09.68,Default,,0,0,0,shenan,Shut up! We're running away!
+Dialogue: 10,0:21:09.68,0:21:12.21,Default,,0,0,0,shenan,{\q2\alpha&HFF&}—I mean, retreat{\alpha}Shut up! We're run—I mean, retreating!{\alpha&HFF&}n away
+Comment: 10,0:21:07.95,0:21:09.68,Default,,0,0,0,shenan,Shut up! We're run—
+Comment: 10,0:21:09.68,0:21:12.21,Default,,0,0,0,shenan,{\alpha&HFF&}retreating!{\alpha}Shut up! We're retreating!{\alpha&HFF&}run—
 Dialogue: 10,0:21:12.21,0:21:15.50,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}, wait for me!
 Dialogue: 10,0:21:15.50,0:21:16.84,Default,,0,0,0,,Be seeing you.
 Dialogue: 10,0:21:19.26,0:21:21.68,Default,,0,0,0,,Well they sure were interesting.
