@@ -59,7 +59,7 @@ Dialogue: 10,0:02:50.86,0:02:51.65,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:02:53.86,0:02:58.32,Default,,0,0,0,,With that out of the way, let's get back \Nto our regular meeting, everyone.
 Dialogue: 10,0:02:58.66,0:03:01.74,Default,,0,0,0,,{*}Our teacher{*Sensei} is present this time,
 Dialogue: 10,0:03:01.74,0:03:04.04,Default,,0,0,0,,so make sure you're on your best behaviour.{### alt: "I'd appreciate a more serious conduct."}
-Dialogue: 10,0:03:04.25,0:03:07.25,Default,,0,0,0,,C'mon! Don't paint us as trouble students or anything! {never seen the term "trouble students" before, is this a regional thing? --ML}{### t. someone who was clearly not a trouble student} {"Troublemaker" would be common, but trouble students just sounds like a word for word TL of 問題児 to me -- ik}
+Dialogue: 10,0:03:04.25,0:03:07.25,Default,,0,0,0,,C'mon! Don't paint us as trouble students or anything! {never seen the term "trouble students" before, is this a regional thing? --ML}{### t. someone who was clearly not a trouble student} {"Troublemaker" would be common, but trouble students just sounds like a word for word TL of 問題児 to me -- ik}{troublemakers" really does seem way more natural to me. --ML}
 Dialogue: 10,0:03:09.88,0:03:12.34,Default,,0,0,0,,Pleasure to have ya, {*}Teach{*Sensei}.
 Dialogue: 10,0:03:12.34,0:03:13.80,Default,,0,0,0,,Happy to be here.
 Dialogue: 10,0:03:14.84,0:03:18.80,Default,,0,0,0,,Let's start with our plans going forward.
@@ -105,7 +105,7 @@ Dialogue: 10,0:05:11.71,0:05:13.04,Default,,0,0,0,,Rejected!
 Dialogue: 10,0:05:13.04,0:05:13.83,Default,,0,0,0,,What?
 Dialogue: 10,0:05:13.83,0:05:15.84,Default,,0,0,0,,Put yourselves in their shoes!
 Dialogue: 10,0:05:16.17,0:05:19.88,Default,,0,0,0,,Would you happily sign those documents \Nif {\i1}you{\i0} were kidnapped?! {TM: the transition between this and the next line is weird, might want to come back to it}
-Dialogue: 10,0:05:19.88,0:05:23.01,Default,,0,0,0,,Moreover, their school's prefects \Nwould have our heads! {In terms of global terminology, is prefect the right term here? Afaik the only school that uses it is Gehenna.}{### I'm not sure. TLCs?}{To be fair, the term used in the JP is 委員会, which is only really explicitly in the title of Gehenna's rules committee, similarly to the English afaik -- ik}
+Dialogue: 10,0:05:19.88,0:05:23.01,Default,,0,0,0,,Moreover, their school's prefects \Nwould have our heads! {In terms of global terminology, is prefect the right term here? Afaik the only school that uses it is Gehenna. --ML}{### I'm not sure. TLCs?}{To be fair, the term used in the JP is 委員会, which is only really explicitly in the title of Gehenna's rules committee, similarly to the English afaik -- ik}
 Dialogue: 10,0:05:23.01,0:05:25.47,Default,,0,0,0,,Yeah, figures that's a no-go.
 Dialogue: 10,0:05:27.39,0:05:30.69,Default,,0,0,0,,I beg you, please take this even a little seriously.
 Dialogue: 10,0:05:30.69,0:05:33.77,Default,,0,0,0,,Hey, Ayane. I have an even better idea.
@@ -443,7 +443,7 @@ Comment: 10,0:21:07.95,0:21:12.21,Default,,0,0,0,,Shut up! We're run—I mean re
 Dialogue: 10,0:21:07.95,0:21:09.68,Default,,0,0,0,shenan,Shut up! We're running away!
 Dialogue: 10,0:21:09.68,0:21:12.21,Default,,0,0,0,shenan,{\q2\alpha&HFF&}—I mean, retreat{\alpha}Shut up! We're run—I mean, retreating!{\alpha&HFF&}n away
 Comment: 10,0:21:07.95,0:21:09.68,Default,,0,0,0,shenan,Shut up! We're run—
-Comment: 10,0:21:09.68,0:21:12.21,Default,,0,0,0,shenan,{\alpha&HFF&}retreating!{\alpha}Shut up! We're retreating!{\alpha&HFF&}run—
+Comment: 10,0:21:09.68,0:21:12.21,Default,,0,0,0,shenan,{\alpha&HFF&}retreating!{\alpha}Shut up! We're retreating!{\alpha&HFF&}run— {I like this one a lot more --ML}
 Dialogue: 10,0:21:12.21,0:21:15.50,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}, wait for me!
 Dialogue: 10,0:21:15.50,0:21:16.84,Default,,0,0,0,,Be seeing you.
 Dialogue: 10,0:21:19.26,0:21:21.68,Default,,0,0,0,,Well they sure were interesting.
