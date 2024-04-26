@@ -445,7 +445,7 @@ Dialogue: 10,0:21:09.68,0:21:12.21,Default,,0,0,0,shenan,{\q2\alpha&HFF&}—I me
 Comment: 10,0:21:07.95,0:21:09.68,Default,,0,0,0,shenan,Shut up! We're run—
 Comment: 10,0:21:09.68,0:21:12.21,Default,,0,0,0,shenan,{\alpha&HFF&}retreating!{\alpha}Shut up! We're retreating!{\alpha&HFF&}run— {I like this one a lot more --ML}
 Dialogue: 10,0:21:12.21,0:21:15.50,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}, wait for me!
-Dialogue: 10,0:21:15.50,0:21:16.84,Default,,0,0,0,,Be seeing you.
+Dialogue: 10,0:21:15.50,0:21:16.84,Default,,0,0,0,,Be seeing you. {Something like "See ya" or "Later" might be better in terms of vibes idk --ML}
 Dialogue: 10,0:21:19.26,0:21:21.68,Default,,0,0,0,,Well they sure were interesting.
 Dialogue: 10,0:21:21.68,0:21:24.05,Default,,0,0,0,,What in the world was all that about?
 Dialogue: 10,0:21:24.05,0:21:25.26,Default,,0,0,0,,Beats me.
