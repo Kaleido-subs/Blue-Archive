@@ -134,10 +134,10 @@ Dialogue: 10,0:06:37.25,0:06:38.50,Default,,0,0,0,,You got it!
 Dialogue: 10,0:06:38.92,0:06:41.26,Default,,0,0,0,,My idea is neither a crime nor a scam!
 Dialogue: 10,0:06:41.26,0:06:44.76,Default,,0,0,0,,It's completely clean and 100% reliable!
 Dialogue: 10,0:06:44.76,0:06:47.01,Default,,0,0,0,,Nonomi{**-senpai}...
-Dialogue: 10,0:06:47.30,0:06:48.93,Default,,350,0,0,shenan,The secret is... {\alpha&HFF&}Idols!
-Dialogue: 10,0:06:48.93,0:06:50.26,Default,,350,0,0,shenan,The secret is... Idols!
+Dialogue: 10,0:06:47.30,0:06:48.93,Default,,0,0,0,shenan,{\alpha&HFF&}Idols!{\alpha}The secret is... {\alpha&HFF&}Idols!
+Dialogue: 10,0:06:48.93,0:06:50.26,Default,,0,0,0,shenan,{\alpha&HFF&}Idols!{\alpha}The secret is... Idols!
 Dialogue: 10,0:06:50.26,0:06:51.77,Default,,0,0,0,,We become school idols!
-Dialogue: 10,0:06:51.77,0:06:52.52,Default,,0,0,0,shenan,{\bord4.6\c&HECECEC&\3c&H353537&}We become school idols!
+Dialogue: 10,0:06:51.77,0:06:52.52,Default,,0,0,0,shenan,{\bord4.6\c&HECECEC&\3c&H353537&}We become school idols!{dunno about the bord increase here. otherwise pretty good -p}
 Dialogue: 10,0:06:52.52,0:06:53.85,Default,,0,0,0,,Idols?
 Dialogue: 10,0:06:53.85,0:06:54.89,Default,,0,0,0,,Yes!
 Dialogue: 10,0:06:54.89,0:06:57.90,Default,,0,0,0,,The heart and soul of any school \Nrevival arc hinges on idols!
@@ -182,8 +182,8 @@ Dialogue: 10,0:08:47.63,0:08:48.72,Default,,0,0,0,,{\an8}Wh-wh-wha?
 Dialogue: 10,0:08:48.72,0:08:50.13,Default,,0,0,0,,Boss, does this mean...
 Dialogue: 10,0:08:50.89,0:08:55.14,Default,,0,0,0,,{\an8}Wh-wh-wh-wha—
 Dialogue: 10,0:08:50.89,0:08:52.89,Default,,0,0,0,,We can kiss our payout goodbye.
-Dialogue: 10,0:08:55.14,0:08:58.52,Default,,0,0,0,,Wh-wh-wh-wha—
-Dialogue: 10,0:08:58.52,0:09:02.52,Default,,0,0,0,ST,What do we do?! {### petzku can you think of any fun memes here?} {there are 100% better things, but i also can't think --rapid}
+Dialogue: 10,0:08:55.14,0:08:58.52,Default,,0,0,0,ST,Wh-wh-wh-wha—{consider doing a similar grey thing as earlier at 06:51 -p}
+Dialogue: 10,0:08:58.52,0:09:02.52,Default,,0,0,0,ST,What do we do?! {### petzku can you think of any fun memes here?} {there are 100% better things, but i also can't think --rapid}{uhhh.... transforming fsc maybe? just a bit though. and not too sure about bigger or smaller -p}
 Dialogue: 10,0:09:04.77,0:09:07.86,Default,,0,0,0,,Relax, Ayane{**-chan}. We're sorry, okay?
 Dialogue: 10,0:09:07.86,0:09:10.82,Default,,0,0,0,,It's my treat, so stop being angry, okay?
 Dialogue: 10,0:09:10.82,0:09:12.53,Default,,0,0,0,,I'm {\i1}not{\i0} angry.
@@ -250,8 +250,8 @@ Dialogue: 10,0:11:47.02,0:11:49.02,Default,,0,0,0,,First I've heard of it.
 Dialogue: 10,0:11:49.02,0:11:50.94,Default,,0,0,0,,Oh, come on. She clearly made it up on the spot.
 Dialogue: 10,0:11:50.94,0:11:52.52,Default,,0,0,0,,Q-Quiet, you!
 Dialogue: 10,0:11:52.52,0:11:54.57,Default,,0,0,0,,Thank you for waiting!
-Dialogue: 10,0:11:55.90,0:11:57.40,Default,,0,1400,0,shenan,{\q2}Wh-What on earth?!
-Dialogue: 10,0:11:57.40,0:11:59.16,Default,,1400,0,0,shenan,{\q2}Look at all that ramen!
+Dialogue: 10,0:11:55.90,0:11:57.40,Default,,50,1250,0,shenan,Wh-What on earth?!
+Dialogue: 10,0:11:57.40,0:11:59.16,Default,,1250,50,0,shenan,Look at all that ramen!
 Dialogue: 10,0:11:59.16,0:12:01.16,Default,,800,0,0,shenan,This is enough to feed ten people!
 Dialogue: 10,0:12:01.16,0:12:03.58,Default,,0,800,0,shenan,Th-This has to be a mistake.
 Dialogue: 10,0:12:03.91,0:12:07.33,Default,,0,0,0,,I-I'm sorry, but we couldn't possibly afford this.
@@ -324,8 +324,7 @@ Dialogue: 10,0:15:14.27,0:15:17.02,Default,,0,0,0,,They were super impressed wit
 Dialogue: 10,0:15:17.02,0:15:17.90,Default,,0,0,0,,They were!
 Dialogue: 10,0:15:17.90,0:15:21.02,Default,,0,0,0,TM,I'm not surprised to hear that. It's great. {TM: check if should snap}
 Dialogue: 10,0:15:21.02,0:15:23.11,Default,,0,0,0,,By the way, what were they like?
-Dialogue: 10,0:15:23.11,0:15:25.32,Default,,0,0,0,,It sounded like they had their own company,{\alpha&HFF&}—
-Dialogue: 10,0:15:25.32,0:15:26.32,Default,,0,0,0,,It sounded like they had their own company—{\alpha&HFF&},
+Dialogue: 10,0:15:23.11,0:15:26.32,Default,,0,0,0,,It sounded like they had their own company—
 Dialogue: 10,0:15:29.37,0:15:33.83,Default,,0,0,0,,A security camera captured an armed group \Nadvancing on the school from the south.
 Dialogue: 10,0:15:33.83,0:15:35.91,Default,,0,0,0,,Is it the Helmet Gang again?
 Dialogue: 10,0:15:35.91,0:15:36.87,Default,,0,0,0,,It's not them.
@@ -439,11 +438,9 @@ Dialogue: 10,0:20:55.03,0:20:56.65,Default,,0,0,0,,Well, aren't we in a pickle.
 Dialogue: 10,0:20:56.65,0:20:58.78,Default,,0,0,0,,What now, Aru{**-chan}? Should we run for it?
 Dialogue: 10,0:21:00.82,0:21:03.07,Default,,0,0,0,,You haven't seen the last of us, you hear me?!
 Dialogue: 10,0:21:04.58,0:21:07.95,Default,,0,0,0,,Come on, Aru{**-chan}, you sound \Nlike a B-movie villain right now!
-Comment: 10,0:21:07.95,0:21:12.21,Default,,0,0,0,,Shut up! We're run—I mean retreating!
-Comment: 10,0:21:07.95,0:21:09.68,Default,,0,0,0,shenan,Shut up! We're running away!
-Comment: 10,0:21:09.68,0:21:12.21,Default,,0,0,0,shenan,{\q2\alpha&HFF&}—I mean, retreat{\alpha}Shut up! We're run—I mean, retreating!{\alpha&HFF&}n away
-Dialogue: 10,0:21:07.95,0:21:09.68,Default,,0,0,0,shenan,Shut up! We're run—
-Dialogue: 10,0:21:09.68,0:21:12.21,Default,,0,0,0,shenan,{\alpha&HFF&}retreating!{\alpha}Shut up! We're retreating!{\alpha&HFF&}run—
+Comment: 10,0:21:07.95,0:21:12.21,Default,,0,0,0,ST,Shut up! We're run—I mean retreating!{my preference here is pretty strongly on the former option ("running away!"); ML prefers the latter ("run—"), though}{throwing in one more option below these, courtesy of f -p}
+Dialogue: 10,0:21:07.95,0:21:09.68,Default,,0,0,0,shenan,Shut up! We're running away!
+Dialogue: 10,0:21:09.68,0:21:12.21,Default,,0,0,0,shenan,{\q2\alpha&HFF&}—I mean, retreat{\alpha}Shut up! We're run—I mean, retreating!{\alpha&HFF&}n away
 Dialogue: 10,0:21:12.21,0:21:15.50,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}, wait for me!
 Dialogue: 10,0:21:15.50,0:21:16.84,Default,,0,0,0,,Later.
 Dialogue: 10,0:21:19.26,0:21:21.68,Default,,0,0,0,,Well they sure were interesting.
