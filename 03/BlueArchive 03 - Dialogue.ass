@@ -277,7 +277,7 @@ Dialogue: 10,0:13:01.39,0:13:02.68,Default,,0,0,0,,Oh, uh, yes.
 Dialogue: 10,0:13:03.64,0:13:05.97,Default,,0,0,0,,We're regulars here.
 Dialogue: 10,0:13:05.97,0:13:06.93,Default,,0,0,0,,Really?
 Dialogue: 10,0:13:07.39,0:13:09.56,Default,,0,0,0,,{\an8}I'm jealous.
-Dialogue: 10,0:13:08.10,0:13:10.81,Default,,0,0,0,,Hey, Kayoko, is it just me, or...
+Dialogue: 10,0:13:08.10,0:13:10.81,Default,,0,0,0,,Hey, Kayoko{**-chan}, is it just me, or...
 Dialogue: 10,0:13:10.81,0:13:11.69,Default,,0,0,0,,It's not.
 Dialogue: 10,0:13:12.35,0:13:14.69,Default,,0,0,0,,They're from Abydos High School.
 Dialogue: 10,0:13:15.52,0:13:19.61,Default,,0,0,0,,I didn't expect to run into \Nso many kindred souls out here.
@@ -371,8 +371,10 @@ Dialogue: 10,0:17:19.27,0:17:20.98,Default,,0,0,0,,Kayoko{**-chan}, she's all yo
 Dialogue: 10,0:17:20.98,0:17:21.65,Default,,0,0,0,,Huh?
 Dialogue: 10,0:17:21.65,0:17:23.02,Default,,0,0,0,,Good going, Mutsuki.
 Dialogue: 10,0:17:27.07,0:17:28.61,Default,,0,0,0,,Drop your weapon, now!
-Dialogue: 10,0:17:36.87,0:17:38.04,Default,,0,0,0,,Serika!
-Dialogue: 10,0:17:38.04,0:17:39.12,Default,,0,0,0,,Serika!
+Dialogue: 10,0:17:36.87,0:17:38.04,Default,,0,0,0,,Serika{**-chan}!
+Comment: 10,0:17:38.04,0:17:39.12,Default,,0,0,0,***,Serika-chan!
+Comment: 10,0:17:38.04,0:17:39.12,Alt,,0,0,0,***,Serika!
+Dialogue: 10,0:17:38.04,0:17:39.12,Default,,0,0,0,***,Serika!
 Dialogue: 10,0:17:39.12,0:17:41.04,Default,,0,0,0,,I'm good! Don't worry about me!
 Dialogue: 10,0:17:44.33,0:17:46.13,Default,,0,0,0,,The next one won't miss.
 Dialogue: 10,0:17:46.71,0:17:48.01,Default,,0,0,0,,Whoopsie!
