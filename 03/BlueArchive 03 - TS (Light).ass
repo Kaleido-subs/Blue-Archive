@@ -6656,20 +6656,20 @@ Dialogue: 0,0:15:25.45,0:15:26.32,LightSigns,,0,0,0,,{=10579}{\an7\pos(960,540)\
 Comment: 0,0:15:25.45,0:15:25.45,LightSigns,,0,0,0,,{=10581}---- Zoom-out
 Comment: 0,0:15:26.57,0:15:27.82,LightSigns,,0,0,0,,{=10582}-- Skipped for now, doing for BDs
 Comment: 0,0:15:25.45,0:15:25.45,LightSigns,,0,0,0,,{=10584}-- Emergency
-Comment: 0,0:23:18.63,0:23:18.63,LightSigns,,0,0,0,,{=10646}---- Email
-Dialogue: 2,0:23:18.63,0:23:21.00,LightSigns,addressed,0,0,0,,{=10627}{\an4\pos(208,-106)\org(1115,1807)\fscx103.41\fscy101.44\frz-7.282\fry-3.065\frx1.692\fnNoto Sans SemiBold\fs36\c&HD5BE4C&\1a&HB4&\blur4}To: \NRepresentative Director \NKaiser PMC
+Comment: 0,0:23:18.63,0:23:18.63,LightSigns,,0,0,0,,{=11507}---- Email
+Dialogue: 2,0:23:18.63,0:23:21.00,LightSigns,addressed,0,0,0,,{=10627}{\an4\pos(202,-106)\org(1115,1807)\fscx103.41\fscy101.44\frz-7.282\fry-3.065\frx1.692\fnNoto Sans SemiBold\fs36\c&HD5BE4C&\1a&HB4&\blur4}To: \NRepresentative Director \NKaiser PMC
 Dialogue: 2,0:23:18.63,0:23:21.00,LightSigns,addressee,0,0,0,,{=10628}{\an4\pos(1120,-192)\org(1995,1599)\fscx127.07\fscy108.96\frz-4.968\fry-2.785\frx1.478\fnNoto Sans SemiBold\fs36\c&HD5BE4C&\1a&HB4&\blur4}From: \NRikuhachima Aru\NProblem Solver 68
-Dialogue: 2,0:23:18.63,0:23:21.00,LightSigns,header,0,0,0,,{=10631}{\pos(752,57)\org(1452,1713)\fscx114.85\fscy105.39\frz-5.946\fry-2.922\frx1.614\fnNoto Sans SemiBold\fs64\c&HD5BE4C&\1a&HB4&\blur4}Report of Failure to Capture Abydos High School
-Dialogue: 2,0:23:18.63,0:23:21.00,LightSigns,body,0,0,0,,{=10633}{\an4\pos(113,388)\org(1372,1737)\fscx112.1\fscy104.48\frz-6.264\fry-2.955\frx1.631\fnNoto Sans\fs48\c&HD5BE4C&\1a&HB4&\blur4\q2}I hope this email finds you well.\N\NI regret to inform you that there has been an unexpected development regarding our recent \Noperation at Abydos High School. Attached you will find a detailed report outlining the specifics \Nof the unsuccessful endeavour.\N\NThank you for your understanding and attention to this matter.\N\NSincerely,\NRikuhachima Aru
+Dialogue: 2,0:23:18.63,0:23:21.00,LightSigns,header,0,0,0,,{=10631}{\pos(752,57)\org(1452,1713)\fscx114.85\fscy105.39\frz-5.946\fry-2.922\frx1.614\fnNoto Sans SemiBold\fs64\c&HD5BE4C&\1a&HB4&\blur4}Report of failure to capture Abydos High School
+Dialogue: 2,0:23:18.63,0:23:21.00,LightSigns,body,0,0,0,,{=10633}{\an4\pos(113,388)\org(1372,1737)\fscx112.1\fscy104.48\frz-6.264\fry-2.955\frx1.631\fnNoto Sans\fs48\c&HD5BE4C&\1a&HB4&\blur4\q2}I hope this email finds you well.\N\N\NI regret to inform you that our recent operation to capture Abydos High School was \Nstopped by the Abydos Foreclosure Task Force. I have included a detailed report of \Nthe unsuccessful operation below.\N\N\NSincerely,\NRikuhachima Aru
 Dialogue: 2,0:23:18.63,0:23:21.00,LightSigns,summary,0,0,0,,{=10644}{\an4\pos(164,764)\org(1214,1781)\fscx106.72\fscy102.63\frz-6.891\fry-3.022\frx1.668\fnNoto Sans SemiBold\fs48\c&HD5BE4C&\1a&HB4&\blur4\q2}Summary \N\N{\fnNoto Sans}Rikuhachima Aru from Problem Solver 68 attempted an operation at Abydos High School \Nbut was stopped by the School Foreclosure Task Force.
 Dialogue: 2,0:23:18.63,0:23:21.00,LightSigns,details,0,0,0,,{=10645}{\an4\pos(234,970)\org(922,1853)\fscx97.08\fscy99.04\frz-8.037\fry-3.155\frx1.742\fnNoto Sans SemiBold\fs48\c&HD5BE4C&\1a&HB4&\blur4\q2}Details \N\N{\fnNoto Sans}* Hired mercenaries and assembled in Abydos District
-Dialogue: 1,0:23:18.63,0:23:21.00,LightSigns,addressed,0,0,0,,{=10627}{\an4\pos(208,-106)\org(1115,1807)\fscx103.41\fscy101.44\frz-7.282\fry-3.065\frx1.692\fnNoto Sans SemiBold\fs36\c&HE0B939&\blur1.5}To: \NRepresentative Director \NKaiser PMC
+Dialogue: 1,0:23:18.63,0:23:21.00,LightSigns,addressed,0,0,0,,{=10627}{\an4\pos(202,-106)\org(1115,1807)\fscx103.41\fscy101.44\frz-7.282\fry-3.065\frx1.692\fnNoto Sans SemiBold\fs36\c&HE0B939&\blur1.5}To: \NRepresentative Director \NKaiser PMC
 Dialogue: 1,0:23:18.63,0:23:21.00,LightSigns,addressee,0,0,0,,{=10628}{\an4\pos(1120,-192)\org(1995,1599)\fscx127.07\fscy108.96\frz-4.968\fry-2.785\frx1.478\fnNoto Sans SemiBold\fs36\c&HE0B939&\blur1.5}From: \NRikuhachima Aru\NProblem Solver 68
-Dialogue: 1,0:23:18.63,0:23:21.00,LightSigns,header,0,0,0,,{=10631}{\pos(752,57)\org(1452,1713)\fscx114.85\fscy105.39\frz-5.946\fry-2.922\frx1.614\fnNoto Sans SemiBold\fs64\c&HE0B939&\blur1.5}Report of Failure to Capture Abydos High School
-Dialogue: 1,0:23:18.63,0:23:21.00,LightSigns,body,0,0,0,,{=10633}{\an4\pos(113,388)\org(1372,1737)\fscx112.1\fscy104.48\frz-6.264\fry-2.955\frx1.631\fnNoto Sans\fs48\c&HE0B939&\blur1.5\q2}I hope this email finds you well.\N\N{\blur1.65}I regret to inform you that there has been an unexpected development regarding our recent \N{\blur1.8}operation at Abydos High School. Attached you will find a detailed report outlining the specifics \N{\blur1.95}of the unsuccessful endeavour.\N\N{\blur2.05}Thank you for your understanding and attention to this matter.\N\NSincerely,\NRikuhachima Aru
+Dialogue: 1,0:23:18.63,0:23:21.00,LightSigns,header,0,0,0,,{=10631}{\pos(752,57)\org(1452,1713)\fscx114.85\fscy105.39\frz-5.946\fry-2.922\frx1.614\fnNoto Sans SemiBold\fs64\c&HE0B939&\blur1.5}Report of failure to capture Abydos High School
+Dialogue: 1,0:23:18.63,0:23:21.00,LightSigns,body,0,0,0,,{=10633}{\an4\pos(113,388)\org(1372,1737)\fscx112.1\fscy104.48\frz-6.264\fry-2.955\frx1.631\fnNoto Sans\fs48\c&HE0B939&\blur1.5\q2}I hope this email finds you well.\N\N\N{\blur1.6}I regret to inform you that our recent operation to capture Abydos High School was \N{\blur1.6}stopped by the Abydos Foreclosure Task Force. I have included a detailed report of \Nthe unsuccessful operation below.\N\N\N{\blur1.8}Sincerely,\NRikuhachima Aru
 Dialogue: 1,0:23:18.63,0:23:21.00,LightSigns,summary,0,0,0,,{=10644}{\an4\pos(164,764)\org(1214,1781)\fscx106.72\fscy102.63\frz-6.891\fry-3.022\frx1.668\fnNoto Sans SemiBold\fs48\c&HE0B939&\blur2.2\q2}Summary \N\N{\fnNoto Sans\blur2.4}Rikuhachima Aru from Problem Solver 68 attempted an operation at Abydos High School \Nbut was stopped by the School Foreclosure Task Force.
 Dialogue: 1,0:23:18.63,0:23:21.00,LightSigns,details,0,0,0,,{=10645}{\an4\pos(234,970)\org(922,1853)\fscx97.08\fscy99.04\frz-8.037\fry-3.155\frx1.742\fnNoto Sans SemiBold\fs48\c&HE0B939&\blur2.6\q2}Details \N\N{\fnNoto Sans\blur2.8}* Hired mercenaries and assembled in Abydos District
-Dialogue: 0,0:23:18.63,0:23:21.00,LightSigns,bg,0,0,0,,{=10647}{\an7\pos(960,540)\c&HFDF9E5&\blur1\p1}m -418 439 l -422 489 -59 490 -59 548 -493 572 -491 502 -514 502 -498 433 m -373 234 l -376 273 586 231 587 303 -3 322 -2 394 -493 394 -459 225 m 650 -28 l 43 39 32 102 -437 140 -408 -31 650 -146 m 611 100 l 510 105 512 42 613 39 m 437 -174 l -258 -90 -269 -162 432 -249 m -149 -245 l -374 -221 -361 -327 -148 -346 m 682 -326 l 442 -300 464 -414 664 -438
+Dialogue: 0,0:23:18.63,0:23:21.00,LightSigns,bg,0,0,0,,{=11508}{\an7\pos(960,540)\c&HFDF9E5&\blur1\p1}m -418 439 l -422 489 -59 490 -59 548 -493 572 -491 502 -514 502 -498 433 m -373 234 l -376 273 586 231 587 303 -3 322 -2 394 -493 394 -459 225 m 650 -28 l 43 39 32 102 -437 140 -408 -31 650 -146 m 611 100 l 510 105 512 42 613 39 m 437 -174 l -258 -90 -269 -162 432 -249 m -149 -245 l -374 -221 -361 -327 -148 -346 m 682 -326 l 442 -300 464 -414 664 -438
 Comment: 0,0:18:59.45,0:18:59.45,LightSigns,,0,0,0,,{=10692}-- Abydos High School nameplate
 Comment: 0,0:18:59.45,0:19:01.95,LightSigns,,0,0,0,,{=10655}---- First instance
 Comment: 0,0:18:59.45,0:19:01.95,LightSigns,,0,0,0,,{=10656}-- Skip for BDs
@@ -9071,8 +9071,6 @@ Data: 10631,_aegi_perspective_ambient_plane,e502.27;146.08#7C1798.08;-112.00#7C1
 Data: 10633,_aegi_perspective_ambient_plane,e502.29;145.96#7C1798.08;-112.15#7C1716.30;771.31#7C363.88;846.91
 Data: 10644,_aegi_perspective_ambient_plane,e502.32;145.83#7C1798.10;-112.37#7C1716.31;771.29#7C363.88;846.92
 Data: 10645,_aegi_perspective_ambient_plane,e502.28;146.00#7C1798.04;-112.04#7C1716.27;771.36#7C363.87;846.93
-Data: 10646,_aegi_folddata,e0;1;10
-Data: 10647,_aegi_folddata,e1;1;10
 Data: 10651,a-mo,e{"uuid"#3A"bd73e485-a90a-4ff7-80fc-3a38a0792b36"#2C"originalText"#3A"{\\an7\\pos(1492.98#2C422.14)\\org(1479.8#2C652.17)\\fscx92.4\\fscy97.15\\frz0.822\\fry2.686\\frx-0.157\\fnGaramond\\fs28\\bord0.25\\xshad0.01\\4c&H2A355A&\\1a&HFE&\\3a&HFF&\\4a&H28&\\blur1.8}Abydos High School"}
 Data: 10652,a-mo,e{"uuid"#3A"36ad7e4b-66d1-4a65-96d3-6e0d81ce9570"#2C"originalText"#3A"{\\an7\\pos(50.98#2C-307.86)\\org(1483.44#2C651.99)\\fscx104.2\\fscy104.46\\frz0.822\\fry2.688\\frx-0.157\\c&H8D94B3&\\blur1.4\\p1}m 1366 699 l 1580 699 1580 726 1366 726"}
 Data: 10655,_aegi_folddata,e0;1;12
@@ -9228,8 +9226,6 @@ Data: 11387,a-mo,e{"uuid"#3A"0e71a19b-9d28-4410-bd53-d0441fd41f11"#2C"originalTe
 Data: 11388,a-mo,e{"uuid"#3A"b20288b9-d3a1-473d-9ed5-966037cff951"#2C"originalText"#3A"{\\an7\\pos(761#2C948)\\c&H8C8284&\\p1}m 2 -11 l 2 -7 3 -10 3 -7 4 -8 4 -6 6 -7 -5 11 -4 8 -5 9 -4 6 -5 7 -5 5 -6 6"}
 Data: 11389,_aegi_folddata,e0;1;342
 Data: 11390,_aegi_folddata,e1;1;342
-Data: 11393,_aegi_folddata,e0;0;338
-Data: 11394,_aegi_folddata,e1;0;338
 Data: 11447,a-mo,e{"originalText"#3A"{\\an5\\pos(577.435#2C158.791)\\org(564.62#2C-23.48)\\fscx99.27\\fscy99.81\\frz4.2\\fry9.95\\frx-0.452\\fnFabfeltScript Bold\\fs40\\c&H3D2927&\\blur1\\q2}T{\\c&H3E2B29&}a{\\c&H402D2C&}s{\\c&H422F2F&}k {\\c&H453334&}F{\\c&H473537&}o{\\c&H493839&}r{\\c&H4B3A3C&}c{\\c&H4C3C3F&}e {\\c&H504044&}R{\\c&H524247&}e{\\c&H54454A&}g{\\c&H55474C&}u{\\c&H57494F&}l{\\c&H594B52&}a{\\c&H5B4D54&}r {\\c&H5E515A&}M{\\c&H60545C&}e{\\c&H62565F&}e{\\c&H635862&}t{\\c&H655A64&}i{\\c&H675C67&}n{\\c&H695E6A&}g{\\c&H6B616D&}"#2C"uuid"#3A"f5031416-4d3e-4cb5-bb6f-40fb9d4d5650"}
 Data: 11448,_aegi_folddata,e1;0;343
 Data: 11449,_aegi_folddata,e1;0;344
@@ -9283,7 +9279,7 @@ Data: 11497,_aegi_folddata,e0;1;392
 Data: 11498,_aegi_folddata,e1;1;392
 Data: 11499,_aegi_folddata,e0;1;338
 Data: 11500,_aegi_folddata,e1;1;338
-Data: 11503,_aegi_folddata,e0;0;333
-Data: 11504,_aegi_folddata,e1;0;333
 Data: 11505,_aegi_folddata,e0;0;10
 Data: 11506,_aegi_folddata,e1;0;10
+Data: 11507,_aegi_folddata,e0;1;10
+Data: 11508,_aegi_folddata,e1;1;10
