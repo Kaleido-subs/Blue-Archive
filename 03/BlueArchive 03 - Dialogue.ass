@@ -37,20 +37,20 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=2}---- Dialogue
 Dialogue: 10,0:00:06.69,0:00:09.24,Default,,0,0,0,,Yes, this is Problem Solver 68.
 Dialogue: 10,0:00:09.24,0:00:11.24,Default,,0,0,0,,Rikuhachima speaking.
 Dialogue: 10,0:00:12.66,0:00:13.74,Default,,0,0,0,,Yes, of course.
-Dialogue: 10,0:00:14.12,0:00:15.79,Default,,0,0,0,,There's no job too big for us.
-Dialogue: 10,0:00:15.79,0:00:20.12,Default,,0,0,0,,Background checks, armed security—\NWe'll do the crime if you got the dime.
+Dialogue: 10,0:00:14.12,0:00:17.50,Default,,0,0,0,,There's no job too big for us. \NBackground checks, armed security—
+Dialogue: 10,0:00:17.77,0:00:20.16,Default,,0,0,0,,We'll do the crime if you got the dime.
 Dialogue: 10,0:00:22.67,0:00:23.75,Default,,0,0,0,,Of course.
-Dialogue: 10,0:00:23.75,0:00:25.26,Default,,0,0,0,,We accept.
-Dialogue: 10,0:00:27.76,0:00:30.97,Default,,0,0,0,,Problem Solver 68 is happy to take on your request.
+Dialogue: 10,0:00:24.02,0:00:25.26,Default,,0,0,0,,Consider it done.
+Dialogue: 10,0:00:27.76,0:00:30.97,Default,,0,0,0,,Your job is in good hands with Problem Solver 68.
 Dialogue: 10,0:02:06.11,0:02:07.94,Default,,0,0,0,,Ayane, isn't this...
 Dialogue: 10,0:02:07.94,0:02:08.65,Default,,0,0,0,,Yes.
-Dialogue: 10,0:02:08.65,0:02:14.03,Default,,0,0,0,,We recovered this part from one of the \N{Kata Kata }Helmet Gang's armoured vehicles the other day.
+Dialogue: 10,0:02:08.65,0:02:14.03,Default,,0,0,0,,It's a part we recovered from one of the \N{Kata Kata }Helmet Gang's armoured vehicles the other day.
 Dialogue: 10,0:02:14.03,0:02:19.41,Default,,0,0,0,,I did some research, and I found that \Nthis specific model is currently banned from use.
 Dialogue: 10,0:02:19.41,0:02:23.62,Default,,0,0,0,,Where could the Helmet Gang have gotten hold \Nof something illegal like that?
 Dialogue: 10,0:02:23.62,0:02:25.50,Default,,0,0,0,,Maybe the Black Market?
 Dialogue: 10,0:02:25.50,0:02:31.55,Default,,0,0,0,,Even then, I feel like it would be difficult \Nfor them to secure such a large fleet that way.
 Dialogue: 10,0:02:33.13,0:02:36.05,Default,,0,0,0,,Sure makes you wonder who's backing them.
-Dialogue: 10,0:02:37.55,0:02:40.35,Default,,0,0,0,,If we look deeper into their supply route,
+Dialogue: 10,0:02:37.55,0:02:40.35,Default,,0,0,0,,If we look deeper into their suppliers,
 Dialogue: 10,0:02:40.35,0:02:43.64,Default,,0,0,0,,we may be able to find a lead on \Nwho's orchestrating this.
 Dialogue: 10,0:02:43.64,0:02:50.86,Default,,0,0,0,,Right. It might also shed some light on why \Nthey're specifically targeting our school.
 Dialogue: 10,0:02:50.86,0:02:51.65,Default,,0,0,0,,Yeah.
@@ -68,7 +68,7 @@ Dialogue: 10,0:03:25.44,0:03:28.10,Default,,0,0,0,,As the treasurer of the Task 
 Dialogue: 10,0:03:28.10,0:03:32.65,Default,,0,0,0,,I'd like to point out that our school \Nis on the verge of bankruptcy!
 Dialogue: 10,0:03:32.65,0:03:38.66,Default,,0,0,0,,We can only earn so much \Nfrom bounties and part-time gigs.
 Dialogue: 10,0:03:38.66,0:03:42.03,Default,,0,0,0,,We gotta go big or go home!
-Dialogue: 10,0:03:42.03,0:03:44.50,Default,,0,0,0,,Go big? How exactly?
+Dialogue: 10,0:03:42.03,0:03:44.50,Default,,0,0,0,,Go big? Could you elaborate?
 Dialogue: 10,0:03:45.91,0:03:47.58,Default,,0,0,0,,I'm glad you asked!
 Dialogue: 10,0:03:48.29,0:03:49.04,Default,,0,0,0,,Rejected.
 Dialogue: 10,0:03:50.04,0:03:52.75,Default,,0,0,0,,Serika, that's a pyramid scheme.
@@ -93,8 +93,8 @@ Dialogue: 10,0:04:44.22,0:04:45.43,Default,,0,0,0,,It's elementary, Ayane{**-cha
 Dialogue: 10,0:04:45.89,0:04:49.19,Default,,0,0,0,,We abduct students from \Nanother school's school bus!
 Dialogue: 10,0:04:49.19,0:04:50.77,Default,,0,0,0,,Excuse me?!
 Dialogue: 10,0:04:50.77,0:04:52.69,Default,,0,0,0,,You want to go busjacking?! {### https://en.wiktionary.org/wiki/busjacking} {I'm gonna pop some tabs~ --ik}
-Dialogue: 10,0:04:52.98,0:04:55.94,Default,,0,0,0,,They either sign the transfer papers,
-Dialogue: 10,0:04:55.94,0:04:58.44,Default,,0,0,0,,or they make the bus their new home! {### alt: "or they'd better make themselves comfy!"} {### I need something punchier. Nazaki, thoughts?} {She says it quite matter of fact in the original, so injecting too much punch here is something I'd avoid personally -- ik} {this is fine as is imo, has the voice right and is accurate--rapid} {## petz-chan onegai tasukete us from this line}
+Dialogue: 10,0:04:52.98,0:04:55.94,Default,,0,0,0,,Either they sign the transfer papers,
+Dialogue: 10,0:04:55.94,0:04:58.44,Default,,0,0,0,,or they'd better make themselves comfy!
 Dialogue: 10,0:04:58.44,0:05:02.45,Default,,0,0,0,,Boom! Instant influx of new faces.
 Dialogue: 10,0:05:03.70,0:05:05.83,Default,,0,0,0,,That's genius.
 Dialogue: 10,0:05:05.83,0:05:08.70,Default,,0,0,0,,So, who's our target? Trinity?
@@ -105,12 +105,12 @@ Dialogue: 10,0:05:13.83,0:05:15.84,Default,,0,0,0,,Put yourselves in their shoes
 Dialogue: 10,0:05:16.17,0:05:19.88,Default,,0,0,0,,Would you happily sign those documents \Nif {\i1}you{\i0} were kidnapped?!
 Dialogue: 10,0:05:19.88,0:05:23.01,Default,,0,0,0,,Furthermore, their school's prefects \Nwould have our heads!
 Dialogue: 10,0:05:23.01,0:05:25.47,Default,,0,0,0,,Yeah, figures that's a no-go.
-Dialogue: 10,0:05:27.39,0:05:30.69,Default,,0,0,0,,I beg you, please take this even a little seriously.
+Dialogue: 10,0:05:27.39,0:05:30.69,Default,,0,0,0,,I beg you, please at least {\i1}try{\i0} to take this seriously.
 Dialogue: 10,0:05:30.69,0:05:33.77,Default,,0,0,0,,Hey, Ayane. I have an even better idea.
 Dialogue: 10,0:05:33.77,0:05:36.61,Default,,0,0,0,,Go ahead, second-year Sunaookami Shiroko{**-san}.
 Dialogue: 10,0:05:38.36,0:05:39.86,Default,,0,0,0,,We rob a bank.
 Dialogue: 10,0:05:39.86,0:05:40.95,Default,,0,0,0,,I'm sorry?!
-Dialogue: 10,0:05:40.95,0:05:43.11,Default,,0,0,0,,Now it's bank robbery?!
+Dialogue: 10,0:05:40.95,0:05:43.11,Default,,0,0,0,,Now we're robbing banks?!
 Dialogue: 10,0:05:43.66,0:05:46.24,Default,,0,0,0,,It's guaranteed to get results.
 Dialogue: 10,0:05:46.78,0:05:50.25,Default,,0,0,0,,Let's hit the First Central Bank downtown.
 Dialogue: 10,0:05:50.75,0:05:53.75,Default,,0,0,0,,I've already found the vault and \Nthe guard patrol routes,
@@ -125,7 +125,7 @@ Dialogue: 10,0:06:11.02,0:06:13.60,Default,,0,0,0,,Y'know what? Yeah, go big or 
 Dialogue: 10,0:06:13.60,0:06:15.31,Default,,0,0,0,,Right, Serika{**-chan}?
 Dialogue: 10,0:06:15.31,0:06:16.90,Default,,0,0,0,,Leave me the heck outta this!
 Dialogue: 10,0:06:16.90,0:06:19.86,Default,,0,0,0,,Absolutely not! Criminal activity is off the table!
-Dialogue: 10,0:06:20.90,0:06:23.61,Default,,0,0,0,,Pout all you want, Shiroko{**-san}, but no means no!
+Dialogue: 10,0:06:20.90,0:06:23.61,Default,,0,0,0,,Pout all you want, Shiroko{**-san}, but no means no!{imagine adding honorifics where there were none -p}
 Dialogue: 10,0:06:24.91,0:06:29.37,Default,,0,0,0,,Come on, everyone. \NWe need good, {\i1}reasonable{\i0} ideas.
 Dialogue: 10,0:06:29.37,0:06:31.50,Default,,0,0,0,,Oh! Me next!
 Dialogue: 10,0:06:31.50,0:06:34.25,Default,,0,0,0,,Yes, yes. Go ahead, second-year Izayoi Nonomi{**-san}.
@@ -134,8 +134,8 @@ Dialogue: 10,0:06:37.25,0:06:38.50,Default,,0,0,0,,You got it!
 Dialogue: 10,0:06:38.92,0:06:41.26,Default,,0,0,0,,My idea is neither a crime nor a scam!
 Dialogue: 10,0:06:41.26,0:06:44.76,Default,,0,0,0,,It's completely clean and 100% reliable!
 Dialogue: 10,0:06:44.76,0:06:47.01,Default,,0,0,0,,Nonomi{**-senpai}...
-Dialogue: 10,0:06:47.30,0:06:48.93,Default,,350,0,0,shenan,The secret is... {\alpha&HFF&}Idols!
-Dialogue: 10,0:06:48.93,0:06:50.26,Default,,350,0,0,shenan,The secret is... Idols!
+Dialogue: 10,0:06:47.30,0:06:48.93,Default,,0,0,0,shenan,{\alpha&HFF&}Idols!{\alpha}The secret is... {\alpha&HFF&}idols!
+Dialogue: 10,0:06:48.93,0:06:50.26,Default,,0,0,0,shenan,{\alpha&HFF&}Idols!{\alpha}The secret is... idols!
 Dialogue: 10,0:06:50.26,0:06:51.77,Default,,0,0,0,,We become school idols!
 Dialogue: 10,0:06:51.77,0:06:52.52,Default,,0,0,0,shenan,{\bord4.6\c&HECECEC&\3c&H353537&}We become school idols!
 Dialogue: 10,0:06:52.52,0:06:53.85,Default,,0,0,0,,Idols?
@@ -174,16 +174,17 @@ Dialogue: 10,0:08:21.90,0:08:24.23,Default,,0,0,0,,We're outlaws. It comes with 
 Dialogue: 10,0:08:24.23,0:08:27.86,Default,,0,0,0,,Aw, Aru{**-chan}'s doing her thing again.
 Dialogue: 10,0:08:28.78,0:08:30.16,Default,,0,0,0,,Hey, Boss.
 Dialogue: 10,0:08:30.16,0:08:32.32,Default,,0,0,0,,Wh-What is it, Department Head Kayoko?
-Dialogue: 10,0:08:32.66,0:08:37.50,Default,,0,0,0,,Just to confirm, the client demanded \Nthe target be unharmed, didn't they?
+Dialogue: 10,0:08:32.66,0:08:37.50,Default,,0,0,0,,Just to confirm, the client's one condition \Nwas that the target be unharmed, didn't they?
 Dialogue: 10,0:08:37.50,0:08:38.71,Default,,0,0,0,,Yes, of course.
 Dialogue: 10,0:08:38.71,0:08:40.37,Default,,0,0,0,,What about it?
-Dialogue: 10,0:08:44.46,0:08:45.05,Default,,0,0,0,,Huh?
-Dialogue: 10,0:08:47.63,0:08:48.72,Default,,0,0,0,,{\an8}Wh-wh-wha?
+Dialogue: 10,0:08:44.46,0:08:45.05,Default,,0,0,0,,Hmm?
+Dialogue: 10,0:08:47.63,0:08:48.72,Default,,0,0,0,,Wh-wh-wha?
 Dialogue: 10,0:08:48.72,0:08:50.13,Default,,0,0,0,,Boss, does this mean...
-Dialogue: 10,0:08:50.89,0:08:55.14,Default,,0,0,0,,{\an8}Wh-wh-wh-wha—
 Dialogue: 10,0:08:50.89,0:08:52.89,Default,,0,0,0,,We can kiss our payout goodbye.
-Dialogue: 10,0:08:55.14,0:08:58.52,Default,,0,0,0,,Wh-wh-wh-wha—
-Dialogue: 10,0:08:58.52,0:09:02.52,Default,,0,0,0,ST,What do we do?! {### petzku can you think of any fun memes here?} {there are 100% better things, but i also can't think --rapid}
+Dialogue: 10,0:08:50.40,0:08:55.14,Default,,0,0,0,,{\an8}Wh-wh-wh-wha—
+Dialogue: 10,0:08:55.14,0:08:57.39,Default,,0,0,0,shenan,Wh-wh-wh-wha—
+Dialogue: 10,0:08:57.39,0:08:58.52,Default,,0,0,0,shenan,{\bord4.6\c&HF5F5F5&\3c&H444144&}Wh-wh-wh-wha—
+Dialogue: 10,0:08:58.52,0:09:02.52,Default,,0,0,0,,What do we do?!
 Dialogue: 10,0:09:04.77,0:09:07.86,Default,,0,0,0,,Relax, Ayane{**-chan}. We're sorry, okay?
 Dialogue: 10,0:09:07.86,0:09:10.82,Default,,0,0,0,,It's my treat, so stop being angry, okay?
 Dialogue: 10,0:09:10.82,0:09:12.53,Default,,0,0,0,,I'm {\i1}not{\i0} angry.
@@ -193,7 +194,7 @@ Dialogue: 10,0:09:17.54,0:09:19.83,Default,,0,0,0,,Ayane, want more chashu?
 Dialogue: 10,0:09:19.83,0:09:20.96,Default,,0,0,0,,Yes.
 Dialogue: 10,0:09:21.58,0:09:22.92,Default,,0,0,0,,Welcome!
 Dialogue: 10,0:09:23.29,0:09:24.42,Default,,0,0,0,,How many in your party?
-Dialogue: 10,0:09:24.42,0:09:30.93,Default,,0,0,0,,Um, c-could I please ask how much \Nthe c-cheapest item on the m-menu is?
+Dialogue: 10,0:09:24.42,0:09:30.93,Default,,0,0,0,,Um, c-could I please ask how much \Nthe ch-cheapest item on the m-menu is?
 Dialogue: 10,0:09:30.93,0:09:34.85,Default,,0,0,0,,That would be the Shiba Seki Ramen for 580 yen.
 Dialogue: 10,0:09:34.85,0:09:36.93,Default,,0,0,0,,It's our signature dish. I highly recommend it!
 Dialogue: 10,0:09:36.93,0:09:39.35,Default,,0,0,0,,Oh, um, th-thank you!
@@ -202,7 +203,7 @@ Dialogue: 10,0:09:45.90,0:09:48.48,Default,,0,0,0,,{\i1}Finally{\i0}, a place wh
 Dialogue: 10,0:09:48.48,0:09:51.40,Default,,0,0,0,,See? Every problem has a solution. {###}
 Dialogue: 10,0:09:51.40,0:09:53.32,Default,,0,0,0,,It's all part of the plan!
 Dialogue: 10,0:09:55.20,0:09:56.20,Default,,0,0,0,,Welcome.
-Dialogue: 10,0:09:56.20,0:09:59.54,Default,,0,0,0,,Party of four? I'll show you to your seat.
+Dialogue: 10,0:09:56.20,0:09:59.54,Default,,0,0,0,,Party of four? I'll show you to your table.
 Dialogue: 10,0:09:59.54,0:10:00.41,Default,,0,0,0,,Oh, no, no.
 Dialogue: 10,0:10:00.70,0:10:02.83,Default,,0,0,0,,You don't have to. We're only ordering for one.
 Dialogue: 10,0:10:02.83,0:10:04.42,Default,,0,0,0,,We'll take it to-go.
@@ -214,7 +215,7 @@ Dialogue: 10,0:10:14.34,0:10:17.85,Default,,0,0,0,,Oh, while we're at it, could 
 Dialogue: 10,0:10:17.85,0:10:22.48,Default,,0,0,0,,Huh? Y-You're not planning on splitting \Na single bowl between the four of you, right?
 Dialogue: 10,0:10:22.48,0:10:25.69,Default,,0,0,0,,S-Sorry! I'm s-so sorry we're poor!
 Dialogue: 10,0:10:25.69,0:10:28.65,Default,,0,0,0,,Oh, no. That's nothing worth apologising over!
-Dialogue: 10,0:10:28.65,0:10:32.07,Default,,0,0,0,,No, I mean it! Without money, \Nwe're just a waste of oxygen!
+Dialogue: 10,0:10:28.65,0:10:32.07,Default,,0,0,0,,No, I mean it! Anyone without money \Nis just a waste of oxygen!
 Dialogue: 10,0:10:32.07,0:10:33.86,Default,,0,0,0,,I don't even deserve to be alive!
 Dialogue: 10,0:10:33.86,0:10:36.32,Default,,0,0,0,,I'm lower than dirt.
 Dialogue: 10,0:10:36.66,0:10:38.83,Default,,0,0,0,,I'm sorry for being the scum of the earth!
@@ -223,35 +224,35 @@ Dialogue: 10,0:10:40.66,0:10:41.58,Default,,0,0,0,,Don't say that!
 Dialogue: 10,0:10:42.41,0:10:44.87,Default,,0,0,0,,Being poor is nothing to be ashamed of!
 Dialogue: 10,0:10:44.87,0:10:45.58,Default,,0,0,0,,Huh?
 Dialogue: 10,0:10:45.58,0:10:46.96,Default,,0,0,0,,Don't you agree, Boss?
-Dialogue: 10,0:10:46.96,0:10:50.25,Default,,0,0,0,,Darn straight! Ev'ry dog will have its day.
+Dialogue: 10,0:10:46.96,0:10:50.25,Default,,0,0,0,,Darn straight! Every dog will have its day.
 Dialogue: 10,0:10:50.25,0:10:52.21,Default,,0,0,0,,You girls are students, aintcha?
 Dialogue: 10,0:10:52.21,0:10:53.34,Default,,0,0,0,,Y-Yes, that's right.
-Dialogue: 10,0:10:53.88,0:10:56.93,Default,,0,0,0,,But y'all still scrounged up enough \Nto share a bowl o' ramen.
-Dialogue: 10,0:10:56.93,0:10:58.85,Default,,0,0,0,QC,I'm right chuffed! {I'm shocked this made it through. English Shiba Seki confirmed? --ik} {noooooooo don't make him british just make him say something like "gives me hope in the youngins" or smth --rapid} {### leaving final call to petz here, I'm okay with either (though prefer the current line)} {It has just the right tone, so I'm also perfectly fine with keeping it, just worried it would be too British -- ik} {### bruh this script is literally written in BrE}
+Dialogue: 10,0:10:53.88,0:10:56.93,Default,,0,0,0,,But y'all still gathered up enough \Nto share a bowl o' my ramen.
+Dialogue: 10,0:10:56.93,0:10:58.85,Default,,0,0,0,,I'm right chuffed!
 Dialogue: 10,0:10:58.85,0:11:00.10,Default,,0,0,0,,Just sit tight, y'hear?
 Dialogue: 10,0:11:00.10,0:11:01.68,Default,,0,0,0,,Please, have a seat.
 Dialogue: 10,0:11:01.68,0:11:02.35,Default,,0,0,0,,O-Okay.
 Dialogue: 10,0:11:03.35,0:11:05.90,Default,,0,0,0,,I feel like he got the wrong idea about us.
 Dialogue: 10,0:11:05.90,0:11:08.86,Default,,0,0,0,,Yeah, not like we're usually this broke.
-Dialogue: 10,0:11:08.86,0:11:11.86,Default,,0,0,0,,But if we wanna point fingers, \NAru{**-chan} was the one who blew all our cash.
-Dialogue: 10,0:11:12.61,0:11:15.40,Default,,0,0,0,,Not only did that last job end up being a complete wash,
+Dialogue: 10,0:11:08.86,0:11:11.86,Default,,0,0,0,,But if we {\i1}want{\i0} to point fingers, \NAru{**-chan} was the one who blew all our cash.
+Dialogue: 10,0:11:12.61,0:11:15.40,Default,,0,0,0,,Not only did that last job end up being a complete bust,
 Dialogue: 10,0:11:15.40,0:11:19.41,Default,,0,0,0,,but now we've sunk almost all our money \Ninto hiring goons for our next job.
 Dialogue: 10,0:11:20.28,0:11:23.16,Default,,0,0,0,,But you see, I made sure we had enough for ramen!
 Dialogue: 10,0:11:23.16,0:11:25.04,Default,,0,0,0,,This was well within my expectations.
 Dialogue: 10,0:11:25.41,0:11:30.21,Default,,0,0,0,,But still, is our next target really so dangerous \Nthat it warrants all these precautions?
 Dialogue: 10,0:11:30.21,0:11:31.71,Default,,0,0,0,,Well...
 Dialogue: 10,0:11:31.71,0:11:34.76,Default,,0,0,0,,I bet Aru{**-chan} doesn't even know herself!
-Dialogue: 10,0:11:34.76,0:11:37.34,Default,,0,0,0,,That's why she spent all our cash—\Nbecause she's chicken!
+Dialogue: 10,0:11:34.76,0:11:37.34,Default,,0,0,0,,That's why she spent all our cash—\Nbecause she's too chicken!
 Dialogue: 10,0:11:37.34,0:11:39.05,Default,,0,0,0,,Who are you calling a chicken?!
 Dialogue: 10,0:11:39.05,0:11:41.06,Default,,0,0,0,,Failure is {\i1}never{\i0} an option.
-Dialogue: 10,0:11:41.06,0:11:43.68,Default,,0,0,0,,We make full use every resource available to us.
+Dialogue: 10,0:11:41.06,0:11:43.68,Default,,0,0,0,,We make full use of every resource available to us.
 Dialogue: 10,0:11:43.68,0:11:46.56,Default,,0,0,0,,That's Problem Solver 68's motto!
 Dialogue: 10,0:11:47.02,0:11:49.02,Default,,0,0,0,,First I've heard of it.
 Dialogue: 10,0:11:49.02,0:11:50.94,Default,,0,0,0,,Oh, come on. She clearly made it up on the spot.
 Dialogue: 10,0:11:50.94,0:11:52.52,Default,,0,0,0,,Q-Quiet, you!
 Dialogue: 10,0:11:52.52,0:11:54.57,Default,,0,0,0,,Thank you for waiting!
-Dialogue: 10,0:11:55.90,0:11:57.40,Default,,0,1400,0,shenan,{\q2}Wh-What on earth?!
-Dialogue: 10,0:11:57.40,0:11:59.16,Default,,1400,0,0,shenan,{\q2}Look at all that ramen!
+Dialogue: 10,0:11:55.90,0:11:57.40,Default,,50,1250,0,shenan,Wh-What on earth?!
+Dialogue: 10,0:11:57.40,0:11:59.16,Default,,1250,50,0,shenan,Look at all that ramen!
 Dialogue: 10,0:11:59.16,0:12:01.16,Default,,800,0,0,shenan,This is enough to feed ten people!
 Dialogue: 10,0:12:01.16,0:12:03.58,Default,,0,800,0,shenan,Th-This has to be a mistake.
 Dialogue: 10,0:12:03.91,0:12:07.33,Default,,0,0,0,,I-I'm sorry, but we couldn't possibly afford this.
@@ -259,7 +260,7 @@ Dialogue: 10,0:12:07.33,0:12:09.54,Default,,0,0,0,,This is exactly what you orde
 Dialogue: 10,0:12:09.54,0:12:12.09,Default,,0,0,0,,One regular-sized Shiba Seki ramen for 580 yen!
 Dialogue: 10,0:12:12.46,0:12:13.88,Default,,0,0,0,,Isn't that right, Boss?
 Dialogue: 10,0:12:13.88,0:12:15.88,Default,,0,0,0,,Had a li'l mishap in the kitchen, y'see?
-Dialogue: 10,0:12:15.88,0:12:18.18,Default,,0,0,0,,Figured I may as well, so enjoy.
+Dialogue: 10,0:12:15.88,0:12:18.18,Default,,0,0,0,,And there ain't no use lettin' it go to waste.
 Dialogue: 10,0:12:20.47,0:12:24.64,Default,,0,0,0,,I didn't see this coming, \Nbut I won't let this goodwill go to waste.
 Dialogue: 10,0:12:24.64,0:12:26.23,Default,,0,0,0,,Thank you, we'll enjoy it.
 Dialogue: 10,0:12:26.64,0:12:28.44,Default,,0,0,0,,Come on, Aru{**-chan}! Let's dig in already!
@@ -279,16 +280,16 @@ Dialogue: 10,0:13:05.97,0:13:06.93,Default,,0,0,0,,Really?
 Dialogue: 10,0:13:07.39,0:13:09.56,Default,,0,0,0,,{\an8}I'm jealous.
 Dialogue: 10,0:13:08.10,0:13:10.81,Default,,0,0,0,,Hey, Kayoko{**-chan}, is it just me, or...
 Dialogue: 10,0:13:10.81,0:13:11.69,Default,,0,0,0,,It's not.
-Dialogue: 10,0:13:12.35,0:13:14.69,Default,,0,0,0,,They're from Abydos High School.
+Dialogue: 10,0:13:12.35,0:13:14.69,Default,,0,0,0,,They're from Abydos.
 Dialogue: 10,0:13:15.52,0:13:19.61,Default,,0,0,0,,I didn't expect to run into \Nso many kindred souls out here.
-Dialogue: 10,0:13:19.61,0:13:24.87,Default,,0,0,0,,Life always finds a way\N to surprise us, don't you think?
+Dialogue: 10,0:13:19.61,0:13:24.87,Default,,0,0,0,,Life sure is full of pleasant surprises, wouldn't you say?
 Dialogue: 10,0:13:25.66,0:13:26.99,Default,,0,0,0,,Yeah, you may be right.
 Dialogue: 10,0:13:29.00,0:13:31.71,Default,,0,0,0,,I don't think she's put two and two together.
 Dialogue: 10,0:13:31.71,0:13:33.00,Default,,0,0,0,,Should we tell her?
 Dialogue: 10,0:13:33.71,0:13:35.88,Default,,0,0,0,,Nah, this is way funnier.
 Dialogue: 10,0:13:37.67,0:13:39.30,Default,,0,0,0,,All right, take care.
 Dialogue: 10,0:13:39.30,0:13:41.93,Default,,0,0,0,,I hope your job goes well.
-Dialogue: 10,0:13:41.93,0:13:44.64,Default,,0,0,0,,Good luck revitalising your school,.
+Dialogue: 10,0:13:41.93,0:13:44.64,Default,,0,0,0,,Good luck revitalising your school.
 Dialogue: 10,0:13:44.97,0:13:46.89,Default,,0,0,0,,I'll be rooting for you!
 Dialogue: 10,0:13:47.26,0:13:48.85,Default,,0,0,0,,Bye, now!
 Dialogue: 10,0:13:54.81,0:13:56.69,Default,,0,0,0,,What great kids, huh?
@@ -296,7 +297,7 @@ Dialogue: 10,0:13:59.07,0:14:00.36,Default,,0,0,0,,Hey, Boss.
 Dialogue: 10,0:14:00.99,0:14:02.53,Default,,0,0,0,,What is it, Department Head Kayoko?
 Dialogue: 10,0:14:03.11,0:14:05.45,Default,,0,0,0,,Did those uniforms look familiar to you?
 Dialogue: 10,0:14:05.45,0:14:09.41,Default,,0,0,0,,Huh? No? What about them?
-Dialogue: 10,0:14:09.41,0:14:12.41,Default,,0,0,0,,Those were Abydos High School students.
+Dialogue: 10,0:14:09.41,0:14:12.41,Default,,0,0,0,,Those were Abydos students.
 Dialogue: 10,0:14:12.41,0:14:13.29,Default,,0,0,0,,Huh?
 Dialogue: 10,0:14:13.62,0:14:15.79,Default,,0,0,0,,Wh-Wh-Wha—
 Dialogue: 10,0:14:15.79,0:14:18.30,Default,,0,0,0,,They were?!
@@ -310,7 +311,7 @@ Dialogue: 10,0:14:33.64,0:14:34.81,Default,,0,0,0,,R-Right.
 Dialogue: 10,0:14:34.81,0:14:37.06,Default,,0,0,0,,No way... There's no way...
 Dialogue: 10,0:14:37.06,0:14:39.32,Default,,0,0,0,,Those sweethearts are our targets?
 Dialogue: 10,0:14:39.65,0:14:41.07,Default,,0,0,0,,"No morals, no mercy."
-Dialogue: 10,0:14:41.07,0:14:43.53,Default,,0,0,0,,"We do the crime if you got the dime."
+Dialogue: 10,0:14:41.07,0:14:43.53,Default,,0,0,0,,"We'll do the crime if you got the dime."
 Dialogue: 10,0:14:43.53,0:14:45.07,Default,,0,0,0,,Wasn't that our motto?
 Dialogue: 10,0:14:45.07,0:14:47.70,Default,,0,0,0,,No point overthinking it now.
 Dialogue: 10,0:14:47.70,0:14:49.87,Default,,0,0,0,,I-I mean, that's true, but...
@@ -322,10 +323,9 @@ Dialogue: 10,0:15:06.51,0:15:10.14,Default,,0,0,0,,Ah, so that's what you were u
 Dialogue: 10,0:15:10.14,0:15:14.27,Default,,0,0,0,,Yes! And now we're friends \Nwith some students from Gehenna.
 Dialogue: 10,0:15:14.27,0:15:17.02,Default,,0,0,0,,They were super impressed with the boss's ramen.
 Dialogue: 10,0:15:17.02,0:15:17.90,Default,,0,0,0,,They were!
-Dialogue: 10,0:15:17.90,0:15:21.02,Default,,0,0,0,TM,I'm not surprised to hear that. It's great. {TM: check if should snap}
+Dialogue: 10,0:15:17.90,0:15:21.02,Default,,0,0,0,,I'm not surprised to hear that. It's great.
 Dialogue: 10,0:15:21.02,0:15:23.11,Default,,0,0,0,,By the way, what were they like?
-Dialogue: 10,0:15:23.11,0:15:25.32,Default,,0,0,0,,It sounded like they had their own company,{\alpha&HFF&}—
-Dialogue: 10,0:15:25.32,0:15:26.32,Default,,0,0,0,,It sounded like they had their own company—{\alpha&HFF&},
+Dialogue: 10,0:15:23.11,0:15:26.32,Default,,0,0,0,,It sounded like they had their own company—
 Dialogue: 10,0:15:29.37,0:15:33.83,Default,,0,0,0,,A security camera captured an armed group \Nadvancing on the school from the south.
 Dialogue: 10,0:15:33.83,0:15:35.91,Default,,0,0,0,,Is it the Helmet Gang again?
 Dialogue: 10,0:15:35.91,0:15:36.87,Default,,0,0,0,,It's not them.
@@ -348,14 +348,14 @@ Dialogue: 10,0:16:15.66,0:16:17.66,Default,,0,0,0,,Right now, we're on the clock
 Dialogue: 10,0:16:18.17,0:16:20.88,Default,,0,0,0,,Business is business.
 Dialogue: 10,0:16:20.88,0:16:23.17,Default,,0,0,0,,Once we take on a job, we see it to completion.
 Dialogue: 10,0:16:23.17,0:16:28.68,Default,,0,0,0,,Exactly. That's how Problem Solver 68 operates!
-Dialogue: 10,0:16:29.22,0:16:32.68,Default,,0,0,0,QC,I see. So you're fixers. {fixers *feels* wrong but idk what would be better here --rapid} {### it matches what the game TL uses for them, and I also struggle to think of anything that's a direct improvement} {The usage of their title 便利屋 also suggests dirty work in the JP, so it fits. "Cleaners" if you wanna get a bit darker -- ik}{### I like cleaners, but it implies they're actually murking people, when killing someone in Kivotos is extremely difficult (reminder the students are basically bulletproof). But it rolls off the tongue better. Your call, petzku.}
+Dialogue: 10,0:16:29.22,0:16:32.68,Default,,0,0,0,,I see. So you're fixers.
 Dialogue: 10,0:16:32.68,0:16:37.39,Default,,0,0,0,,Come on! There's more than enough normal, \Nclean part-time jobs students can do!
-Dialogue: 10,0:16:37.39,0:16:41.02,Default,,0,0,0,,This isn't a part-time job! \NWe're a real, respectable business!
-Dialogue: 10,0:16:41.02,0:16:42.81,Default,,0,0,0,,We have titles and everything.
+Dialogue: 10,0:16:37.39,0:16:41.02,Default,,0,0,0,,We're not some piddling part timers! \NWe're first-class entrepreneurs! {### Her using "ビジネス" is a good indicator she's really trying to put on airs and act more cosmopolitan, so rendering that as "business" takes out a lot of oomph imo.}
+Dialogue: 10,0:16:41.02,0:16:42.81,Default,,0,0,0,,We even have our own titles!
 Dialogue: 10,0:16:44.02,0:16:45.57,Default,,0,0,0,,I'm the boss.
 Dialogue: 10,0:16:45.86,0:16:47.78,Default,,0,0,0,,She's the chief of staff.
 Dialogue: 10,0:16:47.78,0:16:49.20,Default,,0,0,0,,And she's the department head.
-Dialogue: 10,0:16:49.20,0:16:52.82,Default,,0,0,0,,Putting it like that makes it sound \Neven more fake than it already is. {###}
+Dialogue: 10,0:16:49.20,0:16:52.82,Default,,0,0,0,,This really isn't helping your case, you know?
 Dialogue: 10,0:16:53.62,0:16:55.08,Default,,0,0,0,,Who hired you?
 Dialogue: 10,0:16:55.08,0:16:57.08,Default,,0,0,0,,That's confidential.
 Dialogue: 10,0:16:57.54,0:17:00.08,Default,,0,0,0,,Then I'll just have to make you talk.
@@ -385,16 +385,16 @@ Dialogue: 10,0:18:03.56,0:18:04.56,Default,,0,0,0,,I'm okay.
 Dialogue: 10,0:18:07.11,0:18:09.15,Default,,0,0,0,,Whew, just in the nick of time.
 Dialogue: 10,0:18:12.15,0:18:14.11,Default,,0,0,0,,It's not looking good.
 Dialogue: 10,0:18:24.96,0:18:27.04,Default,,0,0,0,,Try this on for size!
-Dialogue: 10,0:18:30.13,0:18:32.22,Default,,0,0,0,,They're tougher than expected.
+Dialogue: 10,0:18:30.13,0:18:32.22,Default,,0,0,0,,They're tougher than you'd think.
 Dialogue: 10,0:18:34.51,0:18:38.22,Default,,0,0,0,,{\an8}Keep going! Show them who's boss!
 Dialogue: 10,0:18:35.01,0:18:39.51,Default,,0,0,0,,{\i1}Even if we can hold them off for now, \Nthey'll eventually overwhelm us with numbers.
 Dialogue: 10,0:18:39.51,0:18:40.72,Default,,0,0,0,,{\i1}We have to make a move!
-Dialogue: 10,0:18:40.97,0:18:43.73,Default,,0,0,0,,Girls! I have an idea.
+Dialogue: 10,0:18:40.97,0:18:43.73,Default,,0,0,0,,Girls! I have a plan.
 Dialogue: 10,0:18:43.73,0:18:45.60,Default,,0,0,0,,Will you hear me out?
 Dialogue: 10,0:18:45.60,0:18:47.02,Default,,0,0,0,,{*}Teacher{*Sensei}?
 Dialogue: 10,0:18:47.02,0:18:49.48,Default,,0,0,0,,Shiroko. I need you to do something for me.
 Dialogue: 10,0:18:51.23,0:18:52.49,Default,,0,0,0,,Okay.
-Dialogue: 10,0:18:53.65,0:18:55.49,Default,,0,0,0,,I imagine they're just about to break.
+Dialogue: 10,0:18:53.65,0:18:55.99,Default,,0,0,0,,I imagine they're just about to break.
 Dialogue: 10,0:18:55.99,0:18:58.87,Default,,0,0,0,,Keep up the fire until they surrender!
 Dialogue: 10,0:19:01.95,0:19:03.46,Default,,0,0,0,,Here I come!
 Dialogue: 10,0:19:03.46,0:19:04.58,Default,,0,0,0,,Wh-What the heck?
@@ -406,8 +406,8 @@ Dialogue: 10,0:19:11.59,0:19:13.30,Default,,0,0,0,,Stop causing problems for us!
 Dialogue: 10,0:19:14.84,0:19:15.76,Default,,0,0,0,,Huh? Huh?!
 Dialogue: 10,0:19:16.64,0:19:17.51,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}!
 Dialogue: 10,0:19:25.98,0:19:27.27,Default,,0,0,0,,Haruka{**-chan}?!
-Dialogue: 10,0:19:27.27,0:19:28.94,Default,,0,0,0,,They've changed tactics? {###}
-Dialogue: 10,0:19:33.49,0:19:35.15,Default,,0,0,0,,But then they might...
+Dialogue: 10,0:19:27.27,0:19:28.94,Default,,0,0,0,,They're rushing us?
+Dialogue: 10,0:19:33.49,0:19:35.15,Default,,0,0,0,,Their goal must be...
 Dialogue: 10,0:19:35.15,0:19:36.78,Default,,0,0,0,,Boss! Watch out!
 Dialogue: 10,0:19:36.78,0:19:37.74,Default,,0,0,0,,Huh? For what?
 Dialogue: 10,0:19:39.57,0:19:40.87,Default,,0,0,0,,Don't tell me...
@@ -415,12 +415,12 @@ Dialogue: 10,0:19:43.37,0:19:45.37,Default,,0,0,0,,What?!
 Dialogue: 10,0:19:47.04,0:19:47.75,Default,,0,0,0,,Boss!
 Dialogue: 10,0:19:47.75,0:19:48.54,Default,,0,0,0,,Aru{**-chan}!
 Dialogue: 10,0:19:48.54,0:19:51.55,Default,,0,0,0,,W-We're Problem Solver 68!
-Dialogue: 10,0:19:52.17,0:19:54.55,Default,,0,0,0,,We took on the job, so we'll finish it, period!
+Dialogue: 10,0:19:52.17,0:19:54.55,Default,,0,0,0,,We took on the job, so we'll finish it!
 Dialogue: 10,0:19:54.55,0:19:57.05,Default,,0,0,0,,Give up and hand over your school!
 Dialogue: 10,0:19:58.72,0:20:00.26,Default,,0,0,0,,No can do.
-Dialogue: 10,0:20:24.04,0:20:25.91,Default,,0,0,0,,Phew, it's quitting time.
-Dialogue: 10,0:20:25.91,0:20:27.79,Default,,0,0,0,,That's all your money buys. {###}
-Dialogue: 10,0:20:28.33,0:20:29.54,Default,,0,0,0,,Huh?
+Dialogue: 10,0:20:24.04,0:20:25.91,Default,,0,0,0,,Phew, time to call it quits.
+Dialogue: 10,0:20:25.91,0:20:27.79,Default,,0,0,0,,You get what you pay for.
+Dialogue: 10,0:20:28.33,0:20:29.54,Default,,0,0,0,shenan,Huh?
 Dialogue: 10,0:20:29.54,0:20:31.42,Default,,0,0,0,,Welp, time to go home.
 Dialogue: 10,0:20:31.42,0:20:32.42,Default,,0,0,0,,Sounds good.
 Dialogue: 10,0:20:32.42,0:20:34.30,Default,,0,0,0,,W-Wait a second!
@@ -440,13 +440,11 @@ Dialogue: 10,0:20:56.65,0:20:58.78,Default,,0,0,0,,What now, Aru{**-chan}? Shoul
 Dialogue: 10,0:21:00.82,0:21:03.07,Default,,0,0,0,,You haven't seen the last of us, you hear me?!
 Dialogue: 10,0:21:04.58,0:21:07.95,Default,,0,0,0,,Come on, Aru{**-chan}, you sound \Nlike a B-movie villain right now!
 Comment: 10,0:21:07.95,0:21:12.21,Default,,0,0,0,,Shut up! We're run—I mean retreating!
-Comment: 10,0:21:07.95,0:21:09.68,Default,,0,0,0,shenan,Shut up! We're running away!
-Comment: 10,0:21:09.68,0:21:12.21,Default,,0,0,0,shenan,{\q2\alpha&HFF&}—I mean, retreat{\alpha}Shut up! We're run—I mean, retreating!{\alpha&HFF&}n away
-Dialogue: 10,0:21:07.95,0:21:09.68,Default,,0,0,0,shenan,Shut up! We're run—
-Dialogue: 10,0:21:09.68,0:21:12.21,Default,,0,0,0,shenan,{\alpha&HFF&}retreating!{\alpha}Shut up! We're retreating!{\alpha&HFF&}run—
+Dialogue: 10,0:21:07.95,0:21:09.68,Default,,0,0,0,shenan,Shut up! We're running away!
+Dialogue: 10,0:21:09.68,0:21:12.21,Default,,0,0,0,shenan,{\q2\alpha&HFF&}—I mean, retreat{\alpha}Shut up! We're run—I mean, retreating!{\alpha&HFF&}n away
 Dialogue: 10,0:21:12.21,0:21:15.50,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}, wait for me!
 Dialogue: 10,0:21:15.50,0:21:16.84,Default,,0,0,0,,Later.
-Dialogue: 10,0:21:19.26,0:21:21.68,Default,,0,0,0,,Well they sure were interesting.
+Dialogue: 10,0:21:19.26,0:21:21.68,Default,,0,0,0,,Well, they sure were interesting.
 Dialogue: 10,0:21:21.68,0:21:24.05,Default,,0,0,0,,What in the world was all that about?
 Dialogue: 10,0:21:24.05,0:21:25.26,Default,,0,0,0,,Beats me.
 Dialogue: 10,0:21:26.77,0:21:28.64,Default,,0,0,0,,I'm hungry.
@@ -458,7 +456,7 @@ Dialogue: 10,0:21:36.65,0:21:37.19,Default,,0,0,0,,What?!
 Dialogue: 10,0:21:37.19,0:21:39.61,Default,,0,0,0,,C-Could I discuss this with my wallet first?
 Dialogue: 10,0:21:39.61,0:21:41.70,Default,,0,0,0,,You're the best!
 Dialogue: 10,0:23:19.50,0:23:21.00,Default,,0,0,0,,Pathetic.
-Dialogue: 10,0:23:21.38,0:23:26.38,Default,,0,0,0,,It appears the students of Abydos High School \Nare tougher than the data suggests.
+Dialogue: 10,0:23:21.38,0:23:26.38,Default,,0,0,0,,It appears the students of Abydos High School \Nare tougher than our data suggested.
 Dialogue: 10,0:23:27.97,0:23:30.51,Default,,0,0,0,,The essence of data is all about change.
 Dialogue: 10,0:23:31.26,0:23:33.52,Default,,0,0,0,,But rest assured.
 Dialogue: 10,0:23:34.14,0:23:36.52,Default,,0,0,0,,{=3}I will be sure to isolate the cause.
