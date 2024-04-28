@@ -9,6 +9,13 @@ plugins {
     id("myaa.subkt")
 }
 
+fun ASSFile.getPlayRes(): Pair<Int?, Int?> {
+    return this.scriptInfo.playResX to this.scriptInfo.playResY
+}
+fun Provider<String>.getPlayRes(): Pair<Int?, Int?> {
+    return ASSFile(File(this.get())).getPlayRes()
+}
+
 // Check whether a string contains parts of a ktemplate
 fun String.isKaraTemplate(): Boolean {
     return this.startsWith("code") || this.startsWith("template") || this.startsWith("mixin")
@@ -53,10 +60,13 @@ subs {
         includeExtraData(false)
         includeProjectGarbage(false)
 
+        val (resX, resY) = get("dialogue").getPlayRes()
         scriptInfo {
             title = get("group").get()
             scaledBorderAndShadow = true
             wrapStyle = WrapStyle.NO_WRAP
+            values["LayoutResX"] = resX ?: 1920
+            values["LayoutResY"] = resY ?: 1080
         }
     }
 
