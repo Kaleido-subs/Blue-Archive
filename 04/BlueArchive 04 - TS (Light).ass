@@ -853,13 +853,13 @@ Dialogue: 0,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HF8FCF
 Dialogue: 0,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HF7FCFD&\blur1.5\p1}m 520 62 l 491 77 430 9 459 2 m 382 4 l 353 17 335 -2 368 -12 m 448 -5 l 421 4 368 -46 400 -57 m 347 -25 l 316 -18 307 -35 332 -42
 Dialogue: 0,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HF5FCFD&\blur1.5\p1}m 411 9 l 485 85 434 105 360 24
 Dialogue: 0,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HF5FBFB&\blur1.5\p1}m 406 165 l 383 184 334 134 300 151 173 -5 238 -21 m 472 154 l 440 169 315 32 351 22 m 540 142 l 502 166 439 110 480 93
-Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11757}{\pos(-314,-889)\org(434,1287)\fscx50.85\fscy75.5\frz-73.646\fry0.348\frx7.663\fnGaramond\b1\c&HA1AFB7&\blur1.4}Ge{\c&HA2B0B7&}h{\c&HA3B0B7&}e{\c&HA4B1B8&}n{\c&HA5B1B8&}n{\c&HA6B2B8&}a {\c&HA8B3B9&}A{\c&HA9B3B9&}c{\c&HAAB4BA&}a{\c&HA9B3B9&}de{\c&HA8B2B8&}my {\c&HA7B1B7&}H{\c&HA6B0B6&}ig{\c&HA5AFB5&}h {\c&HA4AEB4&}Sc{\c&HA3ADB3&}ho{\c&HA2ACB2&}ol{\c&HA2ACB2&}
-Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11761}{\pos(-200,-584)\org(676,1596)\fscx50\fscy140\frz-70.701\fry0.308\frx6.803\fax0\fnGaramond\b1\c&HA1AFB7&\blur1.4}STUDENT ID
-Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11806}{\an4\pos(-267,-564)\org(380,1209)\fscx50.57\fscy109.57\frz-74.357\fry0.36\frx7.919\fax0\fnGaramond\fs42\fsp2.5\b1\c&HA1AFB7&\blur1}Name\N\N{\fs54\b0}RIKUHACHIMA ARU
-Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11810}{\an4\pos(-202,-371)\org(563,1460)\fscx62.88\fscy119.69\frz-72.029\fry0.325\frx7.154\fax0\fnGaramond\fs42\fsp2.5\b1\c&HA1AFB7&\blur1}Student Number\N\N{\fsp5\b0}A 2 3 0 C 2 9 0 3
-Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11809}{\an4\pos(-197,-459)\org(337,1142)\fscx47.55\fscy106.73\frz-74.958\fry0.369\frx8.156\fax0\fnGaramond\fs42\fsp2.5\b1\c&HA1AFB7&\blur1}Race\N\N{\fsp5\b0}Devil
-Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11814}{\an4\pos(-123,-269)\org(505,1384)\fscx58.99\fscy116.69\frz-72.75\fry0.333\frx7.373\fax0\fnGaramond\fs42\fsp2.5\b1\c&HA1AFB7&\blur1}Date of Birth\N\N{\fsp10\b0}03/12
-Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11821}{\an4\pos(-245,-198)\org(392,1226)\fscx51.33\fscy110.25\frz-74.206\fry0.356\frx7.862\fax0\fnGaramond\fs32\fsp1\c&HA1AFB7&\blur1}Holder of this card is a registered student at this academy.
+Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11757}{\pos(-314,-889)\org(434,1287)\fscx50.85\fscy125\frz-73.646\fry0.348\frx7.663\fnGaramond\b1\c&HA1AFB7&\blur1.4}Ge{\c&HA2B0B7&}h{\c&HA3B0B7&}e{\c&HA4B1B8&}n{\c&HA5B1B8&}n{\c&HA6B2B8&}a {\c&HA8B3B9&}A{\c&HA9B3B9&}c{\c&HAAB4BA&}a{\c&HA9B3B9&}de{\c&HA8B2B8&}my {\c&HA7B1B7&}H{\c&HA6B0B6&}ig{\c&HA5AFB5&}h {\c&HA4AEB4&}Sc{\c&HA3ADB3&}ho{\c&HA2ACB2&}ol{\c&HA2ACB2&}
+Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11761}{\pos(-200,-584)\org(676,1596)\fscx50\fscy140\frz-70.701\fry0.308\frx6.803\fnGaramond\b1\c&HA1AFB7&\blur1.4}STUDENT ID
+Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11806}{\an4\pos(-267,-564)\org(380,1209)\fscx50.57\fscy109.57\frz-74.357\fry0.36\frx7.919\fnGaramond\fs42\fsp2.5\b1\c&HA1AFB7&\blur1}Name\N\N{\fs54\b0}RIKUHACHIMA ARU
+Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11810}{\an4\pos(-202,-371)\org(563,1460)\fscx62.88\fscy119.69\frz-72.029\fry0.325\frx7.154\fnGaramond\fs42\fsp2.5\b1\c&HA1AFB7&\blur1}Student Number\N\N{\fsp5\b0}A 2 3 0 C 2 9 0 3
+Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11809}{\an4\pos(-197,-459)\org(337,1142)\fscx47.55\fscy106.73\frz-74.958\fry0.369\frx8.156\fnGaramond\fs42\fsp2.5\b1\c&HA1AFB7&\blur1}Race\N\N{\fsp5\b0}Devil
+Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11814}{\an4\pos(-123,-269)\org(505,1384)\fscx58.99\fscy116.69\frz-72.75\fry0.333\frx7.373\fnGaramond\fs42\fsp2.5\b1\c&HA1AFB7&\blur1}Date of Birth\N\N{\fsp10\b0}03/12
+Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11832}{\an4\pos(-248.71,-212.05)\org(380.63,1209.19)\fscx50.55\fscy109.54\frz-74.359\fry0.358\frx7.918\fax0\fnGaramond\fs32\fsp1\c&HA1AFB7&\blur1}Holder of this card is a registered student at this academy.
 Dialogue: 1,0:14:17.42,0:14:20.92,LightSigns,,0,0,0,,{=11819=11823}{\an4\pos(-212,-179)\org(371,1194)\fscx49.88\fscy108.94\frz-74.491\fry0.362\frx7.969\fnGaramond\fs32\fsp1\b1\c&HA1AFB7&\blur1}Issued under the Principal of Gehenna Academy
 Comment: 0,0:09:45.61,0:09:45.61,LightSigns,,0,0,0,,{=11824}---- Collection form
 Dialogue: 0,0:09:47.86,0:09:47.98,LightSigns,mask,0,0,0,,{\an7\pos(1048.97,662.41)\p1}m -225 433 l -391 433 -391 386 -225 386 m -42 431 l -209 431 -209 398 -42 398
@@ -945,3 +945,6 @@ Data: 11824,_aegi_folddata,e0;1;17
 Data: 11825,_aegi_folddata,e1;1;17
 Data: 11826,_aegi_folddata,e0;0;17
 Data: 11827,_aegi_folddata,e1;0;17
+Data: 11830,_aegi_folddata,e0;0;16
+Data: 11831,_aegi_folddata,e1;0;16
+Data: 11832,_aegi_perspective_ambient_plane,e1463.18;307.44#7C1955.84;699.24#7C1367.07;854.59#7C975.03;392.98
