@@ -10,8 +10,9 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Audio File: ../../Blue Archive The Animation - S01E04 - 1080p WEB H.264 -NanDesuKa (AMZN).mkv
-Video File: ../../Blue Archive The Animation - S01E04 - 1080p WEB H.264 -NanDesuKa (AMZN).mkv
+Audio File: Blue Archive The Animation - S01E04 (Premux) [FB08F2EB].mkv
+Video File: Blue Archive The Animation - S01E04 (Premux) [FB08F2EB].mkv
+Keyframes File: BlueArchive_S01E04_scening.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
@@ -25,7 +26,16 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:02.00,0:00:07.42,Default,,0,0,0,,Yes, everything in the report is accurate. \N It was entirely our fault.
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---- Chapters
+Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
+Comment: 0,0:01:00.54,0:01:00.54,Default,chapter,0,0,0,,{OP}
+Comment: 0,0:01:05.84,0:01:05.84,Default,,0,0,0,opsync,{OPSync — First hard cut (sunrise shot)}
+Comment: 0,0:02:30.51,0:02:30.51,Default,chapter,0,0,0,,{Part A}
+Comment: 0,0:14:30.43,0:14:30.43,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:22:10.60,0:22:10.60,Default,chapter,0,0,0,,{ED}
+Comment: 0,0:22:46.39,0:22:46.39,Default,,0,0,0,edsync,{EDSync — First hard cut (Nonomi washing room shot)}
+Comment: 0,0:23:40.44,0:23:40.44,Default,chapter,0,0,0,,{Outro}
+Dialogue: 10,0:00:02.00,0:00:07.42,Default,,0,0,0,,{=2}Yes, everything in the report is accurate. \N It was entirely our fault.
 Dialogue: 10,0:00:07.42,0:00:09.50,Default,,0,0,0,,Yes. Yes...
 Dialogue: 10,0:00:09.50,0:00:11.84,Default,,0,0,0,,What?! In one week?
 Dialogue: 10,0:00:11.84,0:00:16.72,Default,,0,0,0,,Oh, no, not at all. \NPlease leave it to us.
@@ -371,4 +381,10 @@ Dialogue: 10,0:21:54.53,0:21:58.87,Default,,0,0,0,,You know the Masked Swimsuit 
 Dialogue: 10,0:21:58.87,0:22:01.67,Default,,0,0,0,,Oh, really?
 Dialogue: 10,0:22:01.67,0:22:04.50,Default,,0,0,0,,Huh?!\NW-W-W-W-What do you mean?!
 Dialogue: 10,0:22:04.50,0:22:07.88,Default,,0,0,0,,Look at her!\NShe's in shock!
-Dialogue: 10,0:22:07.88,0:22:10.09,Default,,0,0,0,,No... no way...!
+Dialogue: 10,0:22:07.88,0:22:10.09,Default,,0,0,0,,{=3}No... no way...!
+
+[Aegisub Extradata]
+Data: 0,_aegi_folddata,e0;1;1
+Data: 1,_aegi_folddata,e1;1;1
+Data: 2,_aegi_folddata,e0;0;1
+Data: 3,_aegi_folddata,e1;0;1
