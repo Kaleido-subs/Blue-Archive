@@ -29,11 +29,11 @@ Dialogue: 0,0:02:31.01,0:02:34.51,LightSigns,,0,0,0,,{\pos(593.07,225.8)\fscx150
 Dialogue: 0,0:02:31.01,0:02:34.51,LightSigns,,0,0,0,,{=11527}{\pos(306.74,228.8)\fscx90\fax-0.35\fnRoG2サンセリフStd-B\fs48\c&H2C2D2B&\blur0.5\fad(516,523)}Th{\fsp10}e{\fsp}Maske{\fsp10}d{\fsp}Swimsui{\fsp10}t{\fsp}Gang
 Dialogue: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11510}-- Repeat Signs
 Comment: 0,0:02:41.89,0:02:41.89,LightSigns,,0,0,0,,{=11529}---- Abydos name plate
-Dialogue: 0,0:02:41.89,0:02:46.40,LightSigns,,0,0,0,,{\an7\pos(-73,-197)\org(1481.26,652.1)\fscx105.68\fscy123.95\frz-0.245\fry2.687\frx-0.157\c&H72787E&\blur1\p1}m 1366 699 l 1580 699 1580 726 1366 726
-Dialogue: 1,0:02:41.89,0:02:46.40,LightSigns,,0,0,0,,{\an7\pos(-71,-197)\org(1481.26,652.1)\fscx105.68\fscy123.95\frz-0.245\fry2.687\frx-0.157\c&HDEE0DF&\blur1\p1}m 1366 699 l 1580 699 1580 726 1366 726
-Dialogue: 2,0:02:41.89,0:02:46.40,LightSigns,,0,0,0,,{\an7\pos(-50,-58)\org(1483.44,651.99)\fscx104.2\fscy104.46\frz-0.246\fry2.688\frx-0.157\c&HCFD3D1&\blur1\p1}m 1366 699 l 1580 699 1580 726 1366 726
-Dialogue: 3,0:02:41.89,0:02:46.40,LightSigns,,0,0,0,,{\an7\pos(1392,672)\org(1479.8,652.17)\fscx92.4\fscy97.15\frz-0.245\fry2.686\frx-0.157\fnGaramond\fs28\bord0.25\xshad0.01\4c&H737373&\1a&HFE&\3a&HFF&\4a&H28&\blur0.9}Abydos High School
-Dialogue: 4,0:02:41.89,0:02:46.40,LightSigns,,0,0,0,,{=11530}{\an7\pos(1372,671)\org(1481.26,652.1)\frz-0.245\fry2.687\frx-0.157\fnTexture Rust\fs32\1a&HB4&\blur1.5}122rnue9
+Dialogue: 0,0:02:41.89,0:02:46.15,LightSigns,,0,0,0,,{\an7\pos(-73,-197)\org(1481.26,652.1)\fscx105.68\fscy123.95\frz-0.245\fry2.687\frx-0.157\c&H72787E&\blur1\p1}m 1366 699 l 1580 699 1580 726 1366 726
+Dialogue: 1,0:02:41.89,0:02:46.15,LightSigns,,0,0,0,,{\an7\pos(-71,-197)\org(1481.26,652.1)\fscx105.68\fscy123.95\frz-0.245\fry2.687\frx-0.157\c&HDEE0DF&\blur1\p1}m 1366 699 l 1580 699 1580 726 1366 726
+Dialogue: 2,0:02:41.89,0:02:46.15,LightSigns,,0,0,0,,{\an7\pos(-50,-58)\org(1483.44,651.99)\fscx104.2\fscy104.46\frz-0.246\fry2.688\frx-0.157\c&HCFD3D1&\blur1\p1}m 1366 699 l 1580 699 1580 726 1366 726
+Dialogue: 3,0:02:41.89,0:02:46.15,LightSigns,,0,0,0,,{\an7\pos(1392,672)\org(1479.8,652.17)\fscx92.4\fscy97.15\frz-0.245\fry2.686\frx-0.157\fnGaramond\fs28\bord0.25\xshad0.01\4c&H737373&\1a&HFE&\3a&HFF&\4a&H28&\blur0.9}Abydos High School
+Dialogue: 4,0:02:41.89,0:02:46.15,LightSigns,,0,0,0,,{=11530}{\an7\pos(1372,671)\org(1481.26,652.1)\frz-0.245\fry2.687\frx-0.157\fnTexture Rust\fs32\1a&HB4&\blur1.5}122rnue9
 Comment: 0,0:03:07.92,0:03:07.92,LightSigns,,0,0,0,,{=11554}---- Whiteboard (WAIT, ONLY ONE? HELL YESSSS)
 Dialogue: 0,0:03:07.92,0:03:10.42,LightSigns,,0,0,0,,{=11553=11555}{\an6\pos(3635.79,-842.97)\org(78.47,1226.54)\fscx181.23\fscy208.42\frz0.362\fry3.341\frx2.821\fnFabfeltScript Bold\fs240\c&H957A6C&\blur1.2\q2}R{*\c&H977D6F&}e{*\c&H9A8073&}g{*\c&H9D8377&}u{*\c&H9F867A&}l{*\c&HA2897E&}a{*\c&HA58C82&}r {*\c&HAA9289&}M{*\c&HAD958D&}e{*\c&HB09891&}e{*\c&HB39B95&}t{*\c&HB59E98&}i{*\c&HB8A19C&}n{*\c&HBBA4A0&}g{\c&HBEA8A4&}
 Comment: 0,0:03:07.92,0:03:07.92,LightSigns,,0,0,0,,{=11702}---- Aru's masterpiece
@@ -948,3 +948,5 @@ Data: 11827,_aegi_folddata,e1;0;17
 Data: 11830,_aegi_folddata,e0;0;16
 Data: 11831,_aegi_folddata,e1;0;16
 Data: 11832,_aegi_perspective_ambient_plane,e1463.18;307.44#7C1955.84;699.24#7C1367.07;854.59#7C975.03;392.98
+Data: 11837,_aegi_folddata,e0;0;6
+Data: 11838,_aegi_folddata,e1;0;6
