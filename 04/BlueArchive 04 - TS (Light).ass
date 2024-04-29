@@ -868,7 +868,7 @@ Dialogue: 1,0:09:47.86,0:09:47.98,LightSigns,top,0,0,0,,{\an4\pos(893.97,1073.41
 Dialogue: 0,0:09:47.98,0:09:48.11,LightSigns,mask,0,0,0,,{\an7\pos(1006,600)\p1}m -280 484 l -327 484 -327 458 -280 458 m 81 484 l 7 484 7 460 81 460 m -14 483 l -73 483 -73 459 -14 459 m 144 482 l 103 482 103 463 144 463 m -80 482 l -144 482 -144 463 -80 463 m -165 482 l -212 482 -212 460 -165 460 m -225 433 l -391 433 -391 386 -225 386 m -42 431 l -209 431 -209 398 -42 398
 Dialogue: 1,0:09:47.98,0:09:48.11,LightSigns,top,0,0,0,,{\an4\pos(625,1011)\fnLiberation Sans ET\fs34\b1\c&H000000&\blur1.2}Collection Form
 Dialogue: 1,0:09:47.98,0:09:48.11,LightSigns,top,0,0,0,,{\an4\pos(851,1011)\fnLiberation Sans ET\fs18\b1\c&H000000&\blur1.2}Total Amount: ¥152,533,322
-Dialogue: 1,0:09:47.98,0:09:48.11,LightSigns,top,0,0,0,,{\an4\pos(851,1015)\fnLiberation Sans ET\fs18\b1\c&H000000&\blur1.2}________________________
+Dialogue: 1,0:09:47.98,0:09:48.11,LightSigns,top,0,0,0,,{\an4\pos(853,1015)\fscx2350\fnLiberation Sans ET\fs18\b1\c&H000000&\blur1.2}_
 Dialogue: 1,0:09:47.98,0:09:48.11,LightSigns,header,0,0,0,,{\pos(699,1074)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Borrower's Name
 Dialogue: 1,0:09:47.98,0:09:48.11,LightSigns,header,0,0,0,,{\pos(820,1074)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Received
 Dialogue: 1,0:09:47.98,0:09:48.11,LightSigns,header,0,0,0,,{\pos(894,1074)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Outstanding \NBalance
@@ -878,7 +878,7 @@ Dialogue: 1,0:09:47.98,0:09:48.11,LightSigns,header,0,0,0,,{\pos(1129,1074)\fnLi
 Dialogue: 0,0:09:48.11,0:09:49.11,LightSigns,mask,0,0,0,,{\an7\pos(960,540)\p1}m -238 540 l -380 540 -380 530 -238 530 m -154 540 l -222 540 -222 529 -154 529 m -82 540 l -111 540 -111 532 -82 532 m -26 540 l -61 540 -61 529 -26 529 m 88 540 l -4 540 -4 531 88 531 m 145 540 l 99 540 99 532 145 532 m -247 520 l -378 520 -378 499 -247 499 m 87 519 l -5 519 -5 499 87 499 m 146 516 l 99 516 99 498 146 498 m -155 516 l -216 516 -216 499 -155 499 m -26 516 l -61 516 -61 499 -26 499 m -84 515 l -104 515 -104 501 -84 501 m -280 484 l -327 484 -327 458 -280 458 m 81 484 l 7 484 7 460 81 460 m -14 483 l -73 483 -73 459 -14 459 m 144 482 l 103 482 103 463 144 463 m -80 482 l -144 482 -144 463 -80 463 m -165 482 l -212 482 -212 460 -165 460 m -225 433 l -391 433 -391 386 -225 386 m -42 431 l -209 431 -209 398 -42 398
 Dialogue: 1,0:09:48.11,0:09:49.11,LightSigns,top,0,0,0,,{\an4\pos(579,951)\fnLiberation Sans ET\fs34\b1\c&H000000&\blur1.2}Collection Form
 Dialogue: 1,0:09:48.11,0:09:49.11,LightSigns,top,0,0,0,,{\an4\pos(805,951)\fnLiberation Sans ET\fs18\b1\c&H000000&\blur1.2}Total Amount: ¥152,533,322
-Dialogue: 1,0:09:48.11,0:09:49.11,LightSigns,top,0,0,0,,{\an4\pos(805,955)\fnLiberation Sans ET\fs18\b1\c&H000000&\blur1.2}________________________
+Dialogue: 1,0:09:48.11,0:09:49.11,LightSigns,top,0,0,0,,{\an4\pos(807,955)\fscx2350\fnLiberation Sans ET\fs18\b1\c&H000000&\blur1.2}_
 Dialogue: 1,0:09:48.11,0:09:49.11,LightSigns,header,0,0,0,,{\pos(653,1014)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Borrower's Name
 Dialogue: 1,0:09:48.11,0:09:49.11,LightSigns,header,0,0,0,,{\pos(774,1014)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Received
 Dialogue: 1,0:09:48.11,0:09:49.11,LightSigns,header,0,0,0,,{\pos(848,1014)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Outstanding \NBalance
@@ -943,3 +943,5 @@ Data: 11822,_aegi_folddata,e0;1;16
 Data: 11823,_aegi_folddata,e1;1;16
 Data: 11824,_aegi_folddata,e0;1;17
 Data: 11825,_aegi_folddata,e1;1;17
+Data: 11826,_aegi_folddata,e0;0;17
+Data: 11827,_aegi_folddata,e1;0;17
