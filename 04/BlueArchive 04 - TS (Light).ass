@@ -28,12 +28,19 @@ Comment: 0,0:01:35.60,0:01:35.62,LightSigns,,0,0,0,,{=11526}---- Episode Title
 Dialogue: 0,0:02:31.01,0:02:34.51,LightSigns,,0,0,0,,{\pos(593.07,225.8)\fscx150\fscy150\fax-0.35\fnSegoe UI Symbol\fs48\c&H2C2D2B&\blur0.5\fad(516,523)}☆
 Dialogue: 0,0:02:31.01,0:02:34.51,LightSigns,,0,0,0,,{=11527}{\pos(306.74,228.8)\fscx90\fax-0.35\fnRoG2サンセリフStd-B\fs48\c&H2C2D2B&\blur0.5\fad(516,523)}Th{\fsp10}e{\fsp}Maske{\fsp10}d{\fsp}Swimsui{\fsp10}t{\fsp}Gang
 Dialogue: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11510}-- Repeat Signs
+Comment: 0,0:02:41.89,0:02:41.89,LightSigns,,0,0,0,,{=11529}---- Abydos name plate
+Dialogue: 0,0:02:41.89,0:02:46.40,LightSigns,,0,0,0,,{=11528}{\an7\pos(-73,-197)\org(1481.26,652.1)\fscx105.68\fscy123.95\frz-0.245\fry2.687\frx-0.157\c&H72787E&\blur1\p1}m 1366 699 l 1580 699 1580 726 1366 726
+Dialogue: 1,0:02:41.89,0:02:46.40,LightSigns,,0,0,0,,{=11528}{\an7\pos(-71,-197)\org(1481.26,652.1)\fscx105.68\fscy123.95\frz-0.245\fry2.687\frx-0.157\c&HDEE0DF&\blur1\p1}m 1366 699 l 1580 699 1580 726 1366 726
+Dialogue: 2,0:02:41.89,0:02:46.40,LightSigns,,0,0,0,,{=11528}{\an7\pos(-50,-58)\org(1483.44,651.99)\fscx104.2\fscy104.46\frz-0.246\fry2.688\frx-0.157\c&HCFD3D1&\blur1\p1}m 1366 699 l 1580 699 1580 726 1366 726
+Dialogue: 3,0:02:41.89,0:02:46.40,LightSigns,,0,0,0,,{=11528}{\an7\pos(1392,672)\org(1479.8,652.17)\fscx92.4\fscy97.15\frz-0.245\fry2.686\frx-0.157\fnGaramond\fs28\bord0.25\xshad0.01\4c&H737373&\1a&HFE&\3a&HFF&\4a&H28&\blur0.9}Abydos High School
+Dialogue: 4,0:02:41.89,0:02:46.40,LightSigns,,0,0,0,,{=11530}{\an7\pos(1372,671)\org(1481.26,652.1)\frz-0.245\fry2.687\frx-0.157\fnTexture Rust\fs32\1a&HB4&\blur1.5}122rnue9
 Dialogue: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,
 
 [Aegisub Extradata]
 Data: 11509,_aegi_folddata,e0;0;2
 Data: 11510,_aegi_folddata,e1;0;2
-Data: 11523,_aegi_folddata,e0;0;1
-Data: 11525,_aegi_folddata,e1;0;3
 Data: 11526,_aegi_folddata,e0;1;4
 Data: 11527,_aegi_folddata,e1;1;4
+Data: 11528,_aegi_folddata,e0;0;5
+Data: 11529,_aegi_folddata,e0;1;6
+Data: 11530,_aegi_folddata,e1;1;6
