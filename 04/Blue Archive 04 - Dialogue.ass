@@ -26,7 +26,7 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---- Chapters
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=4}---- Chapters
 Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Comment: 0,0:01:00.54,0:01:00.54,Default,chapter,0,0,0,,{OP}
 Comment: 0,0:01:05.84,0:01:05.84,Default,,0,0,0,opsync,{OPSync — First hard cut (sunrise shot)}
@@ -34,25 +34,25 @@ Comment: 0,0:02:30.51,0:02:30.51,Default,chapter,0,0,0,,{Part A}
 Comment: 0,0:14:30.43,0:14:30.43,Default,chapter,0,0,0,,{Part B}
 Comment: 0,0:22:10.60,0:22:10.60,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:46.39,0:22:46.39,Default,,0,0,0,edsync,{EDSync — First hard cut (Nonomi washing room shot)}
-Comment: 0,0:23:40.44,0:23:40.44,Default,chapter,0,0,0,,{Outro}
-Dialogue: 10,0:00:02.00,0:00:07.42,Default,,0,0,0,,{=2}Yes, everything in the report is accurate. \N It was entirely our fault.
-Dialogue: 10,0:00:07.42,0:00:09.50,Default,,0,0,0,,Yes. Yes...
-Dialogue: 10,0:00:09.50,0:00:11.84,Default,,0,0,0,,What?! In one week?
-Dialogue: 10,0:00:11.84,0:00:16.72,Default,,0,0,0,,Oh, no, not at all. \NPlease leave it to us.
-Dialogue: 10,0:00:16.72,0:00:21.77,Default,,0,0,0,,Boss, are you planning on \Nfighting the Abydos kids again?
-Dialogue: 10,0:00:21.77,0:00:25.35,Default,,0,0,0,,But we already blew all our cash. \N What do you want us to do?
-Dialogue: 10,0:00:25.35,0:00:29.19,Default,,0,0,0,,We're bound to run short\N on funds renting this fancy office
-Dialogue: 10,0:00:29.19,0:00:31.69,Default,,0,0,0,,Q-quiet, you! \N What's a company without
-Dialogue: 10,0:00:31.69,0:00:34.57,Default,,0,0,0,,a proper office? \NHonestly, I'd be fine with
-Dialogue: 10,0:00:34.57,0:00:36.82,Default,,0,0,0,,pitching tents in the park like last time.
-Dialogue: 10,0:00:36.82,0:00:39.70,Default,,0,0,0,,I-I would also be fine anywhere \Nas long as you're there, Miss Aru...
-Dialogue: 10,0:00:39.70,0:00:41.83,Default,,0,0,0,,Would you all just be quiet!
-Dialogue: 10,0:00:41.83,0:00:43.87,Default,,0,0,0,,We'll take out a loan.
-Dialogue: 10,0:00:43.87,0:00:46.50,Default,,0,0,0,,Huh? But aren't you blacklisted from the banks?
-Dialogue: 10,0:00:46.50,0:00:48.67,Default,,0,0,0,,No, I'm not!
-Dialogue: 10,0:00:48.67,0:00:52.55,Default,,0,0,0,,I've just been declared a public enemy and had my assets frozen, that's all!
-Dialogue: 10,0:00:52.55,0:00:56.18,Default,,0,0,0,,Oh, right. \N Just you wait!
-Dialogue: 10,0:00:56.18,0:00:59.10,Default,,0,0,0,,I'm not letting this mission end like this!
+Comment: 0,0:23:40.44,0:23:40.44,Default,chapter,0,0,0,,{=5}{Outro}
+Dialogue: 10,0:00:01.96,0:00:07.97,Default,,0,0,0,,{=2}Yes, everything in the report is accurate. \NIt was entirely our fault.
+Dialogue: 10,0:00:07.97,0:00:10.14,Default,,0,0,0,,Yes. Yes...
+Dialogue: 10,0:00:10.14,0:00:12.54,Default,,0,0,0,,What?! In one week?
+Dialogue: 10,0:00:12.54,0:00:15.29,Default,,0,0,0,,Oh, no, not at all. \NPlease leave it to us.
+Dialogue: 10,0:00:17.96,0:00:21.60,Default,,0,0,0,,Boss, are you planning on \Nfighting the Abydos kids again?
+Dialogue: 10,0:00:21.60,0:00:25.59,Default,,0,0,0,,But we already blew all our cash. \NWhat do you want us to do?
+Dialogue: 10,0:00:25.94,0:00:29.84,Default,,0,0,0,,We're bound to run short\N on funds renting this fancy office {TM: check leadin}
+Dialogue: 10,0:00:29.84,0:00:31.46,Default,,0,0,0,,Q-quiet, you!
+Dialogue: 10,0:00:31.46,0:00:33.93,Default,,0,0,0,,What's a company without a proper office?
+Dialogue: 0,0:00:33.93,0:00:37.50,Default,,0,0,0,,Honestly, I'd be fine with  pitching tents in the park like last time.
+Dialogue: 10,0:00:37.50,0:00:40.28,Default,,0,0,0,,I-I would also be fine anywhere \Nas long as you're there, Miss Aru...
+Dialogue: 10,0:00:40.28,0:00:41.85,Default,,0,0,0,,Would you all just be quiet!
+Dialogue: 10,0:00:42.66,0:00:44.02,Default,,0,0,0,,We'll take out a loan.
+Dialogue: 10,0:00:44.47,0:00:48.36,Default,,0,0,0,,Huh? But aren't you blacklisted from the banks?
+Dialogue: 10,0:00:48.36,0:00:49.29,Default,,0,0,0,,No, I'm not!
+Dialogue: 10,0:00:49.29,0:00:53.22,Default,,0,0,0,,I've just been declared a public enemy and had my assets frozen, that's all!
+Dialogue: 10,0:00:53.22,0:00:55.02,Default,,0,0,0,,Oh, right.
+Dialogue: 10,0:00:55.36,0:01:00.54,Default,,0,0,0,,Just you wait! I'm not letting this mission end like this!
 Dialogue: 10,0:02:31.06,0:02:35.02,Default,,0,0,0,,Thank you for choosing Kaiser Loan!
 Dialogue: 10,0:02:35.02,0:02:41.36,Default,,0,0,0,,I have confirmed the receipt of \N 788 million, 3 thousand 250 yen, in cash.
 Dialogue: 10,0:02:41.36,0:02:43.65,Default,,0,0,0,,Well then, see you again next month.
@@ -384,7 +384,7 @@ Dialogue: 10,0:22:04.50,0:22:07.88,Default,,0,0,0,,Look at her!\NShe's in shock!
 Dialogue: 10,0:22:07.88,0:22:10.09,Default,,0,0,0,,{=3}No... no way...!
 
 [Aegisub Extradata]
-Data: 0,_aegi_folddata,e0;1;1
-Data: 1,_aegi_folddata,e1;1;1
 Data: 2,_aegi_folddata,e0;0;1
 Data: 3,_aegi_folddata,e1;0;1
+Data: 4,_aegi_folddata,e0;1;2
+Data: 5,_aegi_folddata,e1;1;2
