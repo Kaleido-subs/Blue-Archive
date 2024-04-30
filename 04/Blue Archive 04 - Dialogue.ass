@@ -16,7 +16,8 @@ Keyframes File: BlueArchive_S01E04_scening.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 5
+Scroll Position: 408
+Active Line: 431
 Video Position: 522
 
 [V4+ Styles]
@@ -54,16 +55,16 @@ Dialogue: 10,0:00:49.28,0:00:53.20,Default,,0,0,0,,I've just been declared a pub
 Dialogue: 10,0:00:53.20,0:00:55.03,Default,,0,0,0,,Oh, right.
 Dialogue: 10,0:00:55.37,0:01:00.54,Default,,0,0,0,,Just you wait! I'm not letting this mission end like this!
 Dialogue: 10,0:02:31.30,0:02:35.51,Default,,0,0,0,,Thank you for choosing Kaiser Loan!
-Dialogue: 10,0:02:35.51,0:02:41.89,Default,,0,0,0,,I have confirmed the receipt of \N 788 million, 3 thousand 250 yen, in cash. {TM: Might split, come back to this. Would want a check with TL though since not very splittable.} {Also, can a TL double check that number and also cross reference with the game if its ever mentionned? 788m is almost enough to clear the debt, surely they aren't making payments that close to the whole thing each month? Would make the line at 17:52 not really make sense--ML}
+Dialogue: 10,0:02:35.51,0:02:41.89,Default,,0,0,0,,I have confirmed the receipt of \N 7 million, 883 thousand 250 yen, in cash. 
 Dialogue: 10,0:02:41.89,0:02:44.56,Default,,0,0,0,,Well then, see you again next month.
 Dialogue: 10,0:02:46.48,0:02:50.02,Default,,0,0,0,,Looks like we managed to scrape by this month.
 Dialogue: 10,0:02:50.57,0:02:55.82,Default,,0,0,0,,By the way, I wonder why Kaiser Loan\N only accepts cash for the payments?
 Dialogue: 10,0:02:55.82,0:03:00.62,Default,,0,0,0,,Good point. It would be much easier to simply transfer the amount from a bank account.
 Dialogue: 10,0:03:00.62,0:03:04.33,Default,,0,0,0,,No attacking the transport car, Shiroko.
-Dialogue: 10,0:03:05.21,0:03:06.54,Default,,0,0,0,,I know that. {TM: Check}
+Dialogue: 10,0:03:05.21,0:03:06.54,Default,,0,0,0,,I know that. {TM: Check} 
 Dialogue: 10,0:03:07.17,0:03:10.42,Default,,0,0,0,,Now then, let's begin our regular meeting.
 Dialogue: 10,0:03:10.42,0:03:13.55,Default,,0,0,0,,First off, about the part \Nthat we recovered the other day.
-Dialogue: 10,0:03:14.05,0:03:17.80,Default,,0,0,0,,It turns out that this part did in fact originate from the Black Market. 
+Dialogue: 10,0:03:14.05,0:03:17.80,Default,,0,0,0,,It turns out that this part did in fact originate from the Black Market.
 Dialogue: 10,0:03:18.09,0:03:22.97,Default,,0,0,0,,It's a dangerous place that deals in many illegal items
 Dialogue: 10,0:03:22.97,0:03:29.06,Default,,0,0,0,,and is notorious as a hotbed for unauthorized clubs.
 Dialogue: 10,0:03:29.06,0:03:32.82,Default,,0,0,0,,It appears that Problem Solver 68 \N are often spotted visiting the area as well. {TM: fade this in}
@@ -85,7 +86,7 @@ Dialogue: 10,0:04:14.73,0:04:18.53,Default,,0,0,0,,Well, we're always cooped up 
 Dialogue: 10,0:04:18.53,0:04:21.24,Default,,0,0,0,,The world's full of strange places like these.
 Dialogue: 10,0:04:21.24,0:04:23.78,Default,,0,0,0,,Have you been here before, Hoshino?
 Dialogue: 10,0:04:23.78,0:04:26.54,Default,,0,0,0,,Nah, this is my first time, too.
-Dialogue: 10,0:04:27.00,0:04:30.96,Default,,0,0,0,,I hear there are plenty of wacky things out in the other school districts. 
+Dialogue: 10,0:04:27.00,0:04:30.96,Default,,0,0,0,,I hear there are plenty of wacky things out in the other school districts.
 Dialogue: 10,0:04:30.96,0:04:34.80,Default,,0,0,0,,Like this one place has giant aquariums. \NI hear they're huge!
 Dialogue: 10,0:04:35.13,0:04:36.96,Default,,0,0,0,,I'd love to go one of these days. {TM: Unsure if this should snap}
 Dialogue: 10,0:04:36.96,0:04:39.05,Default,,0,0,0,,Yeah... that sounds nice.
@@ -244,7 +245,7 @@ Dialogue: 10,0:12:06.29,0:12:09.42,Default,,0,0,0,,Oh, no, no, I wouldn't mind a
 Dialogue: 10,0:12:09.42,0:12:11.92,Default,,0,0,0,,Here, Hifumi, this one's for you.
 Comment: 10,0:12:11.92,0:12:14.67,Default,,0,0,0,,What? \NWait, hold on, let's talk about this - {TM: ver out Hifumi noises I guess}
 Dialogue: 10,0:12:11.92,0:12:14.67,Default,,0,0,0,,What? \NWait, hold on, let's talk about this,
-Dialogue: 10,0:12:14.67,0:12:17.09,Default,,0,0,0,,Nono- hnggfh {I smell a chance for subtle shenanigans here --ik}{I dunno, I can't think of what you might do, plus... --ML} {TM: unsure if this is at all necessary, hence alt option above}
+Dialogue: 10,0:12:14.67,0:12:17.09,Default,,0,0,0,,Nono- hnggfh {I smell a chance for subtle shenanigans here --ik}{I dunno, I can't think of what you might do, plus... --ML} {TM: unsure if this is at all necessary, hence alt option above}{For context, she's trying to say "Nonomi" and is interrupted by paper bag --ik}
 Dialogue: 10,0:12:17.09,0:12:19.43,Default,,0,0,0,,It looks so cute on you!
 Dialogue: 10,0:12:21.18,0:12:26.56,Default,,0,0,0,,D-Does this mean that I'm also coming along with you, then?
 Dialogue: 10,0:12:26.56,0:12:30.35,Default,,0,0,0,,Don't be silly, Hifumi. \N You promised, remember?
@@ -307,7 +308,7 @@ Dialogue: 10,0:15:16.90,0:15:20.65,Default,,0,0,0,,Huh? Wait, what? \NYou mean m
 Dialogue: 10,0:15:20.65,0:15:21.65,Default,,0,0,0,,Of course.
 Dialogue: 10,0:15:21.65,0:15:26.70,Default,,0,0,0,,Hifumi- I mean, Faust, you're the leader!\NIn other words, you're our boss! {TM: Might want to split this but will need to come back to it}
 Dialogue: 10,0:15:26.70,0:15:28.16,Default,,0,0,0,,And while we're at it,
-Dialogue: 10,0:15:29.99,0:15:32.04,Default,,0,0,0,,call me Christina, doll! {Is "doll" right? Well, that's for TLC to check ig. --ML}
+Dialogue: 10,0:15:29.99,0:15:32.04,Default,,0,0,0,,call me Christina, doll! {Is "doll" right? Well, that's for TLC to check ig. --ML} {It's just a random verbal tic that makes no sense, so I gave her a bit of flair here too --ik}
 Dialogue: 10,0:15:32.49,0:15:34.54,Default,,0,0,0,,Huh? Aren't those the girls...
 Dialogue: 10,0:15:34.54,0:15:36.04,Default,,0,0,0,,...from Abydos...? {TM: split with ellipses because different speakers}
 Dialogue: 10,0:15:36.04,0:15:38.17,Default,,0,0,0,,S-Should we beat them up?
@@ -359,16 +360,16 @@ Dialogue: 10,0:17:26.07,0:17:27.19,Default,,0,0,0,,Why the heck not?!
 Dialogue: 10,0:17:27.57,0:17:31.95,Default,,0,0,0,,This is all the money we poured \N our sweat and tears into earning!
 Dialogue: 10,0:17:31.95,0:17:35.20,Default,,0,0,0,,And it was all going to that bank run by criminals!
 Dialogue: 10,0:17:35.20,0:17:37.74,Default,,0,0,0,,True, if we hadn't done anything,
-Dialogue: 10,0:17:37.74,0:17:40.91,Default,,0,0,0,,it's possible that this money would have been turned into weapons for criminals to use. {TM: 9->22 CPS lmao}
+Dialogue: 10,0:17:37.74,0:17:40.91,Default,,0,0,0,,it's possible that this money would have been turned into weapons for criminals to use. {TM: 9->22 CPS lmao} {Merge? --ik}
 Dialogue: 10,0:17:40.91,0:17:44.75,Default,,0,0,0,,That's right. What's wrong with stealing from criminals?!
 Dialogue: 10,0:17:44.75,0:17:47.71,Default,,0,0,0,,I agree with Serika.
 Comment: 10,0:17:47.71,0:17:50.01,Default,,0,0,0,,It's money that was funding criminal activity.
 Comment: 10,0:17:50.01,0:17:52.72,Default,,0,0,0,,It'd be better if we used it for good instead. {TM: split ver just in case}
 Dialogue: 10,0:17:47.71,0:17:52.72,Default,,0,0,0,,It's money that was funding criminal activity.\N It'd be better if we used it for good instead.
-Dialogue: 10,0:17:52.72,0:17:57.56,Default,,0,0,0,,And besides, this much money would \N go a huge way towards paying off the school's debt!{relevant to my comment at 2:35 --ML}
+Dialogue: 10,0:17:52.72,0:17:57.56,Default,,0,0,0,,And besides, this much money would \N go a huge way towards paying off the school's debt!
 Dialogue: 10,0:17:57.56,0:17:59.60,Default,,0,0,0,,Are you sure you're okay with doing it like that?
 Dialogue: 10,0:18:04.10,0:18:05.73,Default,,0,0,0,,What do you think, Shiroko?
-Dialogue: 10,0:18:06.02,0:18:07.90,Default,,0,0,0,,You already know.{TM: Might want to snap}
+Dialogue: 10,0:18:06.02,0:18:07.90,Default,,0,0,0,,No point in asking.{TM: Might want to snap}
 Dialogue: 10,0:18:07.90,0:18:09.74,Default,,0,0,0,,You'd say no.
 Dialogue: 10,0:18:09.74,0:18:10.24,Default,,0,0,0,,Huh?
 Comment: 10,0:18:10.53,0:18:12.49,Default,,0,0,0,,Got me there, Shiroko.
@@ -401,7 +402,7 @@ Dialogue: 10,0:19:24.89,0:19:25.98,Default,,0,0,0,,What's she doing here?
 Dialogue: 10,0:19:25.98,0:19:26.98,Default,,0,0,0,,Do we shoot her?
 Dialogue: 10,0:19:26.98,0:19:30.11,Default,,0,0,0,,I'd rather not beat up someone who\N just said she's not our enemy...
 Dialogue: 10,0:19:30.11,0:19:31.48,Default,,0,0,0,,Do you know her?
-Dialogue: 10,0:19:31.48,0:19:33.40,Default,,0,0,0,,Yes, we've happened to bump into her before.
+Dialogue: 10,0:19:31.48,0:19:33.40,Default,,0,0,0,,Yes, we've bumped into her on occasion.
 Dialogue: 10,0:19:33.40,0:19:37.45,Default,,0,0,0,,Um, I saw the attack you pulled off earlier.
 Dialogue: 10,0:19:37.45,0:19:41.12,Default,,0,0,0,,You were in and out in minutes. \N It was amazing to watch.
 Dialogue: 10,0:19:41.12,0:19:43.87,Default,,0,0,0,,I've never seen such an amazing\N example of true outlaws.
@@ -409,7 +410,7 @@ Dialogue: 10,0:19:43.87,0:19:47.04,Default,,0,0,0,,Honestly, I was blown away.
 Dialogue: 10,0:19:47.04,0:19:50.63,Default,,0,0,0,,To witness such a daring display! \NI was shaken to my core!
 Dialogue: 10,0:19:50.63,0:19:52.59,Default,,0,0,0,,You've inspired me! {TM: Check leadin on this, weird to figure out.}
 Dialogue: 10,0:19:52.59,0:19:56.55,Default,,0,0,0,,I'm going to do my best to become become an outlaw just like you!
-Dialogue: 10,0:19:56.55,0:19:58.89,Default,,0,0,0,,Living by my own rules, a truly free spirit that answers to nobody! {TM: lol CPS} {I would probably rearrange this and the last line a bit ngl --ML}
+Dialogue: 10,0:19:56.55,0:19:58.89,Default,,0,0,0,,A truly free spirit that answers to nobody! {TM: lol CPS} {I would probably rearrange this and the last line a bit ngl --ML} {I can squash it too --ik}
 Dialogue: 10,0:19:58.89,0:20:00.51,Default,,0,0,0,,What is she talking about?
 Dialogue: 10,0:20:00.51,0:20:01.26,Default,,0,0,0,,Beats me.
 Dialogue: 10,0:20:01.26,0:20:03.39,Default,,0,0,0,,Well, there you have it, so...
@@ -447,7 +448,7 @@ Dialogue: 10,0:21:26.56,0:21:27.81,Default,,0,0,0,,Oooh!
 Dialogue: 10,0:21:26.56,0:21:27.81,Alt,,0,0,0,,What?! {TM: Probably not too important which one of this is alt}
 Dialogue: 10,0:21:30.48,0:21:34.31,Default,,0,0,0,,Does this mean we don't have to skip meals anymore? {TM: crossfade leadout maybe}
 Dialogue: 10,0:21:38.03,0:21:41.11,Default,,0,0,0,,"We tread a path that none may follow..."
-Dialogue: 10,0:21:41.11,0:21:43.32,Default,,0,0,0,,Maybe I should write it down\N and hang it up somewhere.
+Dialogue: 10,0:21:41.11,0:21:43.32,Default,,0,0,0,,Maybe I'll write it down\N and hang it up somewhere.
 Dialogue: 10,0:21:43.78,0:21:48.33,Default,,0,0,0,,Miss Aru's been talking about\Nthe Masked Swimsuit Gang ever since we got back.
 Dialogue: 10,0:21:49.33,0:21:51.29,Default,,0,0,0,,I wonder when she'll connect the dots... {TM: Might snap}
 Dialogue: 10,0:21:52.79,0:21:54.08,Default,,0,0,0,,Boss.
