@@ -31,67 +31,67 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Comment: 0,0:01:00.54,0:01:00.54,Default,chapter,0,0,0,,{OP}
 Comment: 0,0:01:05.84,0:01:05.84,Default,,0,0,0,opsync,{OPSync — First hard cut (sunrise shot)}
 Comment: 0,0:02:30.51,0:02:30.51,Default,chapter,0,0,0,,{Part A}
-Comment: 0,0:12:59.47,0:14:30.43,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:12:59.47,0:12:59.47,Default,chapter,0,0,0,,{Part B}
 Comment: 0,0:22:10.60,0:22:10.60,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:46.39,0:22:46.39,Default,,0,0,0,edsync,{EDSync — First hard cut (Nonomi washing room shot)}
 Comment: 0,0:23:40.44,0:23:40.44,Default,chapter,0,0,0,,{=5}{Outro}
-Dialogue: 10,0:00:01.96,0:00:07.97,Default,,0,0,0,,{=2}Yes, everything in the report is accurate. \NIt was entirely our fault.
-Dialogue: 10,0:00:07.97,0:00:10.14,Default,,0,0,0,,Yes. Yes...
-Dialogue: 10,0:00:10.14,0:00:12.54,Default,,0,0,0,,What?! In one week?
-Dialogue: 10,0:00:12.54,0:00:15.29,Default,,0,0,0,,Oh, no, not at all. \NPlease leave it to us.
-Dialogue: 10,0:00:17.96,0:00:21.60,Default,,0,0,0,,Boss, are you planning on \Nfighting the Abydos kids again?
-Dialogue: 10,0:00:21.60,0:00:25.59,Default,,0,0,0,,But we already blew all our cash. \NWhat do you want us to do?
-Dialogue: 10,0:00:25.94,0:00:29.84,Default,,0,0,0,,We're bound to run short\N on funds renting this fancy office {TM: check leadin}
-Dialogue: 10,0:00:29.84,0:00:31.46,Default,,0,0,0,,Q-quiet, you!
-Dialogue: 10,0:00:31.46,0:00:33.93,Default,,0,0,0,,What's a company without a proper office?
-Dialogue: 10,0:00:33.93,0:00:37.50,Default,,0,0,0,,Honestly, I'd be fine with  pitching tents in the park like last time.
-Dialogue: 10,0:00:37.50,0:00:40.28,Default,,0,0,0,,I-I would also be fine anywhere \Nas long as you're there, Miss Aru...
-Dialogue: 10,0:00:40.28,0:00:41.85,Default,,0,0,0,,Would you all just be quiet!
-Dialogue: 10,0:00:42.66,0:00:44.02,Default,,0,0,0,,We'll take out a loan.
-Dialogue: 10,0:00:44.47,0:00:48.36,Default,,0,0,0,,Huh? But aren't you blacklisted from the banks?
-Dialogue: 10,0:00:48.36,0:00:49.29,Default,,0,0,0,,No, I'm not!
-Dialogue: 10,0:00:49.29,0:00:53.22,Default,,0,0,0,,I've just been declared a public enemy and had my assets frozen, that's all!
-Dialogue: 10,0:00:53.22,0:00:55.02,Default,,0,0,0,,Oh, right.
-Dialogue: 10,0:00:55.36,0:01:00.54,Default,,0,0,0,,Just you wait! I'm not letting this mission end like this!
+Dialogue: 10,0:00:01.94,0:00:07.99,Default,,0,0,0,,{=2}Yes, everything in the report is accurate. \NIt was entirely our fault.
+Dialogue: 10,0:00:07.99,0:00:10.16,Default,,0,0,0,,Yes. Yes...
+Dialogue: 10,0:00:10.16,0:00:12.53,Default,,0,0,0,,What?! In one week?
+Dialogue: 10,0:00:12.53,0:00:15.29,Default,,0,0,0,,Oh, no, not at all. \NPlease leave it to us.
+Dialogue: 10,0:00:17.96,0:00:21.58,Default,,0,0,0,,Boss, are you planning on \Nfighting the Abydos kids again?
+Dialogue: 10,0:00:21.58,0:00:25.59,Default,,0,0,0,,But we already blew all our cash. \NWhat do you want us to do?
+Dialogue: 10,0:00:25.92,0:00:29.84,Default,,0,0,0,,We're bound to run short\N on funds renting this fancy office {TM: check leadin}
+Dialogue: 10,0:00:29.84,0:00:31.47,Default,,0,0,0,,Q-quiet, you!
+Dialogue: 10,0:00:31.47,0:00:33.93,Default,,0,0,0,,What's a company without a proper office?
+Dialogue: 10,0:00:33.93,0:00:37.52,Default,,0,0,0,,Honestly, I'd be fine with  pitching tents in the park like last time.
+Dialogue: 10,0:00:37.52,0:00:40.27,Default,,0,0,0,,I-I would also be fine anywhere \Nas long as you're there, Miss Aru...
+Dialogue: 10,0:00:40.27,0:00:41.85,Default,,0,0,0,,Would you all just be quiet!
+Dialogue: 10,0:00:42.65,0:00:44.02,Default,,0,0,0,,We'll take out a loan.
+Dialogue: 10,0:00:44.48,0:00:48.36,Default,,0,0,0,,Huh? But aren't you blacklisted from the banks?
+Dialogue: 10,0:00:48.36,0:00:49.28,Default,,0,0,0,,No, I'm not!
+Dialogue: 10,0:00:49.28,0:00:53.20,Default,,0,0,0,,I've just been declared a public enemy and had my assets frozen, that's all!
+Dialogue: 10,0:00:53.20,0:00:55.03,Default,,0,0,0,,Oh, right.
+Dialogue: 10,0:00:55.37,0:01:00.54,Default,,0,0,0,,Just you wait! I'm not letting this mission end like this!
 Dialogue: 10,0:02:31.30,0:02:35.51,Default,,0,0,0,,Thank you for choosing Kaiser Loan!
 Dialogue: 10,0:02:35.51,0:02:41.89,Default,,0,0,0,,I have confirmed the receipt of \N 788 million, 3 thousand 250 yen, in cash. {TM: Might split, come back to this. Would want a check with TL though since not very splittable.} {Also, can a TL double check that number and also cross reference with the game if its ever mentionned? 788m is almost enough to clear the debt, surely they aren't making payments that close to the whole thing each month? Would make the line at 17:52 not really make sense--ML}
-Dialogue: 10,0:02:41.89,0:02:44.58,Default,,0,0,0,,Well then, see you again next month.
-Dialogue: 10,0:02:46.46,0:02:50.02,Default,,0,0,0,,Looks like we managed to scrape by this month.
-Dialogue: 10,0:02:50.56,0:02:55.83,Default,,0,0,0,,By the way, I wonder why Kaiser Loan\N only accepts cash for the payments?
-Dialogue: 10,0:02:55.83,0:03:00.60,Default,,0,0,0,,Good point. It would be much easier to simply transfer the amount from a bank account.
-Dialogue: 10,0:03:00.60,0:03:04.32,Default,,0,0,0,,No attacking the transport car, Shiroko.
-Dialogue: 10,0:03:05.22,0:03:06.54,Default,,0,0,0,,I know that. {TM: Check}
+Dialogue: 10,0:02:41.89,0:02:44.56,Default,,0,0,0,,Well then, see you again next month.
+Dialogue: 10,0:02:46.48,0:02:50.02,Default,,0,0,0,,Looks like we managed to scrape by this month.
+Dialogue: 10,0:02:50.57,0:02:55.82,Default,,0,0,0,,By the way, I wonder why Kaiser Loan\N only accepts cash for the payments?
+Dialogue: 10,0:02:55.82,0:03:00.62,Default,,0,0,0,,Good point. It would be much easier to simply transfer the amount from a bank account.
+Dialogue: 10,0:03:00.62,0:03:04.33,Default,,0,0,0,,No attacking the transport car, Shiroko.
+Dialogue: 10,0:03:05.21,0:03:06.54,Default,,0,0,0,,I know that. {TM: Check}
 Dialogue: 10,0:03:07.17,0:03:10.42,Default,,0,0,0,,Now then, let's begin our regular meeting.
-Dialogue: 10,0:03:10.74,0:03:13.55,Default,,0,0,0,,First off, about the part \Nthat we recovered the other day. {TM: Might snap}
+Dialogue: 10,0:03:10.75,0:03:13.55,Default,,0,0,0,,First off, about the part \Nthat we recovered the other day. {TM: Might snap}
 Dialogue: 10,0:03:14.05,0:03:17.80,Default,,0,0,0,,It turns out that this part did in fact originate from the Black Market. 
-Dialogue: 10,0:03:18.09,0:03:22.99,Default,,0,0,0,,It's a dangerous place that deals in many illegal items
-Dialogue: 10,0:03:22.99,0:03:29.06,Default,,0,0,0,,and is notorious as a hotbed for unauthorized clubs.
+Dialogue: 10,0:03:18.09,0:03:22.97,Default,,0,0,0,,It's a dangerous place that deals in many illegal items
+Dialogue: 10,0:03:22.97,0:03:29.06,Default,,0,0,0,,and is notorious as a hotbed for unauthorized clubs.
 Dialogue: 10,0:03:29.06,0:03:32.82,Default,,0,0,0,,It appears that Problem Solver 68 \N are often spotted visiting the area as well. {TM: fade this in}
 Dialogue: 10,0:03:32.82,0:03:35.03,Default,,0,0,0,,Problem Solver 68...
 Dialogue: 10,0:03:35.03,0:03:39.95,Default,,0,0,0,,It looked like they were after our school, same as the Helmet Gang.
 Dialogue: 10,0:03:39.95,0:03:44.33,Default,,0,0,0,,With how often we've been attacked, there's gotta be something else going on that we don't know about.
 Dialogue: 10,0:03:44.33,0:03:46.08,Default,,0,0,0,,I wonder what it could be.
-Dialogue: 10,0:03:46.45,0:03:47.29,Default,,0,0,0,,Right.
+Dialogue: 10,0:03:46.46,0:03:47.29,Default,,0,0,0,,Right.
 Dialogue: 10,0:03:47.29,0:03:51.84,Default,,0,0,0,,Investigating the connection between these events might lead us to finding out the truth.
 Dialogue: 10,0:03:51.84,0:03:54.09,Default,,0,0,0,,All right, guess that settles it.
-Dialogue: 10,0:03:54.54,0:03:56.84,Default,,0,0,0,,Let's take a little field trip, shall we?
+Dialogue: 10,0:03:54.55,0:03:56.84,Default,,0,0,0,,Let's take a little field trip, shall we?
 Dialogue: 10,0:03:59.47,0:04:01.97,Default,,0,0,0,,We've got some new firearms in stock.
 Dialogue: 10,0:04:01.97,0:04:03.06,Default,,0,0,0,,Wait, for real?!
 Dialogue: 10,0:04:03.06,0:04:04.39,Default,,0,0,0,,That's so wild.
-Dialogue: 10,0:04:05.02,0:04:07.01,Default,,0,0,0,,So this is the Black Market
-Dialogue: 10,0:04:07.01,0:04:09.40,Default,,0,0,0,,Look at all the people!
-Dialogue: 10,0:04:09.74,0:04:14.73,Default,,0,0,0,,I can't believe the holes in the GSC's network\N have gotten this big.
+Dialogue: 10,0:04:05.02,0:04:07.02,Default,,0,0,0,,So this is the Black Market
+Dialogue: 10,0:04:07.02,0:04:09.40,Default,,0,0,0,,Look at all the people!
+Dialogue: 10,0:04:09.73,0:04:14.73,Default,,0,0,0,,I can't believe the holes in the GSC's network\N have gotten this big.
 Dialogue: 10,0:04:14.73,0:04:18.53,Default,,0,0,0,,Well, we're always cooped up \N the Abydos area. {should that be district? --ML}
 Dialogue: 10,0:04:18.53,0:04:21.24,Default,,0,0,0,,The world's full of strange places like these.
 Dialogue: 10,0:04:21.24,0:04:23.78,Default,,0,0,0,,Have you been here before, Hoshino?
 Dialogue: 10,0:04:23.78,0:04:26.54,Default,,0,0,0,,Nah, this is my first time, too.
-Dialogue: 10,0:04:26.98,0:04:30.94,Default,,0,0,0,,I hear there are plenty of wacky things out in the other school districts. 
-Dialogue: 10,0:04:30.94,0:04:34.80,Default,,0,0,0,,Like this one place has giant aquariums. \NI hear they're huge!
-Dialogue: 10,0:04:35.14,0:04:36.97,Default,,0,0,0,,I'd love to go one of these days. {TM: Check if should snap}
-Dialogue: 10,0:04:36.97,0:04:39.05,Default,,0,0,0,,Yeah... that sounds nice.
-Dialogue: 10,0:04:40.21,0:04:43.68,Default,,0,0,0,,Everyone, there's no telling \N what could happen out there.
-Dialogue: 10,0:04:44.21,0:04:46.20,Default,,0,0,0,,Please be careful.
-Dialogue: 10,0:04:46.20,0:04:47.47,Default,,0,0,0,,Got it.
+Dialogue: 10,0:04:27.00,0:04:30.96,Default,,0,0,0,,I hear there are plenty of wacky things out in the other school districts. 
+Dialogue: 10,0:04:30.96,0:04:34.80,Default,,0,0,0,,Like this one place has giant aquariums. \NI hear they're huge!
+Dialogue: 10,0:04:35.13,0:04:36.96,Default,,0,0,0,,I'd love to go one of these days. {TM: Check if should snap}
+Dialogue: 10,0:04:36.96,0:04:39.05,Default,,0,0,0,,Yeah... that sounds nice.
+Dialogue: 10,0:04:40.22,0:04:43.68,Default,,0,0,0,,Everyone, there's no telling \N what could happen out there.
+Dialogue: 10,0:04:44.22,0:04:46.18,Default,,0,0,0,,Please be careful.
+Dialogue: 10,0:04:46.18,0:04:47.48,Default,,0,0,0,,Got it.
 Comment: 10,0:04:48.35,0:04:50.19,Default,,0,0,0,,{Hifumi noises}
 Dialogue: 10,0:04:50.19,0:04:51.85,Default,,0,0,0,,I said quit running!
 Dialogue: 10,0:04:51.85,0:04:54.48,Default,,0,0,0,,Please, stop following me!
@@ -99,364 +99,366 @@ Dialogue: 10,0:04:54.48,0:04:55.90,Default,,0,0,0,,As if!
 Dialogue: 10,0:04:55.90,0:04:57.74,Default,,0,0,0,,Come on, let's have some fun!
 Comment: 10,0:04:57.74,0:05:03.74,Default,,0,0,0,,If it's all the same to you, I'd really rather not... {TM: with the cry}
 Dialogue: 10,0:04:59.24,0:05:03.74,Default,,0,0,0,,If it's all the same to you, I'd really rather not... {TM: without}
-Dialogue: 10,0:05:04.46,0:05:07.62,Default,,0,0,0,,Her uniform is from Trinity?!
-Comment: 10,0:05:07.62,0:05:09.06,Default,,0,0,0,,{Hifumi noises}
-Dialogue: 10,0:05:09.06,0:05:10.37,Default,,0,0,0,,I've got this.
+Dialogue: 10,0:05:04.45,0:05:07.62,Default,,0,0,0,,Her uniform is from Trinity?!
+Comment: 10,0:05:07.62,0:05:09.08,Default,,0,0,0,,{Hifumi noises}
+Dialogue: 10,0:05:09.08,0:05:10.37,Default,,0,0,0,,I've got this.
 Dialogue: 10,0:05:12.50,0:05:14.54,Default,,0,0,0,,Are you all right?
 Dialogue: 10,0:05:14.54,0:05:16.13,Default,,0,0,0,,Huh? Oh, uh, yes.
 Dialogue: 10,0:05:16.13,0:05:20.63,Default,,0,0,0,,Who the hell are you?\NBack off, it's her that we want!
-Dialogue: 10,0:05:20.63,0:05:25.62,Default,,0,0,0,,She's from Trinity General School, \N the richest school in Kivotos.
-Dialogue: 10,0:05:25.64,0:05:29.21,Default,,0,0,0,,We're just gonna borrow her for a bit\Nand ask for a little money in return, see!
-Dialogue: 10,0:05:29.21,0:05:32.52,Default,,0,0,0,,Catch and release.\NPretty slick, don't you think?
+Dialogue: 10,0:05:20.63,0:05:25.64,Default,,0,0,0,,She's from Trinity General School, \N the richest school in Kivotos.
+Dialogue: 10,0:05:25.64,0:05:29.23,Default,,0,0,0,,We're just gonna borrow her for a bit\Nand ask for a little money in return, see!
+Dialogue: 10,0:05:29.23,0:05:32.52,Default,,0,0,0,,Catch and release.\NPretty slick, don't you think?
 Dialogue: 10,0:05:32.52,0:05:34.90,Default,,0,0,0,,What do you say? \N Want in on this?
 Dialogue: 10,0:05:34.90,0:05:37.36,Default,,0,0,0,,We'll split the ransom -
-Dialogue: 10,0:05:41.37,0:05:42.91,Default,,0,0,0,,No thanks.
-Dialogue: 10,0:05:43.25,0:05:44.38,Default,,0,0,0,,That was a close call. {TM: Might snap}
-Dialogue: 10,0:05:44.38,0:05:46.41,Default,,0,0,0,,Oh, thank you so much!
-Dialogue: 10,0:05:46.93,0:05:49.91,Default,,0,0,0,,My name is Ajitani Hifumi.
+Dialogue: 10,0:05:41.36,0:05:42.91,Default,,0,0,0,,No thanks.
+Dialogue: 10,0:05:43.24,0:05:44.37,Default,,0,0,0,,That was a close call. {TM: Might snap}
+Dialogue: 10,0:05:44.37,0:05:46.41,Default,,0,0,0,,Oh, thank you so much!
+Dialogue: 10,0:05:46.91,0:05:49.91,Default,,0,0,0,,My name is Ajitani Hifumi.
 Dialogue: 10,0:05:50.20,0:05:52.46,Default,,0,0,0,,Hifumi, huh. Nice to meet you.
-Dialogue: 10,0:05:52.95,0:05:56.94,Default,,0,0,0,,Still, what's a girl from Trinity doing\N in such a rough part of town?
-Dialogue: 10,0:05:56.94,0:05:59.34,Default,,0,0,0,,Well, you see...
-Dialogue: 10,0:05:59.70,0:06:01.99,Default,,0,0,0,,I'm actually looking for something. {TM: might snap but probably not?}
-Dialogue: 10,0:06:01.99,0:06:04.75,Default,,0,0,0,,There aren't any stores that sell it anymore.
-Dialogue: 10,0:06:04.75,0:06:07.72,Default,,0,0,0,,But I heard that it's secretly \Nbeing traded around here still.
+Dialogue: 10,0:05:52.96,0:05:56.92,Default,,0,0,0,,Still, what's a girl from Trinity doing\N in such a rough part of town?
+Dialogue: 10,0:05:56.92,0:05:59.34,Default,,0,0,0,,Well, you see...
+Dialogue: 10,0:05:59.71,0:06:02.01,Default,,0,0,0,,I'm actually looking for something. {TM: might snap but probably not?}
+Dialogue: 10,0:06:02.01,0:06:04.76,Default,,0,0,0,,There aren't any stores that sell it anymore.
+Dialogue: 10,0:06:04.76,0:06:07.72,Default,,0,0,0,,But I heard that it's secretly \Nbeing traded around here still.
 Dialogue: 10,0:06:07.72,0:06:09.35,Default,,0,0,0,,Wait, are you talking about a tank?
-Dialogue: 10,0:06:09.35,0:06:11.12,Default,,0,0,0,,Illegal firearms, perhaps?
-Dialogue: 10,0:06:11.12,0:06:13.23,Default,,0,0,0,,Ooh, maybe biochemical weapons?
+Dialogue: 10,0:06:09.35,0:06:11.10,Default,,0,0,0,,Illegal firearms, perhaps?
+Dialogue: 10,0:06:11.10,0:06:13.23,Default,,0,0,0,,Ooh, maybe biochemical weapons?
 Dialogue: 10,0:06:13.23,0:06:17.48,Default,,0,0,0,,What? No, nothing like that. It's, uhh...
 Dialogue: 10,0:06:17.48,0:06:20.11,Default,,0,0,0,,limited-edition Mister Peroro merch. {Check global for how Peroro was handled! --ML}
-Dialogue: 10,0:06:20.11,0:06:20.98,Default,,0,0,0,,Peroro?
+Dialogue: 10,0:06:20.11,0:06:20.99,Default,,0,0,0,,Peroro?
 Dialogue: 10,0:06:20.99,0:06:22.78,Default,,0,0,0,,Yes, this guy right here.
 Dialogue: 10,0:06:22.78,0:06:27.41,Default,,0,0,0,,It's a Mister Peroro plush that had a very limited run. \NOnly 100 units were ever produced. {TM: Probably want to split this but ugh}
-Dialogue: 10,0:06:27.49,0:06:32.36,Default,,0,0,0,,Oh, it's from Momo Friends! \NI'm a huge fan, too!
-Dialogue: 10,0:06:32.36,0:06:34.55,Default,,0,0,0,,Peroro's so cute!
-Dialogue: 10,0:06:34.55,0:06:36.04,Default,,0,0,0,,You think so, too?
-Dialogue: 10,0:06:36.35,0:06:37.29,Default,,0,0,0,,Of course! {TM: Check snap?}
+Dialogue: 10,0:06:27.49,0:06:32.37,Default,,0,0,0,,Oh, it's from Momo Friends! \NI'm a huge fan, too!
+Dialogue: 10,0:06:32.37,0:06:34.54,Default,,0,0,0,,Peroro's so cute!
+Dialogue: 10,0:06:34.54,0:06:36.04,Default,,0,0,0,,You think so, too?
+Dialogue: 10,0:06:36.33,0:06:37.29,Default,,0,0,0,,Of course! {TM: Check snap?}
 Dialogue: 10,0:06:37.29,0:06:41.05,Default,,0,0,0,,Oh boy, the times have sure moved on, haven't they.
-Dialogue: 10,0:06:42.46,0:06:45.36,Default,,0,0,0,,By the way, what are all of you doing here?
-Dialogue: 10,0:06:45.36,0:06:47.68,Default,,0,0,0,,We're also looking for something.
+Dialogue: 10,0:06:42.47,0:06:45.34,Default,,0,0,0,,By the way, what are all of you doing here?
+Dialogue: 10,0:06:45.34,0:06:47.68,Default,,0,0,0,,We're also looking for something.
 Dialogue: 10,0:06:47.68,0:06:51.81,Default,,0,0,0,,It's not something you can find easily,\N but we heard that it would be here.
-Dialogue: 10,0:06:52.15,0:06:55.85,Default,,0,0,0,,I see.\NGuess we're kind of in the same boat, huh. {TM: Check snap}
-Dialogue: 10,0:06:55.85,0:07:00.04,Default,,0,0,0,,Still, looks like your shopping trip took quite the nasty turn.
-Dialogue: 10,0:07:00.04,0:07:03.86,Default,,0,0,0,,Well, I mean, I knew this place was bad news before.
-Dialogue: 10,0:07:04.35,0:07:10.85,Default,,0,0,0,,I'd also heard that the corporations were taking advantage of the GSC's absence to run wild here...
-Dialogue: 10,0:07:10.85,0:07:14.54,Default,,0,0,0,,It's apparently gotten so bad that it has \Nits own bank and security force.
+Dialogue: 10,0:06:52.14,0:06:55.85,Default,,0,0,0,,I see.\NGuess we're kind of in the same boat, huh. {TM: Check snap}
+Dialogue: 10,0:06:55.85,0:07:00.02,Default,,0,0,0,,Still, looks like your shopping trip took quite the nasty turn.
+Dialogue: 10,0:07:00.02,0:07:03.86,Default,,0,0,0,,Well, I mean, I knew this place was bad news before.
+Dialogue: 10,0:07:04.36,0:07:10.87,Default,,0,0,0,,I'd also heard that the corporations were taking advantage of the GSC's absence to run wild here...
+Dialogue: 10,0:07:10.87,0:07:14.54,Default,,0,0,0,,It's apparently gotten so bad that it has \Nits own bank and security force.
 Dialogue: 10,0:07:14.54,0:07:19.50,Default,,0,0,0,,Wait, those would also fall under unauthorized, illegal operations, right?
-Dialogue: 10,0:07:19.75,0:07:23.66,Default,,0,0,0,,I've heard that the security forces \N here are especially bad news.{TM: Check snap}
+Dialogue: 10,0:07:19.75,0:07:23.67,Default,,0,0,0,,I've heard that the security forces \N here are especially bad news.{TM: Check snap}
 Comment: 10,0:07:23.51,0:07:26.88,Default,,0,0,0,,Wow, Hifumi, you sure know your stuff. {TM: version with the "wow", if used prev line needs to be adjusted}
-Dialogue: 10,0:07:24.46,0:07:26.88,Default,,0,0,0,,Wow, Hifumi, you sure know your stuff.
+Dialogue: 10,0:07:24.47,0:07:26.88,Default,,0,0,0,,Wow, Hifumi, you sure know your stuff.
 Dialogue: 10,0:07:26.88,0:07:29.26,Default,,0,0,0,,Oh, no, I wouldn't say that.
 Dialogue: 10,0:07:29.26,0:07:31.31,Default,,0,0,0,,All right, that's settled, then!
 Dialogue: 10,0:07:31.31,0:07:36.19,Default,,0,0,0,,We helped you out, now it's your turn to help us with what we're looking for!
-Dialogue: 10,0:07:36.78,0:07:39.31,Default,,0,0,0,,Huh? Wait, what?
+Dialogue: 10,0:07:36.77,0:07:39.31,Default,,0,0,0,,Huh? Wait, what?
 Dialogue: 10,0:07:41.65,0:07:44.82,Default,,0,0,0,,Are you sure we want \N a loan from these guys?
-Dialogue: 10,0:07:45.88,0:07:48.57,Default,,0,0,0,,This bank is part of the Black Market.
+Dialogue: 10,0:07:45.86,0:07:48.57,Default,,0,0,0,,This bank is part of the Black Market.
 Dialogue: 10,0:07:48.57,0:07:51.49,Default,,0,0,0,,T-The interest rates must be h-horrible...
 Dialogue: 10,0:07:51.49,0:07:55.58,Default,,0,0,0,,Well, to be fair, we don't even know if\N Aru will pass the background check.
 Dialogue: 10,0:07:55.58,0:07:58.83,Default,,0,0,0,,Q-Quiet, you. Of course I'll pass!
-Dialogue: 10,0:07:59.53,0:08:00.58,Default,,0,0,0,,Come on, let's go!
-Dialogue: 10,0:08:03.02,0:08:08.34,Default,,0,0,0,,That's odd. There should be at least some\N information on your illegal part, but I can't find any.
-Dialogue: 10,0:08:08.67,0:08:11.24,Default,,0,0,0,,The purchase history, storage records...
-Dialogue: 10,0:08:11.24,0:08:14.35,Default,,0,0,0,,Someone's gone to the effort of hiding all of it.
-Dialogue: 10,0:08:14.77,0:08:16.22,Default,,0,0,0,,That's the feeling I'm getting.
-Dialogue: 10,0:08:16.22,0:08:18.26,Default,,0,0,0,,Someone doesn't want us to find it?
-Dialogue: 10,0:08:18.26,0:08:24.42,Default,,0,0,0,,Right. The corporations may run this place, but \N even they shouldn't be able to do all this...
-Dialogue: 10,0:08:24.42,0:08:25.71,Default,,0,0,0,,This isn't normal?
-Dialogue: 10,0:08:25.71,0:08:29.24,Default,,0,0,0,,More like, why bother going that far?
-Dialogue: 10,0:08:29.24,0:08:33.31,Default,,0,0,0,,The corporations here are almost flaunting their illegal activities at this point,
-Dialogue: 10,0:08:33.31,0:08:35.75,Default,,0,0,0,,so it seems odd that they would try to hide anything.
+Dialogue: 10,0:07:59.54,0:08:00.58,Default,,0,0,0,,Come on, let's go!
+Dialogue: 10,0:08:03.00,0:08:08.34,Default,,0,0,0,,That's odd. There should be at least some\N information on your illegal part, but I can't find any.
+Dialogue: 10,0:08:08.68,0:08:11.22,Default,,0,0,0,,The purchase history, storage records...
+Dialogue: 10,0:08:11.22,0:08:14.35,Default,,0,0,0,,Someone's gone to the effort of hiding all of it.
+Dialogue: 10,0:08:14.77,0:08:16.23,Default,,0,0,0,,That's the feeling I'm getting.
+Dialogue: 10,0:08:16.23,0:08:18.27,Default,,0,0,0,,Someone doesn't want us to find it?
+Dialogue: 10,0:08:18.27,0:08:24.40,Default,,0,0,0,,Right. The corporations may run this place, but \N even they shouldn't be able to do all this...
+Dialogue: 10,0:08:24.40,0:08:25.69,Default,,0,0,0,,This isn't normal?
+Dialogue: 10,0:08:25.69,0:08:29.24,Default,,0,0,0,,More like, why bother going that far?
+Dialogue: 10,0:08:29.24,0:08:33.33,Default,,0,0,0,,The corporations here are almost flaunting their illegal activities at this point,
+Dialogue: 10,0:08:33.33,0:08:35.75,Default,,0,0,0,,so it seems odd that they would try to hide anything.
 Dialogue: 10,0:08:36.08,0:08:38.00,Default,,0,0,0,,Take that building, for example. {TM: might snap? Probs not.}
-Comment: 10,0:08:38.42,0:08:43.00,Default,,0,0,0,,Even within the Black Market, that bank is notorious for its shady business. {TM: Combined ver}
-Dialogue: 10,0:08:38.42,0:08:40.53,Default,,0,0,0,,Even within the Black Market,
-Dialogue: 10,0:08:40.53,0:08:43.00,Default,,0,0,0,,that bank is notorious for its shady business.
-Dialogue: 10,0:08:43.00,0:08:44.69,Default,,0,0,0,,Shady?
-Dialogue: 10,0:08:44.69,0:08:46.01,Default,,0,0,0,,From what I've heard,
-Comment: 10,0:08:46.42,0:08:52.88,Default,,0,0,0,,nearly 15 percent of all the money that funds criminal activity in Kivotos is being funneled straight into that bank. {TM: Combined version for posterity}
-Dialogue: 10,0:08:46.42,0:08:50.71,Default,,0,0,0,,nearly 15 percent of all the money that funds criminal activity in Kivotos
-Dialogue: 10,0:08:50.71,0:08:52.88,Default,,0,0,0,,is being funneled straight into that bank.
-Comment: 0,0:08:52.69,0:08:53.76,Default,,0,0,0,,{Hoshino noises}
-Dialogue: 10,0:08:54.03,0:08:59.86,Default,,0,0,0,,Money that is obtained from various crimes like embezzlement, theft, and kidnapping
-Dialogue: 10,0:08:59.86,0:09:03.65,Default,,0,0,0,,are then turned into weapons and equipment to be used in other crimes.
+Comment: 10,0:08:38.41,0:08:43.00,Default,,0,0,0,,Even within the Black Market, that bank is notorious for its shady business. {TM: Combined ver}
+Dialogue: 10,0:08:38.41,0:08:40.54,Default,,0,0,0,,Even within the Black Market,
+Dialogue: 10,0:08:40.54,0:08:43.00,Default,,0,0,0,,that bank is notorious for its shady business.
+Dialogue: 10,0:08:43.00,0:08:44.67,Default,,0,0,0,,Shady?
+Dialogue: 10,0:08:44.67,0:08:46.01,Default,,0,0,0,,From what I've heard,
+Comment: 10,0:08:46.42,0:08:52.89,Default,,0,0,0,,nearly 15 percent of all the money that funds criminal activity in Kivotos is being funneled straight into that bank. {TM: Combined version for posterity}
+Dialogue: 10,0:08:46.42,0:08:50.72,Default,,0,0,0,,nearly 15 percent of all the money that funds criminal activity in Kivotos
+Dialogue: 10,0:08:50.72,0:08:52.89,Default,,0,0,0,,is being funneled straight into that bank.
+Comment: 0,0:08:52.68,0:08:53.76,Default,,0,0,0,,{Hoshino noises}
+Dialogue: 10,0:08:54.01,0:08:59.85,Default,,0,0,0,,Money that is obtained from various crimes like embezzlement, theft, and kidnapping
+Dialogue: 10,0:08:59.85,0:09:03.65,Default,,0,0,0,,are then turned into weapons and equipment to be used in other crimes.
 Dialogue: 10,0:09:03.65,0:09:06.03,Default,,0,0,0,,It's a vicious cycle.
 Dialogue: 10,0:09:06.03,0:09:10.78,Default,,0,0,0,,Wait, but doesn't that mean the bank \N is basically assisting those crimes?
 Dialogue: 10,0:09:10.78,0:09:15.95,Default,,0,0,0,,Exactly. Even the banks here are criminal organizations. {TM: Unsplit}
-Comment: 10,0:09:18.44,0:09:19.21,Default,,0,0,0,,That's...
-Comment: 10,0:09:20.30,0:09:22.21,Default,,0,0,0,,the Market Guard! {TM: Split ver}
-Dialogue: 10,0:09:18.44,0:09:22.21,Default,,0,0,0,,It's the Market Guard!
-Dialogue: 10,0:09:22.21,0:09:23.90,Default,,0,0,0,,The Market Guard?
-Dialogue: 10,0:09:23.90,0:09:27.23,Default,,0,0,0,,They're the top of the top within the security forces here.
-Dialogue: 10,0:09:27.23,0:09:28.71,Default,,0,0,0,,They're escorting that vehicle.
-Dialogue: 10,0:09:29.18,0:09:31.09,Default,,0,0,0,,Looks like a cash transport.
+Comment: 10,0:09:18.45,0:09:19.21,Default,,0,0,0,,That's...
+Comment: 10,0:09:20.29,0:09:22.21,Default,,0,0,0,,the Market Guard! {TM: Split ver}
+Dialogue: 10,0:09:18.45,0:09:22.21,Default,,0,0,0,,It's the Market Guard!
+Dialogue: 10,0:09:22.21,0:09:23.92,Default,,0,0,0,,The Market Guard?
+Dialogue: 10,0:09:23.92,0:09:27.21,Default,,0,0,0,,They're the top of the top within the security forces here.
+Dialogue: 10,0:09:27.21,0:09:28.71,Default,,0,0,0,,They're escorting that vehicle.
+Dialogue: 10,0:09:29.17,0:09:31.09,Default,,0,0,0,,Looks like a cash transport.
 Dialogue: 10,0:09:35.55,0:09:37.10,Default,,0,0,0,,Wait, isn't that...
-Dialogue: 10,0:09:37.55,0:09:40.85,Default,,0,0,0,,The person who always collects \Nour money for the bank?
-Dialogue: 10,0:09:41.11,0:09:44.22,Default,,0,0,0,,Thank you for your patience.\NHere is this month's collection. {TM: Probably snap}
-Dialogue: 10,0:09:44.22,0:09:48.29,Default,,0,0,0,,Thank you.\NNow if you would please sign here.
-Dialogue: 10,0:09:48.29,0:09:49.11,Default,,0,0,0,,Of course.
+Dialogue: 10,0:09:37.56,0:09:40.85,Default,,0,0,0,,The person who always collects \Nour money for the bank?
+Dialogue: 10,0:09:41.10,0:09:44.23,Default,,0,0,0,,Thank you for your patience.\NHere is this month's collection. {TM: Probably snap}
+Dialogue: 10,0:09:44.23,0:09:48.28,Default,,0,0,0,,Thank you.\NNow if you would please sign here.
+Dialogue: 10,0:09:48.28,0:09:49.11,Default,,0,0,0,,Of course.
 Comment: 10,0:09:52.61,0:09:56.66,Default,,0,0,0,,Wait, that means Kaiser Loan\N has ties with that bank. {TM: with "nn"}
 Dialogue: 10,0:09:53.70,0:09:56.66,Default,,0,0,0,,Wait, that means Kaiser Loan\N has ties with that bank.
-Dialogue: 10,0:09:57.18,0:09:58.86,Default,,0,0,0,,Did you say Kaiser Loan?!
-Dialogue: 10,0:09:58.86,0:10:00.74,Default,,0,0,0,,You've heard of them, Hifumi?
-Dialogue: 10,0:10:00.74,0:10:07.12,Default,,0,0,0,,Umm, they're the loan sharks run by \N the infamous Kaiser Corporation, right?
-Dialogue: 10,0:10:07.12,0:10:08.54,Default,,0,0,0,,Are they dirty?
-Dialogue: 10,0:10:08.54,0:10:09.42,Default,,0,0,0,,Yes.
-Dialogue: 10,0:10:09.77,0:10:15.90,Default,,0,0,0,,The Kaiser Group is a conglomerate known \N for cleverly skirting the border of legality. {TM: Might snap?}
-Dialogue: 10,0:10:15.90,0:10:18.56,Default,,0,0,0,,Definitely doesn't sound like the \N cleanest place to work.
-Dialogue: 10,0:10:18.83,0:10:21.80,Default,,0,0,0,,Did you borrow money from Kaiser Loan?
-Dialogue: 10,0:10:21.80,0:10:24.90,Default,,0,0,0,,Well, you know, it's a long story.
+Dialogue: 10,0:09:57.16,0:09:58.87,Default,,0,0,0,,Did you say Kaiser Loan?!
+Dialogue: 10,0:09:58.87,0:10:00.75,Default,,0,0,0,,You've heard of them, Hifumi?
+Dialogue: 10,0:10:00.75,0:10:07.13,Default,,0,0,0,,Umm, they're the loan sharks run by \N the infamous Kaiser Corporation, right?
+Dialogue: 10,0:10:07.13,0:10:08.55,Default,,0,0,0,,Are they dirty?
+Dialogue: 10,0:10:08.55,0:10:09.42,Default,,0,0,0,,Yes.
+Dialogue: 10,0:10:09.76,0:10:15.89,Default,,0,0,0,,The Kaiser Group is a conglomerate known \N for cleverly skirting the border of legality. {TM: Might snap?}
+Dialogue: 10,0:10:15.89,0:10:18.56,Default,,0,0,0,,Definitely doesn't sound like the \N cleanest place to work.
+Dialogue: 10,0:10:18.85,0:10:21.81,Default,,0,0,0,,Did you borrow money from Kaiser Loan?
+Dialogue: 10,0:10:21.81,0:10:24.90,Default,,0,0,0,,Well, you know, it's a long story.
 Dialogue: 10,0:10:24.90,0:10:27.94,Default,,0,0,0,,So that's why they only accepted cash payments.
-Dialogue: 10,0:10:27.94,0:10:31.59,Default,,0,0,0,,They must have been trying to avoid \N leaving a paper trail.
-Dialogue: 10,0:10:31.59,0:10:34.74,Default,,0,0,0,,I can't believe the money \Nwas going to a bank for criminals...
+Dialogue: 10,0:10:27.94,0:10:31.61,Default,,0,0,0,,They must have been trying to avoid \N leaving a paper trail.
+Dialogue: 10,0:10:31.61,0:10:34.74,Default,,0,0,0,,I can't believe the money \Nwas going to a bank for criminals...
 Dialogue: 10,0:10:34.74,0:10:40.41,Default,,0,0,0,,You mean our money has been funding \N criminal activity this whole time?
 Dialogue: 10,0:10:40.41,0:10:42.58,Default,,0,0,0,,W-We don't know that for sure...
 Dialogue: 10,0:10:42.91,0:10:48.34,Default,,0,0,0,,We don't have any proof that Kaiser Loan \N was taking our money to the Black Market's bank. {TM: Might snap}
-Dialogue: 10,0:10:50.02,0:10:54.12,Default,,0,0,0,,Oh, but they have to issue a receipt \N when they bring the money in, right?
-Dialogue: 10,0:10:54.12,0:10:57.74,Default,,0,0,0,,If you could find a record of that, \N wouldn't that serve as evidence?
-Comment: 10,0:10:57.57,0:10:58.35,Default,,0,0,0,,Oh!
-Dialogue: 10,0:10:58.81,0:11:02.99,Default,,0,0,0,,But now that I think about it, the papers would already be inside the bank,
-Dialogue: 10,0:11:02.99,0:11:04.78,Default,,0,0,0,,so there's no way to get to them.
-Dialogue: 10,0:11:05.70,0:11:11.36,Default,,0,0,0,,We're talking inside of a bank that has top of the line security, even by Black Market standards, so... {TM: I might try to do a split ver for this but idk}
+Dialogue: 10,0:10:50.00,0:10:54.13,Default,,0,0,0,,Oh, but they have to issue a receipt \N when they bring the money in, right?
+Dialogue: 10,0:10:54.13,0:10:57.72,Default,,0,0,0,,If you could find a record of that, \N wouldn't that serve as evidence?
+Comment: 10,0:10:57.55,0:10:58.35,Default,,0,0,0,,Oh!
+Dialogue: 10,0:10:58.80,0:11:02.98,Default,,0,0,0,,But now that I think about it, the papers would already be inside the bank,
+Dialogue: 10,0:11:02.98,0:11:04.77,Default,,0,0,0,,so there's no way to get to them.
+Dialogue: 10,0:11:05.69,0:11:11.36,Default,,0,0,0,,We're talking inside of a bank that has top of the line security, even by Black Market standards, so... {TM: I might try to do a split ver for this but idk}
 Dialogue: 10,0:11:13.86,0:11:17.62,Default,,0,0,0,,Hey, Hoshino.\N I think this calls for that plan.
 Dialogue: 10,0:11:17.62,0:11:21.24,Default,,0,0,0,,Hm? Which plan? Oh, right, that plan.
 Dialogue: 10,0:11:21.24,0:11:24.91,Default,,0,0,0,,I agree. That plan might be just what we need!
 Dialogue: 10,0:11:24.91,0:11:26.50,Default,,0,0,0,,Wait, you don't mean THAT plan...? {TM: Check if this needs to be a snap}
-Dialogue: 10,0:11:26.94,0:11:30.00,Default,,0,0,0,,Please don't tell me you mean THAT plan...
-Dialogue: 10,0:11:30.44,0:11:33.32,Default,,0,0,0,,Um, I'm sorry, I'm not sure I...
-Dialogue: 10,0:11:33.32,0:11:36.01,Default,,0,0,0,,There's only one thing left to do.
+Dialogue: 10,0:11:26.96,0:11:30.00,Default,,0,0,0,,Please don't tell me you mean THAT plan...
+Dialogue: 10,0:11:30.42,0:11:33.34,Default,,0,0,0,,Um, I'm sorry, I'm not sure I...
+Dialogue: 10,0:11:33.34,0:11:36.01,Default,,0,0,0,,There's only one thing left to do.
 Dialogue: 10,0:11:37.18,0:11:38.76,Default,,0,0,0,,We're robbing that bank.
 Dialogue: 10,0:11:39.22,0:11:40.26,Default,,0,0,0,,Excuse me?!
-Dialogue: 10,0:11:40.26,0:11:43.34,Default,,0,0,0,,Shiroko, hold on! \NThere's gotta be another -
-Comment: 10,0:11:43.34,0:11:44.27,Default,,0,0,0,,It's okay.
-Comment: 10,0:11:44.27,0:11:46.78,Default,,0,0,0,,We're just finding evidence of their crimes. {TM: Split ver just in case}
-Dialogue: 10,0:11:43.34,0:11:46.78,Default,,0,0,0,,It's okay. \NWe're just finding evidence of their crimes.
-Dialogue: 10,0:11:46.78,0:11:49.77,Default,,0,0,0,,Well, I suppose that's true...?
-Dialogue: 10,0:11:50.09,0:11:54.03,Default,,0,0,0,,Fine. I doubt you'd listen\N even if I said no, anyway.
-Dialogue: 10,0:11:54.03,0:11:55.83,Default,,0,0,0,,Umm, what's...
-Dialogue: 10,0:11:55.83,0:11:57.40,Default,,0,0,0,,Sorry, Hifumi.
+Dialogue: 10,0:11:40.26,0:11:43.35,Default,,0,0,0,,Shiroko, hold on! \NThere's gotta be another -
+Comment: 10,0:11:43.35,0:11:44.27,Default,,0,0,0,,It's okay.
+Comment: 10,0:11:44.27,0:11:46.77,Default,,0,0,0,,We're just finding evidence of their crimes. {TM: Split ver just in case}
+Dialogue: 10,0:11:43.35,0:11:46.77,Default,,0,0,0,,It's okay. \NWe're just finding evidence of their crimes.
+Dialogue: 10,0:11:46.77,0:11:49.77,Default,,0,0,0,,Well, I suppose that's true...?
+Dialogue: 10,0:11:50.11,0:11:54.03,Default,,0,0,0,,Fine. I doubt you'd listen\N even if I said no, anyway.
+Dialogue: 10,0:11:54.03,0:11:55.82,Default,,0,0,0,,Umm, what's...
+Dialogue: 10,0:11:55.82,0:11:57.40,Default,,0,0,0,,Sorry, Hifumi.
 Comment: 10,0:11:56.70,0:11:57.40,Default,,0,0,0,,{Hifumi noises}
-Dialogue: 10,0:11:57.40,0:12:01.40,Default,,0,0,0,,I didn't think far enough ahead,\N so I don't have a mask for you.
-Dialogue: 10,0:12:01.40,0:12:03.25,Default,,0,0,0,,Wait, I'm doing this too?! {TM: Might wanna give this less leadin}
-Dialogue: 10,0:12:03.25,0:12:06.29,Default,,0,0,0,,We couldn't just leave you out in the cold like that.
+Dialogue: 10,0:11:57.40,0:12:01.41,Default,,0,0,0,,I didn't think far enough ahead,\N so I don't have a mask for you.
+Dialogue: 10,0:12:01.41,0:12:03.24,Default,,0,0,0,,Wait, I'm doing this too?! {TM: Might wanna give this less leadin}
+Dialogue: 10,0:12:03.24,0:12:06.29,Default,,0,0,0,,We couldn't just leave you out in the cold like that.
 Dialogue: 10,0:12:06.29,0:12:09.42,Default,,0,0,0,,Oh, no, no, I wouldn't mind at all.
 Dialogue: 10,0:12:09.42,0:12:11.92,Default,,0,0,0,,Here, Hifumi, this one's for you.
 Comment: 10,0:12:11.92,0:12:14.67,Default,,0,0,0,,What? \NWait, hold on, let's talk about this - {TM: Joined ver with noises cut}
 Dialogue: 10,0:12:11.92,0:12:14.67,Default,,0,0,0,,What? \NWait, hold on, let's talk about this,
-Dialogue: 10,0:12:14.67,0:12:17.10,Default,,0,0,0,,Nono- hnggfh {I smell a chance for subtle shenanigans here --ik}{I dunno, I can't think of what you might do --ML}
-Dialogue: 10,0:12:17.10,0:12:19.43,Default,,0,0,0,,It looks so cute on you!
-Dialogue: 10,0:12:21.16,0:12:26.56,Default,,0,0,0,,D-Does this mean that I'm also coming along with you, then? {TM: Come back to add a couple possible split points maybe}
-Dialogue: 10,0:12:26.56,0:12:30.34,Default,,0,0,0,,Don't be silly, Hifumi. \N You promised, remember?
-Dialogue: 10,0:12:30.34,0:12:32.82,Default,,0,0,0,,That you'll help us find what we're looking for.
-Dialogue: 10,0:12:32.82,0:12:34.49,Default,,0,0,0,,Oh, oh no...
-Dialogue: 10,0:12:34.49,0:12:39.78,Default,,0,0,0,,What am I going to tell everyone \Non the student council...
-Dialogue: 10,0:12:39.78,0:12:42.93,Default,,0,0,0,,It'll be fine! \NWe're the good guys here.
-Dialogue: 10,0:12:42.93,0:12:44.14,Default,,0,0,0,,What about you, Teacher?
+Dialogue: 10,0:12:14.67,0:12:17.09,Default,,0,0,0,,Nono- hnggfh {I smell a chance for subtle shenanigans here --ik}{I dunno, I can't think of what you might do --ML}
+Dialogue: 10,0:12:17.09,0:12:19.43,Default,,0,0,0,,It looks so cute on you!
+Dialogue: 10,0:12:21.18,0:12:26.56,Default,,0,0,0,,D-Does this mean that I'm also coming along with you, then? {TM: Come back to add a couple possible split points maybe}
+Dialogue: 10,0:12:26.56,0:12:30.35,Default,,0,0,0,,Don't be silly, Hifumi. \N You promised, remember?
+Dialogue: 10,0:12:30.35,0:12:32.82,Default,,0,0,0,,That you'll help us find what we're looking for.
+Dialogue: 10,0:12:32.82,0:12:34.48,Default,,0,0,0,,Oh, oh no...
+Dialogue: 10,0:12:34.48,0:12:39.78,Default,,0,0,0,,What am I going to tell everyone \Non the student council...
+Dialogue: 10,0:12:39.78,0:12:42.95,Default,,0,0,0,,It'll be fine! \NWe're the good guys here.
+Dialogue: 10,0:12:42.95,0:12:44.16,Default,,0,0,0,,What about you, Teacher?
 Dialogue: 10,0:12:44.74,0:12:46.45,Default,,0,0,0,,I'm in, too.
-Dialogue: 10,0:12:46.80,0:12:51.98,Default,,0,0,0,,I can't overlook the possibility that your money \N is being used for evil purposes, after all. {TM: Check snaps but probably fine.}
-Comment: 10,0:12:51.86,0:12:52.71,Default,,0,0,0,,Right.
-Dialogue: 10,0:12:52.69,0:12:55.84,Default,,0,0,0,,All right, then, Masked Swimsuit Gang,
-Dialogue: 10,0:12:57.40,0:12:59.47,Default,,0,0,0,,Roll out!
-Dialogue: 10,0:13:05.15,0:13:07.21,Default,,0,0,0,,Thank you for your patience.
-Dialogue: 10,0:13:07.21,0:13:09.35,Default,,0,0,0,,Yes, in fact I'm almost quite out of it.
-Dialogue: 10,0:13:09.35,0:13:13.67,Default,,0,0,0,,What's the bottom line? \N I need money, and I need it now.
-Dialogue: 10,0:13:13.67,0:13:17.62,Default,,0,0,0,,I'm terribly sorry, but we are\N unable to process your request this time.
-Dialogue: 10,0:13:18.27,0:13:21.11,Default,,0,0,0,,Wait, what? \NYou mean you can't lend us the money?
-Dialogue: 10,0:13:21.11,0:13:22.21,Default,,0,0,0,,That is correct.
-Dialogue: 10,0:13:22.21,0:13:23.49,Default,,0,0,0,,But hold on!
-Dialogue: 10,0:13:23.49,0:13:26.15,Default,,0,0,0,,We have an entire office! \NWhat's the issue?!
-Dialogue: 10,0:13:26.15,0:13:30.42,Default,,0,0,0,,Your office is a rental.\NThe only hard assets you own are firearms.
-Dialogue: 10,0:13:30.42,0:13:33.50,Default,,0,0,0,,We couldn't possibly \Nlend you any money like this.
-Dialogue: 10,0:13:32.68,0:13:33.50,Default,,0,0,0,,Wait, what?!
-Comment: 10,0:13:33.98,0:13:39.38,Default,,0,0,0,,If you had something you could put up as collateral, or if you had a strong credit history with us, we could lend you money, {TM: I need a way to break this line before "we could lend you the money" but I can't see a good spot for it.}
-Comment: 10,0:13:33.98,0:13:35.52,Default,,0,0,0,,We {\i1}could{\i0} lend you the money
-Comment: 10,0:13:35.52,0:13:39.38,Default,,0,0,0,,If you had something you could put up as collateral, or if you had a strong credit history with us, {TM: alternatively, could reorder the lines to fit the existing split like this.}
-Dialogue: 10,0:13:33.98,0:13:35.52,Default,,0,0,0,,If you had something you could put up as collateral, {TM: CPS, see commented lines}
-Dialogue: 10,0:13:35.52,0:13:39.38,Default,,0,0,0,,or if you had a strong credit history with us,\Nwe could lend you money,
+Dialogue: 10,0:12:46.79,0:12:51.96,Default,,0,0,0,,I can't overlook the possibility that your money \N is being used for evil purposes, after all. {TM: Check snaps but probably fine.}
+Comment: 10,0:12:51.88,0:12:52.71,Default,,0,0,0,,Right.
+Dialogue: 10,0:12:52.71,0:12:55.84,Default,,0,0,0,,All right, then, Masked Swimsuit Gang,
+Dialogue: 10,0:12:57.38,0:12:59.47,Default,,0,0,0,,Roll out!
+Dialogue: 10,0:13:05.14,0:13:07.22,Default,,0,0,0,,Thank you for your patience.
+Dialogue: 10,0:13:07.22,0:13:09.35,Default,,0,0,0,,Yes, in fact I'm almost quite out of it.
+Dialogue: 10,0:13:09.35,0:13:13.69,Default,,0,0,0,,What's the bottom line? \N I need money, and I need it now.
+Dialogue: 10,0:13:13.69,0:13:17.61,Default,,0,0,0,,I'm terribly sorry, but we are\N unable to process your request this time.
+Dialogue: 10,0:13:18.28,0:13:21.11,Default,,0,0,0,,Wait, what? \NYou mean you can't lend us the money?
+Dialogue: 10,0:13:21.11,0:13:22.20,Default,,0,0,0,,That is correct.
+Dialogue: 10,0:13:22.20,0:13:23.49,Default,,0,0,0,,But hold on!
+Dialogue: 10,0:13:23.49,0:13:26.16,Default,,0,0,0,,We have an entire office! \NWhat's the issue?!
+Dialogue: 10,0:13:26.16,0:13:30.41,Default,,0,0,0,,Your office is a rental.\NThe only hard assets you own are firearms.
+Dialogue: 10,0:13:30.41,0:13:33.50,Default,,0,0,0,,We couldn't possibly \Nlend you any money like this.
+Dialogue: 10,0:13:32.67,0:13:33.50,Default,,0,0,0,,Wait, what?!
+Comment: 10,0:13:33.96,0:13:39.38,Default,,0,0,0,,If you had something you could put up as collateral, or if you had a strong credit history with us, we could lend you money, {TM: I need a way to break this line before "we could lend you the money" but I can't see a good spot for it.}
+Comment: 10,0:13:33.96,0:13:35.50,Default,,0,0,0,,We {\i1}could{\i0} lend you the money
+Comment: 10,0:13:35.50,0:13:39.38,Default,,0,0,0,,If you had something you could put up as collateral, or if you had a strong credit history with us, {TM: alternatively, could reorder the lines to fit the existing split like this.}
+Dialogue: 10,0:13:33.96,0:13:35.50,Default,,0,0,0,,If you had something you could put up as collateral, {TM: CPS, see commented lines}
+Dialogue: 10,0:13:35.50,0:13:39.38,Default,,0,0,0,,or if you had a strong credit history with us,\Nwe could lend you money,
 Dialogue: 10,0:13:39.38,0:13:43.30,Default,,0,0,0,,but might I suggest you start by finding a day job? {Fucking KEK --ML}
 Dialogue: 10,0:13:43.30,0:13:45.22,Default,,0,0,0,,Excuse me?! {TM: note that crossfade}
-Comment: 10,0:13:46.63,0:13:52.14,Default,,0,0,0,,《This little jerk... I'm tempted to just burn this place down\Nand walk out with the money. {TM: unsplit ver}
-Dialogue: 10,0:13:46.63,0:13:47.95,Default,,0,0,0,,{\i1}This little jerk...
-Dialogue: 10,0:13:47.95,0:13:52.14,Default,,0,0,0,,{\i1}I'm tempted to just burn this place down\Nand walk out with the money.
-Dialogue: 10,0:13:52.66,0:13:56.65,Default,,0,0,0,,{\i1}No, that wouldn't work.\NThe Market Guard is here, too.
-Comment: 10,0:13:56.65,0:13:58.51,Default,,0,0,0,,{\i1}We'd never get away.
-Comment: 10,0:13:58.51,0:14:02.91,Default,,0,0,0,,{\i1}I don't have the guts to make an enemy of the Black Market. {TM: Split ver}
+Comment: 10,0:13:46.64,0:13:52.14,Default,,0,0,0,,《This little jerk... I'm tempted to just burn this place down\Nand walk out with the money. {TM: unsplit ver}
+Dialogue: 10,0:13:46.64,0:13:47.93,Default,,0,0,0,,{\i1}This little jerk...
+Dialogue: 10,0:13:47.93,0:13:52.14,Default,,0,0,0,,{\i1}I'm tempted to just burn this place down\Nand walk out with the money.
+Dialogue: 10,0:13:52.64,0:13:56.65,Default,,0,0,0,,{\i1}No, that wouldn't work.\NThe Market Guard is here, too.
+Comment: 10,0:13:56.65,0:13:58.53,Default,,0,0,0,,{\i1}We'd never get away.
+Comment: 10,0:13:58.53,0:14:02.91,Default,,0,0,0,,{\i1}I don't have the guts to make an enemy of the Black Market. {TM: Split ver}
 Dialogue: 10,0:13:56.65,0:14:02.91,Default,,0,0,0,,{\i1}We'd never get away. I don't have the guts to make an enemy of the Black Market.
 Dialogue: 10,0:14:02.91,0:14:05.91,Default,,0,0,0,,{\i1}God, what am I even doing?
 Dialogue: 10,0:14:06.33,0:14:11.91,Default,,0,0,0,,{\i1}I promised myself I would become \Nthe number one outlaw in all of Kivotos. {TM: Probably not, but might snap start?}
-Dialogue: 10,0:14:11.91,0:14:16.70,Default,,0,0,0,,{\i1}But look at me now, agonizing over\N stupid things like bank loans... {TM: Crossfade!}
-Dialogue: 10,0:14:17.93,0:14:20.92,Default,,0,0,0,,{\i1}This isn't what I wanted to be doing.
-Dialogue: 10,0:14:21.41,0:14:25.35,Default,,0,0,0,,{\i1}I wanted to become someone who \N lived fearlessly, by my own rules.
-Dialogue: 10,0:14:25.35,0:14:27.68,Default,,0,0,0,,{\i1}A hard-boiled outlaw...
+Dialogue: 10,0:14:11.91,0:14:16.71,Default,,0,0,0,,{\i1}But look at me now, agonizing over\N stupid things like bank loans... {TM: Crossfade!}
+Dialogue: 10,0:14:17.92,0:14:20.92,Default,,0,0,0,,{\i1}This isn't what I wanted to be doing.
+Dialogue: 10,0:14:21.42,0:14:25.34,Default,,0,0,0,,{\i1}I wanted to become someone who \N lived fearlessly, by my own rules.
+Dialogue: 10,0:14:25.34,0:14:27.68,Default,,0,0,0,,{\i1}A hard-boiled outlaw...
 Dialogue: 10,0:14:28.14,0:14:30.43,Default,,0,0,0,,{\i1}Or at least, that was the dream...
 Dialogue: 10,0:14:43.32,0:14:46.70,Default,,0,0,0,,Everyone, drop your weapons\N and get down on the ground!
 Dialogue: 10,0:14:46.70,0:14:48.45,Default,,0,0,0,,B-Bank robbers?!
 Dialogue: 10,0:14:48.45,0:14:52.45,Default,,0,0,0,,Do as we say, or prepare to get hurt!
-Comment: 10,0:14:52.45,0:14:58.03,Default,,0,0,0,,Uh, umm, I'd hate for anyone to get hurt, so stay calm, and get down on the ground, please. {TM: Unsplit}
-Dialogue: 10,0:14:52.45,0:14:55.59,Default,,0,0,0,,Uh, umm, I'd hate for anyone to get hurt,
-Dialogue: 10,0:14:55.59,0:14:58.03,Default,,0,0,0,,so stay calm and get down on the ground, please. {TM: I think this split point is good but feedback pls.}
-Dialogue: 10,0:14:58.86,0:15:01.84,Default,,0,0,0,,Hey, wise guy. \NShe said drop your weapons. {TM: Might snap?}
+Comment: 10,0:14:52.45,0:14:58.04,Default,,0,0,0,,Uh, umm, I'd hate for anyone to get hurt, so stay calm, and get down on the ground, please. {TM: Unsplit}
+Dialogue: 10,0:14:52.45,0:14:55.58,Default,,0,0,0,,Uh, umm, I'd hate for anyone to get hurt,
+Dialogue: 10,0:14:55.58,0:14:58.04,Default,,0,0,0,,so stay calm and get down on the ground, please. {TM: I think this split point is good but feedback pls.}
+Dialogue: 10,0:14:58.88,0:15:01.84,Default,,0,0,0,,Hey, wise guy. \NShe said drop your weapons. {TM: Might snap?}
 Dialogue: 10,0:15:02.80,0:15:04.26,Default,,0,0,0,,Hey, girls...
-Dialogue: 10,0:15:04.26,0:15:07.83,Default,,0,0,0,,Do make sure not to harm any of the civilians, okay?
-Comment: 10,0:15:07.71,0:15:08.64,Default,,0,0,0,,Got it.
-Dialogue: 10,0:15:08.64,0:15:11.57,Default,,0,0,0,,Right-o. So far, so good.
-Dialogue: 10,0:15:11.57,0:15:13.64,Default,,0,0,0,,Let's move on to phase 2, shall we?
+Dialogue: 10,0:15:04.26,0:15:07.85,Default,,0,0,0,,Do make sure not to harm any of the civilians, okay?
+Comment: 10,0:15:07.72,0:15:08.64,Default,,0,0,0,,Got it.
+Dialogue: 10,0:15:08.64,0:15:11.56,Default,,0,0,0,,Right-o. So far, so good.
+Dialogue: 10,0:15:11.56,0:15:13.64,Default,,0,0,0,,Let's move on to phase 2, shall we?
 Dialogue: 10,0:15:13.64,0:15:16.90,Default,,0,0,0,,Come on, Faust, you're the leader. \NGive us the word!
-Dialogue: 10,0:15:16.90,0:15:20.66,Default,,0,0,0,,Huh? Wait, what? \NYou mean me? I'm Faust?!
-Dialogue: 10,0:15:20.66,0:15:21.65,Default,,0,0,0,,Of course.
-Dialogue: 10,0:15:21.65,0:15:26.71,Default,,0,0,0,,Hifumi- I mean, Faust, you're the leader!\NIn other words, you're our boss! {TM: Might want to split this but will need to come back to it}
-Dialogue: 10,0:15:26.71,0:15:28.16,Default,,0,0,0,,And while we're at it,
-Dialogue: 10,0:15:30.00,0:15:32.04,Default,,0,0,0,,call me Christina, doll! {Is "doll" right? Well, that's for TLC to check ig. --ML}
-Dialogue: 10,0:15:32.50,0:15:34.54,Default,,0,0,0,,Huh? Aren't those the girls...
-Dialogue: 10,0:15:34.54,0:15:36.06,Default,,0,0,0,,...from Abydos...? {TM: split with ellipses because different speakers}
-Dialogue: 10,0:15:36.06,0:15:38.18,Default,,0,0,0,,S-Should we beat them up?
-Dialogue: 10,0:15:38.18,0:15:40.91,Default,,0,0,0,,No, looks like they're not here for us.
+Dialogue: 10,0:15:16.90,0:15:20.65,Default,,0,0,0,,Huh? Wait, what? \NYou mean me? I'm Faust?!
+Dialogue: 10,0:15:20.65,0:15:21.65,Default,,0,0,0,,Of course.
+Dialogue: 10,0:15:21.65,0:15:26.70,Default,,0,0,0,,Hifumi- I mean, Faust, you're the leader!\NIn other words, you're our boss! {TM: Might want to split this but will need to come back to it}
+Dialogue: 10,0:15:26.70,0:15:28.16,Default,,0,0,0,,And while we're at it,
+Dialogue: 10,0:15:29.99,0:15:32.04,Default,,0,0,0,,call me Christina, doll! {Is "doll" right? Well, that's for TLC to check ig. --ML}
+Dialogue: 10,0:15:32.49,0:15:34.54,Default,,0,0,0,,Huh? Aren't those the girls...
+Dialogue: 10,0:15:34.54,0:15:36.04,Default,,0,0,0,,...from Abydos...? {TM: split with ellipses because different speakers}
+Dialogue: 10,0:15:36.04,0:15:38.17,Default,,0,0,0,,S-Should we beat them up?
+Dialogue: 10,0:15:38.17,0:15:40.92,Default,,0,0,0,,No, looks like they're not here for us.
 Dialogue: 10,0:15:40.92,0:15:43.67,Default,,0,0,0,,Don't do anything stupid. {TM: Check that leadin snap}
-Comment: 0,0:15:43.99,0:15:45.42,Default,,0,0,0,,{Citizen noises}
+Comment: 0,0:15:44.01,0:15:45.42,Default,,0,0,0,,{Citizen noises}
 Dialogue: 10,0:15:45.42,0:15:47.80,Default,,0,0,0,,That cash transport just now.
 Dialogue: 10,0:15:47.80,0:15:50.60,Default,,0,0,0,,Yes, of course.\NI'll give you whatever you want.
-Dialogue: 10,0:15:50.60,0:15:53.24,Default,,0,0,0,,Bullion, cash, bonds, anything!
-Dialogue: 10,0:15:53.24,0:15:56.85,Default,,0,0,0,,No, not that. We just want the receipts...
-Dialogue: 10,0:15:57.34,0:16:00.69,Default,,0,0,0,,{\i1}Whoa... who are these people?!
-Dialogue: 10,0:16:00.69,0:16:03.42,Default,,0,0,0,,{\i1}They're hitting a bank in the Black Market of all places!
-Dialogue: 10,0:16:03.42,0:16:06.54,Default,,0,0,0,,{\i1}They're making it look so easy, too.\N So... professional!
-Dialogue: 10,0:16:06.54,0:16:09.30,Default,,0,0,0,,{\i1}They're just so cool! \NI can't get enough of them!
-Dialogue: 10,0:16:09.30,0:16:11.86,Default,,0,0,0,,{\i1}They're the picture definition of outlaw! {Very repetitive, but she's gushing, so I think it works? --ik}
-Dialogue: 10,0:16:11.86,0:16:14.12,Default,,0,0,0,,{\i1}Oh god, I think I'm going to cry!
+Dialogue: 10,0:15:50.60,0:15:53.22,Default,,0,0,0,,Bullion, cash, bonds, anything!
+Dialogue: 10,0:15:53.22,0:15:56.85,Default,,0,0,0,,No, not that. We just want the receipts...
+Dialogue: 10,0:15:57.35,0:16:00.69,Default,,0,0,0,,{\i1}Whoa... who are these people?!
+Dialogue: 10,0:16:00.69,0:16:03.40,Default,,0,0,0,,{\i1}They're hitting a bank in the Black Market of all places!
+Dialogue: 10,0:16:03.40,0:16:06.53,Default,,0,0,0,,{\i1}They're making it look so easy, too.\N So... professional!
+Dialogue: 10,0:16:06.53,0:16:09.28,Default,,0,0,0,,{\i1}They're just so cool! \NI can't get enough of them!
+Dialogue: 10,0:16:09.28,0:16:11.87,Default,,0,0,0,,{\i1}They're the picture definition of outlaw! {Very repetitive, but she's gushing, so I think it works? --ik}
+Dialogue: 10,0:16:11.87,0:16:14.12,Default,,0,0,0,,{\i1}Oh god, I think I'm going to cry!
 Comment: 10,0:16:14.45,0:16:15.87,Default,,0,0,0,,H-Here it is!
 Comment: 10,0:16:15.87,0:16:18.00,Default,,0,0,0,,Please, just take it... don't kill me... {TM: Split ver}
 Dialogue: 10,0:16:14.45,0:16:18.00,Default,,0,0,0,,H-Here it is!\NPlease, just take it... don't kill me...
-Dialogue: 10,0:16:18.58,0:16:21.89,Default,,0,0,0,,Shiro-, sorry, Blue 2.\NDo you have the package?
-Comment: 10,0:16:21.89,0:16:23.00,Default,,0,0,0,,Oh, uh, yeah.
-Comment: 10,0:16:23.00,0:16:24.10,Default,,0,0,0,,It's just... {TM: Split ver}
-Dialogue: 10,0:16:21.89,0:16:24.37,Default,,0,0,0,,Oh, uh, yeah. It's just...
-Dialogue: 10,0:16:24.37,0:16:26.67,Default,,0,0,0,,All righty. Let's make like a tree and skedaddle! {Skedaddle is a fun word but idk if it really works here tbh --ML}
-Dialogue: 10,0:16:26.67,0:16:28.24,Default,,0,0,0,,Everyone, we're leaving!
-Dialogue: 10,0:16:28.24,0:16:29.43,Default,,0,0,0,,Adios!
-Dialogue: 10,0:16:29.78,0:16:33.93,Default,,0,0,0,,Well, it doesn't look like \Nanyone got hurt, so... Goodbye! {TM: maybe snap? Probs not.}
-Dialogue: 10,0:16:37.70,0:16:39.65,Default,,0,0,0,,{\an8}A-After them!
+Dialogue: 10,0:16:18.58,0:16:21.88,Default,,0,0,0,,Shiro-, sorry, Blue 2.\NDo you have the package?
+Comment: 10,0:16:21.88,0:16:23.00,Default,,0,0,0,,Oh, uh, yeah.
+Comment: 10,0:16:23.00,0:16:24.09,Default,,0,0,0,,It's just... {TM: Split ver}
+Dialogue: 10,0:16:21.88,0:16:24.38,Default,,0,0,0,,Oh, uh, yeah. It's just...
+Dialogue: 10,0:16:24.38,0:16:26.67,Default,,0,0,0,,All righty. Let's make like a tree and skedaddle! {Skedaddle is a fun word but idk if it really works here tbh --ML}
+Dialogue: 10,0:16:26.67,0:16:28.26,Default,,0,0,0,,Everyone, we're leaving!
+Dialogue: 10,0:16:28.26,0:16:29.43,Default,,0,0,0,,Adios!
+Dialogue: 10,0:16:29.76,0:16:33.93,Default,,0,0,0,,Well, it doesn't look like \Nanyone got hurt, so... Goodbye! {TM: maybe snap? Probs not.}
+Dialogue: 10,0:16:37.68,0:16:39.65,Default,,0,0,0,,{\an8}A-After them!
 Dialogue: 10,0:16:39.65,0:16:43.90,Default,,0,0,0,,{\an8}Seal off the perimeter! Notify the Market Guard! {TM: Second part of this line is lifted from Ice's script, ik and rapid couldn't figure it out so going with this for now.}
-Comment: 10,0:16:40.14,0:16:41.55,Default,,0,0,0,,{Aru noises}
-Dialogue: 10,0:16:41.55,0:16:43.90,Default,,0,0,0,,Now that's what I call an outlaw!
-Comment: 10,0:16:49.94,0:16:51.47,Default,,0,0,0,,You're out of the hot zone.
-Comment: 10,0:16:51.47,0:16:53.37,Default,,0,0,0,,Good work, everyone. {TM: probably not necessary but split ver for the sake of it lmao}
-Dialogue: 10,0:16:49.94,0:16:53.38,Default,,0,0,0,,You're out of the hot zone.\NGood work, everyone.
-Dialogue: 10,0:16:53.38,0:16:55.41,Default,,0,0,0,,Heck yeah! We did it!
+Comment: 10,0:16:40.15,0:16:41.56,Default,,0,0,0,,{Aru noises}
+Dialogue: 10,0:16:41.56,0:16:43.90,Default,,0,0,0,,Now that's what I call an outlaw!
+Comment: 10,0:16:49.95,0:16:51.49,Default,,0,0,0,,You're out of the hot zone.
+Comment: 10,0:16:51.49,0:16:53.37,Default,,0,0,0,,Good work, everyone. {TM: probably not necessary but split ver for the sake of it lmao}
+Dialogue: 10,0:16:49.95,0:16:53.37,Default,,0,0,0,,You're out of the hot zone.\NGood work, everyone.
+Dialogue: 10,0:16:53.37,0:16:55.41,Default,,0,0,0,,Heck yeah! We did it!
 Dialogue: 10,0:16:55.41,0:16:58.54,Default,,0,0,0,,I feel my actions as a teacher are questionable at best...
-Comment: 0,0:16:58.56,0:16:59.41,Default,,0,0,0,,{Hifumi noises}
+Comment: 0,0:16:58.58,0:16:59.41,Default,,0,0,0,,{Hifumi noises}
 Dialogue: 10,0:16:59.41,0:17:02.13,Default,,0,0,0,,Shiroko, you got the receipts?
 Dialogue: 10,0:17:02.13,0:17:03.17,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:17:05.60,0:17:08.16,Default,,0,0,0,,Whoa! \N Just look at all that!
-Dialogue: 10,0:17:08.17,0:17:11.58,Default,,0,0,0,,Shiroko, did you just steal money after all?!
-Dialogue: 10,0:17:11.58,0:17:14.55,Default,,0,0,0,,No.\NThe documents we need are right here.
+Dialogue: 10,0:17:05.59,0:17:08.17,Default,,0,0,0,,Whoa! \N Just look at all that!
+Dialogue: 10,0:17:08.17,0:17:11.59,Default,,0,0,0,,Shiroko, did you just steal money after all?!
+Dialogue: 10,0:17:11.59,0:17:14.55,Default,,0,0,0,,No.\NThe documents we need are right here.
 Dialogue: 10,0:17:14.55,0:17:17.02,Default,,0,0,0,,Yowza. There's easily 100 million in there.
 Dialogue: 10,0:17:17.02,0:17:19.56,Default,,0,0,0,,That's great! Let's bring it back with us!
 Dialogue: 10,0:17:19.56,0:17:21.44,Default,,0,0,0,,Serika, wait!
 Dialogue: 10,0:17:21.44,0:17:23.56,Default,,0,0,0,,What? This will be a huge help for...
 Dialogue: 10,0:17:23.56,0:17:26.07,Default,,0,0,0,,We can't do that, Serika!
-Dialogue: 10,0:17:26.07,0:17:27.20,Default,,0,0,0,,Why the heck not?!
-Dialogue: 10,0:17:27.56,0:17:31.94,Default,,0,0,0,,This is all the money we poured \N our sweat and tears into earning!
+Dialogue: 10,0:17:26.07,0:17:27.19,Default,,0,0,0,,Why the heck not?!
+Dialogue: 10,0:17:27.57,0:17:31.95,Default,,0,0,0,,This is all the money we poured \N our sweat and tears into earning!
 Dialogue: 10,0:17:31.95,0:17:35.20,Default,,0,0,0,,And it was all going to that bank run by criminals!
-Dialogue: 10,0:17:35.20,0:17:37.76,Default,,0,0,0,,True, if we hadn't done anything,
-Dialogue: 10,0:17:37.76,0:17:40.90,Default,,0,0,0,,it's possible that this money would have been turned into weapons for criminals to use. {TM: 9->22 CPS lmao}
-Dialogue: 10,0:17:40.90,0:17:44.75,Default,,0,0,0,,That's right. What's wrong with stealing from criminals?!
+Dialogue: 10,0:17:35.20,0:17:37.74,Default,,0,0,0,,True, if we hadn't done anything,
+Dialogue: 10,0:17:37.74,0:17:40.91,Default,,0,0,0,,it's possible that this money would have been turned into weapons for criminals to use. {TM: 9->22 CPS lmao}
+Dialogue: 10,0:17:40.91,0:17:44.75,Default,,0,0,0,,That's right. What's wrong with stealing from criminals?!
 Dialogue: 10,0:17:44.75,0:17:47.71,Default,,0,0,0,,I agree with Serika.
-Comment: 10,0:17:47.71,0:17:50.00,Default,,0,0,0,,It's money that was funding criminal activity.
-Comment: 10,0:17:50.00,0:17:52.72,Default,,0,0,0,,It'd be better if we used it for good instead. {TM: split ver just in case}
+Comment: 10,0:17:47.71,0:17:50.01,Default,,0,0,0,,It's money that was funding criminal activity.
+Comment: 10,0:17:50.01,0:17:52.72,Default,,0,0,0,,It'd be better if we used it for good instead. {TM: split ver just in case}
 Dialogue: 10,0:17:47.71,0:17:52.72,Default,,0,0,0,,It's money that was funding criminal activity.\N It'd be better if we used it for good instead.
 Dialogue: 10,0:17:52.72,0:17:57.56,Default,,0,0,0,,And besides, this much money would \N go a huge way towards paying off the school's debt!{relevant to my comment at 2:35 --ML}
 Dialogue: 10,0:17:57.56,0:17:59.60,Default,,0,0,0,,Are you sure you're okay with doing it like that?
 Dialogue: 10,0:18:04.10,0:18:05.73,Default,,0,0,0,,What do you think, Shiroko?
-Dialogue: 10,0:18:06.02,0:18:07.91,Default,,0,0,0,,You already know.{TM: Might want to snap}
-Dialogue: 10,0:18:07.91,0:18:09.75,Default,,0,0,0,,You'd say no.
-Dialogue: 10,0:18:09.75,0:18:10.24,Default,,0,0,0,,Huh?
-Comment: 10,0:18:10.51,0:18:12.50,Default,,0,0,0,,Got me there, Shiroko.
-Comment: 10,0:18:12.50,0:18:14.75,Default,,0,0,0,,You're exactly right. {TM: almost definitely not needed but may as well add a split option}
-Dialogue: 10,0:18:10.51,0:18:14.75,Default,,0,0,0,,Got me there, Shiroko.\NYou're exactly right.
-Dialogue: 10,0:18:14.75,0:18:18.37,Default,,0,0,0,,What we need is the papers.\NNot the money.
-Dialogue: 10,0:18:18.96,0:18:21.70,Default,,0,0,0,,If we say it's okay this one time\N because it's dirty money,
-Dialogue: 10,0:18:21.70,0:18:24.37,Default,,0,0,0,,what happens next time? \NWhat about the time after that? {TM: This and the last could probably be split differently but I'm not going to try figuring that out when it's probably fine as is.}
-Dialogue: 10,0:18:25.19,0:18:28.62,Default,,0,0,0,,I think if we let ourselves get used to this, we'll just keep making excuses
-Dialogue: 10,0:18:28.62,0:18:33.38,Default,,0,0,0,,to do things that we shouldn't every time we get into trouble. {TM: might want to do something with that crossfade idk}
-Dialogue: 10,0:18:33.86,0:18:37.76,Default,,0,0,0,,And this old man just couldn't bear the thought of all you young ones going astray like that. {TM: might extend past keyframe, in which case should end at roughly 26817}
-Dialogue: 10,0:18:39.52,0:18:41.42,Default,,0,0,0,,Besides, if we were going to do something like that, {TM: >CPS, but I don't really like any other split points.}
-Dialogue: 10,0:18:41.42,0:18:46.29,Default,,0,0,0,,I would have just used that fancy schmancy gold card that Nonomi has from the get-go.
-Dialogue: 10,0:18:46.29,0:18:49.77,Default,,0,0,0,,But you said that\Nyou didn't want to...
-Dialogue: 10,0:18:49.77,0:18:51.57,Default,,0,0,0,,Oh! I remember now!
-Comment: 10,0:18:51.57,0:18:57.29,Default,,0,0,0,,If we can't pay back the money the right way,\Nwe'll lose the Abydos we were trying to protect anyway. {TM: unsplit ver}
-Dialogue: 10,0:18:51.57,0:18:54.18,Default,,0,0,0,,If we can't pay back the money the right way,
-Dialogue: 10,0:18:54.18,0:18:57.29,Default,,0,0,0,,we'll lose the Abydos we were trying to protect anyway.
-Dialogue: 10,0:18:57.29,0:18:58.66,Default,,0,0,0,,That's right.
+Dialogue: 10,0:18:06.02,0:18:07.90,Default,,0,0,0,,You already know.{TM: Might want to snap}
+Dialogue: 10,0:18:07.90,0:18:09.74,Default,,0,0,0,,You'd say no.
+Dialogue: 10,0:18:09.74,0:18:10.24,Default,,0,0,0,,Huh?
+Comment: 10,0:18:10.53,0:18:12.49,Default,,0,0,0,,Got me there, Shiroko.
+Comment: 10,0:18:12.49,0:18:14.74,Default,,0,0,0,,You're exactly right. {TM: almost definitely not needed but may as well add a split option}
+Dialogue: 10,0:18:10.53,0:18:14.74,Default,,0,0,0,,Got me there, Shiroko.\NYou're exactly right.
+Dialogue: 10,0:18:14.74,0:18:18.37,Default,,0,0,0,,What we need is the papers.\NNot the money.
+Dialogue: 10,0:18:18.95,0:18:21.71,Default,,0,0,0,,If we say it's okay this one time\N because it's dirty money,
+Dialogue: 10,0:18:21.71,0:18:24.37,Default,,0,0,0,,what happens next time? \NWhat about the time after that? {TM: This and the last could probably be split differently but I'm not going to try figuring that out when it's probably fine as is.}
+Dialogue: 10,0:18:25.21,0:18:28.63,Default,,0,0,0,,I think if we let ourselves get used to this, we'll just keep making excuses
+Dialogue: 10,0:18:28.63,0:18:33.38,Default,,0,0,0,,to do things that we shouldn't every time we get into trouble. {TM: might want to do something with that crossfade idk}
+Dialogue: 10,0:18:33.84,0:18:37.76,Default,,0,0,0,,And this old man just couldn't bear the thought of all you young ones going astray like that. {TM: might extend past keyframe, in which case should end at roughly 26817}
+Dialogue: 10,0:18:39.51,0:18:41.43,Default,,0,0,0,,Besides, if we were going to do something like that, {TM: >CPS, but I don't really like any other split points.}
+Dialogue: 10,0:18:41.43,0:18:46.27,Default,,0,0,0,,I would have just used that fancy schmancy gold card that Nonomi has from the get-go.
+Dialogue: 10,0:18:46.27,0:18:49.78,Default,,0,0,0,,But you said that\Nyou didn't want to...
+Dialogue: 10,0:18:49.78,0:18:51.57,Default,,0,0,0,,Oh! I remember now!
+Comment: 10,0:18:51.57,0:18:57.28,Default,,0,0,0,,If we can't pay back the money the right way,\Nwe'll lose the Abydos we were trying to protect anyway. {TM: unsplit ver}
+Dialogue: 10,0:18:51.57,0:18:54.20,Default,,0,0,0,,If we can't pay back the money the right way,
+Dialogue: 10,0:18:54.20,0:18:57.28,Default,,0,0,0,,we'll lose the Abydos we were trying to protect anyway.
+Dialogue: 10,0:18:57.28,0:18:58.66,Default,,0,0,0,,That's right.
 Dialogue: 10,0:18:59.03,0:19:01.54,Default,,0,0,0,,In that case, let's only take the papers that we need.
-Dialogue: 10,0:19:02.02,0:19:02.91,Default,,0,0,0,,Are you okay with that?
+Dialogue: 10,0:19:02.04,0:19:02.91,Default,,0,0,0,,Are you okay with that?
 Dialogue: 10,0:19:02.91,0:19:03.41,Default,,0,0,0,,Yes!
-Comment: 10,0:19:03.76,0:19:06.71,Default,,0,0,0,,I can't say I know what you're going through, {TM: sigh ver I guess}
-Dialogue: 10,0:19:04.78,0:19:06.71,Default,,0,0,0,,I can't say I know what you're going through,
+Comment: 10,0:19:03.75,0:19:06.71,Default,,0,0,0,,I can't say I know what you're going through, {TM: sigh ver I guess}
+Dialogue: 10,0:19:04.79,0:19:06.71,Default,,0,0,0,,I can't say I know what you're going through,
 Dialogue: 10,0:19:06.71,0:19:10.42,Default,,0,0,0,,but holding onto this money \N might cause problems down the line.
-Dialogue: 10,0:19:10.42,0:19:13.44,Default,,0,0,0,,I'm sure it's caused its fair share \Nof problems already.
-Dialogue: 10,0:19:14.32,0:19:16.18,Default,,0,0,0,,Hold on a second!
-Dialogue: 10,0:19:21.23,0:19:24.56,Default,,0,0,0,,Oh, uh, don't worry!\NI'm not your enemy!
+Dialogue: 10,0:19:10.42,0:19:13.42,Default,,0,0,0,,I'm sure it's caused its fair share \Nof problems already.
+Dialogue: 10,0:19:14.30,0:19:16.18,Default,,0,0,0,,Hold on a second!
+Dialogue: 10,0:19:21.22,0:19:24.56,Default,,0,0,0,,Oh, uh, don't worry!\NI'm not your enemy!
 Dialogue: 10,0:19:24.89,0:19:25.98,Default,,0,0,0,,What's she doing here?
 Dialogue: 10,0:19:25.98,0:19:26.98,Default,,0,0,0,,Do we shoot her?
 Dialogue: 10,0:19:26.98,0:19:30.11,Default,,0,0,0,,I'd rather not beat up someone who\N just said she's not our enemy...
-Dialogue: 10,0:19:30.11,0:19:31.49,Default,,0,0,0,,Do you know her?
-Dialogue: 10,0:19:31.49,0:19:33.42,Default,,0,0,0,,Yes, we've happened to bump into her before.
-Dialogue: 10,0:19:33.42,0:19:37.45,Default,,0,0,0,,Um, I saw the attack you pulled off earlier.
+Dialogue: 10,0:19:30.11,0:19:31.48,Default,,0,0,0,,Do you know her?
+Dialogue: 10,0:19:31.48,0:19:33.40,Default,,0,0,0,,Yes, we've happened to bump into her before.
+Dialogue: 10,0:19:33.40,0:19:37.45,Default,,0,0,0,,Um, I saw the attack you pulled off earlier.
 Dialogue: 10,0:19:37.45,0:19:41.12,Default,,0,0,0,,You were in and out in minutes. \N It was amazing to watch.
 Dialogue: 10,0:19:41.12,0:19:43.87,Default,,0,0,0,,I've never seen such an amazing\N example of true outlaws.
-Dialogue: 10,0:19:43.87,0:19:47.06,Default,,0,0,0,,Honestly, I was blown away.
-Dialogue: 10,0:19:47.06,0:19:50.63,Default,,0,0,0,,To witness such a daring display! \NI was shaken to my core!
-Dialogue: 10,0:19:50.63,0:19:52.58,Default,,0,0,0,,You've inspired me! {TM: Check leadin on this, weird to figure out.}
-Dialogue: 10,0:19:52.58,0:19:56.55,Default,,0,0,0,,I'm going to do my best to become become an outlaw just like you!
+Dialogue: 10,0:19:43.87,0:19:47.04,Default,,0,0,0,,Honestly, I was blown away.
+Dialogue: 10,0:19:47.04,0:19:50.63,Default,,0,0,0,,To witness such a daring display! \NI was shaken to my core!
+Dialogue: 10,0:19:50.63,0:19:52.59,Default,,0,0,0,,You've inspired me! {TM: Check leadin on this, weird to figure out.}
+Dialogue: 10,0:19:52.59,0:19:56.55,Default,,0,0,0,,I'm going to do my best to become become an outlaw just like you!
 Dialogue: 10,0:19:56.55,0:19:58.89,Default,,0,0,0,,Living by my own rules, a truly free spirit that answers to nobody! {TM: lol CPS} {I would probably rearrange this and the last line a bit ngl --ML}
-Dialogue: 10,0:19:58.89,0:20:00.50,Default,,0,0,0,,What is she talking about?
-Dialogue: 10,0:20:00.50,0:20:01.26,Default,,0,0,0,,Beats me.
-Dialogue: 10,0:20:01.26,0:20:03.41,Default,,0,0,0,,Well, there you have it, so...
-Dialogue: 10,0:20:03.41,0:20:06.89,Default,,0,0,0,,if you don't mind...\Ncan I ask what your name is?
-Dialogue: 10,0:20:06.89,0:20:08.30,Default,,0,0,0,,Our name...?
-Dialogue: 10,0:20:08.30,0:20:11.77,Default,,0,0,0,,You know, like your group name, or your team name?
+Dialogue: 10,0:19:58.89,0:20:00.51,Default,,0,0,0,,What is she talking about?
+Dialogue: 10,0:20:00.51,0:20:01.26,Default,,0,0,0,,Beats me.
+Dialogue: 10,0:20:01.26,0:20:03.39,Default,,0,0,0,,Well, there you have it, so...
+Dialogue: 10,0:20:03.39,0:20:06.89,Default,,0,0,0,,if you don't mind...\Ncan I ask what your name is?
+Dialogue: 10,0:20:06.89,0:20:08.31,Default,,0,0,0,,Our name...?
+Dialogue: 10,0:20:08.31,0:20:11.77,Default,,0,0,0,,You know, like your group name, or your team name?
 Dialogue: 10,0:20:11.77,0:20:15.82,Default,,0,0,0,,Something I can use to remember your brave exploits today by.
 Dialogue: 10,0:20:15.82,0:20:18.70,Default,,0,0,0,,Very well! I completely understand\Nwhat you mean!
-Dialogue: 10,0:20:18.70,0:20:20.22,Default,,0,0,0,,Wait, Nonomi?!
-Dialogue: 10,0:20:20.58,0:20:22.35,Default,,0,0,0,,People call us...
-Dialogue: 10,0:20:23.81,0:20:25.62,Default,,0,0,0,,The Masked Swimsuit Gang!
+Dialogue: 10,0:20:18.70,0:20:20.24,Default,,0,0,0,,Wait, Nonomi?!
+Dialogue: 10,0:20:20.57,0:20:22.37,Default,,0,0,0,,People call us...
+Dialogue: 10,0:20:23.83,0:20:25.62,Default,,0,0,0,,The Masked Swimsuit Gang!
 Dialogue: 10,0:20:26.46,0:20:28.50,Default,,0,0,0,,The Masked Swimsuit Gang?!
-Dialogue: 10,0:20:28.84,0:20:30.70,Default,,0,0,0,,Wh-whoa... that's so cool! {TM: might snap}
-Dialogue: 10,0:20:30.70,0:20:32.25,Default,,0,0,0,,That's just too cool!
-Dialogue: 10,0:20:33.09,0:20:34.82,Default,,0,0,0,,Ho, ho, ho, and once more, ho! {TM: Might snap?}
-Dialogue: 10,0:20:35.20,0:20:36.59,Default,,0,0,0,,An eye for an eye.
+Dialogue: 10,0:20:28.83,0:20:30.71,Default,,0,0,0,,Wh-whoa... that's so cool! {TM: might snap}
+Dialogue: 10,0:20:30.71,0:20:32.25,Default,,0,0,0,,That's just too cool!
+Dialogue: 10,0:20:33.09,0:20:34.84,Default,,0,0,0,,Ho, ho, ho, and once more, ho! {TM: Might snap?}
+Dialogue: 10,0:20:35.21,0:20:36.59,Default,,0,0,0,,An eye for an eye.
 Dialogue: 10,0:20:36.59,0:20:37.84,Default,,0,0,0,,A tooth for a tooth.
-Dialogue: 10,0:20:37.84,0:20:42.81,Default,,0,0,0,,We tread a path that none may follow,\Nand we do so without mercy.
-Dialogue: 10,0:20:42.81,0:20:45.10,Default,,0,0,0,,That is our motto! {TM: meme this transition.}
-Dialogue: 10,0:20:45.88,0:20:49.10,Default,,0,0,0,,So... cool! {TM: check leadin? Probably fine.}
+Dialogue: 10,0:20:37.84,0:20:42.80,Default,,0,0,0,,We tread a path that none may follow,\Nand we do so without mercy.
+Dialogue: 10,0:20:42.80,0:20:45.10,Default,,0,0,0,,That is our motto! {TM: meme this transition.}
+Dialogue: 10,0:20:45.89,0:20:49.10,Default,,0,0,0,,So... cool! {TM: check leadin? Probably fine.}
 Dialogue: 10,0:20:51.90,0:20:54.48,Default,,0,0,0,,What on earth are they up to over there...
-Dialogue: 10,0:20:54.48,0:20:57.64,Default,,0,0,0,,All right, you've had your fun.\NLet's just get out of here already.
-Dialogue: 10,0:20:57.64,0:20:59.83,Default,,0,0,0,,Well then, adios for now!
-Dialogue: 10,0:20:59.83,0:21:01.87,Default,,0,0,0,,Off we go, galloping into the sunset! {TM: Might push that leadout past kf}
-Comment: 10,0:21:02.15,0:21:04.65,Default,,0,0,0,,{Hoshino noises}
+Dialogue: 10,0:20:54.48,0:20:57.65,Default,,0,0,0,,All right, you've had your fun.\NLet's just get out of here already.
+Dialogue: 10,0:20:57.65,0:20:59.82,Default,,0,0,0,,Well then, adios for now!
+Dialogue: 10,0:20:59.82,0:21:01.87,Default,,0,0,0,,Off we go, galloping into the sunset! {TM: Might push that leadout past kf}
+Comment: 10,0:21:02.16,0:21:04.66,Default,,0,0,0,,{Hoshino noises}
 Dialogue: 10,0:21:01.87,0:21:04.87,Default,,0,0,0,,It's still the middle of the afternoon...
-Dialogue: 10,0:21:05.94,0:21:08.76,Default,,0,0,0,,"We tread a path that none may follow..."
-Dialogue: 10,0:21:08.76,0:21:11.29,Default,,0,0,0,,I'll remember those words for as long as I live!
-Dialogue: 10,0:21:11.67,0:21:13.23,Default,,0,0,0,,I can't give up now!
-Dialogue: 10,0:21:15.25,0:21:16.49,Default,,0,0,0,,So when do we tell her?
-Dialogue: 10,0:21:16.49,0:21:19.30,Default,,0,0,0,,\NThis is hilarious, so not until way later.
+Dialogue: 10,0:21:05.95,0:21:08.75,Default,,0,0,0,,"We tread a path that none may follow..."
+Dialogue: 10,0:21:08.75,0:21:11.29,Default,,0,0,0,,I'll remember those words for as long as I live!
+Dialogue: 10,0:21:11.67,0:21:13.21,Default,,0,0,0,,I can't give up now!
+Dialogue: 10,0:21:15.25,0:21:16.51,Default,,0,0,0,,So when do we tell her?
+Dialogue: 10,0:21:16.51,0:21:19.30,Default,,0,0,0,,\NThis is hilarious, so not until way later.
 Dialogue: 10,0:21:19.30,0:21:21.80,Default,,0,0,0,,U-Um, so, what about this?
-Dialogue: 10,0:21:22.14,0:21:24.06,Default,,0,0,0,,Did they forget to take it with them? {TM: Might snap? Probs not.}
+Dialogue: 10,0:21:22.14,0:21:24.05,Default,,0,0,0,,Did they forget to take it with them? {TM: Might snap? Probs not.}
 Dialogue: 10,0:21:26.56,0:21:27.81,Default,,0,0,0,,Oooh!
 Dialogue: 10,0:21:26.56,0:21:27.81,Alt,,0,0,0,,What?! {TM: Probably not too important which one of this is alt}
-Dialogue: 10,0:21:30.47,0:21:34.32,Default,,0,0,0,,Does this mean we don't have to skip meals anymore? {TM: crossfade leadout maybe}
-Dialogue: 10,0:21:38.02,0:21:41.10,Default,,0,0,0,,"We tread a path that none may follow..."
-Dialogue: 10,0:21:41.10,0:21:43.32,Default,,0,0,0,,Maybe I should write it down\N and hang it up somewhere.
+Dialogue: 10,0:21:30.48,0:21:34.31,Default,,0,0,0,,Does this mean we don't have to skip meals anymore? {TM: crossfade leadout maybe}
+Dialogue: 10,0:21:38.03,0:21:41.11,Default,,0,0,0,,"We tread a path that none may follow..."
+Dialogue: 10,0:21:41.11,0:21:43.32,Default,,0,0,0,,Maybe I should write it down\N and hang it up somewhere.
 Dialogue: 10,0:21:43.78,0:21:48.33,Default,,0,0,0,,Miss Aru's been talking about\Nthe Masked Swimsuit Gang ever since we got back.
-Dialogue: 10,0:21:49.34,0:21:51.31,Default,,0,0,0,,I wonder when she'll connect the dots... {TM: Might snap}
-Dialogue: 10,0:21:52.78,0:21:54.08,Default,,0,0,0,,Boss.
+Dialogue: 10,0:21:49.33,0:21:51.29,Default,,0,0,0,,I wonder when she'll connect the dots... {TM: Might snap}
+Dialogue: 10,0:21:52.79,0:21:54.08,Default,,0,0,0,,Boss.
 Dialogue: 10,0:21:54.08,0:21:56.34,Default,,0,0,0,,You know the Masked Swimsuit Gang?
-Dialogue: 10,0:21:56.34,0:21:58.60,Default,,0,0,0,,They're just the kids from Abydos.
-Dialogue: 10,0:21:58.60,0:22:00.41,Default,,0,0,0,,Oh, really?
+Dialogue: 10,0:21:56.34,0:21:58.59,Default,,0,0,0,,They're just the kids from Abydos.
+Dialogue: 10,0:21:58.59,0:22:00.42,Default,,0,0,0,,Oh, really?
 Dialogue: 10,0:22:01.09,0:22:02.22,Default,,0,0,0,,Huh?!
-Dialogue: 10,0:22:02.22,0:22:05.32,Default,,0,0,0,,W-W-W-W-What do you mean?!
-Dialogue: 10,0:22:05.32,0:22:07.46,Default,,0,0,0,,Look at her!\NShe's in shock!
-Dialogue: 10,0:22:07.46,0:22:10.48,Default,,0,0,0,,{=3}No... no way...!
+Dialogue: 10,0:22:02.22,0:22:05.30,Default,,0,0,0,,W-W-W-W-What do you mean?!
+Dialogue: 10,0:22:05.30,0:22:07.47,Default,,0,0,0,,Look at her!\NShe's in shock!
+Dialogue: 10,0:22:07.47,0:22:10.48,Default,,0,0,0,,{=3}No... no way...!
 
 [Aegisub Extradata]
 Data: 2,_aegi_folddata,e0;0;1
 Data: 3,_aegi_folddata,e1;0;1
 Data: 4,_aegi_folddata,e0;1;2
 Data: 5,_aegi_folddata,e1;1;2
+Data: 8,_aegi_folddata,e0;0;2
+Data: 9,_aegi_folddata,e1;0;2
