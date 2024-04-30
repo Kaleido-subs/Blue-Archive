@@ -422,9 +422,9 @@ Dialogue: 10,0:20:23.83,0:20:25.62,Default,,0,0,0,,The Masked Swimsuit Gang!
 Dialogue: 10,0:20:26.46,0:20:28.50,Default,,0,0,0,,The Masked Swimsuit Gang?!
 Dialogue: 10,0:20:28.50,0:20:30.71,Default,,0,0,0,,Wh-whoa... that's so cool!
 Dialogue: 10,0:20:30.71,0:20:32.25,Default,,0,0,0,,That's just too cool!
-Dialogue: 10,0:20:33.09,0:20:34.84,Default,,0,0,0,,Ho, ho, ho, and once more, ho! {TM: Might snap?}
-Dialogue: 10,0:20:35.21,0:20:36.59,Default,,0,0,0,,An eye for an eye.
-Dialogue: 10,0:20:36.59,0:20:37.84,Default,,0,0,0,,A tooth for a tooth.
+Dialogue: 10,0:20:33.09,0:20:34.84,Default,,0,0,0,,Ho, ho, ho, and once more, ho!
+Dialogue: 10,0:20:34.84,0:20:36.36,Default,,0,0,0,,An eye for an eye.
+Dialogue: 10,0:20:36.36,0:20:37.84,Default,,0,0,0,,A tooth for a tooth.
 Dialogue: 10,0:20:37.84,0:20:42.80,Default,,0,0,0,,We tread a path that none may follow,\Nand we do so without mercy.
 Dialogue: 10,0:20:42.80,0:20:45.10,Default,,0,0,0,,That is our motto! {TM: meme this transition.}
 Dialogue: 10,0:20:45.89,0:20:49.10,Default,,0,0,0,,So... cool! {TM: check leadin? Probably fine.}
@@ -440,14 +440,14 @@ Dialogue: 10,0:21:11.67,0:21:13.21,Default,,0,0,0,,I can't give up now!
 Dialogue: 10,0:21:15.25,0:21:16.51,Default,,0,0,0,,So when do we tell her?
 Dialogue: 10,0:21:16.51,0:21:19.30,Default,,0,0,0,,\NThis is hilarious, so not until way later.
 Dialogue: 10,0:21:19.30,0:21:21.80,Default,,0,0,0,,U-Um, so, what about this?
-Dialogue: 10,0:21:22.14,0:21:24.05,Default,,0,0,0,,Did they forget to take it with them? {TM: Might snap? Probs not.}
+Dialogue: 10,0:21:22.14,0:21:24.05,Default,,0,0,0,,Did they forget to take it with them?
 Dialogue: 10,0:21:26.56,0:21:27.81,Default,,0,0,0,,Oooh!
-Dialogue: 10,0:21:26.56,0:21:27.81,Alt,,0,0,0,,What?! {TM: Probably not too important which one of this is alt}
+Dialogue: 10,0:21:26.56,0:21:27.81,Alt,,0,0,0,,What?!
 Dialogue: 10,0:21:30.48,0:21:34.31,Default,,0,0,0,,Does this mean we don't have to skip meals anymore? {TM: crossfade leadout maybe}
 Dialogue: 10,0:21:38.03,0:21:41.11,Default,,0,0,0,,"We tread a path that none may follow..."
 Dialogue: 10,0:21:41.11,0:21:43.32,Default,,0,0,0,,Maybe I'll write it down\N and hang it up somewhere.
 Dialogue: 10,0:21:43.78,0:21:48.33,Default,,0,0,0,,Miss Aru's been talking about\Nthe Masked Swimsuit Gang ever since we got back.
-Dialogue: 10,0:21:49.33,0:21:51.29,Default,,0,0,0,,I wonder when she'll connect the dots... {TM: Might snap}
+Dialogue: 10,0:21:49.08,0:21:51.29,Default,,0,0,0,,I wonder when she'll connect the dots...
 Dialogue: 10,0:21:52.79,0:21:54.08,Default,,0,0,0,,Boss.
 Dialogue: 10,0:21:54.08,0:21:56.34,Default,,0,0,0,,You know the Masked Swimsuit Gang?
 Dialogue: 10,0:21:56.34,0:21:58.59,Default,,0,0,0,,They're just the kids from Abydos.
