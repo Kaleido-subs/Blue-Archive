@@ -305,13 +305,7 @@ Dialogue: 10,0:15:16.90,0:15:20.65,Default,,0,0,0,,Huh? Wait, what? \NYou mean m
 Dialogue: 10,0:15:20.65,0:15:21.65,Default,,0,0,0,,Of course.
 Dialogue: 10,0:15:21.65,0:15:26.70,Default,,0,0,0,,Hifumi- I mean, Faust, you're the leader!\NIn other words, you're our boss! {TM: Might want to split here but I'm lazy}
 Dialogue: 10,0:15:26.70,0:15:28.16,Default,,0,0,0,,And while we're at it,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,CONFLICT,Start of own hunk
-Dialogue: 10,0:15:29.99,0:15:32.04,Default,,0,0,0,,call me Christina, doll! {Is "doll" right? Well, that's for TLC to check ig. --ML} {It's just a random verbal tic that makes no sense, so I gave her a bit of flair here too --ik}
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,CONFLICT,End of own hunk; Start of common ancestor's hunk
-Dialogue: 10,0:15:29.99,0:15:32.04,Default,,0,0,0,,call me Christina, doll! {Is "doll" right? Well, that's for TLC to check ig. --ML}
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,CONFLICT,End of common ancestor's hunk; Start of other hunk
-Dialogue: 10,0:15:29.99,0:15:32.04,Default,,0,0,0,,call me Christina, doll! {Is "doll" right? TLC check pls --ML}
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,CONFLICT,End of other hunk
+Dialogue: 10,0:15:29.99,0:15:32.04,Default,,0,0,0,,call me Christina, doll! {Is "doll" right? TLC check pls --ML} {It's just a random verbal tic that makes no sense, so I gave her a bit of flair here too --ik}
 Dialogue: 10,0:15:32.49,0:15:34.54,Default,,0,0,0,,Huh? Aren't those the girls...
 Dialogue: 10,0:15:34.54,0:15:36.04,Default,,0,0,0,,...from Abydos...? {TM: split with ellipses because different speakers}
 Dialogue: 10,0:15:36.04,0:15:38.17,Default,,0,0,0,,S-Should we beat them up?
@@ -372,13 +366,7 @@ Dialogue: 10,0:17:47.71,0:17:52.72,Default,,0,0,0,,It's money that was funding c
 Dialogue: 10,0:17:52.72,0:17:57.56,Default,,0,0,0,,And besides, this much money would \N go a huge way towards paying off the school's debt!
 Dialogue: 10,0:17:57.56,0:17:59.60,Default,,0,0,0,,Are you sure you're okay with doing it like that?
 Dialogue: 10,0:18:04.10,0:18:05.73,Default,,0,0,0,,What do you think, Shiroko?
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,CONFLICT,Start of own hunk
-Dialogue: 10,0:18:06.02,0:18:07.90,Default,,0,0,0,,No point in asking.{TM: Might want to snap}
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,CONFLICT,End of own hunk; Start of common ancestor's hunk
-Dialogue: 10,0:18:06.02,0:18:07.90,Default,,0,0,0,,You already know.{TM: Might want to snap}
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,CONFLICT,End of common ancestor's hunk; Start of other hunk
-Dialogue: 10,0:18:06.02,0:18:07.90,Default,,0,0,0,,You already know.
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,CONFLICT,End of other hunk
+Dialogue: 10,0:18:06.02,0:18:07.90,Default,,0,0,0,,No point in asking.
 Dialogue: 10,0:18:07.90,0:18:09.74,Default,,0,0,0,,You'd say no.
 Dialogue: 10,0:18:09.74,0:18:10.24,Default,,0,0,0,,Huh?
 Comment: 10,0:18:10.53,0:18:12.49,Default,,0,0,0,,Got me there, Shiroko.
@@ -419,13 +407,7 @@ Dialogue: 10,0:19:43.87,0:19:47.04,Default,,0,0,0,,Honestly, I was blown away.
 Dialogue: 10,0:19:47.04,0:19:50.63,Default,,0,0,0,,To witness such a daring display! \NI was shaken to my core!
 Dialogue: 10,0:19:50.63,0:19:52.59,Default,,0,0,0,,You've inspired me!
 Dialogue: 10,0:19:52.59,0:19:56.55,Default,,0,0,0,,I'm going to do my best to become become an outlaw just like you!
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,CONFLICT,Start of own hunk
-Dialogue: 10,0:19:56.55,0:19:58.89,Default,,0,0,0,,A truly free spirit that answers to nobody! {TM: lol CPS} {I would probably rearrange this and the last line a bit ngl --ML} {I can squash it too --ik}
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,CONFLICT,End of own hunk; Start of common ancestor's hunk
-Dialogue: 10,0:19:56.55,0:19:58.89,Default,,0,0,0,,Living by my own rules, a truly free spirit that answers to nobody! {TM: lol CPS} {I would probably rearrange this and the last line a bit ngl --ML}
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,CONFLICT,End of common ancestor's hunk; Start of other hunk
-Dialogue: 10,0:19:56.55,0:19:58.89,Default,,0,0,0,,Living by my own rules, a truly free spirit that answers to nobody! {TM: lol CPS} {also I would probably rearrange this and the last line a bit ngl --ML}
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,CONFLICT,End of other hunk
+Dialogue: 10,0:19:56.55,0:19:58.89,Default,,0,0,0,,A truly free spirit that answers to nobody! {Original, for posterity: "Living by my own rules, a truly free spirit that answers to nobody!"} {TM: lol CPS} {also I would probably rearrange this and the last line a bit ngl --ML} {I can squash it too --ik}
 Dialogue: 10,0:19:58.89,0:20:00.51,Default,,0,0,0,,What is she talking about?
 Dialogue: 10,0:20:00.51,0:20:01.26,Default,,0,0,0,,Beats me.
 Dialogue: 10,0:20:01.26,0:20:03.39,Default,,0,0,0,,Well, there you have it, so...
