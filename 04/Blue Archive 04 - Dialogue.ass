@@ -115,7 +115,7 @@ Dialogue: 10,0:05:43.24,0:05:44.37,Default,,0,0,0,,That was a close call.
 Dialogue: 10,0:05:44.37,0:05:46.41,Default,,0,0,0,,Oh, thank you so much!
 Dialogue: 10,0:05:46.91,0:05:49.91,Default,,0,0,0,,My name is Ajitani Hifumi.
 Dialogue: 10,0:05:50.20,0:05:52.46,Default,,0,0,0,,Hifumi{**-chan}, huh? Pleasure to meetcha!
-Dialogue: 10,0:05:52.96,0:05:56.92,Default,,0,0,0,,But I gotta ask, what brings such a sweet girl \Nfrom Trinity to this sketchy part of town?
+Dialogue: 10,0:05:52.96,0:05:56.92,Default,,0,0,0,,But I gotta ask, what brings a kind girl \Nfrom Trinity to this sketchy part of town?
 Dialogue: 10,0:05:56.92,0:05:59.34,Default,,0,0,0,,Well, you see...
 Dialogue: 10,0:05:59.71,0:06:02.01,Default,,0,0,0,,I'm actually looking for something.
 Dialogue: 10,0:06:02.01,0:06:04.76,Default,,0,0,0,,It's no longer being sold in stores,
@@ -149,7 +149,7 @@ Dialogue: 10,0:07:19.75,0:07:23.51,Default,,0,0,0,,I've heard that the security 
 Dialogue: 10,0:07:23.51,0:07:26.88,Default,,0,0,0,,Wow, Hifumi{**-chan}, you sure know your stuff.
 Dialogue: 10,0:07:26.88,0:07:29.26,Default,,0,0,0,,Oh, no, I wouldn't say that.
 Dialogue: 10,0:07:29.26,0:07:31.31,Default,,0,0,0,,All right, that's settled, then!
-Dialogue: 10,0:07:31.31,0:07:36.19,Default,,0,0,0,,We scratched your back, so now it's time you scratch ours \Nand help us find what we're looking for! {I want to split this line --ik}{### I don't really see much benefit here. It would absolutely fuck the CPS and readability}
+Dialogue: 10,0:07:31.31,0:07:36.19,Default,,0,0,0,QC,We scratched your back, so now it's time you scratch ours \Nand help us find what we're looking for! {I want to split this line --ik}{### I don't really see much benefit here. It would absolutely fuck the CPS and readability}
 Dialogue: 10,0:07:36.77,0:07:39.31,Default,,0,0,0,,Huh? Wait, what?
 Dialogue: 10,0:07:41.65,0:07:44.82,Default,,0,0,0,,Are you sure we want a loan from {\i1}these{\i0} guys?
 Dialogue: 10,0:07:45.86,0:07:48.57,Default,,0,0,0,,This is the shady Black Market bank, you know?
@@ -222,7 +222,7 @@ Dialogue: 10,0:11:24.91,0:11:26.50,Default,,0,0,0,,Wait, you can't seriously mea
 Dialogue: 10,0:11:26.96,0:11:30.00,Default,,0,0,0,,You're not thinking what I'm thinking, r-right?
 Dialogue: 10,0:11:30.42,0:11:33.34,Default,,0,0,0,,Um, I'm sorry, I'm not sure I follow.
 Dialogue: 10,0:11:33.34,0:11:36.01,Default,,0,0,0,,It's our only option.
-Dialogue: 10,0:11:37.18,0:11:38.76,Default,,0,0,0,,We rob the bank. {### alt idea: "Plan: We Rob the *B*ank."}
+Dialogue: 10,0:11:37.18,0:11:38.76,Default,,0,0,0,TLC/QC,We rob the bank. {### alt idea: "Plan: We Rob the *B*ank."}
 Dialogue: 10,0:11:39.22,0:11:40.26,Default,,0,0,0,,Excuse me?!
 Dialogue: 10,0:11:40.26,0:11:43.35,Default,,0,0,0,,Shiroko, hold on! There's gotta be another—
 Dialogue: 10,0:11:43.35,0:11:44.27,Default,,0,0,0,,It's okay.
@@ -259,7 +259,7 @@ Dialogue: 10,0:12:55.88,0:12:56.21,Default,,0,0,0,shenan,{\move(960,1020,960,102
 Dialogue: 10,0:12:56.21,0:12:56.26,Default,,0,0,0,shenan,{\move(960,1020,960,1020,0,50)\clip(965,930,1123,1041)\t(0,50,\clip(965,930,1123,1041))}Masked Swimsuit Gang!
 Dialogue: 10,0:12:57.42,0:12:59.47,Default,,0,0,0,,Roll out!
 Dialogue: 10,0:13:05.14,0:13:07.22,Default,,0,0,0,,Thank you for your patience.
-Dialogue: 10,0:13:07.22,0:13:09.35,Default,,0,0,0,,Thank you. In fact, I've just about run out. {### there's something way better here but I'm super tired and drawing a blank get back to me later} {Say no more, fam --ik}{"Yes, I've been waiting here long enough" --rapid}{### still not in love with this but it's fine}
+Dialogue: 10,0:13:07.22,0:13:09.35,Default,,0,0,0,QC,Thank you. In fact, I've just about run out. {### there's something way better here but I'm super tired and drawing a blank get back to me later} {Say no more, fam --ik}{"Yes, I've been waiting here long enough" --rapid}{### still not in love with this but it's fine}
 Dialogue: 10,0:13:09.35,0:13:13.69,Default,,0,0,0,,What's the bottom line? \NI need money, and I need it now.
 Dialogue: 10,0:13:13.69,0:13:17.61,Default,,0,0,0,,I'm terribly sorry, but we are unable \Nto process your request at this time.
 Dialogue: 10,0:13:18.28,0:13:21.11,Default,,0,0,0,,Wait, what? You mean you can't lend us the money?
@@ -301,7 +301,7 @@ Dialogue: 10,0:15:18.52,0:15:20.65,Default,,0,0,0,,Wait, what? Y-You mean me? I'
 Dialogue: 10,0:15:20.65,0:15:21.65,Default,,0,0,0,,Who else?
 Dialogue: 10,0:15:21.65,0:15:26.70,Default,,0,0,0,,Hifumi{**-s}—I mean, Faust{**-san}, you're the leader! \NIn other words, you're our boss!
 Dialogue: 10,0:15:26.70,0:15:28.16,Default,,0,0,0,,And while we're at it...
-Dialogue: 10,0:15:29.99,0:15:32.04,Default,,0,0,0,QC,Call me Christina, girls! {She has a completely random verbal tic here that emphasises just how random and dumb this sudden character is, and I'd like to reflect that if possible --ik} {y'all does no really do it well, maybe "Girls, call me Christina!" or smth --rapid}{### petz you got any fun ideas?}
+Dialogue: 10,0:15:29.99,0:15:32.04,Default,,0,0,0,QC,Call me Christina, gals! {She has a completely random verbal tic here that emphasises just how random and dumb this sudden character is, and I'd like to reflect that if possible --ik} {y'all does no really do it well, maybe "Girls, call me Christina!" or smth --rapid}{### petz you got any fun ideas?}
 Dialogue: 10,0:15:32.49,0:15:34.54,Default,,0,0,0,,Huh? Aren't they those girls?
 Dialogue: 10,0:15:34.54,0:15:36.04,Default,,0,0,0,,Yeah, from Abydos.
 Dialogue: 10,0:15:36.04,0:15:38.17,Default,,0,0,0,,Sh-Should we beat them up?
@@ -372,7 +372,7 @@ Dialogue: 10,0:18:41.43,0:18:46.27,Default,,0,0,0,,we coulda just used Nonomi{**
 Dialogue: 10,0:18:46.27,0:18:49.78,Default,,0,0,0,,But you said we shouldn't...
 Dialogue: 10,0:18:49.78,0:18:51.57,Default,,0,0,0,,Oh! I remember now!
 Dialogue: 10,0:18:51.57,0:18:54.20,Default,,0,0,0,,If we can't pay the full sum in one go,
-Dialogue: 10,0:18:54.20,0:18:57.28,Default,,0,0,0,,we'll lose the Abydos we were trying to protect.
+Dialogue: 10,0:18:54.20,0:18:57.28,Default,,0,0,0,QC,we'll lose the Abydos we were trying to protect. {"we'll be beholden to something else.", which I think much better fits Hoshino's message} {what is there is accurate and i like, but up to ed in the end --rapid}{### petz, got any ideas?}
 Dialogue: 10,0:18:57.28,0:18:58.66,Default,,0,0,0,,That's right.
 Dialogue: 10,0:18:59.03,0:19:01.54,Default,,0,0,0,,Let's take just the documents.
 Dialogue: 10,0:19:02.04,0:19:02.91,Default,,0,0,0,,Is that okay?
@@ -399,7 +399,7 @@ Dialogue: 10,0:20:00.51,0:20:01.26,Default,,0,0,0,,Beats me.
 Dialogue: 10,0:20:01.26,0:20:03.39,Default,,0,0,0,,Well, there you have it, so...
 Dialogue: 10,0:20:03.39,0:20:06.89,Default,,0,0,0,,If you would be so kind, \Ncould you please tell me your name?
 Dialogue: 10,0:20:06.89,0:20:08.31,Default,,0,0,0,,Our name?
-Dialogue: 10,0:20:08.31,0:20:11.77,Default,,0,0,0,,Like you've got to have a team name, \Nor a group name, right? {### I don't like double name but blanking atm because just woke up}
+Dialogue: 10,0:20:08.31,0:20:11.77,Default,,0,0,0,QC,Like you've got to have a team name, \Nor a group name, right? {### I don't like double name but blanking atm because just woke up}
 Dialogue: 10,0:20:11.77,0:20:15.82,Default,,0,0,0,,Something I can use to remember \Nyour brave exploits today.
 Dialogue: 10,0:20:15.82,0:20:18.70,Default,,0,0,0,,Of course! I totally get what you mean!
 Dialogue: 10,0:20:18.70,0:20:20.24,Default,,0,0,0,,N-Nonomi{**-senpai}, what are you doing?!
@@ -446,5 +446,3 @@ Data: 8,_aegi_folddata,e0;1;3
 Data: 9,_aegi_folddata,e1;1;3
 Data: 15,_aegi_folddata,e0;0;5
 Data: 16,_aegi_folddata,e1;0;5
-Data: 19,_aegi_folddata,e0;0;3
-Data: 20,_aegi_folddata,e1;0;3
