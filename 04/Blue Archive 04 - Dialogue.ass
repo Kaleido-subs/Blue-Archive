@@ -52,23 +52,23 @@ Dialogue: 10,0:00:49.28,0:00:53.20,Default,,0,0,0,,I’ve just been declared a w
 Dialogue: 10,0:00:53.20,0:00:55.03,Default,,0,0,0,,Oh right, that was it!
 Dialogue: 10,0:00:55.46,0:00:56.64,Default,,0,0,0,,Just you watch!
 Dialogue: 10,0:00:57.02,0:00:59.94,Default,,0,0,0,,We'll complete the mission, no matter what!
-Dialogue: 10,0:02:31.30,0:02:35.51,Default,,0,0,0,,Thank you for doing business with Kaiser Loan! {"Thank you for choosing..." feels like the standard canned business greeting but it's also a little short -- ik}
+Dialogue: 10,0:02:31.30,0:02:35.51,Default,,0,0,0,,Thank you for choosing Kaiser Loan! {"Thank you for choosing..." feels like the standard canned business greeting but it's also a little short -- ik} {We used "Thank you for choosing Kaiser Loan" in ep1, we should be consistent with that. Changed to do that --rapid}
 Dialogue: 10,0:02:35.51,0:02:41.89,Default,,0,0,0,,We have verified the receipt of 7,883,250 yen in cash.
-Dialogue: 10,0:02:41.89,0:02:44.56,Default,,0,0,0,,I'll see you again next month.
+Dialogue: 10,0:02:41.89,0:02:44.56,Default,,0,0,0,,See you again next month! {Change to match episode 1 --rapid}
 Dialogue: 10,0:02:47.60,0:02:50.02,Default,,0,0,0,,We made it through another month, huh?
 Dialogue: 10,0:02:50.57,0:02:55.82,Default,,0,0,0,,I wonder why they only accept cash for payment.
-Dialogue: 10,0:02:55.82,0:03:00.62,Default,,0,0,0,,Good point. It would be much simpler \Nto transfer the money from a bank account.
+Dialogue: 10,0:02:55.82,0:03:00.62,Default,,0,0,0,,Good point. It would be much simpler \Nto transfer the money from a bank account. {It would be simpiler because it is faster, missing the context of that --rapid}
 Dialogue: 10,0:03:00.62,0:03:04.33,Default,,0,0,0,,No attacking the transport car, Shiroko{**-senpai}.
 Dialogue: 10,0:03:05.23,0:03:06.51,Default,,0,0,0,,I know.
 Dialogue: 10,0:03:07.17,0:03:10.42,Default,,0,0,0,,Now then, let's begin our regular meeting.
 Dialogue: 10,0:03:10.42,0:03:13.55,Default,,0,0,0,,For starters, about the part \Nwe recovered the other day.
 Dialogue: 10,0:03:14.05,0:03:17.80,Default,,0,0,0,,I looked into it, and it turns out it did in fact \Noriginate from the Black Market.
 Dialogue: 10,0:03:18.10,0:03:22.99,Default,,0,0,0,,The Black Market is a place \Nnotorious for its illegal dealings,
-Dialogue: 10,0:03:22.99,0:03:29.06,Default,,0,0,0,,and it's a hotbed for unauthorised club activity.
+Dialogue: 10,0:03:22.99,0:03:29.06,Default,,0,0,0,,and it's a hotbed for unauthorised club activity. {Missing the part about how the General Student Council has weaking strenth in the area, though unsure how to word it. The accuracy in these two lines isn't great --rapid}{rapid coming back later, this is literally mention several times again so its important to lead with it --rapid}
 Dialogue: 10,0:03:29.06,0:03:32.82,Default,,0,0,0,,{\3c&HFFFFFF&\4c&HFFFFFF&\t(66,316,\3c&H000000&\4c&H000000&)}It appears Problem Solver 68 frequents the area as well.
 Dialogue: 10,0:03:32.82,0:03:35.03,Default,,0,0,0,,Problem Solver 68...
 Dialogue: 10,0:03:35.03,0:03:39.95,Default,,0,0,0,,The Helmet Gang was one thing, \Nbut now these girls are after our school too.
-Dialogue: 10,0:03:39.95,0:03:44.33,Default,,0,0,0,,Given how often we're being raided, \Nthere's gotta be more to the story. {### Could she mean *who* has been raiding them, not that it's an often occurance? Would make more sense with Ayane's response about looking into the connections between the Black Market and the two groups who attacked the school.} {More like the frequency is suspicious. Once is weird, twice is a pattern -- ik}
+Dialogue: 10,0:03:39.95,0:03:44.33,Default,,0,0,0,,Given how often we're being raided, \Nthere's gotta be more to the story. {### Could she mean *who* has been raiding them, not that it's an often occurance? Would make more sense with Ayane's response about looking into the connections between the Black Market and the two groups who attacked the school.} {More like the frequency is suspicious. Once is weird, twice is a pattern -- ik} {what ik said --rapid}
 Dialogue: 10,0:03:44.33,0:03:46.08,Default,,0,0,0,,I wonder why they're doing this.
 Dialogue: 10,0:03:46.46,0:03:47.29,Default,,0,0,0,,Indeed.
 Dialogue: 10,0:03:47.29,0:03:51.84,Default,,0,0,0,,Investigating the connection \Nmight help us discover the truth.
@@ -96,7 +96,7 @@ Dialogue: 10,0:04:50.19,0:04:51.85,Default,,0,0,0,,Quit runnin' already!
 Dialogue: 10,0:04:51.85,0:04:54.48,Default,,0,0,0,,P-Please, leave me alone!
 Dialogue: 10,0:04:54.48,0:04:55.90,Default,,0,0,0,,As if!
 Dialogue: 10,0:04:55.90,0:04:57.74,Default,,0,0,0,,Come on, let's have some fun!
-Dialogue: 10,0:04:59.91,0:05:03.74,Default,,0,0,0,,If it's all the same, that doesn't \N sound like it'd be very fun!{###} {She is still from Trinity, so she's very polite.--ik}
+Dialogue: 10,0:04:59.91,0:05:03.74,Default,,0,0,0,,If it's all the same, that doesn't \N sound like it'd be very fun!{###} {She is still from Trinity, so she's very polite.--ik} {the first part of this sentance makes no sense in english at all, don't know what its trying to say. Maybe something like "If it has to do with me it doesn't sound like it" --rapid }
 Dialogue: 10,0:05:04.44,0:05:05.99,Default,,0,0,0,,That uniform...
 Dialogue: 10,0:05:05.99,0:05:07.62,Default,,0,0,0,,Is she from Trinity?
 Comment: 10,0:05:07.62,0:05:09.08,Default,,0,0,0,,{Hifumi noises}
@@ -131,7 +131,7 @@ Dialogue: 10,0:06:20.11,0:06:20.99,Default,,0,0,0,,Peroro?
 Dialogue: 10,0:06:20.99,0:06:22.78,Default,,0,0,0,,Yes, this handsome guy right here!
 Dialogue: 10,0:06:22.78,0:06:27.41,Default,,0,0,0,,It's a Peroro{**-sama} plush that had a very limited run. \NOnly one hundred units were ever produced!
 Dialogue: 10,0:06:27.41,0:06:30.16,Default,,0,0,0,,Oh, it's from Momo Friends!
-Dialogue: 10,0:06:30.16,0:06:32.37,Default,,0,0,0,,I watch that show all the time! {Is it a show? --ik}
+Dialogue: 10,0:06:30.16,0:06:32.37,Default,,0,0,0,,I watch that show all the time! {Is it a show? --ik} {isn't it jsut a mascot? its better to leave it as "Im also in love with it!" --rapid}
 Dialogue: 10,0:06:32.37,0:06:34.54,Default,,0,0,0,,Peroro{**-chan}'s just the cutest!
 Dialogue: 10,0:06:34.54,0:06:36.04,Default,,0,0,0,,You like him too?!
 Dialogue: 10,0:06:36.31,0:06:37.31,Default,,0,0,0,,Of course!
@@ -152,7 +152,7 @@ Dialogue: 10,0:07:29.26,0:07:31.31,Default,,0,0,0,,All right, that's settled, th
 Dialogue: 10,0:07:31.31,0:07:36.19,Default,,0,0,0,,We scratched your back, so now it's time you scratch ours \Nand help us find what we're looking for! {I want to split this line --ik}
 Dialogue: 10,0:07:36.77,0:07:39.31,Default,,0,0,0,,Huh? Wait, what?
 Dialogue: 10,0:07:41.65,0:07:44.82,Default,,0,0,0,,Are you sure we want a loan from {\i1}these{\i0} guys?
-Dialogue: 10,0:07:45.86,0:07:48.57,Default,,0,0,0,,This is the Black Market bank, you know?
+Dialogue: 10,0:07:45.86,0:07:48.57,Default,,0,0,0,,This is the Black Market bank, you know?{she also calls it a shaddy bank, but idk if thats even necesary in english --rapid}{rapid come back part 2, hifumi says the same thing so maybe good to keep --rapid}
 Dialogue: 10,0:07:48.57,0:07:51.49,Default,,0,0,0,,Th-The interest rates must be a-astronomical..
 Dialogue: 10,0:07:51.49,0:07:55.58,Default,,0,0,0,,Hey, let's be real here. Aru{**-chan} probably won't even \Npass the background check anyway!
 Dialogue: 10,0:07:55.58,0:07:58.83,Default,,0,0,0,,Sh-Shut it! Of course I'll pass!
@@ -189,13 +189,13 @@ Dialogue: 10,0:09:35.55,0:09:37.10,Default,,0,0,0,,Wait, isn't that...
 Dialogue: 10,0:09:37.56,0:09:40.85,Default,,0,0,0,,The person who always collects our money?
 Dialogue: 10,0:09:40.85,0:09:44.21,Default,,0,0,0,,Thank you for your patience. \NHere is this month's collection.
 Dialogue: 10,0:09:44.21,0:09:45.61,Default,,0,0,0,,Thank you.
-Dialogue: 10,0:09:45.91,0:09:48.28,Default,,0,0,0,,Now if you would please sign here. {seems more natural to use a canned "please sign here" --ik}
+Dialogue: 10,0:09:45.91,0:09:48.28,Default,,0,0,0,,Now if you would please sign here. {seems more natural to use a canned "please sign here" --ik} {Or "Could you please sign here" --rapid}
 Dialogue: 10,0:09:48.28,0:09:49.11,Default,,0,0,0,,Of course.
-Dialogue: 10,0:09:53.70,0:09:56.66,Default,,0,0,0,,Wait, that means Kaiser Loan has ties with that bank.
+Dialogue: 10,0:09:53.70,0:09:56.66,Default,,0,0,0,,Wait, that means Kaiser Loan has ties with that bank. {Sound off, maybe cute the "that means." also dropped the shaddy here, but prob doesn't need it to be repeated again--rapid}
 Dialogue: 10,0:09:57.16,0:09:58.84,Default,,0,0,0,,Did you say Kaiser Loan?!
 Dialogue: 10,0:09:58.84,0:10:00.66,Default,,0,0,0,,You know them, Hifumi{**-chan}?
 Dialogue: 10,0:10:00.66,0:10:07.13,Default,,0,0,0,,Umm, they're the loan sharks run by \Nthe infamous Kaiser Corporation, right?
-Dialogue: 10,0:10:07.13,0:10:08.55,Default,,0,0,0,,Is it a bad company? {I want to avoid implying that they don't know Kaiser Loan is shady since they already know they're loan sharks --ik}
+Dialogue: 10,0:10:07.13,0:10:08.55,Default,,0,0,0,,Is it a bad company? {I want to avoid implying that they don't know Kaiser Loan is shady since they already know they're loan sharks --ik}{think this is fine, maybe "Are they a bad company" instead thoug --rapid}
 Dialogue: 10,0:10:08.55,0:10:09.42,Default,,0,0,0,,Yes.
 Dialogue: 10,0:10:09.65,0:10:15.87,Default,,0,0,0,,The Kaiser Group is a conglomerate known \Nfor skirting the line of legality.
 Dialogue: 10,0:10:15.87,0:10:18.56,Default,,0,0,0,,They don't sound like the cleanest place to work.
@@ -207,7 +207,7 @@ Dialogue: 10,0:10:31.61,0:10:34.74,Default,,0,0,0,,I can't believe the money \Nw
 Dialogue: 10,0:10:34.74,0:10:40.41,Default,,0,0,0,,You mean our money has been funding \Ncriminal activity this whole time?
 Dialogue: 10,0:10:40.41,0:10:42.58,Default,,0,0,0,,W-We don't know that for sure.
 Dialogue: 10,0:10:42.91,0:10:48.34,Default,,0,0,0,,We don't have any direct proof that Kaiser Loan \Nwas taking {\i1}our{\i0} money to the Black Market bank.
-Dialogue: 10,0:10:50.79,0:10:54.13,Default,,0,0,0,,They should have a collection form \Nthat says where the money came from. {### TLC?} 
+Dialogue: 10,0:10:50.79,0:10:54.13,Default,,0,0,0,,They should have a collection form \Nthat says where the money came from. {### TLC?}{eh this is fine. maybe "They should have a certificate/reciept that notes the details of the exchange." --rapud }
 Dialogue: 10,0:10:54.13,0:10:57.47,Default,,0,0,0,,If you can get that, \Nwouldn't that count as evidence?
 Dialogue: 10,0:10:57.47,0:10:58.35,Default,,0,0,0,,Oh!
 Dialogue: 10,0:10:58.80,0:11:02.98,Default,,0,0,0,,Oh, but now that I think about it, they probably \Nalready took those documents inside,
@@ -219,7 +219,7 @@ Dialogue: 10,0:11:17.62,0:11:19.74,Default,,0,0,0,,Hm? Which plan?
 Dialogue: 10,0:11:19.74,0:11:21.24,Default,,0,0,0,,Oh, {\i1}that{\i0} plan!
 Dialogue: 10,0:11:21.24,0:11:24.91,Default,,0,0,0,,I agree. That might be just what we need!
 Dialogue: 10,0:11:24.91,0:11:26.50,Default,,0,0,0,,Wait, you can't seriously mean...
-Dialogue: 10,0:11:26.96,0:11:30.00,Default,,0,0,0,,You're not thinking what I'm thinking, r-right? 
+Dialogue: 10,0:11:26.96,0:11:30.00,Default,,0,0,0,,You're not thinking what I'm thinking, r-right?
 Dialogue: 10,0:11:30.42,0:11:33.34,Default,,0,0,0,,Um, I'm sorry, I'm not sure I follow.
 Dialogue: 10,0:11:33.34,0:11:36.01,Default,,0,0,0,,It's our only option.
 Dialogue: 10,0:11:37.18,0:11:38.76,Default,,0,0,0,,We rob the bank.
@@ -246,7 +246,7 @@ Dialogue: 10,0:12:21.18,0:12:26.56,Default,,0,0,0,,D-Do I really have to do this
 Dialogue: 10,0:12:26.56,0:12:30.35,Default,,0,0,0,,Of course you do, Hifumi{**-chan}. \NYou promised, remember?
 Dialogue: 10,0:12:30.35,0:12:32.82,Default,,0,0,0,,You said you'd help us find what we're looking for.
 Dialogue: 10,0:12:32.82,0:12:34.48,Default,,0,0,0,,Oh no...
-Dialogue: 10,0:12:34.48,0:12:39.78,Default,,0,0,0,,H-How would I ever explain this to \Nthe Tea Party if they found out? {### I know she says seitokai here, but the student council there is called the Tea Party, no? Probs best to use that here then.} {Yeah, I was wondering why because she explicitly says Tea Party in game too --ik}
+Dialogue: 10,0:12:34.48,0:12:39.78,Default,,0,0,0,,H-How would I ever explain this to \Nthe Tea Party if they found out? {### I know she says seitokai here, but the student council there is called the Tea Party, no? Probs best to use that here then.} {Yeah, I was wondering why because she explicitly says Tea Party in game too --ik}{ i say use it, i also remeber them saying tea party in the gane --rapid}
 Dialogue: 10,0:12:39.78,0:12:42.95,Default,,0,0,0,,You'll be a-okay! \NWe're the good guys here.
 Dialogue: 10,0:12:42.95,0:12:44.16,Default,,0,0,0,,And you, {*}Teacher{*Sensei}?
 Dialogue: 10,0:12:44.74,0:12:46.45,Default,,0,0,0,,I'm in, too.
@@ -259,7 +259,7 @@ Dialogue: 10,0:12:55.88,0:12:56.21,Default,,0,0,0,shenan,{\move(960,1020,960,102
 Dialogue: 10,0:12:56.21,0:12:56.26,Default,,0,0,0,shenan,{\move(960,1020,960,1020,0,50)\clip(965,930,1123,1041)\t(0,50,\clip(965,930,1123,1041))}Masked Swimsuit Gang!
 Dialogue: 10,0:12:57.42,0:12:59.47,Default,,0,0,0,,Roll out!
 Dialogue: 10,0:13:05.14,0:13:07.22,Default,,0,0,0,,Thank you for your patience.
-Dialogue: 10,0:13:07.22,0:13:09.35,Default,,0,0,0,,Yes, in fact I think I've just about run out. {### there's something way better here but I'm super tired and drawing a blank get back to me later} {Say no more, fam --ik}
+Dialogue: 10,0:13:07.22,0:13:09.35,Default,,0,0,0,,Yes, in fact I think I've just about run out. {### there's something way better here but I'm super tired and drawing a blank get back to me later} {Say no more, fam --ik}{"Yes, I've been waiting here long enough" --rapid}
 Dialogue: 10,0:13:09.35,0:13:13.69,Default,,0,0,0,,What's the bottom line? \NI need money, and I need it now.
 Dialogue: 10,0:13:13.69,0:13:17.61,Default,,0,0,0,,I'm terribly sorry, but we are unable \Nto process your request at this time.
 Dialogue: 10,0:13:18.28,0:13:21.11,Default,,0,0,0,,Wait, what? You mean you can't lend us the money?
@@ -287,7 +287,7 @@ Dialogue: 10,0:14:28.14,0:14:30.43,Default,,0,0,0,,{\i1}Or at least, that was th
 Dialogue: 10,0:14:43.32,0:14:46.70,Default,,0,0,0,,Drop your weapons! Get down on the ground!
 Dialogue: 10,0:14:46.70,0:14:48.45,Default,,0,0,0,,A-Are they bank robbers?
 Dialogue: 10,0:14:48.45,0:14:52.45,Default,,0,0,0,,Do as we say or you'll eat lead!
-Dialogue: 10,0:14:52.45,0:14:55.58,Default,,0,0,0,,Uh, umm... For your safety, {I refuse to believe Hifumi even knows what a "stick-up" is --ik}
+Dialogue: 10,0:14:52.45,0:14:55.58,Default,,0,0,0,,Uh, umm... For your safety, {I refuse to believe Hifumi even knows what a "stick-up" is --ik} {ik changed it but yeah this is much better --rapid}
 Dialogue: 10,0:14:55.58,0:14:58.04,Default,,0,0,0,,please stay calm and get on the ground!
 Dialogue: 10,0:14:58.88,0:15:01.84,Default,,0,0,0,,Hey, wise guy. She said drop your weapons.
 Dialogue: 10,0:15:02.80,0:15:04.26,Default,,0,0,0,,Hey, girls...
@@ -301,7 +301,7 @@ Dialogue: 10,0:15:18.53,0:15:20.65,Default,,0,0,0,,Wait, what? Y-You mean me? I'
 Dialogue: 10,0:15:20.65,0:15:21.65,Default,,0,0,0,,Who else?
 Dialogue: 10,0:15:21.65,0:15:26.70,Default,,0,0,0,,Hifumi{**-s}—I mean, Faust{**-san}, you're the leader! \NIn other words, you're our boss!
 Dialogue: 10,0:15:26.70,0:15:28.16,Default,,0,0,0,,And while we're at it...
-Dialogue: 10,0:15:29.99,0:15:32.04,Default,,0,0,0,,I'm Christina, y'all! {She has a completely random verbal tic here that emphasises just how random and dumb this sudden character is, and I'd like to reflect that if possible --ik}
+Dialogue: 10,0:15:29.99,0:15:32.04,Default,,0,0,0,,I'm Christina, y'all! {She has a completely random verbal tic here that emphasises just how random and dumb this sudden character is, and I'd like to reflect that if possible --ik} {y'all does no really do it well, maybe "Girls, call me Christina!" or smth --rapid}
 Dialogue: 10,0:15:32.49,0:15:34.54,Default,,0,0,0,,Huh? Isn't that those girls?
 Dialogue: 10,0:15:34.54,0:15:36.04,Default,,0,0,0,,Yeah, from Abydos.
 Dialogue: 10,0:15:36.04,0:15:38.17,Default,,0,0,0,,Sh-Should we beat them up?
@@ -320,7 +320,7 @@ Dialogue: 10,0:16:09.28,0:16:11.87,Default,,0,0,0,,{\i1}Now that's what I call {
 Dialogue: 10,0:16:11.87,0:16:14.12,Default,,0,0,0,,{\i1}Oh dear, I think I'm tearing up!
 Dialogue: 10,0:16:14.45,0:16:15.87,Default,,0,0,0,,H-Here it is!
 Dialogue: 10,0:16:15.87,0:16:18.00,Default,,0,0,0,,Please, just take it! Don't kill me!
-Dialogue: 10,0:16:18.58,0:16:21.88,Default,,0,0,0,,Shiro—I mean, Blue Two. \NHave you secured the package? {### just Blue in the game.}
+Dialogue: 10,0:16:18.58,0:16:21.88,Default,,0,0,0,,Shiro—I mean, Blue Two. \NHave you secured the package? {### just Blue in the game.} {Lit s Blue Two, but prob better to use localzied one --rapid}
 Dialogue: 10,0:16:21.88,0:16:24.38,Default,,0,0,0,,Uh, yeah. It's just...
 Dialogue: 10,0:16:24.38,0:16:26.67,Default,,0,0,0,,All righty. Let's make like a tree and skedaddle!
 Dialogue: 10,0:16:26.67,0:16:28.26,Default,,0,0,0,,Come on, gang, we're leaving!
@@ -335,7 +335,7 @@ Dialogue: 10,0:16:51.49,0:16:53.37,Default,,0,0,0,,Good work, everyone.
 Dialogue: 10,0:16:53.37,0:16:55.41,Default,,0,0,0,,Heck yeah! We did it!
 Dialogue: 10,0:16:55.41,0:16:58.54,Default,,0,0,0,,I feel my actions as a teacher are questionable at best.
 Comment: 0,0:16:58.58,0:16:59.41,Default,,0,0,0,,{Hifumi noises}
-Dialogue: 10,0:16:59.41,0:17:02.13,Default,,0,0,0,,Shiroko{**-chan}, you got the transport logs?
+Dialogue: 10,0:16:59.41,0:17:02.13,Default,,0,0,0,,Shiroko{**-chan}, you got the transport logs? {should we match this with what hifumi says earlier? slightly different things they say but similar --rapid}
 Dialogue: 10,0:17:02.13,0:17:03.17,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:17:05.59,0:17:08.17,Default,,0,0,0,,Whoa! What the heck is all this?!
 Dialogue: 10,0:17:08.17,0:17:11.59,Default,,0,0,0,,Shiroko{**-senpai}, you went for the cash instead?!
@@ -373,7 +373,7 @@ Dialogue: 10,0:18:46.27,0:18:49.78,Default,,0,0,0,,But you said we shouldn't...
 Dialogue: 10,0:18:49.78,0:18:51.57,Default,,0,0,0,,Oh! I remember now!
 Comment: 10,0:18:51.57,0:18:57.28,Default,,0,0,0,,If we can't pay back the money the right way, we'll lose the Abydos we were trying to protect anyway. {TM: unsplit ver}
 Dialogue: 10,0:18:51.57,0:18:54.20,Default,,0,0,0,,If we can't pay the full sum in one go,
-Dialogue: 10,0:18:54.20,0:18:57.28,Default,,0,0,0,,we'll lose the Abydos we were trying to protect anyway. {\Nwe'll be beholden to something else.", which I think much better fits Hoshino's message}
+Dialogue: 10,0:18:54.20,0:18:57.28,Default,,0,0,0,,we'll lose the Abydos we were trying to protect anyway. {\Nwe'll be beholden to something else.", which I think much better fits Hoshino's message} {what is there is accurate and i like, but up to ed in the end --rapid}
 Dialogue: 10,0:18:57.28,0:18:58.66,Default,,0,0,0,,That's right.
 Dialogue: 10,0:18:59.03,0:19:01.54,Default,,0,0,0,,Let's take just the documents.
 Dialogue: 10,0:19:02.04,0:19:02.91,Default,,0,0,0,,Is that okay?
@@ -401,7 +401,7 @@ Dialogue: 10,0:20:01.26,0:20:03.39,Default,,0,0,0,,Well, there you have it, so..
 Dialogue: 10,0:20:03.39,0:20:06.89,Default,,0,0,0,,If you would be so kind, \Ncould you please tell me your name?
 Dialogue: 10,0:20:06.89,0:20:08.31,Default,,0,0,0,,Our name?
 Dialogue: 10,0:20:08.31,0:20:11.77,Default,,0,0,0,,Like you've got to have a \Nteam name, or a group name?
-Dialogue: 10,0:20:11.77,0:20:15.82,Default,,0,0,0,,Something I can use to remember \N your brave exploits today. {memento implies a physical object, but she more wants a name for the face --ik}
+Dialogue: 10,0:20:11.77,0:20:15.82,Default,,0,0,0,,Something I can use to remember \N your brave exploits today. {memento implies a physical object, but she more wants a name for the face --ik}{I like what ik has now, but yeah she wants a name to commit to memory to inspire her for future shits --rapid}
 Dialogue: 10,0:20:15.82,0:20:18.70,Default,,0,0,0,,Of course! I totally get what you mean!
 Dialogue: 10,0:20:18.70,0:20:20.24,Default,,0,0,0,,N-Nonomi{**-senpai}, what are you doing?!
 Dialogue: 10,0:20:20.57,0:20:22.37,Default,,0,0,0,,We're known as...
@@ -447,5 +447,3 @@ Data: 8,_aegi_folddata,e0;1;3
 Data: 9,_aegi_folddata,e1;1;3
 Data: 15,_aegi_folddata,e0;0;5
 Data: 16,_aegi_folddata,e1;0;5
-Data: 17,_aegi_folddata,e0;1;5
-Data: 18,_aegi_folddata,e1;1;5
