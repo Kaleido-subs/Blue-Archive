@@ -42,7 +42,7 @@ Dialogue: 10,0:00:21.58,0:00:25.59,Default,,0,0,0,,We already blew all our cash,
 Dialogue: 10,0:00:25.59,0:00:29.84,Default,,0,0,0,,We're {\i1}already{\i0} strapped for cash \Nbecause renting this office costs a fortune.
 Dialogue: 10,0:00:29.84,0:00:31.47,Default,,0,0,0,,Q-Quiet, you!
 Dialogue: 10,0:00:31.47,0:00:33.93,Default,,0,0,0,,A company without a proper office \Nis no company at all!
-Dialogue: 10,0:00:33.93,0:00:37.52,Default,,0,0,0,,If you ask me, I'm perfectly happy \Nto pitch some tents just like last time.
+Dialogue: 10,0:00:33.93,0:00:37.52,Default,,0,0,0,,If you ask me, I'm perfectly happy to go back \Nto pitching some tents in the park.
 Dialogue: 10,0:00:37.52,0:00:40.27,Default,,0,0,0,,I-I would follow you to the ends of the earth, {*}Miss Aru{*Aru-sama}.
 Dialogue: 10,0:00:40.27,0:00:41.85,Default,,0,0,0,,Would you all just be quiet?!
 Dialogue: 10,0:00:42.65,0:00:44.02,Default,,0,0,0,,We're taking out a loan.
@@ -53,7 +53,7 @@ Dialogue: 10,0:00:53.20,0:00:55.03,Default,,0,0,0,,Oh right, that was it!
 Dialogue: 10,0:00:55.45,0:00:56.62,Default,,0,0,0,,Just you watch!
 Dialogue: 10,0:00:57.04,0:00:59.96,Default,,0,0,0,,We'll complete the mission, no matter what!
 Dialogue: 10,0:02:31.30,0:02:35.51,Default,,0,0,0,,Thank you for choosing Kaiser Loan!
-Dialogue: 10,0:02:35.51,0:02:41.89,Default,,0,0,0,,We have verified the receipt of 7,883,250 yen in cash.
+Dialogue: 10,0:02:35.51,0:02:41.89,Default,,0,0,0,,Your cash payment of 7,883,250 yen \Nhas been duly recorded.
 Dialogue: 10,0:02:41.89,0:02:44.56,Default,,0,0,0,,See you again next month!
 Dialogue: 10,0:02:47.61,0:02:50.02,Default,,0,0,0,,We made it through another month, huh?
 Dialogue: 10,0:02:50.57,0:02:55.82,Default,,0,0,0,,I wonder why they only accept cash.
@@ -105,7 +105,7 @@ Dialogue: 10,0:05:12.50,0:05:14.04,Default,,0,0,0,,Are you all right?
 Dialogue: 10,0:05:14.04,0:05:16.13,Default,,0,0,0,,Huh? Oh, uh, yes.
 Dialogue: 10,0:05:16.13,0:05:17.76,Default,,0,0,0,,Who the hell are you?
 Dialogue: 10,0:05:18.21,0:05:20.63,Default,,0,0,0,,Back off, losers. We got business with the girl!
-Dialogue: 10,0:05:20.63,0:05:25.64,Default,,0,0,0,,That chick's a student at Trinity General School. \NY'know, the most loaded school in Kivotos?
+Dialogue: 10,0:05:20.63,0:05:25.64,Default,,0,0,0,,That chick's from Trinity. \NY'know, the most loaded school in Kivotos?
 Dialogue: 10,0:05:25.64,0:05:29.23,Default,,0,0,0,,We're just gonna borrow her for a bit \Nand ask for a little money in return!
 Dialogue: 10,0:05:29.23,0:05:32.52,Default,,0,0,0,,Catch and release. Pretty slick, don't you think?
 Dialogue: 10,0:05:32.52,0:05:34.90,Default,,0,0,0,,What do you say? Want in on this?
@@ -115,7 +115,7 @@ Dialogue: 10,0:05:43.24,0:05:44.37,Default,,0,0,0,,That was a close call.
 Dialogue: 10,0:05:44.37,0:05:46.41,Default,,0,0,0,,Oh, thank you so much!
 Dialogue: 10,0:05:46.91,0:05:49.91,Default,,0,0,0,,My name is Ajitani Hifumi.
 Dialogue: 10,0:05:50.20,0:05:52.46,Default,,0,0,0,,Hifumi{**-chan}, huh? Pleasure to meetcha!
-Dialogue: 10,0:05:52.96,0:05:56.92,Default,,0,0,0,,But I gotta ask, what brings a kind girl \Nfrom Trinity to this sketchy part of town?
+Dialogue: 10,0:05:52.96,0:05:56.92,Default,,0,0,0,,But I gotta ask, what brings a well-mannered girl \Nfrom Trinity to this sketchy part of town?
 Dialogue: 10,0:05:56.92,0:05:59.34,Default,,0,0,0,,Well, you see...
 Dialogue: 10,0:05:59.71,0:06:02.01,Default,,0,0,0,,I'm actually looking for something.
 Dialogue: 10,0:06:02.01,0:06:04.76,Default,,0,0,0,,It's no longer being sold in stores,
@@ -172,9 +172,9 @@ Dialogue: 10,0:08:38.41,0:08:43.00,Default,,0,0,0,,Even within the Black Market,
 Dialogue: 10,0:08:43.00,0:08:44.67,Default,,0,0,0,,Shady?
 Dialogue: 10,0:08:44.67,0:08:46.01,Default,,0,0,0,,From what I've heard,
 Dialogue: 10,0:08:46.42,0:08:50.72,Default,,0,0,0,,nearly fifteen percent of all the money \Nthat funds criminal activity in Kivotos
-Dialogue: 10,0:08:50.72,0:08:52.68,Default,,0,0,0,,is funneled straight into that bank.
+Dialogue: 10,0:08:50.72,0:08:52.68,Default,,0,0,0,,is processed by that bank.
 Dialogue: 10,0:08:52.68,0:08:53.76,Default,,0,0,0,,Oh, geez.
-Dialogue: 10,0:08:54.01,0:08:59.85,Default,,0,0,0,,The proceeds from crimes \Nlike embezzlement, theft, and ransoms
+Dialogue: 10,0:08:54.01,0:08:59.85,Default,,0,0,0,,The proceeds from crimes \Nlike embezzlement, theft, and kidnappings
 Dialogue: 10,0:08:59.85,0:09:03.65,Default,,0,0,0,,are invested into weapons and equipment \Nto commit more crimes.
 Dialogue: 10,0:09:03.65,0:09:06.03,Default,,0,0,0,,It's a vicious cycle.
 Dialogue: 10,0:09:06.03,0:09:10.78,Default,,0,0,0,,Wait, wouldn't that mean the bank is complicit?
@@ -198,7 +198,7 @@ Dialogue: 10,0:10:00.66,0:10:07.13,Default,,0,0,0,,Umm, they're the loan sharks 
 Dialogue: 10,0:10:07.13,0:10:08.55,Default,,0,0,0,,Are they a bad company?
 Dialogue: 10,0:10:08.55,0:10:09.42,Default,,0,0,0,,Yes.
 Dialogue: 10,0:10:09.63,0:10:15.89,Default,,0,0,0,,The Kaiser Group is a conglomerate known \Nfor skirting the line of legality.
-Dialogue: 10,0:10:15.89,0:10:18.56,Default,,0,0,0,,They don't sound like the cleanest place to work.
+Dialogue: 10,0:10:15.89,0:10:18.56,Default,,0,0,0,,They definitely don't sound like \Nthe most reputable business.
 Dialogue: 10,0:10:18.85,0:10:21.81,Default,,0,0,0,,Did you borrow money from Kaiser Loan?
 Dialogue: 10,0:10:21.81,0:10:24.90,Default,,0,0,0,,Something like that. It's a long story.
 Dialogue: 10,0:10:24.90,0:10:27.94,Default,,0,0,0,,So that's why they only accept cash payments.
@@ -206,7 +206,7 @@ Dialogue: 10,0:10:27.94,0:10:31.61,Default,,0,0,0,,They must've been trying to a
 Dialogue: 10,0:10:31.61,0:10:34.74,Default,,0,0,0,,I can't believe the money \Nwas going to a bank for criminals.
 Dialogue: 10,0:10:34.74,0:10:40.41,Default,,0,0,0,,You mean our money has been funding \Ncriminal activity this whole time?
 Dialogue: 10,0:10:40.41,0:10:42.58,Default,,0,0,0,,W-We don't know that for sure.
-Dialogue: 10,0:10:42.91,0:10:48.34,Default,,0,0,0,,We don't have any direct proof that Kaiser Loan \Nwas taking {\i1}our{\i0} money to the Black Market bank.
+Dialogue: 10,0:10:42.91,0:10:48.34,Default,,0,0,0,,We don't have any direct proof that Kaiser Loan \Nwas taking {\i1}our{\i0} money to the black market bank.
 Dialogue: 10,0:10:50.80,0:10:54.13,Default,,0,0,0,,They should have some kind of receipt \Nthat says where the money came from.
 Dialogue: 10,0:10:54.13,0:10:57.47,Default,,0,0,0,,If you can get that, \Nwouldn't that count as evidence?
 Dialogue: 10,0:10:57.47,0:10:58.35,Default,,0,0,0,,Oh!
@@ -388,7 +388,7 @@ Dialogue: 10,0:19:26.98,0:19:30.11,Default,,0,0,0,,She says she doesn't wanna fi
 Dialogue: 10,0:19:30.11,0:19:31.48,Default,,0,0,0,,Do you know each other?
 Dialogue: 10,0:19:31.48,0:19:33.40,Default,,0,0,0,,Yes, you could say that.
 Dialogue: 10,0:19:33.40,0:19:37.45,Default,,0,0,0,,Um, I watched you rob the bank earlier!
-Dialogue: 10,0:19:37.45,0:19:41.12,Default,,0,0,0,,You were in and out in a flash \NI was gripped!
+Dialogue: 10,0:19:37.45,0:19:41.12,Default,,0,0,0,,You were in and out in a flash. \NI was gripped!
 Dialogue: 10,0:19:41.12,0:19:43.87,Default,,0,0,0,,True outlaws like you come once in a lifetime!
 Dialogue: 10,0:19:43.87,0:19:47.04,Default,,0,0,0,,Honestly, I was blown away.
 Dialogue: 10,0:19:47.04,0:19:50.63,Default,,0,0,0,,That kind of display is a rarity these days! \NI was shaken to my core!
