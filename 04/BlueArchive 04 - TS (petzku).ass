@@ -22,8 +22,8 @@ Style: petzSigns,LTFinnegan Medium,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,petzSigns,,0,0,0,,- memes
-Comment: 0,0:14:44.82,0:14:44.82,petzSigns,,0,0,0,,-- plaque 1
+Comment: 0,0:00:00.00,0:00:00.00,petzSigns,,0,0,0,,{=11575}- memes
+Comment: 0,0:14:44.82,0:14:44.82,petzSigns,,0,0,0,,{=11570}-- plaque 1
 Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(442.13,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
 Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(432.28,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
 Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(422.52,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
@@ -474,24 +474,24 @@ Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\f
 Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-29.34,338.1)}or @petzku
 Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-39.16,338.1)}or @petzku
 Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-48.97,338.1)}or @petzku
-Comment: 0,0:14:44.82,0:14:44.82,petzSigns,,0,0,0,,-- /plaque 1
-Comment: 0,0:16:34.68,0:16:34.68,petzSigns,,0,0,0,,-- plaque 2
-Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11509}{\an7\pos(676.71,202.13)\c&HDDD1BC&\blur1\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
-Comment: 2,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11509}{\an7\pos(676.71,202.13)\c&HECDEC6&\blur5\p1}m -62.5 -74.42 l -62.5 -90 -40.26 -90
-Comment: 1,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11509}{\an7\pos(676.71,202.13)\blur5\p1\c&HE4D7C1&}m -62.5 -48.4 l -62.5 -74.42 -40.26 -90 -3.72 -90
-Comment: 1,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11509}{\an7\pos(676.71,202.13)\c&HDBCDB8&\blur5\p1}m 62.5 -30.48 l -62.5 67.39 -62.5 5.52 56.2 -90 62.5 -90
-Comment: 2,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11509}{\an7\pos(676.71,202.13)\c&HDBCDB7&\blur5\p1}m 62.5 -47.15 l -62.5 50.99 -62.5 21.28 62.5 -78.4
-Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11509}{\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(676.71,129.95)}Kaleido needs YOU!
-Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11509}{\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(666.52,152.24)}We are recruiting
-Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11509}{\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(666.52,165.09)}typesetters for 
-Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11509}{\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(677.09,177.55)}Blue Archive the Animation.
-Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11509}{\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(674.98,194.53)}Contact us on Discord at
-Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11509}{\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(678.93,209.59)}discord.gg/dk7aadV 
-Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11509}{\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(679.02,223.87)}if you are interested!
-Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11509}{\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(619.27,241.29)}Or DM @lightarrowsexe
-Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11509}{\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(620.82,254.9)}or @petzku
-Comment: 0,0:16:34.68,0:16:34.68,petzSigns,,0,0,0,,-- /plaque 2
-Comment: 0,0:00:00.00,0:00:00.00,petzSigns,,0,0,0,,- /memes
+Comment: 0,0:14:44.82,0:14:44.82,petzSigns,,0,0,0,,{=11571}-- /plaque 1
+Comment: 0,0:16:34.68,0:16:34.68,petzSigns,,0,0,0,,{=11573}-- plaque 2
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDDD1BC&\blur1\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Comment: 2,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HECDEC6&\blur5\p1}m -62.5 -74.42 l -62.5 -90 -40.26 -90
+Comment: 1,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\blur5\p1\c&HE4D7C1&}m -62.5 -48.4 l -62.5 -74.42 -40.26 -90 -3.72 -90
+Comment: 1,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDBCDB8&\blur5\p1}m 62.5 -30.48 l -62.5 67.39 -62.5 5.52 56.2 -90 62.5 -90
+Comment: 2,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDBCDB7&\blur5\p1}m 62.5 -47.15 l -62.5 50.99 -62.5 21.28 62.5 -78.4
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(676.71,129.95)}Kaleido needs YOU!
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(666.52,152.24)}We are recruiting
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(666.52,165.09)}typesetters for
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(677.09,177.55)}Blue Archive the Animation.
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(674.98,194.53)}Contact us on Discord at
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(678.93,209.59)}discord.gg/dk7aadV
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(679.02,223.87)}if you are interested!
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(619.27,241.29)}Or DM @lightarrowsexe
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(620.82,254.9)}or @petzku
+Comment: 0,0:16:34.68,0:16:34.68,petzSigns,,0,0,0,,{=11574}-- /plaque 2
+Comment: 0,0:00:00.00,0:00:00.00,petzSigns,,0,0,0,,{=11576}- /memes
 
 [Aegisub Extradata]
 Data: 11509,_aegi_folddata,e0;0;2
@@ -505,3 +505,10 @@ Data: 11566,a-mo,e{"uuid"#3A"48e4f3ff-c9d5-477d-8632-31765e15d569"#2C"originalTe
 Data: 11567,a-mo,e{"uuid"#3A"5c2bd621-126d-4d13-808c-a7104483b4c7"#2C"originalText"#3A"{\\fs9\\c&H6C6C6B&\\fnHelvetica\\b1\\blur1.5\\pos(666.52#2C152.24)}We are recruiting"}
 Data: 11568,a-mo,e{"uuid"#3A"8e8e92a3-fbb0-4447-aa92-4448fb7ab456"#2C"originalText"#3A"{\\fs11\\c&H6C6C6B&\\fnHelvetica\\b1\\blur1.5\\pos(676.71#2C129.95)}Kaleido needs YOU!"}
 Data: 11569,a-mo,e{"uuid"#3A"ee8de00e-a42a-410e-832f-8b77f4a6157f"#2C"originalText"#3A"{\\an7\\pos(676.71#2C202.13)\\c&HDDD1BC&\\blur1\\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90"}
+Data: 11570,_aegi_folddata,e0;1;3
+Data: 11571,_aegi_folddata,e1;1;3
+Data: 11572,_aegi_folddata,e0;0;4
+Data: 11573,_aegi_folddata,e0;1;5
+Data: 11574,_aegi_folddata,e1;1;5
+Data: 11575,_aegi_folddata,e0;1;6
+Data: 11576,_aegi_folddata,e1;1;6
