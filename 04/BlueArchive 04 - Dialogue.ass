@@ -49,8 +49,8 @@ Dialogue: 10,0:00:44.48,0:00:48.40,Default,,0,0,0,,Huh? I thought you were black
 Dialogue: 10,0:00:48.40,0:00:49.28,Default,,0,0,0,,No, I'm not!
 Dialogue: 10,0:00:49.28,0:00:53.20,Default,,0,0,0,,I've just been declared a wanted criminal \nand had my assets frozen, that's all!
 Dialogue: 10,0:00:53.20,0:00:55.03,Default,,0,0,0,,Oh right, that was it!
-Dialogue: 10,0:00:55.38,0:00:56.55,Default,,0,0,0,,Just you watch!
-Dialogue: 10,0:00:57.04,0:00:59.96,Default,,0,0,0,ED;TM,We'll complete the mission, no matter what!{@TM: more leadin and leadout. maybe snap previous; maybe snap end to kf -p}{@ED: i'm not sure i dig "no matter what". would something in the direction of "whatever it takes" be any better? i'm partial to "come hell or high water" but that's probably not appropriate here -p}{@ED: ... oh and consider "complete" -> "finish" -p}
+Dialogue: 10,0:00:55.38,0:00:56.96,Default,,0,0,0,,Just you watch!
+Dialogue: 10,0:00:56.96,0:01:00.54,Default,,0,0,0,ED,We'll complete the mission, no matter what!{@ED: i'm not sure i dig "no matter what". would something in the direction of "whatever it takes" be any better? i'm partial to "come hell or high water" but that's probably not appropriate here -p}{@ED: ... oh and consider "complete" -> "finish" -p}
 Dialogue: 10,0:02:31.30,0:02:35.51,Default,,0,0,0,,Thank you for choosing Kaiser Loan!
 Dialogue: 10,0:02:35.51,0:02:41.89,Default,,0,0,0,,Your cash payment of 7,883,250 yen \nhas been duly recorded.
 Dialogue: 10,0:02:41.89,0:02:44.56,Default,,0,0,0,,See you again next month!
@@ -135,7 +135,7 @@ Dialogue: 10,0:06:32.37,0:06:34.54,Default,,0,0,0,,Peroro{**-chan}'s just the cu
 Dialogue: 10,0:06:34.54,0:06:36.04,Default,,0,0,0,,You like him too?!
 Dialogue: 10,0:06:36.29,0:06:37.29,Default,,0,0,0,,Of course!
 Dialogue: 10,0:06:37.29,0:06:41.05,Default,,0,0,0,,Oh boy, this topic is way past my time.
-Dialogue: 10,0:06:42.47,0:06:45.34,Default,,0,0,0,TM,By the way, what brings you here?{pretty long lead-out, consider not snapping -p}
+Dialogue: 10,0:06:42.47,0:06:45.34,Default,,0,0,0,,By the way, what brings you here?
 Dialogue: 10,0:06:45.34,0:06:47.68,Default,,0,0,0,,We're also looking for something.
 Dialogue: 10,0:06:47.68,0:06:51.81,Default,,0,0,0,,It's not something that's easy to find, \nbut we heard it might be here.
 Dialogue: 10,0:06:52.14,0:06:55.85,Default,,0,0,0,,I see. Guess we're in the same boat, then.
@@ -217,7 +217,7 @@ Dialogue: 10,0:11:13.86,0:11:15.91,Default,,0,0,0,,Hey, Hoshino{**-senpai}.
 Dialogue: 10,0:11:15.91,0:11:17.62,Default,,0,0,0,QC,I think this calls for plan B. {Plan B says to me that it's like an alternative we set up before hand. But that was meant to be "the" plan, so it feels forced. Not *too* far gone, but I'm not in love at least --ik}
 Dialogue: 10,0:11:17.62,0:11:19.74,Default,,0,0,0,,Hm? Plan B?
 Dialogue: 10,0:11:19.74,0:11:21.24,Default,,0,0,0,,Oh, {\i1}that{\i0} plan!
-Dialogue: 10,0:11:21.24,0:11:24.91,Default,,0,0,0,TM,I agree. That might be just what we need!{awkwardly long leadout; _might_ be good not to snap to next? -p}
+Dialogue: 10,0:11:21.24,0:11:24.58,Default,,0,0,0,,I agree. That might be just what we need!
 Dialogue: 10,0:11:24.91,0:11:26.50,Default,,0,0,0,,Wait, you can't seriously mean...
 Dialogue: 10,0:11:26.96,0:11:30.00,Default,,0,0,0,,You're not thinking what I'm thinking, r-right?
 Dialogue: 10,0:11:30.42,0:11:33.34,Default,,0,0,0,,Um, I'm sorry, I'm not sure I follow.
@@ -250,9 +250,9 @@ Dialogue: 10,0:12:34.48,0:12:39.78,Default,,0,0,0,,H-How would I ever explain th
 Dialogue: 10,0:12:39.78,0:12:42.95,Default,,0,0,0,ED,You'll be a-okay! \nWe're the good guys here.{i've only ever seen this written as "A-OK", but i think it would be capitalized "A-okay" -p}
 Dialogue: 10,0:12:42.95,0:12:44.16,Default,,0,0,0,,And you, {*}Teacher{*Sensei}?
 Dialogue: 10,0:12:44.74,0:12:46.45,Default,,0,0,0,,I'm in, too.
-Dialogue: 10,0:12:46.45,0:12:51.83,Default,,0,0,0,TM,I can't ignore the chance that your money \nis being used for malicious purposes.{way long leadin -p}
+Dialogue: 10,0:12:46.83,0:12:51.83,Default,,0,0,0,,I can't ignore the chance that your money \nis being used for malicious purposes.
 Dialogue: 10,0:12:51.83,0:12:52.71,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:12:52.71,0:12:54.17,Default,,0,0,0,TM,All right!{also kinda long leadin -p}
+Dialogue: 10,0:12:52.96,0:12:54.17,Default,,0,0,0,,All right!
 Dialogue: 10,0:12:54.17,0:12:55.84,Default,,0,0,0,,Masked Swimsuit Gang!
 Dialogue: 10,0:12:55.84,0:12:55.88,Default,,0,0,0,shenan,{\iclip(636,973,965,1071)}Masked Swimsuit Gang!
 Dialogue: 10,0:12:55.88,0:12:56.21,Default,,0,0,0,shenan,{\move(960,1020,960,1020,0,330)\clip(965,930,1284,1041)\t(0,330,\clip(965,930,1284,1041))}Masked Swimsuit Gang!
@@ -271,8 +271,7 @@ Dialogue: 10,0:13:30.41,0:13:32.71,Default,,0,0,0,,We can't possibly extend a lo
 Dialogue: 10,0:13:32.71,0:13:33.50,Default,,0,0,0,,Wait, what?!
 Dialogue: 10,0:13:33.96,0:13:39.38,Default,,0,0,0,ED,If you had collateral to offer{i want to add a comma here (mainly for the pause) even though it's technically ungrammatical -p} or a solid credit history \nwith our bank, we {\i1}could{\i0} extend a loan to you,
 Dialogue: 10,0:13:39.38,0:13:43.30,Default,,0,0,0,,but may I suggest you start by finding a day job?
-Dialogue: 10,0:13:43.30,0:13:45.22,Default,,0,0,0,TM,Excuse me?! {TM: note that crossfade}{consider a fade-out (see suggestion below) -p}
-Comment: 10,0:13:43.30,0:13:45.76,Default,,0,0,0,,{\fad(0,700)}Excuse me?!
+Dialogue: 10,0:13:43.30,0:13:45.72,Default,,0,0,0,,{\fad(0,700)}Excuse me?!
 Dialogue: 10,0:13:46.64,0:13:47.93,Default,,0,0,0,,{\i1}Why, you little...
 Dialogue: 10,0:13:47.93,0:13:52.14,Default,,0,0,0,,{\i1}I should just grab the money \nand raze this place to the ground.
 Dialogue: 10,0:13:52.64,0:13:56.65,Default,,0,0,0,,{\i1}No, that wouldn't work. \nThis place is full of Market Guards.
