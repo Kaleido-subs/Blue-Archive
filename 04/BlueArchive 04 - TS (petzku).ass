@@ -22,461 +22,511 @@ Style: petzSigns,LTFinnegan Medium,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,petzSigns,,0,0,0,,{=11575}- memes
+Comment: 0,0:00:00.00,0:00:00.00,petzSigns,,0,0,0,,{=11577}- memes
+Comment: 0,0:12:59.47,0:12:59.47,petzSigns,,0,0,0,,{=11593}-- plaque 0
+Comment: 0,0:12:59.47,0:12:59.52,petzSigns,,0,0,0,,{\an7\pos(1079.24,426.93)\c&HF9EBD6&\blur1\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Comment: 0,0:12:59.47,0:12:59.52,petzSigns,,0,0,0,,{\an7\pos(1079.24,426.93)\c&HEADFCA&\blur1\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11622}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF8EAD5&\blur1\clip(0,358,1920,393)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11621}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF7EAD5&\blur1\clip(0,393,1920,398)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11620}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF7E9D4&\blur1\clip(0,398,1920,408)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11619}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF6E9D4&\blur1\clip(0,408,1920,414)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11618}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF6E8D3&\blur1\clip(0,414,1920,420)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11617}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF5E8D3&\blur1\clip(0,420,1920,427)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11616}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF5E7D2&\blur1\clip(0,427,1920,429)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11615}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF4E7D2&\blur1\clip(0,429,1920,438)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11614}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF3E6D1&\blur1\clip(0,438,1920,445)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11613}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF2E6D1&\blur1\clip(0,445,1920,447)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11612}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF2E5D0&\blur1\clip(0,447,1920,452)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11611}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF1E5D0&\blur1\clip(0,452,1920,456)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11610}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF1E4CF&\blur1\clip(0,456,1920,459)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11609}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF0E4CF&\blur1\clip(0,459,1920,464)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11608}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HF0E3CE&\blur1\clip(0,464,1920,465)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11607}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HEFE3CE&\blur1\clip(0,465,1920,471)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11606}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HEEE2CD&\blur1\clip(0,471,1920,477)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11605}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HEDE2CD&\blur1\clip(0,477,1920,478)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11604}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HEDE1CC&\blur1\clip(0,478,1920,482)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11603}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HECE1CC&\blur1\clip(0,482,1920,484)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11602}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HECE0CB&\blur1\clip(0,484,1920,487)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11601}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HEBE0CB&\blur1\clip(0,487,1920,491)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11600}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HEBDFCA&\blur1\clip(0,491,1920,492)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11599}{\an7\move(1079.24,426.93,406.54,426.93,17,2853)\c&HEADFCA&\blur1\clip(0,492,1920,497)\p1}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11509=11568}{\move(1079.24,375.85,406.54,375.87,17,2853)\fscx70.78\fscy70.78\fnHelvetica\fs11\b1\c&H6C6C6B&\blur1.5\t(17,2853,\fscx70.78)\t(17,2853,\fscy70.78)}Kaleido needs YOU!
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11509=11567}{\move(1072.04,391.62,399.34,391.64,17,2853)\fscx70.78\fscy70.78\fnHelvetica\fs9\b1\c&H6C6C6B&\blur1.5\t(17,2853,\fscx70.78)\t(17,2853,\fscy70.78)}We are recruiting
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11509=11566}{\move(1072.04,400.72,399.34,400.74,17,2853)\fscx70.78\fscy70.78\fnHelvetica\fs9\b1\c&H6C6C6B&\blur1.5\t(17,2853,\fscx70.78)\t(17,2853,\fscy70.78)}typesetters for
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11509=11565}{\move(1079.51,409.53,406.81,409.55,17,2853)\fscx70.78\fscy70.78\fnHelvetica\fs9\b1\c&H6C6C6B&\blur1.5\t(17,2853,\fscx70.78)\t(17,2853,\fscy70.78)}Blue Archive the Animation.
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11509=11564}{\move(1078.02,421.55,405.32,421.57,17,2853)\fscx70.78\fscy70.78\fnHelvetica\fs9\b1\c&H6C6C6B&\blur1.5\t(17,2853,\fscx70.78)\t(17,2853,\fscy70.78)}Contact us on Discord at
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11509=11563}{\move(1080.82,432.21,408.12,432.23,17,2853)\fscx70.78\fscy70.78\fnHelvetica\fs9\b1\c&H6C6C6B&\blur1.5\t(17,2853,\fscx70.78)\t(17,2853,\fscy70.78)}discord.gg/dk7aadV
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11509=11562}{\move(1080.88,442.32,408.18,442.34,17,2853)\fscx70.78\fscy70.78\fnHelvetica\fs9\b1\c&H6C6C6B&\blur1.5\t(17,2853,\fscx70.78)\t(17,2853,\fscy70.78)}if you are interested!
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11509=11561}{\an4\move(1040.15,454.64,367.45,454.66,17,2853)\fscx70.78\fscy70.78\fnHelvetica\fs9\b1\c&H6C6C6B&\blur1.5\t(17,2853,\fscx70.78)\t(17,2853,\fscy70.78)}Or DM @lightarrowsexe
+Dialogue: 0,0:12:59.47,0:13:02.34,petzSigns,,0,0,0,,{=11509=11560}{\an4\move(1041.39,464.28,368.69,464.3,17,2853)\fscx70.78\fscy70.78\fnHelvetica\fs9\b1\c&H6C6C6B&\blur1.5\t(17,2853,\fscx70.78)\t(17,2853,\fscy70.78)}or @petzku
+Comment: 0,0:12:59.47,0:12:59.47,petzSigns,,0,0,0,,{=11594}-- /plaque 0
 Comment: 0,0:14:44.82,0:14:44.82,petzSigns,,0,0,0,,{=11570}-- plaque 1
-Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(442.13,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(432.28,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(422.52,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(412.7,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(402.79,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(393.02,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(383.26,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(373.35,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(363.54,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(353.76,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(344,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(334.09,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(324.31,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(314.56,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(304.65,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(294.86,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(285.08,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(275.24,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(265.36,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(255.61,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(245.85,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(235.92,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(226.16,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(216.34,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(206.53,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(196.67,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(186.91,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(177.08,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(167.27,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(157.43,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(147.69,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(137.78,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(128.02,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(118.24,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(108.36,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(98.53,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(88.74,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(78.92,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(69.11,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(59.32,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(49.52,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(39.62,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(29.84,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(20.02,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11509=11569}{\an7\pos(10.21,279.71)\c&HDDD1BC&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
-Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(442.13,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(432.28,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(422.52,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(412.7,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(402.79,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(393.02,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(383.26,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(373.35,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(363.54,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(353.76,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(344,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(334.09,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(324.31,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(314.56,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(304.65,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(294.86,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(285.08,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(275.24,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(265.36,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(255.61,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(245.85,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(235.92,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(226.16,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(216.34,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(206.53,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(196.67,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(186.91,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(177.08,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(167.27,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(157.43,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(147.69,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(137.78,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(128.02,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(118.24,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(108.36,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(98.53,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(88.74,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(78.92,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(69.11,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(59.32,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(49.52,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(39.62,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(29.84,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(20.02,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11509=11568}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(10.21,199.85)}Kaleido needs YOU!
-Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(430.86,224.51)}We are recruiting
-Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(421.01,224.51)}We are recruiting
-Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(411.25,224.51)}We are recruiting
-Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(401.43,224.51)}We are recruiting
-Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(391.52,224.51)}We are recruiting
-Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(381.75,224.51)}We are recruiting
-Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(371.99,224.51)}We are recruiting
-Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(362.08,224.51)}We are recruiting
-Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(352.27,224.51)}We are recruiting
-Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(342.49,224.51)}We are recruiting
-Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(332.73,224.51)}We are recruiting
-Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(322.82,224.51)}We are recruiting
-Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(313.04,224.51)}We are recruiting
-Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(303.29,224.51)}We are recruiting
-Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(293.38,224.51)}We are recruiting
-Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(283.59,224.51)}We are recruiting
-Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(273.81,224.51)}We are recruiting
-Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(263.97,224.51)}We are recruiting
-Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(254.09,224.51)}We are recruiting
-Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(244.34,224.51)}We are recruiting
-Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(234.58,224.51)}We are recruiting
-Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(224.65,224.51)}We are recruiting
-Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(214.89,224.51)}We are recruiting
-Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(205.07,224.51)}We are recruiting
-Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(195.26,224.51)}We are recruiting
-Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(185.4,224.51)}We are recruiting
-Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(175.64,224.51)}We are recruiting
-Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(165.81,224.51)}We are recruiting
-Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(156,224.51)}We are recruiting
-Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(146.16,224.51)}We are recruiting
-Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(136.42,224.51)}We are recruiting
-Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(126.51,224.51)}We are recruiting
-Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(116.75,224.51)}We are recruiting
-Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(106.97,224.51)}We are recruiting
-Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(97.09,224.51)}We are recruiting
-Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(87.26,224.51)}We are recruiting
-Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(77.47,224.51)}We are recruiting
-Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(67.65,224.51)}We are recruiting
-Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(57.84,224.51)}We are recruiting
-Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(48.05,224.51)}We are recruiting
-Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(38.25,224.51)}We are recruiting
-Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(28.35,224.51)}We are recruiting
-Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(18.57,224.51)}We are recruiting
-Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(8.75,224.51)}We are recruiting
-Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11509=11567}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-1.06,224.51)}We are recruiting
-Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(430.86,238.73)}typesetters for
-Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(421.01,238.73)}typesetters for
-Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(411.25,238.73)}typesetters for
-Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(401.43,238.73)}typesetters for
-Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(391.52,238.73)}typesetters for
-Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(381.75,238.73)}typesetters for
-Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(371.99,238.73)}typesetters for
-Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(362.08,238.73)}typesetters for
-Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(352.27,238.73)}typesetters for
-Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(342.49,238.73)}typesetters for
-Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(332.73,238.73)}typesetters for
-Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(322.82,238.73)}typesetters for
-Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(313.04,238.73)}typesetters for
-Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(303.29,238.73)}typesetters for
-Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(293.38,238.73)}typesetters for
-Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(283.59,238.73)}typesetters for
-Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(273.81,238.73)}typesetters for
-Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(263.97,238.73)}typesetters for
-Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(254.09,238.73)}typesetters for
-Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(244.34,238.73)}typesetters for
-Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(234.58,238.73)}typesetters for
-Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(224.65,238.73)}typesetters for
-Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(214.89,238.73)}typesetters for
-Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(205.07,238.73)}typesetters for
-Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(195.26,238.73)}typesetters for
-Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(185.4,238.73)}typesetters for
-Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(175.64,238.73)}typesetters for
-Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(165.81,238.73)}typesetters for
-Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(156,238.73)}typesetters for
-Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(146.16,238.73)}typesetters for
-Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(136.42,238.73)}typesetters for
-Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(126.51,238.73)}typesetters for
-Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(116.75,238.73)}typesetters for
-Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(106.97,238.73)}typesetters for
-Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(97.09,238.73)}typesetters for
-Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(87.26,238.73)}typesetters for
-Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(77.47,238.73)}typesetters for
-Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(67.65,238.73)}typesetters for
-Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(57.84,238.73)}typesetters for
-Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(48.05,238.73)}typesetters for
-Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(38.25,238.73)}typesetters for
-Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(28.35,238.73)}typesetters for
-Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(18.57,238.73)}typesetters for
-Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(8.75,238.73)}typesetters for
-Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11509=11566}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-1.06,238.73)}typesetters for
-Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(442.55,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(432.7,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(422.94,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(413.12,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(403.21,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(393.44,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(383.68,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(373.77,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(363.96,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(354.18,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(344.42,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(334.51,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(324.73,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(314.98,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(305.07,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(295.28,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(285.5,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(275.66,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(265.78,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(256.03,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(246.27,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(236.34,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(226.58,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(216.76,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(206.95,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(197.09,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(187.33,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(177.5,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(167.69,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(157.85,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(148.11,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(138.2,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(128.44,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(118.66,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(108.78,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(98.95,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(89.16,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(79.34,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(69.53,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(59.74,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(49.94,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(40.04,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(30.26,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(20.44,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11509=11565}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(10.63,252.51)}Blue Archive the Animation.
-Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(440.22,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(430.37,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(420.61,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(410.79,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(400.88,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(391.11,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(381.35,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(371.44,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(361.63,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(351.85,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(342.09,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(332.18,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(322.4,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(312.65,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(302.74,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(292.95,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(283.17,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(273.33,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(263.45,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(253.7,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(243.94,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(234.01,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(224.25,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(214.43,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(204.62,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(194.76,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(185,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(175.17,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(165.36,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(155.52,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(145.78,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(135.87,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(126.11,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(116.33,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(106.45,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(96.62,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(86.83,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(77.01,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(67.2,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(57.41,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(47.61,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(37.71,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(27.93,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(18.11,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11509=11564}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(8.3,271.3)}Contact us on Discord at
-Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(444.59,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(434.74,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(424.98,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(415.16,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(405.25,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(395.48,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(385.72,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(375.81,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(366,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(356.22,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(346.46,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(336.55,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(326.77,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(317.02,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(307.11,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(297.32,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(287.54,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(277.7,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(267.82,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(258.07,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(248.31,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(238.38,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(228.62,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(218.8,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(208.99,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(199.13,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(189.37,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(179.54,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(169.73,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(159.89,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(150.15,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(140.24,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(130.48,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(120.7,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(110.82,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(100.99,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(91.2,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(81.38,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(71.57,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(61.78,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(51.98,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(42.08,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(32.3,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(22.48,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11509=11563}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(12.67,287.97)}discord.gg/dk7aadV
-Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(444.69,303.77)}if you are interested!
-Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(434.84,303.77)}if you are interested!
-Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(425.08,303.77)}if you are interested!
-Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(415.26,303.77)}if you are interested!
-Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(405.35,303.77)}if you are interested!
-Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(395.58,303.77)}if you are interested!
-Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(385.82,303.77)}if you are interested!
-Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(375.91,303.77)}if you are interested!
-Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(366.1,303.77)}if you are interested!
-Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(356.32,303.77)}if you are interested!
-Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(346.56,303.77)}if you are interested!
-Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(336.65,303.77)}if you are interested!
-Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(326.87,303.77)}if you are interested!
-Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(317.12,303.77)}if you are interested!
-Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(307.21,303.77)}if you are interested!
-Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(297.42,303.77)}if you are interested!
-Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(287.64,303.77)}if you are interested!
-Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(277.8,303.77)}if you are interested!
-Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(267.92,303.77)}if you are interested!
-Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(258.17,303.77)}if you are interested!
-Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(248.41,303.77)}if you are interested!
-Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(238.48,303.77)}if you are interested!
-Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(228.72,303.77)}if you are interested!
-Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(218.9,303.77)}if you are interested!
-Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(209.09,303.77)}if you are interested!
-Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(199.23,303.77)}if you are interested!
-Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(189.47,303.77)}if you are interested!
-Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(179.64,303.77)}if you are interested!
-Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(169.83,303.77)}if you are interested!
-Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(159.99,303.77)}if you are interested!
-Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(150.25,303.77)}if you are interested!
-Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(140.34,303.77)}if you are interested!
-Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(130.58,303.77)}if you are interested!
-Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(120.8,303.77)}if you are interested!
-Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(110.92,303.77)}if you are interested!
-Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(101.09,303.77)}if you are interested!
-Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(91.3,303.77)}if you are interested!
-Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(81.48,303.77)}if you are interested!
-Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(71.67,303.77)}if you are interested!
-Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(61.88,303.77)}if you are interested!
-Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(52.08,303.77)}if you are interested!
-Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(42.18,303.77)}if you are interested!
-Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(32.4,303.77)}if you are interested!
-Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(22.58,303.77)}if you are interested!
-Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11509=11562}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(12.77,303.77)}if you are interested!
-Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(381.01,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(371.16,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(361.4,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(351.58,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(341.67,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(331.9,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(322.14,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(312.23,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(302.42,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(292.64,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(282.88,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(272.97,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(263.19,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(253.44,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(243.53,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(233.74,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(223.96,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(214.12,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(204.24,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(194.49,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(184.73,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(174.8,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(165.04,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(155.22,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(145.41,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(135.55,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(125.79,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(115.96,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(106.15,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(96.31,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(86.57,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(76.66,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(66.9,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(57.12,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(47.24,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(37.41,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(27.62,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(17.8,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(7.99,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-1.8,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-11.6,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-21.5,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-31.28,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-41.1,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11509=11561}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-50.91,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
-Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(382.95,338.1)}or @petzku
-Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(373.1,338.1)}or @petzku
-Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(363.34,338.1)}or @petzku
-Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(353.52,338.1)}or @petzku
-Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(343.61,338.1)}or @petzku
-Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(333.84,338.1)}or @petzku
-Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(324.08,338.1)}or @petzku
-Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(314.17,338.1)}or @petzku
-Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(304.36,338.1)}or @petzku
-Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(294.58,338.1)}or @petzku
-Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(284.82,338.1)}or @petzku
-Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(274.91,338.1)}or @petzku
-Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(265.13,338.1)}or @petzku
-Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(255.38,338.1)}or @petzku
-Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(245.47,338.1)}or @petzku
-Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(235.68,338.1)}or @petzku
-Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(225.9,338.1)}or @petzku
-Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(216.06,338.1)}or @petzku
-Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(206.18,338.1)}or @petzku
-Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(196.43,338.1)}or @petzku
-Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(186.67,338.1)}or @petzku
-Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(176.74,338.1)}or @petzku
-Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(166.98,338.1)}or @petzku
-Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(157.16,338.1)}or @petzku
-Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(147.35,338.1)}or @petzku
-Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(137.49,338.1)}or @petzku
-Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(127.73,338.1)}or @petzku
-Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(117.9,338.1)}or @petzku
-Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(108.09,338.1)}or @petzku
-Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(98.25,338.1)}or @petzku
-Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(88.51,338.1)}or @petzku
-Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(78.6,338.1)}or @petzku
-Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(68.84,338.1)}or @petzku
-Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(59.06,338.1)}or @petzku
-Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(49.18,338.1)}or @petzku
-Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(39.35,338.1)}or @petzku
-Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(29.56,338.1)}or @petzku
-Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(19.74,338.1)}or @petzku
-Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(9.93,338.1)}or @petzku
-Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(0.14,338.1)}or @petzku
-Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-9.66,338.1)}or @petzku
-Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-19.56,338.1)}or @petzku
-Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-29.34,338.1)}or @petzku
-Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-39.16,338.1)}or @petzku
-Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11509=11560}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-48.97,338.1)}or @petzku
+Comment: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\pos(442.13,279.71)\c&HE3D8C1&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Comment: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\pos(442.13,279.71)\c&HD4CAB6&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Comment: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\pos(442.13,279.71)\c&HD4C9B5&\blur1\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HE2D7C0&\blur1\clip(0,176,1920,202)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HE1D7C0&\blur1\clip(0,202,1920,203)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HE1D6C0&\blur1\clip(0,203,1920,207)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HE1D6BF&\blur1\clip(0,207,1920,213)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HE0D6BF&\blur1\clip(0,213,1920,215)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HE0D5BF&\blur1\clip(0,215,1920,220)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HE0D5BE&\blur1\clip(0,220,1920,222)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDFD5BE&\blur1\clip(0,222,1920,224)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDFD4BE&\blur1\clip(0,224,1920,229)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDED4BE&\blur1\clip(0,229,1920,230)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDED4BD&\blur1\clip(0,230,1920,231)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDED3BD&\blur1\clip(0,231,1920,236)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDDD3BD&\blur1\clip(0,236,1920,238)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDDD2BC&\blur1\clip(0,238,1920,241)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDCD2BC&\blur1\clip(0,241,1920,244)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDCD1BC&\blur1\clip(0,244,1920,246)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDCD1BB&\blur1\clip(0,246,1920,247)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDBD1BB&\blur1\clip(0,247,1920,249)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDBD0BB&\blur1\clip(0,249,1920,251)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDAD0BB&\blur1\clip(0,251,1920,252)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDAD0BA&\blur1\clip(0,252,1920,254)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HDACFBA&\blur1\clip(0,254,1920,256)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HD9CFBA&\blur1\clip(0,256,1920,258)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HD9CFB9&\blur1\clip(0,258,1920,259)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HD9CEB9&\blur1\clip(0,259,1920,260)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HD8CEB9&\blur1\clip(0,260,1920,263)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HD8CDB9&\blur1\clip(0,263,1920,264)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HD8CDB8&\blur1\clip(0,264,1920,265)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HD7CDB8&\blur1\clip(0,265,1920,268)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HD7CCB8&\blur1\clip(0,268,1920,269)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HD6CCB8&\blur1\clip(0,269,1920,270)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HD6CCB7&\blur1\clip(0,270,1920,272)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HD5CBB7&\blur1\clip(0,272,1920,275)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HD5CBB6&\blur1\clip(0,275,1920,276)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HD4CAB6&\blur1\clip(0,276,1920,281)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:46.69,petzSigns,,0,0,0,,{=11569=11595}{\an7\move(442.13,279.71,10.21,279.71,22,1857)\c&HD4C9B5&\blur1\clip(0,281,1920,385)\p1}m 69.16 32.16 l 11.09 32.65 10.71 99.59 -69.16 99.59 -69.16 -99.59 69.16 -99.59
+Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(442.13,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(432.28,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(422.52,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(412.7,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(402.79,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(393.02,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(383.26,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(373.35,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(363.54,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(353.76,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(344,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(334.09,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(324.31,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(314.56,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(304.65,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(294.86,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(285.08,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(275.24,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(265.36,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(255.61,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(245.85,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(235.92,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(226.16,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(216.34,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(206.53,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(196.67,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(186.91,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(177.08,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(167.27,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(157.43,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(147.69,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(137.78,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(128.02,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(118.24,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(108.36,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(98.53,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(88.74,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(78.92,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(69.11,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(59.32,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(49.52,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(39.62,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(29.84,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(20.02,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11568=11595}{\fscx110.65\fscy110.65\fs11\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(10.21,199.85)}Kaleido needs YOU!
+Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(430.86,224.51)}We are recruiting
+Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(421.01,224.51)}We are recruiting
+Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(411.25,224.51)}We are recruiting
+Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(401.43,224.51)}We are recruiting
+Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(391.52,224.51)}We are recruiting
+Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(381.75,224.51)}We are recruiting
+Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(371.99,224.51)}We are recruiting
+Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(362.08,224.51)}We are recruiting
+Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(352.27,224.51)}We are recruiting
+Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(342.49,224.51)}We are recruiting
+Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(332.73,224.51)}We are recruiting
+Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(322.82,224.51)}We are recruiting
+Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(313.04,224.51)}We are recruiting
+Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(303.29,224.51)}We are recruiting
+Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(293.38,224.51)}We are recruiting
+Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(283.59,224.51)}We are recruiting
+Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(273.81,224.51)}We are recruiting
+Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(263.97,224.51)}We are recruiting
+Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(254.09,224.51)}We are recruiting
+Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(244.34,224.51)}We are recruiting
+Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(234.58,224.51)}We are recruiting
+Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(224.65,224.51)}We are recruiting
+Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(214.89,224.51)}We are recruiting
+Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(205.07,224.51)}We are recruiting
+Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(195.26,224.51)}We are recruiting
+Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(185.4,224.51)}We are recruiting
+Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(175.64,224.51)}We are recruiting
+Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(165.81,224.51)}We are recruiting
+Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(156,224.51)}We are recruiting
+Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(146.16,224.51)}We are recruiting
+Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(136.42,224.51)}We are recruiting
+Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(126.51,224.51)}We are recruiting
+Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(116.75,224.51)}We are recruiting
+Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(106.97,224.51)}We are recruiting
+Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(97.09,224.51)}We are recruiting
+Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(87.26,224.51)}We are recruiting
+Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(77.47,224.51)}We are recruiting
+Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(67.65,224.51)}We are recruiting
+Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(57.84,224.51)}We are recruiting
+Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(48.05,224.51)}We are recruiting
+Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(38.25,224.51)}We are recruiting
+Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(28.35,224.51)}We are recruiting
+Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(18.57,224.51)}We are recruiting
+Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(8.75,224.51)}We are recruiting
+Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11567=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-1.06,224.51)}We are recruiting
+Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(430.86,238.73)}typesetters for
+Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(421.01,238.73)}typesetters for
+Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(411.25,238.73)}typesetters for
+Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(401.43,238.73)}typesetters for
+Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(391.52,238.73)}typesetters for
+Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(381.75,238.73)}typesetters for
+Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(371.99,238.73)}typesetters for
+Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(362.08,238.73)}typesetters for
+Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(352.27,238.73)}typesetters for
+Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(342.49,238.73)}typesetters for
+Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(332.73,238.73)}typesetters for
+Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(322.82,238.73)}typesetters for
+Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(313.04,238.73)}typesetters for
+Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(303.29,238.73)}typesetters for
+Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(293.38,238.73)}typesetters for
+Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(283.59,238.73)}typesetters for
+Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(273.81,238.73)}typesetters for
+Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(263.97,238.73)}typesetters for
+Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(254.09,238.73)}typesetters for
+Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(244.34,238.73)}typesetters for
+Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(234.58,238.73)}typesetters for
+Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(224.65,238.73)}typesetters for
+Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(214.89,238.73)}typesetters for
+Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(205.07,238.73)}typesetters for
+Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(195.26,238.73)}typesetters for
+Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(185.4,238.73)}typesetters for
+Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(175.64,238.73)}typesetters for
+Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(165.81,238.73)}typesetters for
+Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(156,238.73)}typesetters for
+Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(146.16,238.73)}typesetters for
+Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(136.42,238.73)}typesetters for
+Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(126.51,238.73)}typesetters for
+Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(116.75,238.73)}typesetters for
+Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(106.97,238.73)}typesetters for
+Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(97.09,238.73)}typesetters for
+Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(87.26,238.73)}typesetters for
+Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(77.47,238.73)}typesetters for
+Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(67.65,238.73)}typesetters for
+Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(57.84,238.73)}typesetters for
+Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(48.05,238.73)}typesetters for
+Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(38.25,238.73)}typesetters for
+Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(28.35,238.73)}typesetters for
+Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(18.57,238.73)}typesetters for
+Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(8.75,238.73)}typesetters for
+Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11566=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-1.06,238.73)}typesetters for
+Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(442.55,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(432.7,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(422.94,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(413.12,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(403.21,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(393.44,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(383.68,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(373.77,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(363.96,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(354.18,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(344.42,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(334.51,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(324.73,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(314.98,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(305.07,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(295.28,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(285.5,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(275.66,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(265.78,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(256.03,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(246.27,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(236.34,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(226.58,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(216.76,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(206.95,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(197.09,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(187.33,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(177.5,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(167.69,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(157.85,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(148.11,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(138.2,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(128.44,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(118.66,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(108.78,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(98.95,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(89.16,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(79.34,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(69.53,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(59.74,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(49.94,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(40.04,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(30.26,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(20.44,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11565=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(10.63,252.51)}Blue Archive the Animation.
+Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(440.22,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(430.37,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(420.61,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(410.79,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(400.88,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(391.11,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(381.35,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(371.44,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(361.63,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(351.85,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(342.09,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(332.18,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(322.4,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(312.65,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(302.74,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(292.95,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(283.17,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(273.33,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(263.45,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(253.7,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(243.94,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(234.01,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(224.25,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(214.43,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(204.62,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(194.76,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(185,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(175.17,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(165.36,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(155.52,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(145.78,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(135.87,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(126.11,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(116.33,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(106.45,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(96.62,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(86.83,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(77.01,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(67.2,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(57.41,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(47.61,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(37.71,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(27.93,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(18.11,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11564=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(8.3,271.3)}Contact us on Discord at
+Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(444.59,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(434.74,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(424.98,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(415.16,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(405.25,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(395.48,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(385.72,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(375.81,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(366,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(356.22,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(346.46,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(336.55,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(326.77,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(317.02,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(307.11,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(297.32,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(287.54,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(277.7,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(267.82,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(258.07,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(248.31,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(238.38,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(228.62,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(218.8,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(208.99,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(199.13,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(189.37,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(179.54,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(169.73,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(159.89,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(150.15,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(140.24,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(130.48,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(120.7,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(110.82,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(100.99,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(91.2,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(81.38,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(71.57,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(61.78,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(51.98,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(42.08,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(32.3,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(22.48,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11563=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(12.67,287.97)}discord.gg/dk7aadV
+Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(444.69,303.77)}if you are interested!
+Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(434.84,303.77)}if you are interested!
+Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(425.08,303.77)}if you are interested!
+Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(415.26,303.77)}if you are interested!
+Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(405.35,303.77)}if you are interested!
+Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(395.58,303.77)}if you are interested!
+Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(385.82,303.77)}if you are interested!
+Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(375.91,303.77)}if you are interested!
+Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(366.1,303.77)}if you are interested!
+Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(356.32,303.77)}if you are interested!
+Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(346.56,303.77)}if you are interested!
+Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(336.65,303.77)}if you are interested!
+Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(326.87,303.77)}if you are interested!
+Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(317.12,303.77)}if you are interested!
+Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(307.21,303.77)}if you are interested!
+Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(297.42,303.77)}if you are interested!
+Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(287.64,303.77)}if you are interested!
+Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(277.8,303.77)}if you are interested!
+Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(267.92,303.77)}if you are interested!
+Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(258.17,303.77)}if you are interested!
+Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(248.41,303.77)}if you are interested!
+Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(238.48,303.77)}if you are interested!
+Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(228.72,303.77)}if you are interested!
+Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(218.9,303.77)}if you are interested!
+Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(209.09,303.77)}if you are interested!
+Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(199.23,303.77)}if you are interested!
+Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(189.47,303.77)}if you are interested!
+Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(179.64,303.77)}if you are interested!
+Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(169.83,303.77)}if you are interested!
+Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(159.99,303.77)}if you are interested!
+Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(150.25,303.77)}if you are interested!
+Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(140.34,303.77)}if you are interested!
+Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(130.58,303.77)}if you are interested!
+Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(120.8,303.77)}if you are interested!
+Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(110.92,303.77)}if you are interested!
+Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(101.09,303.77)}if you are interested!
+Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(91.3,303.77)}if you are interested!
+Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(81.48,303.77)}if you are interested!
+Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(71.67,303.77)}if you are interested!
+Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(61.88,303.77)}if you are interested!
+Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(52.08,303.77)}if you are interested!
+Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(42.18,303.77)}if you are interested!
+Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(32.4,303.77)}if you are interested!
+Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(22.58,303.77)}if you are interested!
+Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11562=11595}{\fscx110.65\fscy110.65\fs9\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(12.77,303.77)}if you are interested!
+Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(381.01,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(371.16,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(361.4,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(351.58,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(341.67,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(331.9,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(322.14,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(312.23,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(302.42,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(292.64,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(282.88,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(272.97,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(263.19,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(253.44,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(243.53,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(233.74,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(223.96,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(214.12,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(204.24,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(194.49,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(184.73,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(174.8,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(165.04,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(155.22,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(145.41,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(135.55,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(125.79,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(115.96,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(106.15,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(96.31,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(86.57,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(76.66,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(66.9,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(57.12,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(47.24,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(37.41,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(27.62,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(17.8,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(7.99,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-1.8,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-11.6,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-21.5,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-31.28,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-41.1,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11561=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-50.91,323.04)}Or DM @lightar{\alpha&HFF&}rowsexe
+Dialogue: 0,0:14:44.82,0:14:44.86,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(382.95,338.1)}or @petzku
+Dialogue: 0,0:14:44.86,0:14:44.90,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(373.1,338.1)}or @petzku
+Dialogue: 0,0:14:44.90,0:14:44.94,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(363.34,338.1)}or @petzku
+Dialogue: 0,0:14:44.94,0:14:44.98,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(353.52,338.1)}or @petzku
+Dialogue: 0,0:14:44.98,0:14:45.03,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(343.61,338.1)}or @petzku
+Dialogue: 0,0:14:45.03,0:14:45.07,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(333.84,338.1)}or @petzku
+Dialogue: 0,0:14:45.07,0:14:45.11,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(324.08,338.1)}or @petzku
+Dialogue: 0,0:14:45.11,0:14:45.15,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(314.17,338.1)}or @petzku
+Dialogue: 0,0:14:45.15,0:14:45.19,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(304.36,338.1)}or @petzku
+Dialogue: 0,0:14:45.19,0:14:45.23,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(294.58,338.1)}or @petzku
+Dialogue: 0,0:14:45.23,0:14:45.28,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(284.82,338.1)}or @petzku
+Dialogue: 0,0:14:45.28,0:14:45.32,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(274.91,338.1)}or @petzku
+Dialogue: 0,0:14:45.32,0:14:45.36,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(265.13,338.1)}or @petzku
+Dialogue: 0,0:14:45.36,0:14:45.40,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(255.38,338.1)}or @petzku
+Dialogue: 0,0:14:45.40,0:14:45.44,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(245.47,338.1)}or @petzku
+Dialogue: 0,0:14:45.44,0:14:45.48,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(235.68,338.1)}or @petzku
+Dialogue: 0,0:14:45.48,0:14:45.53,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(225.9,338.1)}or @petzku
+Dialogue: 0,0:14:45.53,0:14:45.57,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(216.06,338.1)}or @petzku
+Dialogue: 0,0:14:45.57,0:14:45.61,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(206.18,338.1)}or @petzku
+Dialogue: 0,0:14:45.61,0:14:45.65,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(196.43,338.1)}or @petzku
+Dialogue: 0,0:14:45.65,0:14:45.69,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(186.67,338.1)}or @petzku
+Dialogue: 0,0:14:45.69,0:14:45.73,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(176.74,338.1)}or @petzku
+Dialogue: 0,0:14:45.73,0:14:45.78,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(166.98,338.1)}or @petzku
+Dialogue: 0,0:14:45.78,0:14:45.82,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(157.16,338.1)}or @petzku
+Dialogue: 0,0:14:45.82,0:14:45.86,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(147.35,338.1)}or @petzku
+Dialogue: 0,0:14:45.86,0:14:45.90,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(137.49,338.1)}or @petzku
+Dialogue: 0,0:14:45.90,0:14:45.94,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(127.73,338.1)}or @petzku
+Dialogue: 0,0:14:45.94,0:14:45.98,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(117.9,338.1)}or @petzku
+Dialogue: 0,0:14:45.98,0:14:46.03,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(108.09,338.1)}or @petzku
+Dialogue: 0,0:14:46.03,0:14:46.07,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(98.25,338.1)}or @petzku
+Dialogue: 0,0:14:46.07,0:14:46.11,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(88.51,338.1)}or @petzku
+Dialogue: 0,0:14:46.11,0:14:46.15,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(78.6,338.1)}or @petzku
+Dialogue: 0,0:14:46.15,0:14:46.19,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(68.84,338.1)}or @petzku
+Dialogue: 0,0:14:46.19,0:14:46.24,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(59.06,338.1)}or @petzku
+Dialogue: 0,0:14:46.24,0:14:46.28,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(49.18,338.1)}or @petzku
+Dialogue: 0,0:14:46.28,0:14:46.32,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(39.35,338.1)}or @petzku
+Dialogue: 0,0:14:46.32,0:14:46.36,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(29.56,338.1)}or @petzku
+Dialogue: 0,0:14:46.36,0:14:46.40,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(19.74,338.1)}or @petzku
+Dialogue: 0,0:14:46.40,0:14:46.44,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(9.93,338.1)}or @petzku
+Dialogue: 0,0:14:46.44,0:14:46.49,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(0.14,338.1)}or @petzku
+Dialogue: 0,0:14:46.49,0:14:46.53,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-9.66,338.1)}or @petzku
+Dialogue: 0,0:14:46.53,0:14:46.57,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-19.56,338.1)}or @petzku
+Dialogue: 0,0:14:46.57,0:14:46.61,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-29.34,338.1)}or @petzku
+Dialogue: 0,0:14:46.61,0:14:46.65,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-39.16,338.1)}or @petzku
+Dialogue: 0,0:14:46.65,0:14:46.69,petzSigns,,0,0,0,,{=11560=11595}{\fscx110.65\fscy110.65\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(-48.97,338.1)}or @petzku
 Comment: 0,0:14:44.82,0:14:44.82,petzSigns,,0,0,0,,{=11571}-- /plaque 1
 Comment: 0,0:16:34.68,0:16:34.68,petzSigns,,0,0,0,,{=11573}-- plaque 2
-Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDDD1BC&\blur1\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Comment: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HE3D7C1&\blur1\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Comment: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDDD1BC&\blur1\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Comment: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDFD5C1&\blur1\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HE2D6C0&\blur1\clip(608,108,745,146)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HE1D5C0&\blur1\clip(608,146,745,150)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HE1D5BF&\blur1\clip(608,150,745,162)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HE0D4BF&\blur1\clip(608,162,745,168)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HE0D4BE&\blur1\clip(608,168,745,175)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDFD3BE&\blur1\clip(608,175,745,181)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDFD3BD&\blur1\clip(608,181,745,185)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDED2BD&\blur1\clip(608,185,745,192)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDED2BC&\blur1\clip(608,192,745,194)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDDD1BC&\blur1\clip(608,194,745,246)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDDD1BD&\blur1\clip(608,246,745,250)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDDD2BD&\blur1\clip(608,250,745,263)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDDD2BE&\blur1\clip(608,263,745,270)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDED3BE&\blur1\clip(608,270,745,276)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDED3BF&\blur1\clip(608,276,745,285)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDED4BF&\blur1\clip(608,285,745,288)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
+Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDED4C0&\blur1\clip(608,288,745,297)\p1}m 62.5 47.74 l 17.04 48.31 17.04 46.52 7.08 46.92 7.27 90 -62.5 90 -62.5 -90 62.5 -90
 Comment: 2,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HECDEC6&\blur5\p1}m -62.5 -74.42 l -62.5 -90 -40.26 -90
 Comment: 1,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\blur5\p1\c&HE4D7C1&}m -62.5 -48.4 l -62.5 -74.42 -40.26 -90 -3.72 -90
 Comment: 1,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\an7\pos(676.71,202.13)\c&HDBCDB8&\blur5\p1}m 62.5 -30.48 l -62.5 67.39 -62.5 5.52 56.2 -90 62.5 -90
@@ -491,7 +541,7 @@ Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\fs9\c&H6C6C6B&\fnH
 Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(619.27,241.29)}Or DM @lightarrowsexe
 Dialogue: 0,0:16:34.68,0:16:37.14,petzSigns,,0,0,0,,{=11572}{\fs9\an4\c&H6C6C6B&\fnHelvetica\b1\blur1.5\pos(620.82,254.9)}or @petzku
 Comment: 0,0:16:34.68,0:16:34.68,petzSigns,,0,0,0,,{=11574}-- /plaque 2
-Comment: 0,0:00:00.00,0:00:00.00,petzSigns,,0,0,0,,{=11576}- /memes
+Comment: 0,0:00:00.00,0:00:00.00,petzSigns,,0,0,0,,{=11578}- /memes
 
 [Aegisub Extradata]
 Data: 11509,_aegi_folddata,e0;0;2
@@ -512,3 +562,37 @@ Data: 11573,_aegi_folddata,e0;1;5
 Data: 11574,_aegi_folddata,e1;1;5
 Data: 11575,_aegi_folddata,e0;1;6
 Data: 11576,_aegi_folddata,e1;1;6
+Data: 11577,_aegi_folddata,e0;0;6
+Data: 11578,_aegi_folddata,e1;0;6
+Data: 11579,_aegi_folddata,e0;0;3
+Data: 11580,_aegi_folddata,e1;0;3
+Data: 11593,_aegi_folddata,e0;1;7
+Data: 11594,_aegi_folddata,e1;1;7
+Data: 11595,_aegi_folddata,e0;0;8
+Data: 11596,_aegi_folddata,e0;0;7
+Data: 11597,_aegi_folddata,e1;0;7
+Data: 11599,a-mo,e{"uuid"#3A"a11a66c4-1260-4238-95f0-2222a0311b7e"#2C"originalText"#3A"{\\clip(0#2C492#2C1920#2C497)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HEADFCA&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11600,a-mo,e{"uuid"#3A"54232a77-cc97-4a29-b0a4-e388a4e28121"#2C"originalText"#3A"{\\clip(0#2C491#2C1920#2C492)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HEBDFCA&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11601,a-mo,e{"uuid"#3A"71ca2036-a15b-4743-bb3b-50d005f28f0b"#2C"originalText"#3A"{\\clip(0#2C487#2C1920#2C491)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HEBE0CB&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11602,a-mo,e{"uuid"#3A"9ed413e5-6739-46e1-8590-c4528efb1cda"#2C"originalText"#3A"{\\clip(0#2C484#2C1920#2C487)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HECE0CB&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11603,a-mo,e{"uuid"#3A"ce444af6-9e3d-4542-8ea8-e6617df25c9e"#2C"originalText"#3A"{\\clip(0#2C482#2C1920#2C484)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HECE1CC&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11604,a-mo,e{"uuid"#3A"fb235c99-208a-4483-812c-1e757a214a2a"#2C"originalText"#3A"{\\clip(0#2C478#2C1920#2C482)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HEDE1CC&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11605,a-mo,e{"uuid"#3A"6a537010-92d0-41bb-97ac-d6362522f08d"#2C"originalText"#3A"{\\clip(0#2C477#2C1920#2C478)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HEDE2CD&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11606,a-mo,e{"uuid"#3A"673c50d7-369e-4701-acf0-233d2d126a2d"#2C"originalText"#3A"{\\clip(0#2C471#2C1920#2C477)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HEEE2CD&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11607,a-mo,e{"uuid"#3A"e9368ba3-72fa-4f6e-8246-42316912149a"#2C"originalText"#3A"{\\clip(0#2C465#2C1920#2C471)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HEFE3CE&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11608,a-mo,e{"uuid"#3A"5315eeee-f577-421d-bcfa-abaff1e37469"#2C"originalText"#3A"{\\clip(0#2C464#2C1920#2C465)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF0E3CE&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11609,a-mo,e{"uuid"#3A"6b61ed51-4f1c-4d67-8dfa-9a68198ebb04"#2C"originalText"#3A"{\\clip(0#2C459#2C1920#2C464)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF0E4CF&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11610,a-mo,e{"uuid"#3A"c41c900f-8f05-45a0-aa26-18c5b8a95302"#2C"originalText"#3A"{\\clip(0#2C456#2C1920#2C459)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF1E4CF&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11611,a-mo,e{"uuid"#3A"20fa01d4-0083-4588-a6df-75247c8adc0f"#2C"originalText"#3A"{\\clip(0#2C452#2C1920#2C456)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF1E5D0&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11612,a-mo,e{"uuid"#3A"442aaa5c-d58f-4cf7-be13-841cb8cb5e25"#2C"originalText"#3A"{\\clip(0#2C447#2C1920#2C452)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF2E5D0&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11613,a-mo,e{"uuid"#3A"f07632c9-ec0e-4de3-960a-cc1e58b8928a"#2C"originalText"#3A"{\\clip(0#2C445#2C1920#2C447)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF2E6D1&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11614,a-mo,e{"uuid"#3A"8e94e31a-a0ac-4605-832d-5f9cf8f5f950"#2C"originalText"#3A"{\\clip(0#2C438#2C1920#2C445)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF3E6D1&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11615,a-mo,e{"uuid"#3A"433b222a-316e-437e-b94d-fa7a37dab561"#2C"originalText"#3A"{\\clip(0#2C429#2C1920#2C438)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF4E7D2&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11616,a-mo,e{"uuid"#3A"e3532638-20c3-4248-96a8-4e11c64d1b22"#2C"originalText"#3A"{\\clip(0#2C427#2C1920#2C429)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF5E7D2&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11617,a-mo,e{"uuid"#3A"12fa69d0-d35b-4259-961c-11104ff91866"#2C"originalText"#3A"{\\clip(0#2C420#2C1920#2C427)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF5E8D3&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11618,a-mo,e{"uuid"#3A"8d7f92e8-632c-4756-8727-cf4be8ad62ef"#2C"originalText"#3A"{\\clip(0#2C414#2C1920#2C420)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF6E8D3&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11619,a-mo,e{"uuid"#3A"f8f8b299-5285-4e6f-a544-02620ce32eda"#2C"originalText"#3A"{\\clip(0#2C408#2C1920#2C414)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF6E9D4&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11620,a-mo,e{"uuid"#3A"54606c2c-ece1-4360-8428-c115ec3e0057"#2C"originalText"#3A"{\\clip(0#2C398#2C1920#2C408)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF7E9D4&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11621,a-mo,e{"uuid"#3A"284c28fe-7070-4749-9575-dbb127ff5644"#2C"originalText"#3A"{\\clip(0#2C393#2C1920#2C398)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF7EAD5&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11622,a-mo,e{"uuid"#3A"0979625f-9916-4bf3-a405-863d1e471d98"#2C"originalText"#3A"{\\clip(0#2C358#2C1920#2C393)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF8EAD5&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
+Data: 11623,a-mo,e{"uuid"#3A"08ba74d4-9db2-4f67-a943-3ff093a92939"#2C"originalText"#3A"{\\clip(0#2C357#2C1920#2C358)\\pos(1079.24#2C426.93)\\an7\\blur1\\p1\\c&HF9EBD6&}m 45.2 33.82 l 1.74 34.13 1.38 64.31 -44.23 64.31 -44.59 -64.06 45.08 -64.43"}
