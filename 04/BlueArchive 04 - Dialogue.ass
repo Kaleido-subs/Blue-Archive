@@ -83,7 +83,7 @@ Dialogue: 10,0:04:14.73,0:04:18.53,Default,,0,0,0,,Well, you only think that bec
 Dialogue: 10,0:04:18.53,0:04:21.24,Default,,0,0,0,,Strange places like this exist all over the world.
 Dialogue: 10,0:04:21.24,0:04:23.78,Default,,0,0,0,,Have you been here before, {*}Hoshino{*Senpai}?
 Dialogue: 10,0:04:23.78,0:04:26.54,Default,,0,0,0,,Nah, this is my first time, too.
-Dialogue: 10,0:04:27.00,0:04:30.96,Default,,0,0,0,,From what I hear, every district \nhas its share of wacky places.
+Dialogue: 10,0:04:27.00,0:04:30.96,Default,,0,0,0,,From what I hear, \nevery district has its share of wacky places.
 Dialogue: 10,0:04:30.96,0:04:34.80,Default,,0,0,0,,Apparently some schools even have huge aquariums. \nI hear they've got whales and stuff! {### addition to tie into her character story and because redundancy sucks}
 Dialogue: 10,0:04:35.13,0:04:37.01,Default,,0,0,0,,I'd love to go one of these days.
 Dialogue: 10,0:04:37.01,0:04:39.05,Default,,0,0,0,,Yeah. That sounds nice.
@@ -135,14 +135,14 @@ Dialogue: 10,0:06:30.16,0:06:32.37,Default,,0,0,0,,I love that franchise!
 Dialogue: 10,0:06:32.37,0:06:34.54,Default,,0,0,0,,Peroro{**-chan}'s just the cutest!
 Dialogue: 10,0:06:34.54,0:06:36.04,Default,,0,0,0,,You like him too?!
 Dialogue: 10,0:06:36.29,0:06:37.29,Default,,0,0,0,,Of course!
-Dialogue: 10,0:06:37.29,0:06:41.05,Default,,0,0,0,,Oh boy, this topic is way past my time.
+Dialogue: 10,0:06:37.29,0:06:41.05,Default,,0,0,0,,Oh boy, this is way past my time.
 Dialogue: 10,0:06:42.47,0:06:45.34,Default,,0,0,0,,By the way, what brings you here?
 Dialogue: 10,0:06:45.34,0:06:47.68,Default,,0,0,0,,We're also looking for something.
 Dialogue: 10,0:06:47.68,0:06:51.81,Default,,0,0,0,,It's not something that's easy to find, \nbut we heard it might be here.
 Dialogue: 10,0:06:52.14,0:06:55.85,Default,,0,0,0,,I see. Guess we're in the same boat, then.
 Dialogue: 10,0:06:55.85,0:07:00.02,Default,,0,0,0,,It looks like your shopping trip \ntook a rather nasty turn, though.
 Dialogue: 10,0:07:00.02,0:07:03.86,Default,,0,0,0,,Well, I mean, I knew this place was bad news.
-Dialogue: 10,0:07:04.36,0:07:10.83,Default,,0,0,0,,Now that the GSC is gone, the corporations moved in \nand have been up to all kinds of mischief.
+Dialogue: 10,0:07:04.36,0:07:10.83,Default,,0,0,0,,And with the GSC absent, corporations moved in \nand have been up to all kinds of mischief.
 Dialogue: 10,0:07:10.83,0:07:14.96,Default,,0,0,0,,It's apparently gotten so out of hand, \nthey even have their own bank and security now.
 Dialogue: 10,0:07:15.37,0:07:19.50,Default,,0,0,0,,W-Wait, that's gotta be highly illegal, right?
 Dialogue: 10,0:07:19.75,0:07:23.51,Default,,0,0,0,,I've heard that the security here is especially bad news.
@@ -160,7 +160,7 @@ Dialogue: 10,0:07:55.58,0:07:58.83,Default,,0,0,0,,Sh-Shut it! Of course I'll pa
 Dialogue: 10,0:07:59.54,0:08:00.58,Default,,0,0,0,,Come on.
 Dialogue: 10,0:08:03.00,0:08:08.34,Default,,0,0,0,,That's odd. There should be {\i1}some{\i0} information \nabout your illegal part, but I can't find anything.
 Dialogue: 10,0:08:08.68,0:08:11.22,Default,,0,0,0,,No transaction records. No storage logs...
-Dialogue: 10,0:08:11.22,0:08:16.23,Default,,0,0,0,,It's almost as if someone \nwent through great lengths to hide it.
+Dialogue: 10,0:08:11.22,0:08:16.23,Default,,0,0,0,,It's almost as if someone \nwent to great lengths to hide it.
 Dialogue: 10,0:08:16.23,0:08:18.23,Default,,0,0,0,,So someone is trying to cover it up?
 Dialogue: 10,0:08:18.23,0:08:18.85,Default,,0,0,0,,I think so.
 Dialogue: 10,0:08:19.44,0:08:24.40,Default,,0,0,0,,The corporations run this place, but even they \nshouldn't be able to hide every trace of it.
@@ -214,15 +214,15 @@ Dialogue: 10,0:10:58.80,0:11:02.98,Default,,0,0,0,,Oh, on second thought, they p
 Dialogue: 10,0:11:02.98,0:11:04.77,Default,,0,0,0,,so it's too late to get them.
 Dialogue: 10,0:11:05.69,0:11:11.36,Default,,0,0,0,,We're dealing with a bank that has top-notch security, \neven by Black Market standards, so...
 Dialogue: 10,0:11:13.86,0:11:15.91,Default,,0,0,0,,Hey, Hoshino{**-senpai}.
-Dialogue: 10,0:11:15.91,0:11:17.62,Default,,0,0,0,,I think this calls for plan B.
-Dialogue: 10,0:11:17.62,0:11:19.74,Default,,0,0,0,,Hm? Plan B?
-Dialogue: 10,0:11:19.74,0:11:21.24,Default,,0,0,0,,Oh, {\i1}that{\i0} plan!
+Dialogue: 10,0:11:15.91,0:11:17.62,Default,,0,0,0,,I think this calls for my plan.
+Dialogue: 10,0:11:17.62,0:11:19.74,Default,,0,0,0,,Hm? Your plan?
+Dialogue: 10,0:11:19.74,0:11:21.24,Default,,0,0,0,,Oh, {\i1}that{\i0} one!
 Dialogue: 10,0:11:21.24,0:11:24.58,Default,,0,0,0,,I agree. That might be just what we need!
 Dialogue: 10,0:11:24.91,0:11:26.50,Default,,0,0,0,,Wait, you can't seriously mean...
 Dialogue: 10,0:11:26.96,0:11:30.00,Default,,0,0,0,,You're not thinking what I'm thinking, r-right?
 Dialogue: 10,0:11:30.42,0:11:33.34,Default,,0,0,0,,Um, I'm sorry, I'm not sure I follow.
 Dialogue: 10,0:11:33.34,0:11:36.01,Default,,0,0,0,,It's our only option.
-Dialogue: 10,0:11:37.18,0:11:38.76,Default,,0,0,0,,Plan "Bank robbery".
+Dialogue: 10,0:11:37.18,0:11:38.76,Default,,0,0,0,,We rob the bank.
 Dialogue: 10,0:11:39.22,0:11:40.26,Default,,0,0,0,,Excuse me?!
 Dialogue: 10,0:11:40.26,0:11:43.35,Default,,0,0,0,,Shiroko, hold on! There's gotta be another—
 Dialogue: 10,0:11:43.35,0:11:44.27,Default,,0,0,0,,It's okay.
@@ -311,7 +311,7 @@ Dialogue: 10,0:15:45.42,0:15:47.80,Default,,0,0,0,,That cash transport just now.
 Dialogue: 10,0:15:47.80,0:15:50.60,Default,,0,0,0,,Yes, of course. Gold, cash, bonds, anything!
 Dialogue: 10,0:15:50.60,0:15:53.22,Default,,0,0,0,,I'll give you whatever you want, so please spare me!
 Dialogue: 10,0:15:53.22,0:15:56.85,Default,,0,0,0,,No, we just want the transport logs.
-Dialogue: 10,0:15:57.31,0:15:58.85,Default,,0,0,0,,{\i1}Th-That's so badass!
+Dialogue: 10,0:15:57.31,0:15:58.85,Default,,0,0,0,,{\i1}Th-That's so cool!
 Dialogue: 10,0:15:58.85,0:16:00.69,Default,,0,0,0,,{\i1}Who are these people?!
 Dialogue: 10,0:16:00.69,0:16:03.40,Default,,0,0,0,,{\i1}How do they have the guts to hit \na Black Market bank of all places?!
 Dialogue: 10,0:16:03.40,0:16:06.53,Default,,0,0,0,,{\i1}They're making it look so easy. \nThey must be professionals!
