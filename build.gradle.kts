@@ -103,12 +103,12 @@ subs {
 
             video {
                 lang("jpn")
-                name(get("group").get())
+                name(get("vcodec").get())
                 default(true)
             }
             audio {
                 lang("jpn")
-                name(get("group").get())
+                name(get("acodec").get())
                 default(true)
             }
             includeChapters(false)
