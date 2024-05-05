@@ -108,7 +108,7 @@ subs {
             }
             audio {
                 lang("jpn")
-                name(get("acodec").get())
+                name("E-AC3 2.0 @ 224 kb/s")
                 default(true)
             }
             includeChapters(false)
