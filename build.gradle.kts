@@ -140,22 +140,22 @@ subs {
         skipUnusedFonts(true)
 
         attach(get("common_fonts")) {
-            includeExtensions("ttf", "otf", "ttc")
+            includeExtensions("ttf", "otf")
         }
 
         attach(get("fonts")) {
-            includeExtensions("ttf", "otf", "ttc")
+            includeExtensions("ttf", "otf")
         }
 
         if (propertyExists("OP")) {
             attach(get("opfonts")) {
-                includeExtensions("ttf", "otf", "ttc")
+                includeExtensions("ttf", "otf")
             }
         }
 
         if (propertyExists("ED")) {
             attach(get("edfonts")) {
-                includeExtensions("ttf", "otf", "ttc")
+                includeExtensions("ttf", "otf")
             }
         }
 
