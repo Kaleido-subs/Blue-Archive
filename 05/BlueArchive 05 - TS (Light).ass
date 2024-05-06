@@ -13,6 +13,7 @@ PlayResY: 1080
 Last Style Storage: Default
 Audio File: Blue Archive The Animation - S01E05 (Premux) [B35EC0CC].mkv
 Video File: Blue Archive The Animation - S01E05 (Premux) [B35EC0CC].mkv
+Keyframes File: BlueArchive_S01E05_scening.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -25,13 +26,54 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11509}-- Repeat Signs
 Comment: 0,0:02:16.49,0:02:16.49,LightSigns,,0,0,0,,{=11855}---- Episode Title
 Dialogue: 0,0:02:16.49,0:02:19.49,LightSigns,,0,0,0,,{=11856}{\fscx90\fax-0.5\fnRoG2サンセリフStd-B\fs48\c&H2C2D2B&\blur0.5\t(2524,3024,0.9,\1a&HFF&)\pos(518.74,1039.8)}We'r{\fsp10}e{\fsp\c&HF78911&}No{\fsp10}t{\fsp\c&H2C2D2B&}Thei{\fsp10}r{\fsp}Friends!
+Comment: 0,0:03:52.55,0:03:52.55,LightSigns,,0,0,0,,{=11859}---- Collection form
+Dialogue: 2,0:03:53.55,0:03:53.67,LightSigns,glow,0,0,0,,{\an7\pos(1048.97,662.41)\1a&H78&\blur4\p1}m -386 393 l 34 393 44 438 -391 433
+Dialogue: 0,0:03:53.55,0:03:53.67,LightSigns,mask,0,0,0,,{\an7\pos(1048.97,662.41)\p1}m -225 433 l -391 433 -391 386 -225 386 m -42 431 l -209 431 -209 398 -42 398
+Dialogue: 1,0:03:53.55,0:03:53.67,LightSigns,top,0,0,0,,{\an4\pos(667.97,1073.41)\fnLiberation Sans ET\fs34\b1\c&H000000&\blur1.2}Collection Form
+Dialogue: 1,0:03:53.55,0:03:53.67,LightSigns,top,0,0,0,,{\an4\pos(893.97,1073.41)\fnLiberation Sans ET\fs18\b1\c&H000000&\blur1.2}Total Amount: ¥152,533,322
+Dialogue: 2,0:03:53.67,0:03:53.80,LightSigns,glow,0,0,0,,{\an7\pos(614.58,993.34)\1a&H78&\blur4\p1}m -11 -10 l 215 1 414 3 537 -11 567 76 530 103 -12 120
+Dialogue: 0,0:03:53.67,0:03:53.80,LightSigns,mask,0,0,0,,{\an7\pos(1006,600)\p1}m -280 484 l -327 484 -327 458 -280 458 m 81 484 l 7 484 7 460 81 460 m -14 483 l -73 483 -73 459 -14 459 m 144 482 l 103 482 103 463 144 463 m -80 482 l -144 482 -144 463 -80 463 m -165 482 l -212 482 -212 460 -165 460 m -225 433 l -391 433 -391 386 -225 386 m -42 431 l -209 431 -209 398 -42 398
+Dialogue: 1,0:03:53.67,0:03:53.80,LightSigns,top,0,0,0,,{\an4\pos(625,1011)\fnLiberation Sans ET\fs34\b1\c&H000000&\blur1.2}Collection Form
+Dialogue: 1,0:03:53.67,0:03:53.80,LightSigns,top,0,0,0,,{\an4\pos(851,1011)\fnLiberation Sans ET\fs18\b1\c&H000000&\blur1.2}Total Amount: ¥152,533,322
+Dialogue: 1,0:03:53.67,0:03:53.80,LightSigns,top,0,0,0,,{\an4\pos(853,1015)\fscx2350\fnLiberation Sans ET\fs18\b1\c&H000000&\blur1.2}_
+Dialogue: 1,0:03:53.67,0:03:53.80,LightSigns,header,0,0,0,,{\pos(699,1074)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Borrower's Name
+Dialogue: 1,0:03:53.67,0:03:53.80,LightSigns,header,0,0,0,,{\pos(820,1074)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Received
+Dialogue: 1,0:03:53.67,0:03:53.80,LightSigns,header,0,0,0,,{\pos(894,1074)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Outstanding \NBalance
+Dialogue: 1,0:03:53.67,0:03:53.80,LightSigns,header,0,0,0,,{\pos(965,1074)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Payment \NStatus
+Dialogue: 1,0:03:53.67,0:03:53.80,LightSigns,header,0,0,0,,{\pos(1050,1074)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Contact \NInformation
+Dialogue: 1,0:03:53.67,0:03:53.80,LightSigns,header,0,0,0,,{\pos(1129,1074)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Loan ID
+Dialogue: 2,0:03:53.80,0:03:54.80,LightSigns,glow,0,0,0,,{\an7\pos(960,558)\1a&H78&\blur4\p1}m -411 372 l -184 383 17 382 160 382 175 463 173 566 -409 585
+Dialogue: 0,0:03:53.80,0:03:54.80,LightSigns,mask,0,0,0,,{\an7\pos(960,540)\p1}m -238 540 l -380 540 -380 530 -238 530 m -154 540 l -222 540 -222 529 -154 529 m -82 540 l -111 540 -111 532 -82 532 m -26 540 l -61 540 -61 529 -26 529 m 88 540 l -4 540 -4 531 88 531 m 145 540 l 99 540 99 532 145 532 m -247 520 l -378 520 -378 499 -247 499 m 87 519 l -5 519 -5 499 87 499 m 146 516 l 99 516 99 498 146 498 m -155 516 l -216 516 -216 499 -155 499 m -26 516 l -61 516 -61 499 -26 499 m -84 515 l -104 515 -104 501 -84 501 m -280 484 l -327 484 -327 458 -280 458 m 81 484 l 7 484 7 460 81 460 m -14 483 l -73 483 -73 459 -14 459 m 144 482 l 103 482 103 463 144 463 m -80 482 l -144 482 -144 463 -80 463 m -165 482 l -212 482 -212 460 -165 460 m -225 433 l -391 433 -391 386 -225 386 m -42 431 l -209 431 -209 398 -42 398
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,top,0,0,0,,{\an4\pos(579,951)\fnLiberation Sans ET\fs34\b1\c&H000000&\blur1.2}Collection Form
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,top,0,0,0,,{\an4\pos(805,951)\fnLiberation Sans ET\fs18\b1\c&H000000&\blur1.2}Total Amount: ¥152,533,322
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,top,0,0,0,,{\an4\pos(807,955)\fscx2350\fnLiberation Sans ET\fs18\b1\c&H000000&\blur1.2}_
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,header,0,0,0,,{\pos(653,1014)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Borrower's Name
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,header,0,0,0,,{\pos(774,1014)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Received
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,header,0,0,0,,{\pos(848,1014)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Outstanding \NBalance
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,header,0,0,0,,{\pos(919,1014)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Payment \NStatus
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,header,0,0,0,,{\pos(1004,1014)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Contact \NInformation
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,header,0,0,0,,{\pos(1083,1014)\fnLiberation Sans ET\fs14\b1\c&H000000&\blur1.2}Loan ID
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,row1,0,0,0,,{\pos(653,1049)\fnLiberation Sans\fs11\c&H000000&\blur1.2}Neo Gaia Technologies
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,row1,0,0,0,,{\pos(774,1049)\fnLiberation Sans\fs11\fsp0.5\c&H000000&\blur1.2}¥2,657,930
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,row1,0,0,0,,{\pos(848,1049)\fnLiberation Sans\fs11\fsp0.5\c&H000000&\blur1.2}¥0
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,row1,0,0,0,,{\pos(919,1049)\fnLiberation Sans\fs11\c&H000000&\blur1.2}Paid
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,row1,0,0,0,,{\pos(1004,1049)\fnLiberation Sans\fs11\fsp0.5\c&H000000&\blur1.2}293-8274-1632
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,row1,0,0,0,,{\pos(1083,1049)\fnLiberation Sans\fs11\fsp0.5\c&H000000&\blur1.2}5C8347
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,row2,0,0,0,,{\pos(653,1081)\fnLiberation Sans\fs11\c&H000000&\blur1.2}Chaldea Security Organization
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,row2,0,0,0,,{\pos(774,1081)\fnLiberation Sans\fs11\fsp0.5\c&H000000&\blur1.2}¥15,303,146
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,row2,0,0,0,,{\pos(848,1081)\fnLiberation Sans\fs11\fsp0.5\c&H000000&\blur1.2}¥0
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,row2,0,0,0,,{\pos(919,1081)\fnLiberation Sans\fs11\c&H000000&\blur1.2}Paid
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,row2,0,0,0,,{\pos(1004,1081)\fnLiberation Sans\fs11\fsp0.5\c&H000000&\blur1.2}293-1782-9017
+Dialogue: 1,0:03:53.80,0:03:54.80,LightSigns,row2,0,0,0,,{=11860}{\pos(1083,1081)\fnLiberation Sans\fs11\fsp0.5\c&H000000&\blur1.2}5C3874
 Dialogue: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11510}-- Repeat Signs
-Dialogue: 0,0:00:00.00,0:00:02.98,LightSigns,,0,0,0,,
+Dialogue: 0,0:03:53.55,0:03:56.55,LightSigns,,0,0,0,,
 
 [Aegisub Extradata]
 Data: 11509,_aegi_folddata,e0;0;2
 Data: 11510,_aegi_folddata,e1;0;2
-Data: 11853,_aegi_folddata,e0;0;4
-Data: 11854,_aegi_folddata,e1;0;4
 Data: 11855,_aegi_folddata,e0;1;4
 Data: 11856,_aegi_folddata,e1;1;4
+Data: 11857,_aegi_folddata,e0;0;5
+Data: 11858,_aegi_folddata,e1;0;5
+Data: 11859,_aegi_folddata,e0;1;5
+Data: 11860,_aegi_folddata,e1;1;5
