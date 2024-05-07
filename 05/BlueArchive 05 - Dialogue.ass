@@ -98,7 +98,7 @@ Dialogue: 10,0:04:39.97,0:04:41.50,Default,,0,0,0,,I can't just leave you to you
 Dialogue: 10,0:04:41.50,0:04:42.43,Default,,0,0,0,,Hifumi...
 Dialogue: 10,0:04:42.43,0:04:44.15,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:04:44.15,0:04:49.62,Default,,0,0,0,,If we could get Trinity's student council to help us, we would be in a much better place.
-Dialogue: 10,0:04:49.62,0:04:51.65,Default,,0,0,0,,Isn't that right, Hoshino? {TM: fine tune leadout}
+Dialogue: 10,0:04:49.62,0:04:51.65,Default,,0,0,0,,Isn't that right, Hoshino?
 Dialogue: 10,0:04:52.65,0:04:57.53,Default,,0,0,0,,Well, it was all a bit surprising, to be honest.
 Dialogue: 10,0:04:57.53,0:05:00.40,Default,,0,0,0,,To think you were a billion yen in debt...
 Dialogue: 10,0:05:00.40,0:05:04.02,Default,,0,0,0,,Hey, it's not that much! \NIt's only 960 -
@@ -354,7 +354,9 @@ Dialogue: 10,0:16:42.99,0:16:44.73,Default,,0,0,0,,I'll let her know.
 Dialogue: 10,0:16:45.16,0:16:47.66,Default,,0,0,0,,We need to hurry\Nand help the boss!
 Dialogue: 10,0:16:47.66,0:16:48.61,Default,,0,0,0,,Right!
 Dialogue: 10,0:16:47.66,0:16:48.61,Alt,,0,0,0,,Right!
-Dialogue: 10,0:16:51.64,0:16:54.41,Default,,0,0,0,,《Just hold on, boss!》 {TM: Maybe split alt}
+Comment: 10,0:16:51.64,0:16:54.41,Default,,0,0,0,,《Just hold on, boss!》
+Dialogue: 10,0:16:51.64,0:16:52.87,Default,,0,0,0,,《Just hold on,
+Dialogue: 10,0:16:53.28,0:16:54.41,Default,,0,0,0,,boss!》
 Dialogue: 10,0:16:59.65,0:17:01.78,Default,,0,0,0,,Owww...
 Dialogue: 10,0:17:08.36,0:17:09.86,Default,,0,0,0,,What happened?
 Dialogue: 10,0:17:09.86,0:17:12.39,Default,,0,0,0,,(Mutsuki)There's our Aru, found her!
@@ -365,34 +367,36 @@ Dialogue: 10,0:17:20.62,0:17:22.65,Default,,0,0,0,,She should be nearby...
 Dialogue: 10,0:17:23.01,0:17:26.58,Default,,0,0,0,,I can't believe she even had bombs in Shiba Seki Ramen...
 Dialogue: 10,0:17:26.58,0:17:30.36,Default,,0,0,0,,Oh, speaking of,\Nwhat even was the plan with that?
 Dialogue: 10,0:17:30.36,0:17:33.41,Default,,0,0,0,,I mean, it's exactly as I described earlier...
-Dialogue: 10,0:17:33.68,0:17:35.91,Default,,0,0,0,,It's just, this wasn't part of it. {TM: Snap?}
+Dialogue: 10,0:17:33.68,0:17:35.91,Default,,0,0,0,,It's just, this wasn't part of it.
 Dialogue: 10,0:17:35.91,0:17:37.41,Default,,0,0,0,,Excuse me?!
 Dialogue: 10,0:17:40.10,0:17:41.40,Default,,0,0,0,,Well, what now?
 Dialogue: 10,0:17:41.40,0:17:42.43,Default,,0,0,0,,Huh?!
 Dialogue: 10,0:17:42.43,0:17:45.79,Default,,0,0,0,,I mean, honestly, isn't this exactly what you wanted?
 Dialogue: 10,0:17:45.79,0:17:48.42,Default,,0,0,0,,(Mutsuki)Didn't you say we should just destroy the restaurant?
 Dialogue: 10,0:17:48.42,0:17:51.55,Default,,0,0,0,,(Haruka)Actually, I was the one who s-said that.
-Dialogue: 10,0:17:51.82,0:17:53.86,Default,,0,0,0,,Haruka, are you okay? {TM: Might snap}
+Dialogue: 10,0:17:51.55,0:17:53.86,Default,,0,0,0,,Haruka, are you okay?
 Dialogue: 10,0:17:53.86,0:17:56.05,Default,,0,0,0,,Yes, I'm completely fine.
 Dialogue: 10,0:17:56.64,0:17:58.55,Default,,0,0,0,,But more importantly, Miss Aru. 
-Dialogue: 10,0:17:58.55,0:18:02.71,Default,,0,0,0,,Have I perhaps just made things worse? {TM: might try to split this up}
+Dialogue: 10,0:17:58.55,0:18:02.71,Default,,0,0,0,,Have I perhaps just made things worse? {TM: could probably split this up a bit but I'm too lazy rn}
 Dialogue: 10,0:18:05.87,0:18:07.44,Default,,0,0,0,,I-I'm sorry! I'm sorry! 
 Dialogue: 10,0:18:07.79,0:18:11.07,Default,,0,0,0,,I just thought that it might be better to plant some extra bombs, just in case...
 Dialogue: 10,0:18:11.38,0:18:13.38,Default,,0,0,0,,At this point I should just die for my...
 Comment: 10,0:18:13.92,0:18:15.32,Default,,0,0,0,,Maybe later. \NMore importantly,
 Dialogue: 10,0:18:13.38,0:18:15.32,Default,,0,0,0,,Maybe later.
-Dialogue: 10,0:18:15.32,0:18:17.51,Default,,0,0,0,,More importantly, we need to talk about what to do now... {TM: Might snap end? Probabaly not}
+Dialogue: 10,0:18:15.32,0:18:17.51,Default,,0,0,0,,More importantly, we need to talk about what to do now...
 Dialogue: 10,0:18:18.58,0:18:19.63,Default,,0,0,0,,Boss?
-Dialogue: 10,0:18:24.01,0:18:26.42,Default,,0,0,0,,(Aru)L-Looking at this situation... {TM: snaps?}
+Dialogue: 10,0:18:24.01,0:18:26.42,Default,,0,0,0,,(Aru)L-Looking at this situation...
 Dialogue: 10,0:18:27.88,0:18:31.09,Default,,0,0,0,,Are we the baddies? We are, aren't we?
-Comment: 10,0:18:31.34,0:18:34.84,Default,,0,0,0,,Hm? Well, then, mission accomplished, right?
-Dialogue: 10,0:18:31.34,0:18:32.23,Default,,0,0,0,,Hm?
+Comment: 10,0:18:31.09,0:18:34.84,Default,,0,0,0,,Hm? Well, then, mission accomplished, right?
+Dialogue: 10,0:18:31.09,0:18:32.23,Default,,0,0,0,,Hm?
 Dialogue: 10,0:18:32.23,0:18:34.85,Default,,0,0,0,,Well, then, mission accomplished, right?
 Dialogue: 10,0:18:34.85,0:18:36.98,Default,,0,0,0,,Huh? W-what do you mean?
 Dialogue: 10,0:18:36.98,0:18:39.60,Default,,0,0,0,,I mean, didn't you want to be the bad guy?
 Dialogue: 10,0:18:40.97,0:18:43.09,Default,,0,0,0,,You were so worried you'd grow a conscience
 Dialogue: 10,0:18:43.09,0:18:46.98,Default,,0,0,0,,that you went and blew up the ramen shop that had been so kind to you all along.
-Dialogue: 10,0:18:47.48,0:18:51.57,Default,,0,0,0,,Now that's what I call a cold-blooded, heartless villain! Right, Aru? {TM: do split alt}
+Comment: 10,0:18:47.48,0:18:50.55,Default,,0,0,0,,Now that's what I call a cold-blooded, heartless villain!
+Comment: 10,0:18:50.55,0:18:51.57,Default,,0,0,0,,Right, Aru?
+Dialogue: 10,0:18:47.48,0:18:51.57,Default,,0,0,0,,Now that's what I call a cold-blooded, heartless villain! Right, Aru?
 Dialogue: 10,0:18:53.82,0:18:58.13,Default,,0,0,0,,B-But of course!\NNo morals! No mercy!
 Dialogue: 10,0:18:58.13,0:19:00.49,Default,,0,0,0,,You pay us the dime and we do the crime!
 Dialogue: 10,0:19:00.83,0:19:02.74,Default,,0,0,0,,That's our motto!
@@ -421,7 +425,7 @@ Dialogue: 10,0:20:13.23,0:20:17.20,Default,,0,0,0,,(Aru) Now do you get the pict
 Dialogue: 10,0:20:17.57,0:20:18.82,Default,,0,0,0,,Aru.
 Dialogue: 10,0:20:17.57,0:20:18.82,Alt,,0,0,0,,Miss Aru.
 Dialogue: 10,0:20:21.10,0:20:22.65,Default,,0,0,0,,Serika...
-Dialogue: 10,0:20:22.65,0:20:24.45,Default,,0,0,0,,(Ayane)The boss is secure! {TM: might snap?}
+Dialogue: 10,0:20:22.65,0:20:24.45,Default,,0,0,0,,(Ayane)The boss is secure!
 Dialogue: 10,0:20:24.95,0:20:26.95,Default,,0,0,0,,(Nonomi)How is he?!
 Dialogue: 10,0:20:26.95,0:20:27.96,Default,,0,0,0,,(Ayane)Only minor injuries!
 Dialogue: 10,0:20:28.35,0:20:29.53,Default,,0,0,0,,Thank goodness.
@@ -431,7 +435,9 @@ Dialogue: 10,0:20:33.52,0:20:34.93,Default,,0,0,0,,Got it!\N
 Dialogue: 10,0:20:34.93,0:20:36.37,Default,,0,0,0,,It's good he's okay, right, Serika?
 Dialogue: 10,0:20:36.37,0:20:38.01,Default,,0,0,0,,Too damn far.
 Dialogue: 10,0:20:38.01,0:20:39.05,Default,,0,0,0,,Serika.
-Dialogue: 10,0:20:39.54,0:20:43.56,Default,,0,0,0,,Shiroko, I'm sorry, {TM: Split ver too}
+Comment: 10,0:20:39.54,0:20:43.56,Default,,0,0,0,,Shiroko, I'm sorry,
+Dialogue: 10,0:20:39.54,0:20:41.55,Default,,0,0,0,,Shiroko,
+Dialogue: 10,0:20:42.24,0:20:43.56,Default,,0,0,0,,I'm sorry,
 Dialogue: 10,0:20:43.56,0:20:45.56,Default,,0,0,0,,but I'm not calming down.
 Dialogue: 10,0:20:47.42,0:20:48.56,Default,,0,0,0,,Me neither.
 Dialogue: 10,0:20:52.40,0:20:54.57,Default,,0,0,0,,Come on, then, have at you!
@@ -453,8 +459,8 @@ Dialogue: 10,0:21:43.46,0:21:47.12,Default,,0,0,0,,It appears we have some unexp
 Dialogue: 10,0:21:47.12,0:21:49.70,Default,,0,0,0,,(Iori)Oh yeah, what's their face.
 Dialogue: 10,0:21:49.70,0:21:52.56,Default,,0,0,0,,What was it... Abydos?
 Dialogue: 10,0:21:52.56,0:21:56.21,Default,,0,0,0,,Correct.\NThe Abydos High School Foreclosure Task Force.
-Dialogue: 10,0:21:56.48,0:22:00.72,Default,,0,0,0,,Why bother asking?\NWe do this the same way we always do, Chinatsu. {TM: Snap?}
-Dialogue: 10,0:22:01.02,0:22:04.01,Default,,0,0,0,,Anyone foolish enough to stand in the way of our duties {TM: I see potential for shenan with the tail whip but no idea how to do it subtly. }
+Dialogue: 10,0:21:56.21,0:22:00.72,Default,,0,0,0,,Why bother asking?\NWe do this the same way we always do, Chinatsu.
+Dialogue: 10,0:22:01.02,0:22:04.01,Default,,0,0,0,,Anyone foolish enough to stand in the way of our duties
 Dialogue: 10,0:22:07.74,0:22:09.67,Default,,0,0,0,,{=5}is a target.
 
 [Aegisub Extradata]
