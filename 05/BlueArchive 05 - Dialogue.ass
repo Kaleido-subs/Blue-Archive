@@ -68,7 +68,7 @@ Dialogue: 10,0:03:05.78,0:03:07.50,Default,,0,0,0,,And then there's this.
 Dialogue: 10,0:03:07.92,0:03:11.51,Default,,0,0,0,,Right after depositing the 7.88 million yen,
 Dialogue: 10,0:03:11.51,0:03:16.26,Default,,0,0,0,,they allocated 5 million yen towards \n"strategic allocations" to the Kata Kata Helmet Gang.
 Dialogue: 10,0:03:16.58,0:03:17.81,Default,,0,0,0,,Strategic allocations...
-Dialogue: 10,0:03:17.81,0:03:23.27,Default,,0,0,0,,They sent the Kata Kata Helmet Gang \n5 million yen to help fund their job.
+Dialogue: 10,0:03:17.81,0:03:23.27,Default,,0,0,0,,They sent the Kata Kata Helmet Gang \nfive million yen to help fund their job.
 Dialogue: 10,0:03:23.27,0:03:25.15,Default,,0,0,0,,Job?
 Dialogue: 10,0:03:25.15,0:03:28.94,Default,,0,0,0,,It was probably to take us out of the picture.
 Dialogue: 10,0:03:28.94,0:03:30.02,Default,,0,0,0,,So that means...
@@ -127,7 +127,7 @@ Dialogue: 10,0:06:22.83,0:06:24.78,Default,,0,0,0,,I'm sure we'll find a way.
 Dialogue: 10,0:06:25.50,0:06:30.14,Default,,0,0,0,,There has to be {\i1}something{\i0} we can do, right? \nI really hope so, anyway...
 Dialogue: 10,0:06:30.14,0:06:31.42,Default,,0,0,0,,Oh, c'mon!
 Dialogue: 10,0:06:31.42,0:06:33.85,Default,,0,0,0,,Show some conviction at least!
-Dialogue: 10,0:06:33.85,0:06:36.96,Default,,0,0,0,,I mean, thinking about this logically..
+Dialogue: 10,0:06:33.85,0:06:36.96,Default,,0,0,0,,I mean, thinking about this logically...
 Dialogue: 10,0:06:36.96,0:06:38.88,Default,,0,0,0,,Well, then quit thinking.
 Dialogue: 10,0:06:38.88,0:06:41.51,Default,,0,0,0,,I mean, everyone was looking at me, so...
 Dialogue: 10,0:06:41.51,0:06:45.22,Default,,0,0,0,,{\an8}Of course everyone was gonna look at you \nif you said something at that moment.
@@ -181,7 +181,7 @@ Dialogue: 10,0:08:59.26,0:09:00.14,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:09:00.14,0:09:03.36,Default,,0,0,0,,You know, if you're losing sleep over it,
 Dialogue: 10,0:09:03.36,0:09:06.78,Default,,0,0,0,,why don't we just take the money \nthey left behind and put it towards our funds?
 Dialogue: 10,0:09:08.27,0:09:09.56,Default,,0,0,0,,We can't do that.
-Dialogue: 10,0:09:09.56,0:09:12.66,Default,,0,0,0,,This money is something those girls left behind by accident.
+Dialogue: 10,0:09:09.56,0:09:12.66,Default,,0,0,0,,This money is something \nthose girls left behind by accident.
 Dialogue: 10,0:09:12.66,0:09:14.97,Default,,0,0,0,,Using it would just be uncool.
 Dialogue: 10,0:09:14.97,0:09:16.54,Default,,0,0,0,,True outlaws wouldn't do that.
 Dialogue: 10,0:09:16.54,0:09:20.26,Default,,0,0,0,,Then why didn't we get an advance from the client?
@@ -256,7 +256,7 @@ Dialogue: 10,0:12:37.86,0:12:40.79,Default,,0,0,0,,but back when I first met her
 Dialogue: 10,0:12:40.79,0:12:43.59,Default,,0,0,0,,she always looked like she was \nweighed down by something.
 Dialogue: 10,0:12:43.59,0:12:45.49,Default,,0,0,0,,Weighed down? By what?
 Dialogue: 10,0:12:46.20,0:12:50.25,Default,,0,0,0,,Anything and everything, I suppose.
-Dialogue: 10,0:12:50.57,0:12:56.26,Default,,0,0,0,,From what I've heard, when Hoshino{**-senpai} first enroled, \nthere used to be another older student here.
+Dialogue: 10,0:12:50.57,0:12:56.26,Default,,0,0,0,,From what I've heard, when Hoshino{**-senpai} first enrolled, \nthere used to be another older student here.
 Dialogue: 10,0:12:57.04,0:13:00.26,Default,,0,0,0,,Apparently, she was the last \nstudent council president Abydos ever had.
 Dialogue: 10,0:13:00.81,0:13:03.03,Default,,0,0,0,,So once she was gone,
 Dialogue: 10,0:13:03.03,0:13:07.27,Default,,0,0,0,,Hoshino{**-senpai} ended up shouldering \nall the responsibilities alone.
@@ -374,7 +374,7 @@ Dialogue: 10,0:18:34.85,0:18:36.98,Default,,0,0,0,,Huh? Wh-What do you mean?
 Dialogue: 10,0:18:36.98,0:18:39.60,Default,,0,0,0,,I mean, wasn't the whole point to become a bad guy? {brings it a bit closer to the question --ik} {### og edit: "I mean, weren't you scared you were becoming a softie?" petz leaving it up to you}
 Dialogue: 10,0:18:40.97,0:18:43.09,Default,,0,0,0,,After everything those nice people did for you,
 Dialogue: 10,0:18:43.09,0:18:46.98,Default,,0,0,0,,you were so terrified you'd grow a conscience, \nyou decided to blow up the entire place.
-Dialogue: 10,0:18:47.48,0:18:51.57,Default,,0,0,0,,You're as cold-blooded and {\n}ruthless as they come, Aru{**-chan}!
+Dialogue: 10,0:18:47.48,0:18:51.57,Default,,0,0,0,,You're as cold-blooded and {**\n}ruthless as they come, Aru{**-chan}!
 Dialogue: 10,0:18:53.82,0:18:58.13,Default,,0,0,0,,Th-That's right! No morals! No mercy!
 Dialogue: 10,0:18:58.13,0:19:00.49,Default,,0,0,0,,Pay us the dime and we do the crime!
 Dialogue: 10,0:19:00.83,0:19:02.74,Default,,0,0,0,,That's our motto!
@@ -402,7 +402,7 @@ Dialogue: 10,0:20:09.26,0:20:11.82,Default,,0,0,0,,Problem Solver 68!
 Dialogue: 10,0:20:13.23,0:20:17.20,Default,,0,0,0,,Finally getting the picture now? \nWe're bad to the bone!
 Dialogue: 10,0:20:17.57,0:20:18.82,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}!
 Dialogue: 10,0:20:17.57,0:20:18.82,Alt,,0,0,0,,Aru{**-chan}!
-Dialogue: 10,0:20:21.10,0:20:22.65,Default,,0,0,0,,Serika...
+Dialogue: 10,0:20:21.10,0:20:22.65,Default,,0,0,0,,Serika{**-chan}...
 Dialogue: 10,0:20:22.65,0:20:24.45,Default,,0,0,0,,The boss is secure!
 Dialogue: 10,0:20:24.95,0:20:26.95,Default,,0,0,0,,How is he?!
 Dialogue: 10,0:20:26.95,0:20:27.96,Default,,0,0,0,,Only minor injuries!
