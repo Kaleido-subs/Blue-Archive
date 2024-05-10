@@ -111,7 +111,7 @@ Dialogue: 10,0:05:38.70,0:05:40.15,Default,,0,0,0,,Why would it?
 Dialogue: 10,0:05:40.15,0:05:43.70,Default,,0,0,0,ED,Think about it. Abydos is right on \nthe verge of shutting down, right?{unsure about line break. is before "on" better? ideally before "right" but that skews far -p}
 Dialogue: 10,0:05:44.08,0:05:50.20,Default,,0,0,0,,Not a whole lot's gonna stop these schools \nfrom asking us to "return the favour" for helping us.
 Dialogue: 10,0:05:50.70,0:05:52.92,Default,,0,0,0,,You see what I'm getting at?
-Dialogue: 10,0:05:53.31,0:05:58.84,Default,,0,0,0,,Umm, basically if they said they'd help \nbut then took advantage of the situation,
+Dialogue: 10,0:05:53.31,0:05:58.84,Default,,0,0,0,ED,Umm, basically if they said they'd help{comma? -p} \nbut then took advantage of the situation,
 Dialogue: 10,0:05:59.13,0:06:01.22,Default,,0,0,0,,you would be powerless to stop them?
 Dialogue: 10,0:06:01.22,0:06:02.34,Default,,0,0,0,,Yup.
 Dialogue: 10,0:06:02.34,0:06:06.74,Default,,0,0,0,,Hoshino{**-senpai}, aren't you being a bit too cynical?
@@ -122,7 +122,7 @@ Dialogue: 10,0:06:15.63,0:06:17.11,Default,,0,0,0,,The off chance...
 Dialogue: 10,0:06:17.11,0:06:19.57,Default,,0,0,0,,Ooooh, this is a tough one.
 Dialogue: 10,0:06:21.02,0:06:22.57,Default,,0,0,0,,It'll be fine!
 Dialogue: 10,0:06:22.83,0:06:24.78,Default,,0,0,0,,I'm sure we'll find a way.
-Dialogue: 10,0:06:25.50,0:06:30.14,Default,,0,0,0,,There has to be {\i1}something{\i0} we can do, right? \nI really hope so, anyway...
+Dialogue: 10,0:06:25.50,0:06:30.14,Default,,0,0,0,ED,There has to be {\i1}something{\i0} we can do, right? \nI really hope so, anyway...{ehhh on this -p}
 Dialogue: 10,0:06:30.14,0:06:31.42,Default,,0,0,0,,Oh, c'mon!
 Dialogue: 10,0:06:31.42,0:06:33.85,Default,,0,0,0,,Show some conviction at least!
 Dialogue: 10,0:06:33.85,0:06:36.96,Default,,0,0,0,,I mean, thinking about this logically...
@@ -370,7 +370,7 @@ Dialogue: 10,0:18:27.88,0:18:31.09,Default,,0,0,0,,Are we the baddies? We are, a
 Dialogue: 10,0:18:31.09,0:18:32.18,Default,,0,0,0,,Hm?
 Dialogue: 10,0:18:32.18,0:18:34.85,Default,,0,0,0,,Well, then. Mission accomplished, right?
 Dialogue: 10,0:18:34.85,0:18:36.98,Default,,0,0,0,,Huh? Wh-What do you mean?
-Dialogue: 10,0:18:36.98,0:18:39.60,Default,,0,0,0,,I mean, wasn't the whole point to become a bad guy? {brings it a bit closer to the question --ik} {### og edit: "I mean, weren't you scared you were becoming a softie?" petz leaving it up to you}
+Dialogue: 10,0:18:36.98,0:18:39.60,Default,,0,0,0,,I mean, wasn't the whole point to become a bad guy? {brings it a bit closer to the question --ik} {### og edit: "I mean, weren't you scared you were becoming a softie?" petz leaving it up to you}{i think i slightly prefer the og overall? works better with the follow-up lines. could go either way -p}
 Dialogue: 10,0:18:40.97,0:18:43.09,Default,,0,0,0,,After everything those nice people did for you,
 Dialogue: 10,0:18:43.09,0:18:46.98,Default,,0,0,0,,you were so terrified you'd grow a conscience, \nyou decided to blow up the entire place.
 Dialogue: 10,0:18:47.48,0:18:51.57,Default,,0,0,0,,You're as cold-blooded and {**\n}ruthless as they come, Aru{**-chan}!
@@ -392,7 +392,7 @@ Dialogue: 10,0:19:42.96,0:19:45.29,Default,,0,0,0,,{\i1}Wh-Wh-Wh-What now?
 Dialogue: 10,0:19:45.97,0:19:49.79,Default,,0,0,0,,{\i1}Should I just come clean and give an honest apology?
 Dialogue: 10,0:19:49.79,0:19:53.67,Default,,0,0,0,,{\i1}But if I do, then our reputation as Problem Solver 68...
 Dialogue: 10,0:19:54.48,0:19:57.05,Default,,0,0,0,,{\i1}Our pride as outlaws is toast!
-Dialogue: 10,0:19:57.05,0:19:59.93,Default,,0,0,0,,Hey, I'm asking you a question!
+Dialogue: 10,0:19:57.05,0:19:59.93,Default,,0,0,0,ED,Hey, I'm asking you a question!{shiroko's the one asking; consider "we" or "she" instead -p}
 Dialogue: 10,0:19:59.93,0:20:01.85,Default,,0,0,0,,Don't just stand there, say something!
 Dialogue: 10,0:20:01.85,0:20:04.06,Default,,0,0,0,,Q-Quiet, you!
 Dialogue: 10,0:20:04.54,0:20:06.06,Default,,0,0,0,,Yes, that's right!
