@@ -129,7 +129,7 @@ Dialogue: 10,0:06:30.14,0:06:31.42,Default,,0,0,0,,Oh, c'mon!
 Dialogue: 10,0:06:31.42,0:06:33.85,Default,,0,0,0,,Show some conviction at least!
 Dialogue: 10,0:06:33.85,0:06:36.96,Default,,0,0,0,,I mean, thinking about this logically..
 Dialogue: 10,0:06:36.96,0:06:38.88,Default,,0,0,0,,Well, then stop doing that.
-Dialogue: 10,0:06:38.88,0:06:41.51,Default,,0,0,0,,Wh-Why is everyone staring at me?{Pretty sure this and the next lines should be taken literally. Sensei says something boldly, then everyone starts looking at them and they get a bit timid and starts trying to explain that off. "Everyone started facing/looking at me" to Nonomi "Of course everyone's gonna look at you if you choose that moment to say something". I think I hear Serika say なれない気持ちになっちゃいいのに/だいたい先生はさ... afterwards but 気持ち is a guess since I can't hear her over Hoshino. Contextually it sounds like Serika should be saying "You should be used to it by now / And anyway you're—" but that's like the opposite of my transcription guess.}{## how's this?}
+Dialogue: 10,0:06:38.88,0:06:41.51,Default,,0,0,0,,Wh-Why is everyone staring at me?
 Dialogue: 10,0:06:41.51,0:06:45.22,Default,,0,0,0,,{\an8}Of course everyone was gonna look at you \Nif you said something at that moment.
 Dialogue: 10,0:06:45.22,0:06:47.85,Default,,0,0,0,,{\an8}C'mon, you should be used to this by now.
 Dialogue: 10,0:06:47.85,0:06:49.47,Default,,0,0,0,,{\an8}And anyway you're—
@@ -193,12 +193,12 @@ Dialogue: 10,0:09:31.66,0:09:32.90,Default,,0,0,0,,Exactly.
 Comment: 0,0:09:32.90,0:09:33.98,Default,,0,0,0,,{Mesugaki noises}
 Dialogue: 10,0:09:33.98,0:09:36.68,Default,,0,0,0,,Now that you mention it, that may ring a bell.
 Dialogue: 10,0:09:36.97,0:09:40.68,Default,,0,0,0,,We only take money for \Na job well done. No exceptions.
-Dialogue: 10,0:09:40.68,0:09:45.80,Default,,0,0,0,,If we waver, we'll never fulfil the mission \Nwe've pursued for so long.
-Dialogue: 10,0:09:45.80,0:09:46.75,Default,,0,0,0,,Our vision?
+Dialogue: 10,0:09:40.68,0:09:45.80,Default,,0,0,0,,If we waver, we'll never fulfil the mission \Nwe've pursued for so long. {### og edit had "vision" instead of "mission". petz, thoughts?}
+Dialogue: 10,0:09:45.80,0:09:46.75,Default,,0,0,0,,Our mission?
 Dialogue: 10,0:09:46.75,0:09:48.28,Default,,0,0,0,,We had one?
 Dialogue: 10,0:09:48.28,0:09:49.24,Default,,0,0,0,,Of course we do!
 Dialogue: 10,0:09:49.24,0:09:52.98,Default,,0,0,0,,To be a group of hard-boiled outlaws, \Nunshackled by rules or laws!
-Dialogue: 10,0:09:52.98,0:09:56.38,Default,,0,0,0,,That's the vision of Problem Solver 68!
+Dialogue: 10,0:09:52.98,0:09:56.38,Default,,0,0,0,,That's the mission of Problem Solver 68!
 Dialogue: 10,0:09:58.32,0:10:02.37,Default,,0,0,0,,Y'know, boss, we could always throw in the towel \Nand go back to Gehenna if we have to.
 Dialogue: 10,0:10:02.37,0:10:06.41,Default,,0,0,0,,But like wouldn't the Prefect Team Members \Nbe all over us if we did that?
 Dialogue: 10,0:10:07.56,0:10:11.38,Default,,0,0,0,,Good point. The Prefect Team would be a problem.
@@ -361,7 +361,7 @@ Dialogue: 10,0:17:53.86,0:17:56.05,Default,,0,0,0,,Yes, I'm completely fine.
 Dialogue: 10,0:17:56.64,0:17:58.55,Default,,0,0,0,,But more importantly, {*}Miss Aru{*Aru-sama}.
 Dialogue: 10,0:17:58.55,0:18:02.71,Default,,0,0,0,,Have I perhaps just made things worse?
 Dialogue: 10,0:18:05.48,0:18:07.44,Default,,0,0,0,,I-I'm sorry! I'm sorry!
-Dialogue: 10,0:18:07.79,0:18:11.07,Default,,0,0,0,,I thought it would be better to \Nhave too many bombs than too few, so...{I think Haruka's emphasis, also given Kayoko's statement from earlier, is on planting bombs *at* Shiba Seki specifically, but I can still kind of see the implication here with this translation (plant in more places than too few)}{### for myself for later, maybe make it bit more clear that we mean "bombs at more locations" than "just more bombs"}
+Dialogue: 10,0:18:07.79,0:18:11.07,Default,,0,0,0,,I thought it would be better to \Nhave too many bombs than too few, so...{I think Haruka's emphasis, also given Kayoko's statement from earlier, is on planting bombs *at* Shiba Seki specifically, but I can still kind of see the implication here with this translation (plant in more places than too few)}{### for myself (or petzku) for later, maybe make it bit more clear that we mean "bombs at more locations" than "just more bombs". }
 Dialogue: 10,0:18:11.38,0:18:13.38,Default,,0,0,0,,At this point I should just die for my...
 Dialogue: 10,0:18:13.38,0:18:15.32,Default,,0,0,0,,Maybe later.
 Dialogue: 10,0:18:15.32,0:18:17.51,Default,,0,0,0,,First things first, we should \Nfigure out what to do now.
