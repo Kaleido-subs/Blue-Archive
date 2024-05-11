@@ -50,10 +50,10 @@ Dialogue: 10,0:00:37.90,0:00:41.06,Default,,0,0,0,,the same people who've been t
 Dialogue: 10,0:00:41.91,0:00:46.53,Default,,0,0,0,,have been buying their weapons using {\i1}our{\i0} money!
 Comment: 10,0:02:17.75,0:02:19.50,Default,,0,0,0,,{Hoshino noises}
 Dialogue: 10,0:02:19.84,0:02:21.67,Default,,0,0,0,,Yup, there it is.
-Dialogue: 10,0:02:21.67,0:02:25.00,Default,,0,0,0,,Collected 7.88 million.
+Dialogue: 10,0:02:21.67,0:02:25.00,Default,,0,0,0,,Collected 7.88 million yen.
 Dialogue: 10,0:02:25.62,0:02:26.85,Default,,0,0,0,,Hang on, isn't this...
 Dialogue: 10,0:02:26.85,0:02:29.03,Default,,0,0,0,,Yes. It's exactly what you think it is.
-Dialogue: 10,0:02:29.03,0:02:34.26,Default,,0,0,0,,Is there something special \nabout this 7.88 million?
+Dialogue: 10,0:02:29.03,0:02:34.26,Default,,0,0,0,,Is there something special about \nthis 7.88 million yen entry?
 Dialogue: 10,0:02:34.26,0:02:36.10,Default,,0,0,0,,Wait, could this be...
 Dialogue: 10,0:02:36.10,0:02:39.81,Default,,0,0,0,,Yes. This is the exact amount we paid them.
 Dialogue: 10,0:02:39.81,0:02:44.29,Default,,0,0,0,,7.88 million is a lot. \nYou were in that much debt?
@@ -64,7 +64,7 @@ Dialogue: 10,0:02:54.45,0:02:59.99,Default,,0,0,0,,And here we see a figure that
 Dialogue: 10,0:02:59.99,0:03:05.78,Default,,0,0,0,,This has to have come from \nthe debt collector that visits our school.
 Dialogue: 10,0:03:05.78,0:03:07.50,Default,,0,0,0,,And then there's this.
 Dialogue: 10,0:03:07.92,0:03:11.51,Default,,0,0,0,,Right after depositing the 7.88 million yen,
-Dialogue: 10,0:03:11.51,0:03:16.26,Default,,0,0,0,,they allocated 5 million yen towards \n"strategic allocations" to the Kata Kata Helmet Gang.
+Dialogue: 10,0:03:11.51,0:03:16.26,Default,,0,0,0,,they allocated five million yen towards \n"strategic allocations" to the Kata Kata Helmet Gang.
 Dialogue: 10,0:03:16.58,0:03:17.81,Default,,0,0,0,,Strategic allocations...
 Dialogue: 10,0:03:17.81,0:03:23.27,Default,,0,0,0,,They sent the Kata Kata Helmet Gang \nfive million yen to help fund their job.
 Dialogue: 10,0:03:23.27,0:03:25.15,Default,,0,0,0,,Job?
@@ -233,7 +233,7 @@ Dialogue: 10,0:11:36.09,0:11:37.64,Default,,0,0,0,,Oh, coming.
 Comment: 10,0:11:42.63,0:11:44.54,Default,,0,0,0,,{yawn.jpeg}
 Dialogue: 10,0:11:44.54,0:11:46.56,Default,,0,0,0,,Good morning.
 Dialogue: 10,0:11:47.10,0:11:48.78,Default,,0,0,0,,You're early today.
-Dialogue: 10,0:11:48.78,0:11:50.56,Default,,0,0,0,,Morning, {*}Teacher{*Sensei}.{OJISAAAAAAAAAAN} {I sense a remarkable force behind this comment --ik}
+Dialogue: 10,0:11:48.78,0:11:50.56,Default,,0,0,0,,Morning, {*}Teach{*Sensei}.{OJISAAAAAAAAAAN} {I sense a remarkable force behind this comment --ik}
 Dialogue: 10,0:11:50.56,0:11:52.15,Default,,0,0,0,,Umm...
 Dialogue: 10,0:11:52.15,0:11:55.07,Default,,0,0,0,,What are you two doing here this early?
 Dialogue: 10,0:11:55.39,0:11:59.17,Default,,0,0,0,,Sorry, but I've got dibs on this lap.\n This is my special napping spot.
