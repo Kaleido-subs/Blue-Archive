@@ -26,11 +26,11 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:09.74,0:00:11.82,Default,,0,0,0,,{=2}Miss Aru! Miss Aru!
 Dialogue: 10,0:00:12.08,0:00:14.79,Default,,0,0,0,,Hoo boy. That looks like bad news.
-Dialogue: 10,0:00:14.79,0:00:17.96,Default,,0,0,0,,I can't believe they chased us all the way here... {TM: adjust leadin}
+Dialogue: 10,0:00:14.79,0:00:17.96,Default,,0,0,0,,I can't believe they chased us all the way here...
 Dialogue: 10,0:00:19.09,0:00:21.03,Default,,0,0,0,,But why?
 Dialogue: 10,0:00:21.03,0:00:23.84,Default,,0,0,0,,They just opened fire! In our school district!
 Dialogue: 10,0:00:23.84,0:00:28.22,Default,,0,0,0,,Were they aiming for us? Or Problem Solver 68?
-Dialogue: 10,0:00:28.47,0:00:30.76,Default,,0,0,0,,Sensei, are they…? {TM: check snap}
+Dialogue: 10,0:00:28.47,0:00:30.76,Default,,0,0,0,,Sensei, are they…?
 Comment: 10,0:00:31.02,0:00:33.76,Default,,0,0,0,,Yes. Those girls...
 Dialogue: 10,0:00:31.02,0:00:31.92,Default,,0,0,0,,Yes.
 Dialogue: 10,0:00:32.49,0:00:33.76,Default,,0,0,0,,Those girls...
@@ -42,20 +42,19 @@ Dialogue: 10,0:02:17.48,0:02:19.24,Default,,0,0,0,,Right, thanks.
 Dialogue: 10,0:02:21.41,0:02:23.08,Default,,0,0,0,,God, what a pain.
 Dialogue: 10,0:02:23.08,0:02:24.79,Default,,0,0,0,,Don’t complain, Iori.
 Dialogue: 10,0:02:24.79,0:02:27.45,Default,,0,0,0,,Why can’t we just attack them?
-Dialogue: 10,0:02:27.45,0:02:29.38,Default,,0,0,0,,We need to talk to them first. {TM: Check snap}
+Dialogue: 10,0:02:27.45,0:02:29.38,Default,,0,0,0,,We need to talk to them first.
 Dialogue: 10,0:02:29.89,0:02:33.88,Default,,0,0,0,,We’re here to catch troublemakers from our school, not talk.
-Dialogue: 10,0:02:33.88,0:02:35.66,Default,,0,0,0,,If they get in our way, we’ll just- {TM: Split and check leadin}
+Dialogue: 10,0:02:33.88,0:02:35.66,Default,,0,0,0,,If they get in our way, we’ll just- 
 Dialogue: 10,0:02:35.66,0:02:37.72,Default,,0,0,0,,First we explain why we’re here.
 Dialogue: 10,0:02:38.18,0:02:41.97,Default,,0,0,0,,Then we listen to what they have to say, and we negotiate.
 Dialogue: 10,0:02:42.26,0:02:45.30,Default,,0,0,0,,And only if that doesn’t solve the problem, we fight.
 Dialogue: 10,0:02:45.30,0:02:46.98,Default,,0,0,0,,Do we really need to do all of that?
-Dialogue: 10,0:02:47.23,0:02:48.94,Default,,0,0,0,,These people aren’t from our school. {TM: check snap}
+Dialogue: 10,0:02:47.23,0:02:48.94,Default,,0,0,0,,These people aren’t from our school.
 Comment: 10,0:02:48.94,0:02:54.65,Default,,0,0,0,,We may not have meant to attack them earlier, but under normal circumstances, it would have been a grave offense.
 Dialogue: 10,0:02:48.94,0:02:50.53,Default,,0,0,0,,We may not have meant to attack them earlier,
-Dialogue: 10,0:02:50.53,0:02:52.21,Default,,0,0,0,,but under normal circumstances,
-Dialogue: 10,0:02:52.21,0:02:54.49,Default,,0,0,0,,it would have been a grave offense. {TM: def wanna merge something in these 3}
-Dialogue: 10,0:02:54.49,0:02:55.86,Default,,0,0,0,,Fine, I get it. {TM: fine tune leadin}
-Dialogue: 10,0:02:56.16,0:02:58.93,Default,,0,0,0,,I’ll just hurry up and tell them, then. {TM: might snap?}
+Dialogue: 10,0:02:50.53,0:02:54.40,Default,,0,0,0,,but under normal circumstances, it would have been a grave offense.
+Dialogue: 10,0:02:54.40,0:02:55.86,Default,,0,0,0,,Fine, I get it.
+Dialogue: 10,0:02:56.16,0:02:58.93,Default,,0,0,0,,I’ll just hurry up and tell them, then.
 Dialogue: 10,0:02:58.93,0:02:59.87,Default,,0,0,0,,Iori, wait!
 Dialogue: 10,0:02:59.87,0:03:02.30,Default,,0,0,0,,Relax. I got this.
 Dialogue: 10,0:03:03.55,0:03:05.70,Default,,0,0,0,,Wakey wakey, Aru(-chan)
@@ -63,14 +62,14 @@ Dialogue: 10,0:03:08.38,0:03:09.63,Default,,0,0,0,,Miss Aru!
 Dialogue: 10,0:03:09.63,0:03:11.42,Default,,0,0,0,,Good morning, sunshine.
 Dialogue: 10,0:03:14.11,0:03:16.94,Default,,0,0,0,,Boss. We need to hurry and get out of here.
 Dialogue: 10,0:03:16.94,0:03:18.26,Default,,0,0,0,,Get out?
-Dialogue: 10,0:03:18.53,0:03:20.26,Default,,0,0,0,,Why? {TM: Check snaps}
+Dialogue: 10,0:03:18.53,0:03:20.26,Default,,0,0,0,,Why?
 Dialogue: 10,0:03:20.26,0:03:22.01,Default,,0,0,0,,The Prefect Team is here.
 Dialogue: 10,0:03:22.50,0:03:23.85,Default,,0,0,0,,Prefect…
 Dialogue: 10,0:03:23.85,0:03:25.02,Default,,0,0,0,,Why- (muffled)
 Dialogue: 10,0:03:25.02,0:03:25.89,Default,,0,0,0,,Quiet.
 Dialogue: 10,0:03:26.44,0:03:28.44,Default,,0,0,0,,They’ll hear us if you shout.
 Dialogue: 10,0:03:29.82,0:03:33.04,Default,,0,0,0,,Has Hoshino(-senpai) still not responded yet?
-Dialogue: 10,0:03:33.04,0:03:36.82,Default,,0,0,0,,She’s never gone dark for this long before… {TM: check leadout}
+Dialogue: 10,0:03:33.04,0:03:36.82,Default,,0,0,0,,She’s never gone dark for this long before…
 Dialogue: 10,0:03:39.43,0:03:42.03,Default,,0,0,0,,Hello there, everyone from Abydos High School.
 Dialogue: 10,0:03:42.31,0:03:45.83,Default,,0,0,0,,What business does the Prefect Team from Gehenna have here?
 Dialogue: 10,0:03:45.83,0:03:48.22,Default,,0,0,0,,And why did you shell us?
@@ -78,7 +77,7 @@ Dialogue: 10,0:03:48.22,0:03:53.46,Default,,0,0,0,,Oh, you know. Just thought we
 Dialogue: 10,0:03:53.46,0:03:56.30,Default,,0,0,0,,Are you talking about Problem Solver 68?
 Dialogue: 10,0:03:56.30,0:03:57.34,Default,,0,0,0,,Right on.
 Dialogue: 10,0:03:58.00,0:04:00.85,Default,,0,0,0,,So you see, we’re not actually here for you.
-Dialogue: 10,0:04:01.13,0:04:02.90,Default,,0,0,0,,That’s why I’m letting you walk away. {TM: might snap?}
+Dialogue: 10,0:04:01.13,0:04:02.90,Default,,0,0,0,,That’s why I’m letting you walk away.
 Dialogue: 10,0:04:02.90,0:04:04.72,Default,,0,0,0,,I suggest you take the hint and leave.
 Dialogue: 10,0:04:05.73,0:04:07.73,Default,,0,0,0,,And if we don’t?
 Dialogue: 10,0:04:09.69,0:04:11.89,Default,,0,0,0,,This is the Perfect Team we’re dealing with.
@@ -113,7 +112,7 @@ Dialogue: 10,0:05:35.08,0:05:36.31,Default,,0,0,0,,Ayane(-chan)!
 Dialogue: 10,0:05:37.83,0:05:40.07,Default,,0,0,0,,Iori? For the love of-
 Dialogue: 10,0:05:53.17,0:05:54.17,Default,,0,0,0,,Not bad.
 Dialogue: 10,0:05:55.79,0:05:57.22,Default,,0,0,0,,Shiroko(-chan)!
-Dialogue: 10,0:06:06.90,0:06:07.72,Default,,0,0,0,,Why, you little! {TM: check snaps}
+Dialogue: 10,0:06:06.90,0:06:07.72,Default,,0,0,0,,Why, you little!
 Dialogue: 10,0:06:12.72,0:06:13.60,Default,,0,0,0,,Serika(-chan)!
 Dialogue: 10,0:06:21.66,0:06:23.66,Default,,0,0,0,,Hardly worth the effort.
 Dialogue: 10,0:06:23.66,0:06:24.32,Default,,0,0,0,,Wait!
@@ -124,7 +123,7 @@ Dialogue: 10,0:06:33.01,0:06:34.38,Default,,0,0,0,,Sensei?
 Dialogue: 10,0:06:34.38,0:06:36.38,Default,,0,0,0,,Wait, are you that teacher from SCHALE?
 Dialogue: 10,0:06:39.69,0:06:41.26,Default,,0,0,0,,You’re wide open.
 Dialogue: 10,0:06:41.80,0:06:43.34,Default,,0,0,0,,Is everyone okay?
-Dialogue: 10,0:06:43.34,0:06:44.53,Default,,0,0,0,,I’m okay. {TM: check leadin}
+Dialogue: 10,0:06:43.34,0:06:44.53,Default,,0,0,0,,I’m okay.
 Dialogue: 10,0:06:44.53,0:06:46.68,Default,,0,0,0,,I thought I recognized you, Sensei.
 Dialogue: 10,0:06:47.17,0:06:50.16,Default,,0,0,0,,I didn’t expect to meet you here, of all places.
 Dialogue: 10,0:06:50.16,0:06:51.18,Default,,0,0,0,,You’re…
@@ -139,7 +138,7 @@ Dialogue: 10,0:07:08.96,0:07:11.33,Default,,0,0,0,,Allow me to answer your quest
 Dialogue: 10,0:07:14.01,0:07:17.21,Default,,0,0,0,,Hello, students of Abydos.
 Dialogue: 10,0:07:17.68,0:07:21.71,Default,,0,0,0,,I am the Senior Administrator of the Prefect Team at Gehenna Academy.
 Dialogue: 10,0:07:22.55,0:07:24.67,Default,,0,0,0,,My name is Amau Ako.
-Dialogue: 10,0:07:26.38,0:07:28.52,Default,,0,0,0,,Now, before we go any further, {TM: check}
+Dialogue: 10,0:07:26.38,0:07:28.52,Default,,0,0,0,,Now, before we go any further,
 Dialogue: 10,0:07:28.52,0:07:30.55,Default,,0,0,0,,members of the Foreclosure Task Force…
 Dialogue: 10,0:07:31.38,0:07:33.81,Default,,0,0,0,,I would like to apologize for this treatment.
 Dialogue: 10,0:07:35.37,0:07:40.00,Default,,0,0,0,,It would be better if you said that after you lowered your guns.
@@ -151,11 +150,13 @@ Dialogue: 10,0:07:52.18,0:07:53.49,Default,,0,0,0,,Foolish behavior?
 Dialogue: 10,0:07:53.49,0:07:56.19,Default,,0,0,0,,I did exactly as ordered.
 Dialogue: 10,0:07:56.19,0:07:57.20,Default,,0,0,0,,Iori?
 Dialogue: 10,0:07:57.20,0:08:00.56,Default,,0,0,0,,You remember where the templates for written apologies are, don’t you?
-Dialogue: 10,0:08:00.56,0:08:01.79,Default,,0,0,0,,Hold on, Ako(-chan)? {TM: fine tune leadin}
-Dialogue: 10,0:08:03.90,0:08:09.65,Default,,0,0,0,,Did your orders include the words “begin by firing indiscriminately at people” anywhere? {TM: could split probably}
+Dialogue: 10,0:08:00.56,0:08:01.79,Default,,0,0,0,,Hold on, Ako(-chan)?
+Comment: 10,0:08:03.90,0:08:07.08,Default,,0,0,0,,Did your orders include the words
+Comment: 10,0:08:07.08,0:08:09.65,Default,,0,0,0,,“begin by firing indiscriminately at people” anywhere?
+Dialogue: 10,0:08:03.90,0:08:09.65,Default,,0,0,0,,Did your orders include the words “begin by firing indiscriminately at people” anywhere?
 Dialogue: 10,0:08:09.65,0:08:11.18,Default,,0,0,0,,That wasn’t… I mean…
 Dialogue: 10,0:08:11.43,0:08:14.25,Default,,0,0,0,,And to top it off, you did it outside of Gehenna,
-Dialogue: 10,0:08:14.25,0:08:16.68,Default,,0,0,0,,near another school’s district. {TM: might join with last}
+Dialogue: 10,0:08:14.25,0:08:16.68,Default,,0,0,0,,near another school’s district.
 Dialogue: 10,0:08:17.18,0:08:20.94,Default,,0,0,0,,Shouldn’t you know enough to take the location into account first?
 Dialogue: 10,0:08:21.37,0:08:23.78,Default,,0,0,0,,I’m going to ask you again, Iori.
 Dialogue: 10,0:08:23.78,0:08:26.52,Default,,0,0,0,,You remember where the templates for written apologies are, don’t you?
@@ -164,7 +165,9 @@ Dialogue: 10,0:08:30.95,0:08:33.20,Default,,0,0,0,,Perfect. You know what to do,
 Dialogue: 10,0:08:33.20,0:08:35.53,Default,,0,0,0,,Now, back to your question.
 Dialogue: 10,0:08:35.53,0:08:40.21,Default,,0,0,0,,We’ve simply come here to apprehend some rule-breaking individuals from our school.
 Dialogue: 10,0:08:40.51,0:08:44.67,Default,,0,0,0,,Can we ask for your cooperation in performing our duties as the Prefect Team?
-Dialogue: 10,0:08:44.67,0:08:46.96,Default,,0,0,0,,Is that a request, or…? {TM: could split?}
+Comment: 10,0:08:44.67,0:08:46.09,Default,,0,0,0,,Is that a request,
+Comment: 10,0:08:46.09,0:08:46.96,Default,,0,0,0,,or…?
+Dialogue: 10,0:08:44.67,0:08:46.96,Default,,0,0,0,,Is that a request, or…?
 Dialogue: 10,0:08:48.35,0:08:50.47,Default,,0,0,0,,Yes, it’s a request.
 Dialogue: 10,0:08:50.72,0:08:52.39,Default,,0,0,0,,For now.
 Dialogue: 10,0:08:53.90,0:08:55.66,Default,,0,0,0,,We can’t do that.
@@ -196,8 +199,9 @@ Dialogue: 10,0:10:09.69,0:10:10.42,Default,,0,0,0,,Huh?
 Dialogue: 10,0:10:11.92,0:10:15.25,Default,,0,0,0,,I’m surprised you chose to show yourselves.
 Dialogue: 10,0:10:15.25,0:10:19.31,Default,,0,0,0,,But I suppose this saves us the trouble of searching for you.
 Dialogue: 10,0:10:24.06,0:10:26.49,Default,,0,0,0,,They had a second group waiting.
-Dialogue: 10,0:10:26.49,0:10:29.44,Default,,0,0,0,,Well, guess it couldn’t have been that easy. {TM: might add alt without sigh}
-Dialogue: 10,0:10:29.71,0:10:32.44,Default,,0,0,0,,I must say, this is quite the coincidence. {TM: might push past KF and snap to next?}
+Comment: 10,0:10:27.04,0:10:29.44,Default,,0,0,0,,Well, guess it couldn’t have been that easy.
+Dialogue: 10,0:10:26.49,0:10:29.44,Default,,0,0,0,,Well, guess it couldn’t have been that easy.
+Dialogue: 10,0:10:29.71,0:10:32.44,Default,,0,0,0,,I must say, this is quite the coincidence.
 Dialogue: 10,0:10:32.91,0:10:36.82,Default,,0,0,0,,Who could have thought chasing Problem Solver 68 would lead to a meeting with the teacher of SCHALE?
 Dialogue: 10,0:10:37.09,0:10:39.02,Default,,0,0,0,,Cut the act, Ako.
 Dialogue: 10,0:10:39.02,0:10:39.58,Default,,0,0,0,,My.
@@ -225,7 +229,7 @@ Dialogue: 10,0:11:45.60,0:11:47.73,Default,,0,0,0,,Just think. A mysterious orga
 Dialogue: 10,0:11:47.73,0:11:51.34,Default,,0,0,0,,left behind by the General Student Council President and headed by that teacher over there.
 Dialogue: 10,0:11:51.34,0:11:55.11,Default,,0,0,0,,There’s no telling how this might tip the scales going forward.
 Dialogue: 10,0:11:55.41,0:11:59.53,Default,,0,0,0,,That’s why we, the Gehenna Prefect Team,
-Dialogue: 10,0:11:59.53,0:12:04.79,Default,,0,0,0,,would like to take him into our custody, at least until the Eden Treaty is safely signed. {TM: could move the "take him into custody" part to the other line, will check which is better}
+Dialogue: 10,0:11:59.53,0:12:04.79,Default,,0,0,0,,would like to take him into our custody, at least until the Eden Treaty is safely signed.
 Dialogue: 10,0:12:04.79,0:12:06.67,Default,,0,0,0,,Quit dreaming.
 Dialogue: 10,0:12:06.67,0:12:09.26,Default,,0,0,0,,Did you really think we’d just hand him over?
 Dialogue: 10,0:12:09.26,0:12:11.92,Default,,0,0,0,,We’ll protect our teacher.
@@ -253,27 +257,31 @@ Dialogue: 10,0:13:09.57,0:13:11.50,Default,,0,0,0,,I’m Izayoi Nonomi.
 Dialogue: 10,0:13:11.50,0:13:13.48,Default,,0,0,0,,And my name is Okusora Ayane.
 Dialogue: 10,0:13:13.89,0:13:15.94,Default,,0,0,0,,Sunaookami Shiroko.
 Dialogue: 10,0:13:18.41,0:13:19.45,Default,,0,0,0,,Hey!
-Dialogue: 10,0:13:19.45,0:13:22.20,Default,,0,0,0,,This is your last chance to change your mind. {TM: might check that snap}
-Dialogue: 10,0:13:22.57,0:13:26.70,Default,,0,0,0,,After this, you can beg, you can pay money, you can lick my feet - {TM: split?}
-Dialogue: 10,0:13:26.70,0:13:30.83,Default,,0,0,0,,I’d love to, but I’ll have to pass this time. {TM: Split?}
+Dialogue: 10,0:13:19.45,0:13:22.20,Default,,0,0,0,,This is your last chance to change your mind.
+Comment: 10,0:13:22.57,0:13:25.29,Default,,0,0,0,,After this, you can beg, you can pay money,
+Comment: 10,0:13:25.29,0:13:26.70,Default,,0,0,0,,you can lick my feet -
+Dialogue: 10,0:13:22.57,0:13:26.70,Default,,0,0,0,,After this, you can beg, you can pay money, you can lick my feet -
+Comment: 10,0:13:26.70,0:13:28.58,Default,,0,0,0,,I’d love to,
+Comment: 10,0:13:28.86,0:13:30.83,Default,,0,0,0,,but I’ll have to pass this time.
+Dialogue: 10,0:13:26.70,0:13:30.83,Default,,0,0,0,,I’d love to, but I’ll have to pass this time.
 Dialogue: 10,0:13:32.77,0:13:36.03,Default,,0,0,0,,That’s quite the unlikely alliance you’ve made.
 Dialogue: 10,0:13:36.03,0:13:37.59,Default,,0,0,0,,But no matter.
 Dialogue: 10,0:13:37.59,0:13:40.97,Default,,0,0,0,,You’ll soon know the true terror of -
 Dialogue: 10,0:13:45.41,0:13:46.97,Default,,0,0,0,,You talk too much.
 Dialogue: 10,0:13:47.32,0:13:50.10,Default,,0,0,0,,Begin the attack!
-Dialogue: 10,0:13:52.49,0:13:55.61,Default,,0,0,0,,Nonomi, Haruka! Take 3 o’clock! {TM: could split}
+Dialogue: 10,0:13:52.49,0:13:55.61,Default,,0,0,0,,Nonomi, Haruka! Take 3 o’clock!
 Dialogue: 10,0:13:55.61,0:13:56.36,Default,,0,0,0,,Got it!
-Dialogue: 10,0:13:56.67,0:13:59.49,Default,,0,0,0,,Serika, Mutsuki! You two take 9 o’clock! {TM: could also split}
+Dialogue: 10,0:13:56.67,0:13:59.49,Default,,0,0,0,,Serika, Mutsuki! You two take 9 o’clock!
 Dialogue: 10,0:13:59.49,0:14:00.61,Default,,0,0,0,,Leave it to me!
 Dialogue: 10,0:13:59.49,0:14:00.61,Alt,,0,0,0,,Okay!
-Dialogue: 10,0:14:00.87,0:14:04.54,Default,,0,0,0,,Shiroko, Aru! You’re up front, high noon!{TM: once again could split}
+Dialogue: 10,0:14:00.87,0:14:04.54,Default,,0,0,0,,Shiroko, Aru! You’re up front, high noon!
 Dialogue: 10,0:14:04.54,0:14:05.62,Default,,0,0,0,,Roger!
 Dialogue: 10,0:14:05.62,0:14:07.67,Default,,0,0,0,,Ayane and Kayoko, support the others.
 Dialogue: 10,0:14:07.67,0:14:08.49,Default,,0,0,0,,Understood.
 Dialogue: 10,0:14:07.67,0:14:08.49,Alt,,0,0,0,,Got it!
 Dialogue: 10,0:14:11.76,0:14:13.61,Default,,0,0,0,,Haruka(-san), what should we do?
 Dialogue: 10,0:14:13.61,0:14:15.33,Default,,0,0,0,,I'll go first.
-Dialogue: 10,0:14:15.33,0:14:16.46,Default,,0,0,0,,Wait, hold on! {TM: could do alt without gasp I guess?}
+Dialogue: 10,0:14:15.60,0:14:16.46,Default,,0,0,0,,Wait, hold on!
 Dialogue: 10,0:14:16.46,0:14:18.46,Default,,0,0,0,,Die, please, die, please, die, please!
 Dialogue: 10,0:14:16.80,0:14:18.46,Alt,,0,0,0,,Haruka(-san)!
 Dialogue: 10,0:14:25.54,0:14:27.69,Default,,0,0,0,,T-T-T-Thank you…
@@ -295,11 +303,11 @@ Dialogue: 10,0:15:28.35,0:15:31.22,Default,,0,0,0,,Drop your gun and surrender, 
 Dialogue: 10,0:15:37.79,0:15:39.93,Default,,0,0,0,,Quit running around, you little jerks.
 Dialogue: 10,0:15:39.93,0:15:41.25,Default,,0,0,0,,Come out and take your beating!
 Dialogue: 10,0:15:44.80,0:15:45.34,Default,,0,0,0,,She’s fast!
-Dialogue: 10,0:15:45.34,0:15:46.84,Default,,0,0,0,,I’ve got you now! {TM: I think this snap is good but check}
+Dialogue: 10,0:15:45.34,0:15:46.84,Default,,0,0,0,,I’ve got you now!
 Dialogue: 10,0:15:50.10,0:15:51.85,Default,,0,0,0,,It’s all you, part-timer.
-Dialogue: 10,0:15:52.29,0:15:53.03,Default,,0,0,0,,What? {TM: not a true scene change but might still want to snap, or at least tweak leadout.}
+Dialogue: 10,0:15:52.29,0:15:53.14,Default,,0,0,0,,What?
 Dialogue: 10,0:15:54.91,0:15:57.42,Default,,0,0,0,,My name’s not “part-timer”!
-Dialogue: 10,0:16:11.53,0:16:14.29,Default,,0,0,0,,Well, what do we have here? {TM: check that leadout snap}
+Dialogue: 10,0:16:11.53,0:16:13.74,Default,,0,0,0,,Well, what do we have here?
 Dialogue: 10,0:16:14.57,0:16:17.29,Default,,0,0,0,,You’ve got some guts, calling me a rat.
 Dialogue: 10,0:16:17.29,0:16:19.98,Default,,0,0,0,,Dammit. You think you’re so tough?
 Dialogue: 10,0:16:19.98,0:16:21.17,Default,,0,0,0,,I’ll kick your asses!
@@ -312,9 +320,11 @@ Dialogue: 10,0:16:37.19,0:16:40.15,Default,,0,0,0,,If we did end up fighting, wh
 Dialogue: 10,0:16:41.46,0:16:43.15,Default,,0,0,0,,It’s obvious.
 Dialogue: 10,0:16:44.32,0:16:46.15,Default,,0,0,0,,You’re right, it is.
 Dialogue: 10,0:16:47.52,0:16:49.40,Default,,0,0,0,,We would win. {"Nah I'd win" energy --ML}
-Dialogue: 10,0:16:53.66,0:16:55.04,Default,,0,0,0,,Here they come! {TM: check that snap}
+Dialogue: 10,0:16:53.66,0:16:55.04,Default,,0,0,0,,Here they come!
 Dialogue: 10,0:17:01.43,0:17:02.66,Default,,0,0,0,,Fire!
-Dialogue: 10,0:17:08.67,0:17:12.36,Default,,0,0,0,,Shiroko! We need to close the distance, or we’ll be sitting ducks! {TM: could split Shiroko}
+Comment: 10,0:17:08.67,0:17:09.55,Default,,0,0,0,,Shiroko!
+Comment: 10,0:17:09.55,0:17:12.36,Default,,0,0,0,,We need to close the distance, or we’ll be sitting ducks!
+Dialogue: 10,0:17:08.67,0:17:12.36,Default,,0,0,0,,Shiroko! We need to close the distance, or we’ll be sitting ducks!
 Dialogue: 10,0:17:15.18,0:17:17.36,Default,,0,0,0,,You may have joined forces,
 Dialogue: 10,0:17:17.36,0:17:20.44,Default,,0,0,0,,but you’re still powerless against the might of -
 Dialogue: 10,0:17:39.26,0:17:40.30,Default,,0,0,0,,Did we get her?
@@ -382,15 +392,16 @@ Dialogue: 10,0:20:47.27,0:20:49.17,Default,,0,0,0,,We’re leaving?
 Dialogue: 10,0:20:50.38,0:20:52.36,Default,,0,0,0,,President Hina?
 Dialogue: 10,0:20:52.79,0:20:56.52,Default,,0,0,0,,For executing an unauthorized military operation without prior notification,
 Dialogue: 10,0:20:56.52,0:21:00.21,Default,,0,0,0,,and for causing trouble in another school’s district,
-Dialogue: 10,0:21:00.21,0:21:07.87,Default,,0,0,0,,I, Sorasaki Hina, hereby issue an official apology to the Abydos Foreclosure Task Force. {TM: could probably do a split alt}
+Dialogue: 10,0:21:00.21,0:21:07.87,Default,,0,0,0,,I, Sorasaki Hina, hereby issue an official apology to the Abydos Foreclosure Task Force.
 Dialogue: 10,0:21:09.30,0:21:10.87,Default,,0,0,0,,We’re done here. Let’s go.
 Dialogue: 10,0:21:10.87,0:21:11.86,Default,,0,0,0,,Ma’am!
 Dialogue: 10,0:21:32.40,0:21:34.87,Default,,0,0,0,,Sensei, what did she say?
-Dialogue: 10,0:21:34.87,0:21:36.19,Default,,0,0,0,,Oh, right. {TM: add alt I guess?}
+Comment: 10,0:21:35.31,0:21:36.19,Default,,0,0,0,,Oh, right.
+Dialogue: 10,0:21:34.87,0:21:36.19,Default,,0,0,0,,Oh, right.
 Dialogue: 10,0:21:36.61,0:21:38.69,Default,,0,0,0,,The abandoned desert in Abydos.
 Dialogue: 10,0:21:39.19,0:21:43.45,Default,,0,0,0,,Kaiser Corporation is plotting something there.
 Dialogue: 10,0:21:45.45,0:21:46.69,Default,,0,0,0,,Sensei?
-Dialogue: 10,0:21:46.69,0:21:47.70,Default,,0,0,0,,Hoo, man. {TM: check this snap}
+Dialogue: 10,0:21:46.69,0:21:47.70,Default,,0,0,0,,Hoo, man.
 Dialogue: 10,0:21:48.07,0:21:51.21,Default,,0,0,0,,I gotta say, I’m feeling kind of lost here.
 Dialogue: 10,0:21:51.21,0:21:52.55,Default,,0,0,0,,So, what happened?
 Dialogue: 10,0:21:52.55,0:21:55.15,Default,,0,0,0,,I can’t believe you, Hoshino(-senpai)!
@@ -400,7 +411,5 @@ Dialogue: 10,0:22:03.97,0:22:06.47,Default,,0,0,0,,All right! Let’s all go hom
 Dialogue: 10,0:22:06.87,0:22:09.46,Default,,0,0,0,,{=3}I’m pooped.
 
 [Aegisub Extradata]
-Data: 0,_aegi_folddata,e0;1;1
-Data: 1,_aegi_folddata,e1;1;1
 Data: 2,_aegi_folddata,e0;0;1
 Data: 3,_aegi_folddata,e1;0;1
