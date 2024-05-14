@@ -193,27 +193,38 @@ Dialogue: 10,0:10:01.32,0:10:04.38,Default,,0,0,0,,Now then, let’s get this sh
 Dialogue: 10,0:10:06.43,0:10:08.76,Default,,0,0,0,,You! You’ll pay for what you did to-
 Dialogue: 10,0:10:08.76,0:10:09.69,Default,,0,0,0,,I’m sorry.
 Dialogue: 10,0:10:09.69,0:10:10.42,Default,,0,0,0,,Huh?
+Dialogue: 10,0:10:11.92,0:10:15.25,Default,,0,0,0,,I’m surprised you chose to show yourselves.
+Dialogue: 10,0:10:15.25,0:10:19.31,Default,,0,0,0,,But I suppose this saves us the trouble of searching for you.
+Dialogue: 10,0:10:24.06,0:10:26.49,Default,,0,0,0,,They had a second group waiting.
+Dialogue: 10,0:10:26.49,0:10:29.44,Default,,0,0,0,,Well, guess it couldn’t have been that easy. {TM: might add alt without sigh}
+Dialogue: 10,0:10:29.71,0:10:32.44,Default,,0,0,0,,I must say, this is quite the coincidence. {TM: might push past KF and snap to next?}
+Dialogue: 10,0:10:32.91,0:10:36.82,Default,,0,0,0,,Who could have thought chasing Problem Solver 68 would lead to a meeting with the teacher of SCHALE?
+Dialogue: 10,0:10:37.09,0:10:39.02,Default,,0,0,0,,Cut the act, Ako.
+Dialogue: 10,0:10:39.02,0:10:39.58,Default,,0,0,0,,My.
+Dialogue: 10,0:10:39.58,0:10:40.87,Default,,0,0,0,,Kayoko?
+Dialogue: 10,0:10:40.87,0:10:42.62,Default,,0,0,0,,None of this was a coincidence.
+Dialogue: 10,0:10:42.62,0:10:45.88,Default,,0,0,0,,You wanted this to happen from the start.
+Dialogue: 10,0:10:47.38,0:10:49.09,Default,,0,0,0,,It’s too inefficient.
+Dialogue: 10,0:10:49.09,0:10:51.79,Default,,0,0,0,,You brought far too many forces for a school like Abydos.
+Dialogue: 10,0:10:51.79,0:10:55.13,Default,,0,0,0,,There’s no way your Head Prefect would ever authorize an operation like this.
+Dialogue: 10,0:10:55.55,0:10:57.72,Default,,0,0,0,,You’re here for SCHALE.
+Dialogue: 10,0:10:57.72,0:11:01.45,Default,,0,0,0,,This teacher is the reason you came all this way in the first place.
+Dialogue: 10,0:11:01.45,0:11:02.27,Default,,0,0,0,,Me?
+Dialogue: 10,0:11:02.53,0:11:04.56,Default,,0,0,0,,What is she talking about?
+Dialogue: 10,0:11:04.56,0:11:07.69,Default,,0,0,0,,I’m impressed, Kayoko(-san). You’re quite observant.
+Dialogue: 10,0:11:08.11,0:11:12.71,Default,,0,0,0,,Very well. I’m feeling generous, so I’ll explain everything.
+Dialogue: 10,0:11:12.71,0:11:15.32,Default,,0,0,0,,It all started with the Tea Party.
+Dialogue: 10,0:11:15.32,0:11:19.83,Default,,0,0,0,,As you may know, Trinity General School has a long history of conflict with Gehenna Academy.
+Dialogue: 10,0:11:19.83,0:11:24.76,Default,,0,0,0,,Apparently their student council got their hands on a report regarding SCHALE,
+Dialogue: 10,0:11:24.76,0:11:28.58,Default,,0,0,0,,and when our intelligence division brought word of this report to my desk, I simply couldn't ignore it.
+Dialogue: 10,0:11:28.89,0:11:33.69,Default,,0,0,0,,At first, I had no idea what SCHALE even was,
+Dialogue: 10,0:11:33.69,0:11:38.59,Default,,0,0,0,,but if it’s something the Tea Party knows about, then it’s something we need to know about.
+Dialogue: 10,0:11:38.93,0:11:43.06,Default,,0,0,0,,I just so happened to have a report that Chinatsu(-san) had prepared, so I took the opportunity to read through it.
+Dialogue: 10,0:11:43.06,0:11:45.60,Default,,0,0,0,,Except I had sent that report quite a while ago…
+Dialogue: 10,0:11:45.60,0:11:47.73,Default,,0,0,0,,Just think. A mysterious organization,
+Dialogue: 10,0:11:47.73,0:11:51.34,Default,,0,0,0,,left behind by the General Student Council President and headed by that teacher over there.
+Dialogue: 10,0:11:51.34,0:11:55.11,Default,,0,0,0,,There’s no telling how this might tip the scales going forward.
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I’m surprised you chose to show yourselves. But I suppose this saves us the trouble of searching for you.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,They had a second group waiting.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Well, guess it couldn’t have been that easy.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I must say, this is quite the coincidence. Who could have thought chasing Problem Solver 68 would lead to a meeting with the teacher of SCHALE?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Cut the act, Ako.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,My.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Kayoko?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,None of this was a coincidence. You wanted this to happen from the start.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,It’s too inefficient. You brought far too many forces for a school like Abydos. There’s no way your Head Prefect would ever authorize an operation like this.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,You’re here for SCHALE. This teacher is the reason you came all this way in the first place.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Me?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,What is she talking about?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I’m impressed, Kayoko(-san). You’re quite observant. Very well. I’m feeling generous, so I’ll explain everything.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,It all started with the Tea Party.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,As you may know, Trinity General School has a long history of conflict with Gehenna Academy.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Apparently their student council got their hands on a report regarding SCHALE, and when our intelligence division brought word of this report to my desk, I simply couldn't ignore it.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,At first, I had no idea what SCHALE even was, but if it’s something the Tea Party knows about, then it’s something we need to know about. I just so happened to have a report that Chinatsu(-san) had prepared, so I took the opportunity to read through it.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Except I had sent that report quite a while ago…
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Just think. A mysterious organization, left behind by the General Student Council President and headed by that teacher over there.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,There’s no telling how this might tip the scales going forward.
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,That’s why we, the Gehenna Prefect Team, would like to take him into our custody, at least until the Eden Treaty is safely signed.
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Quit dreaming. Did you really think we’d just hand him over?
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,We’ll protect our teacher.
