@@ -24,7 +24,7 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:09.74,0:00:11.82,Default,,0,0,0,,Miss Aru! Miss Aru!
+Dialogue: 10,0:00:09.74,0:00:11.82,Default,,0,0,0,,{=2}Miss Aru! Miss Aru!
 Dialogue: 10,0:00:12.08,0:00:14.79,Default,,0,0,0,,Hoo boy. That looks like bad news.
 Dialogue: 10,0:00:14.79,0:00:17.96,Default,,0,0,0,,I can't believe they chased us all the way here... {TM: adjust leadin}
 Dialogue: 10,0:00:19.09,0:00:21.03,Default,,0,0,0,,But why?
@@ -397,4 +397,10 @@ Dialogue: 10,0:21:52.55,0:21:55.15,Default,,0,0,0,,I can’t believe you, Hoshin
 Dialogue: 10,0:21:55.15,0:21:58.42,Default,,0,0,0,,I agree! Where were you when we needed you?
 Dialogue: 10,0:21:59.20,0:22:02.41,Default,,0,0,0,,Sensei! They’re being mean to me!
 Dialogue: 10,0:22:03.97,0:22:06.47,Default,,0,0,0,,All right! Let’s all go home.
-Dialogue: 10,0:22:06.87,0:22:09.46,Default,,0,0,0,,I’m pooped.
+Dialogue: 10,0:22:06.87,0:22:09.46,Default,,0,0,0,,{=3}I’m pooped.
+
+[Aegisub Extradata]
+Data: 0,_aegi_folddata,e0;1;1
+Data: 1,_aegi_folddata,e1;1;1
+Data: 2,_aegi_folddata,e0;0;1
+Data: 3,_aegi_folddata,e1;0;1
