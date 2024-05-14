@@ -13,6 +13,7 @@ PlayResY: 1080
 Last Style Storage: Default
 Audio File: Blue Archive The Animation - S01E06 (Premux) [C1BF568A].mkv
 Video File: Blue Archive The Animation - S01E06 (Premux) [C1BF568A].mkv
+Keyframes File: BlueArchive_S01E06_scening.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -23,87 +24,122 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:00.00,0:00:05.00,Default,,0,0,0,,Miss Aru! Miss Aru!
-Dialogue: 10,0:00:05.00,0:00:08.00,Default,,0,0,0,,Hoo boy. That looks like bad news.
-Dialogue: 10,0:00:08.00,0:00:11.00,Default,,0,0,0,,I can't believe they chased us all the way here...
-Dialogue: 10,0:00:11.00,0:00:14.00,Default,,0,0,0,,But why?
-Dialogue: 10,0:00:14.00,0:00:17.00,Default,,0,0,0,,They just opened fire! In our school district!
-Dialogue: 10,0:00:17.00,0:00:20.00,Default,,0,0,0,,Were they aiming for us? Or Problem Solver 68?
-Dialogue: 10,0:00:20.00,0:00:00.00,Default,,0,0,0,,Sensei, are they…?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Yes. Those girls are the Gehenna Prefect Team
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Sensei, it’s dangerous here. Get clear and keep your head down.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Right, thanks.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,God, what a pain.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Don’t complain, Iori.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Why can’t we just attack them?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,We need to talk to them first.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,We’re here to catch troublemakers from our school, not talk. If they get in our way, we’ll just-
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,First we explain why we’re here. Then we listen to what they have to say, and we negotiate. And only if that doesn’t solve the problem, we fight.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Do we really need to do all of that?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,These people aren’t from our school. We may not have meant to attack them earlier, but under normal circumstances, it would have been a grave offense.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Fine, I get it.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I’ll just hurry up and tell them, then.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Iori, wait!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Relax. I got this.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Wakey wakey, Aru(-chan)
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Miss Aru!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Good morning, sunshine.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Boss. We need to hurry and get out of here.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Get out? Why?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,The Prefect Team is here.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Prefect… Why- (muffled)
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Quiet. They’ll hear us if you shout.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Has Hoshino(-senpai) still not responded yet?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,She’s never gone dark for this long before…
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Hello there, everyone from Abydos High School.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,What business does the Prefect Team from Gehenna have here? And why did you shell us?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Oh, you know. Just thought we’d drop some tough love on a few rule breakers hiding in the area.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Are you talking about Problem Solver 68?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Right on. So you see, we’re not actually here for you. That’s why I’m letting you walk away. I suggest you take the hint and leave.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,And if we don’t?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,This is the Perfect Team we’re dealing with. If we’re not careful, we could end up seriously hurt. It could even spark a larger international incident. {inter-school incident? inter-district incident? hmm -ik}
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I hate that they’re allowed to just do this, but we wouldn’t stand a chance against them. I think we have to obey.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,That’s not an option.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,She’s right! PS68 still needs to pay for what they did!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,But…
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,The boss had nothing to do with this, and look what they did to him.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Serika(-chan)...
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,We’re not leaving.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,They refused a demand from the Prefects?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,You’re kidding. They’re so screwed.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Miss Aru, now’s our chance. We should leave while we can. …Miss Aru?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,You know, a true outlaw wouldn’t spend her days regretting her past actions forever, would she?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,She wouldn’t pin her mistakes on someone else and slink off like a coward, either.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Don’t be ridiculous. This isn’t the time for -
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,A true outlaw…
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,The outlaws that we strive to become would never betray what they believed in, no matter the enemy. Am I wrong?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Aru…
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I’ll take that as your response, then.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,After I went to the effort of playing nice… Don’t say I didn’t warn you.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Ayane(-chan)!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Iori? For the love of-
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Not bad.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Shiroko(-chan)!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Why, you little!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Serika(-chan)!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Hardly worth the effort.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Wait!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,And who are you?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Wait, Iori!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Get out of here, Sensei!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Sensei? Wait, are you that teacher from SCHALE?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,You’re wide open.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Is everyone okay?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I’m okay.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I thought I recognized you, Sensei. I didn’t expect to meet you here, of all places.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,You’re…
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,It’s been a while, Chinatsu.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,If we had known you were here… We have no excuse for this.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I’m Okusora Ayane, Abydos Foreclosure Task Force. I see you’re with the Gehenna Prefect Team, but could you please explain yourselves?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Well…
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Allow me to answer your question.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Hello, students of Abydos.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I am the Senior Administrator of the Prefect Team at Gehenna Academy. My name is Amau Ako.
+Dialogue: 10,0:00:09.74,0:00:11.82,Default,,0,0,0,,Miss Aru! Miss Aru!
+Dialogue: 10,0:00:12.08,0:00:14.79,Default,,0,0,0,,Hoo boy. That looks like bad news.
+Dialogue: 10,0:00:14.79,0:00:17.96,Default,,0,0,0,,I can't believe they chased us all the way here... {TM: adjust leadin}
+Dialogue: 10,0:00:19.09,0:00:21.03,Default,,0,0,0,,But why?
+Dialogue: 10,0:00:21.03,0:00:23.84,Default,,0,0,0,,They just opened fire! In our school district!
+Dialogue: 10,0:00:23.84,0:00:28.22,Default,,0,0,0,,Were they aiming for us? Or Problem Solver 68?
+Dialogue: 10,0:00:28.47,0:00:30.76,Default,,0,0,0,,Sensei, are they…? {TM: check snap}
+Comment: 10,0:00:31.02,0:00:33.76,Default,,0,0,0,,Yes. Those girls...
+Dialogue: 10,0:00:31.02,0:00:31.92,Default,,0,0,0,,Yes.
+Dialogue: 10,0:00:32.49,0:00:33.76,Default,,0,0,0,,Those girls...
+Dialogue: 10,0:00:36.84,0:00:38.79,Default,,0,0,0,,are the Gehenna Prefect Team.
+Comment: 10,0:02:13.26,0:02:17.48,Default,,0,0,0,,Sensei, it’s dangerous here. Get clear and keep your head down.
+Dialogue: 10,0:02:13.26,0:02:15.37,Default,,0,0,0,,Sensei, it’s dangerous here.
+Dialogue: 10,0:02:15.37,0:02:17.48,Default,,0,0,0,,Get clear and keep your head down.
+Dialogue: 10,0:02:17.48,0:02:19.24,Default,,0,0,0,,Right, thanks.
+Dialogue: 10,0:02:21.41,0:02:23.08,Default,,0,0,0,,God, what a pain.
+Dialogue: 10,0:02:23.08,0:02:24.79,Default,,0,0,0,,Don’t complain, Iori.
+Dialogue: 10,0:02:24.79,0:02:27.45,Default,,0,0,0,,Why can’t we just attack them?
+Dialogue: 10,0:02:27.45,0:02:29.38,Default,,0,0,0,,We need to talk to them first. {TM: Check snap}
+Dialogue: 10,0:02:29.89,0:02:33.88,Default,,0,0,0,,We’re here to catch troublemakers from our school, not talk.
+Dialogue: 10,0:02:33.88,0:02:35.66,Default,,0,0,0,,If they get in our way, we’ll just- {TM: Split and check leadin}
+Dialogue: 10,0:02:35.66,0:02:37.72,Default,,0,0,0,,First we explain why we’re here.
+Dialogue: 10,0:02:38.18,0:02:41.97,Default,,0,0,0,,Then we listen to what they have to say, and we negotiate.
+Dialogue: 10,0:02:42.26,0:02:45.30,Default,,0,0,0,,And only if that doesn’t solve the problem, we fight.
+Dialogue: 10,0:02:45.30,0:02:46.98,Default,,0,0,0,,Do we really need to do all of that?
+Dialogue: 10,0:02:47.23,0:02:48.94,Default,,0,0,0,,These people aren’t from our school. {TM: check snap}
+Comment: 10,0:02:48.94,0:02:54.65,Default,,0,0,0,,We may not have meant to attack them earlier, but under normal circumstances, it would have been a grave offense.
+Dialogue: 10,0:02:48.94,0:02:50.53,Default,,0,0,0,,We may not have meant to attack them earlier,
+Dialogue: 10,0:02:50.53,0:02:52.21,Default,,0,0,0,,but under normal circumstances,
+Dialogue: 10,0:02:52.21,0:02:54.49,Default,,0,0,0,,it would have been a grave offense. {TM: def wanna merge something in these 3}
+Dialogue: 10,0:02:54.49,0:02:55.86,Default,,0,0,0,,Fine, I get it. {TM: fine tune leadin}
+Dialogue: 10,0:02:56.16,0:02:58.93,Default,,0,0,0,,I’ll just hurry up and tell them, then. {TM: might snap?}
+Dialogue: 10,0:02:58.93,0:02:59.87,Default,,0,0,0,,Iori, wait!
+Dialogue: 10,0:02:59.87,0:03:02.30,Default,,0,0,0,,Relax. I got this.
+Dialogue: 10,0:03:03.55,0:03:05.70,Default,,0,0,0,,Wakey wakey, Aru(-chan)
+Dialogue: 10,0:03:08.38,0:03:09.63,Default,,0,0,0,,Miss Aru!
+Dialogue: 10,0:03:09.63,0:03:11.42,Default,,0,0,0,,Good morning, sunshine.
+Dialogue: 10,0:03:14.11,0:03:16.94,Default,,0,0,0,,Boss. We need to hurry and get out of here.
+Dialogue: 10,0:03:16.94,0:03:18.26,Default,,0,0,0,,Get out?
+Dialogue: 10,0:03:18.53,0:03:20.26,Default,,0,0,0,,Why? {TM: Check snaps}
+Dialogue: 10,0:03:20.26,0:03:22.01,Default,,0,0,0,,The Prefect Team is here.
+Dialogue: 10,0:03:22.50,0:03:23.85,Default,,0,0,0,,Prefect…
+Dialogue: 10,0:03:23.85,0:03:25.02,Default,,0,0,0,,Why- (muffled)
+Dialogue: 10,0:03:25.02,0:03:25.89,Default,,0,0,0,,Quiet.
+Dialogue: 10,0:03:26.44,0:03:28.44,Default,,0,0,0,,They’ll hear us if you shout.
+Dialogue: 10,0:03:29.82,0:03:33.04,Default,,0,0,0,,Has Hoshino(-senpai) still not responded yet?
+Dialogue: 10,0:03:33.04,0:03:36.82,Default,,0,0,0,,She’s never gone dark for this long before… {TM: check leadout}
+Dialogue: 10,0:03:39.43,0:03:42.03,Default,,0,0,0,,Hello there, everyone from Abydos High School.
+Dialogue: 10,0:03:42.31,0:03:45.83,Default,,0,0,0,,What business does the Prefect Team from Gehenna have here?
+Dialogue: 10,0:03:45.83,0:03:48.22,Default,,0,0,0,,And why did you shell us?
+Dialogue: 10,0:03:48.22,0:03:53.46,Default,,0,0,0,,Oh, you know. Just thought we’d drop some tough love on a few rule breakers hiding in the area.
+Dialogue: 10,0:03:53.46,0:03:56.30,Default,,0,0,0,,Are you talking about Problem Solver 68?
+Dialogue: 10,0:03:56.30,0:03:57.34,Default,,0,0,0,,Right on.
+Dialogue: 10,0:03:58.00,0:04:00.85,Default,,0,0,0,,So you see, we’re not actually here for you.
+Dialogue: 10,0:04:01.13,0:04:02.90,Default,,0,0,0,,That’s why I’m letting you walk away. {TM: might snap?}
+Dialogue: 10,0:04:02.90,0:04:04.72,Default,,0,0,0,,I suggest you take the hint and leave.
+Dialogue: 10,0:04:05.73,0:04:07.73,Default,,0,0,0,,And if we don’t?
+Dialogue: 10,0:04:09.69,0:04:11.89,Default,,0,0,0,,This is the Perfect Team we’re dealing with.
+Comment: 10,0:04:11.89,0:04:18.79,Default,,0,0,0,,If we’re not careful, we could end up seriously hurt. It could even spark a larger international incident. {inter-school incident? inter-district incident? hmm -ik}
+Dialogue: 10,0:04:11.89,0:04:14.61,Default,,0,0,0,,If we’re not careful, we could end up seriously hurt.
+Dialogue: 10,0:04:14.94,0:04:18.82,Default,,0,0,0,,It could even spark a larger international incident. {inter-school incident? inter-district incident? hmm -ik}
+Dialogue: 10,0:04:18.82,0:04:21.37,Default,,0,0,0,,I hate that they’re allowed to just do this,
+Dialogue: 10,0:04:21.37,0:04:24.37,Default,,0,0,0,,but we wouldn’t stand a chance against them.
+Dialogue: 10,0:04:24.37,0:04:26.82,Default,,0,0,0,,I think we have to obey.
+Dialogue: 10,0:04:26.82,0:04:28.62,Default,,0,0,0,,That’s not an option.
+Dialogue: 10,0:04:28.92,0:04:32.50,Default,,0,0,0,,She’s right! PS68 still needs to pay for what they did!
+Dialogue: 10,0:04:32.50,0:04:33.50,Default,,0,0,0,,But…
+Dialogue: 10,0:04:33.50,0:04:36.42,Default,,0,0,0,,The boss had nothing to do with this, and look what they did to him.
+Dialogue: 10,0:04:36.91,0:04:38.40,Default,,0,0,0,,Serika(-chan)...
+Dialogue: 10,0:04:41.98,0:04:44.43,Default,,0,0,0,,We’re not leaving.
+Dialogue: 10,0:04:44.43,0:04:47.96,Default,,0,0,0,,They refused a demand from the Prefects?
+Dialogue: 10,0:04:47.96,0:04:50.44,Default,,0,0,0,,You’re kidding. They’re so screwed.
+Dialogue: 10,0:04:50.44,0:04:52.42,Default,,0,0,0,,Miss Aru, now’s our chance.
+Dialogue: 10,0:04:52.71,0:04:54.91,Default,,0,0,0,,We should leave while we can.
+Dialogue: 10,0:04:55.87,0:04:57.12,Default,,0,0,0,,…Miss Aru?
+Dialogue: 10,0:04:57.12,0:05:03.20,Default,,0,0,0,,You know, a true outlaw wouldn’t spend her days regretting her past actions forever, would she?
+Dialogue: 10,0:05:03.54,0:05:08.58,Default,,0,0,0,,She wouldn’t pin her mistakes on someone else and slink off like a coward, either.
+Dialogue: 10,0:05:08.58,0:05:10.73,Default,,0,0,0,,Don’t be ridiculous. This isn’t the time for -
+Dialogue: 10,0:05:10.73,0:05:12.25,Default,,0,0,0,,A true outlaw…
+Dialogue: 10,0:05:12.92,0:05:15.67,Default,,0,0,0,,The outlaws that we strive to become
+Dialogue: 10,0:05:15.67,0:05:19.26,Default,,0,0,0,,would never betray what they believed in, no matter the enemy. Am I wrong?
+Dialogue: 10,0:05:19.75,0:05:20.70,Default,,0,0,0,,Aru…
+Dialogue: 10,0:05:24.52,0:05:27.51,Default,,0,0,0,,I’ll take that as your response, then.
+Dialogue: 10,0:05:29.82,0:05:32.23,Default,,0,0,0,,After I went to the effort of playing nice…
+Dialogue: 10,0:05:32.93,0:05:34.65,Default,,0,0,0,,Don’t say I didn’t warn you.
+Dialogue: 10,0:05:35.08,0:05:36.31,Default,,0,0,0,,Ayane(-chan)!
+Dialogue: 10,0:05:37.83,0:05:40.07,Default,,0,0,0,,Iori? For the love of-
+Dialogue: 10,0:05:53.17,0:05:54.17,Default,,0,0,0,,Not bad.
+Dialogue: 10,0:05:55.79,0:05:57.22,Default,,0,0,0,,Shiroko(-chan)!
+Dialogue: 10,0:06:06.90,0:06:07.72,Default,,0,0,0,,Why, you little! {TM: check snaps}
+Dialogue: 10,0:06:12.72,0:06:13.60,Default,,0,0,0,,Serika(-chan)!
+Dialogue: 10,0:06:21.66,0:06:23.66,Default,,0,0,0,,Hardly worth the effort.
+Dialogue: 10,0:06:23.66,0:06:24.32,Default,,0,0,0,,Wait!
+Dialogue: 10,0:06:26.74,0:06:28.33,Default,,0,0,0,,And who are you?
+Dialogue: 10,0:06:28.33,0:06:29.83,Default,,0,0,0,,Wait, Iori!
+Dialogue: 10,0:06:31.00,0:06:33.01,Default,,0,0,0,,Get out of here, Sensei!
+Dialogue: 10,0:06:33.01,0:06:34.38,Default,,0,0,0,,Sensei?
+Dialogue: 10,0:06:34.38,0:06:36.38,Default,,0,0,0,,Wait, are you that teacher from SCHALE?
+Dialogue: 10,0:06:39.69,0:06:41.26,Default,,0,0,0,,You’re wide open.
+Dialogue: 10,0:06:41.80,0:06:43.34,Default,,0,0,0,,Is everyone okay?
+Dialogue: 10,0:06:43.34,0:06:44.53,Default,,0,0,0,,I’m okay. {TM: check leadin}
+Dialogue: 10,0:06:44.53,0:06:46.68,Default,,0,0,0,,I thought I recognized you, Sensei.
+Dialogue: 10,0:06:47.17,0:06:50.16,Default,,0,0,0,,I didn’t expect to meet you here, of all places.
+Dialogue: 10,0:06:50.16,0:06:51.18,Default,,0,0,0,,You’re…
+Dialogue: 10,0:06:51.64,0:06:54.07,Default,,0,0,0,,It’s been a while, Chinatsu.
+Dialogue: 10,0:06:54.07,0:06:56.88,Default,,0,0,0,,If we had known you were here…
+Dialogue: 10,0:06:56.88,0:06:58.94,Default,,0,0,0,,We have no excuse for this.
+Dialogue: 10,0:06:58.94,0:07:02.39,Default,,0,0,0,,I’m Okusora Ayane, Abydos Foreclosure Task Force.
+Dialogue: 10,0:07:02.39,0:07:05.07,Default,,0,0,0,,I see you’re with the Gehenna Prefect Team,
+Dialogue: 10,0:07:05.07,0:07:07.64,Default,,0,0,0,,but could you please explain yourselves?
+Dialogue: 10,0:07:07.64,0:07:08.96,Default,,0,0,0,,Well…
+Dialogue: 10,0:07:08.96,0:07:11.33,Default,,0,0,0,,Allow me to answer your question.
+Dialogue: 10,0:07:14.01,0:07:17.21,Default,,0,0,0,,Hello, students of Abydos.
+Dialogue: 10,0:07:17.68,0:07:21.71,Default,,0,0,0,,I am the Senior Administrator of the Prefect Team at Gehenna Academy.
+Dialogue: 10,0:07:22.55,0:07:24.67,Default,,0,0,0,,My name is Amau Ako.
+Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Now, before we go any further, members of the Foreclosure Task Force…
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I would like to apologize for this treatment.
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,It would be better if you said that after you lowered your guns.
