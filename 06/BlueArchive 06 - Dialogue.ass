@@ -139,43 +139,61 @@ Dialogue: 10,0:07:08.96,0:07:11.33,Default,,0,0,0,,Allow me to answer your quest
 Dialogue: 10,0:07:14.01,0:07:17.21,Default,,0,0,0,,Hello, students of Abydos.
 Dialogue: 10,0:07:17.68,0:07:21.71,Default,,0,0,0,,I am the Senior Administrator of the Prefect Team at Gehenna Academy.
 Dialogue: 10,0:07:22.55,0:07:24.67,Default,,0,0,0,,My name is Amau Ako.
+Dialogue: 10,0:07:26.38,0:07:28.52,Default,,0,0,0,,Now, before we go any further, {TM: check}
+Dialogue: 10,0:07:28.52,0:07:30.55,Default,,0,0,0,,members of the Foreclosure Task Force…
+Dialogue: 10,0:07:31.38,0:07:33.81,Default,,0,0,0,,I would like to apologize for this treatment.
+Dialogue: 10,0:07:35.37,0:07:40.00,Default,,0,0,0,,It would be better if you said that after you lowered your guns.
+Dialogue: 10,0:07:40.00,0:07:41.56,Default,,0,0,0,,My, how thoughtless of me.
+Dialogue: 10,0:07:41.56,0:07:44.07,Default,,0,0,0,,All hands, stand down.
+Dialogue: 10,0:07:44.95,0:07:46.99,Default,,0,0,0,,They seriously lowered their weapons?
+Dialogue: 10,0:07:46.99,0:07:52.18,Default,,0,0,0,,As I was saying, allow me to apologize for my colleague’s foolish behavior.
+Dialogue: 10,0:07:52.18,0:07:53.49,Default,,0,0,0,,Foolish behavior?
+Dialogue: 10,0:07:53.49,0:07:56.19,Default,,0,0,0,,I did exactly as ordered.
+Dialogue: 10,0:07:56.19,0:07:57.20,Default,,0,0,0,,Iori?
+Dialogue: 10,0:07:57.20,0:08:00.56,Default,,0,0,0,,You remember where the templates for written apologies are, don’t you?
+Dialogue: 10,0:08:00.56,0:08:01.79,Default,,0,0,0,,Hold on, Ako(-chan)? {TM: fine tune leadin}
+Dialogue: 10,0:08:03.90,0:08:09.65,Default,,0,0,0,,Did your orders include the words “begin by firing indiscriminately at people” anywhere? {TM: could split probably}
+Dialogue: 10,0:08:09.65,0:08:11.18,Default,,0,0,0,,That wasn’t… I mean…
+Dialogue: 10,0:08:11.43,0:08:14.25,Default,,0,0,0,,And to top it off, you did it outside of Gehenna,
+Dialogue: 10,0:08:14.25,0:08:16.68,Default,,0,0,0,,near another school’s district. {TM: might join with last}
+Dialogue: 10,0:08:17.18,0:08:20.94,Default,,0,0,0,,Shouldn’t you know enough to take the location into account first?
+Dialogue: 10,0:08:21.37,0:08:23.78,Default,,0,0,0,,I’m going to ask you again, Iori.
+Dialogue: 10,0:08:23.78,0:08:26.52,Default,,0,0,0,,You remember where the templates for written apologies are, don’t you?
+Dialogue: 10,0:08:28.17,0:08:30.95,Default,,0,0,0,,Inside your desk, left drawer.
+Dialogue: 10,0:08:30.95,0:08:33.20,Default,,0,0,0,,Perfect. You know what to do, I’m sure.
+Dialogue: 10,0:08:33.20,0:08:35.53,Default,,0,0,0,,Now, back to your question.
+Dialogue: 10,0:08:35.53,0:08:40.21,Default,,0,0,0,,We’ve simply come here to apprehend some rule-breaking individuals from our school.
+Dialogue: 10,0:08:40.51,0:08:44.67,Default,,0,0,0,,Can we ask for your cooperation in performing our duties as the Prefect Team?
+Dialogue: 10,0:08:44.67,0:08:46.96,Default,,0,0,0,,Is that a request, or…? {TM: could split?}
+Dialogue: 10,0:08:48.35,0:08:50.47,Default,,0,0,0,,Yes, it’s a request.
+Dialogue: 10,0:08:50.72,0:08:52.39,Default,,0,0,0,,For now.
+Dialogue: 10,0:08:53.90,0:08:55.66,Default,,0,0,0,,We can’t do that.
+Dialogue: 10,0:08:55.66,0:08:57.48,Default,,0,0,0,,Oh? And why not?
+Dialogue: 10,0:08:57.48,0:08:59.41,Default,,0,0,0,,It goes without saying.
+Dialogue: 10,0:08:59.41,0:09:01.48,Default,,0,0,0,,This is our district.
+Dialogue: 10,0:09:01.48,0:09:05.48,Default,,0,0,0,,It’s a clear violation of the rules for you to openly attack us like this.
+Dialogue: 10,0:09:05.77,0:09:09.49,Default,,0,0,0,,We’ll decide how to deal with Problem Solver 68.
+Dialogue: 10,0:09:09.93,0:09:13.75,Default,,0,0,0,,And what about the teacher from SCHALE? Do you share her view?
+Dialogue: 10,0:09:13.75,0:09:14.67,Default,,0,0,0,,Yes.
+Dialogue: 10,0:09:14.67,0:09:19.25,Default,,0,0,0,,In this case, I fully support their decision.
+Dialogue: 10,0:09:20.91,0:09:24.25,Default,,0,0,0,,And I was so hoping for a peaceful resolution.
+Dialogue: 10,0:09:25.05,0:09:26.88,Default,,0,0,0,,What a shame.
+Dialogue: 10,0:09:28.06,0:09:29.92,Default,,0,0,0,,All hands, prepare to engage!
+Dialogue: 10,0:09:34.01,0:09:35.64,Default,,0,0,0,,What was that?
+Dialogue: 10,0:09:35.64,0:09:36.85,Default,,0,0,0,,Ambush?
+Dialogue: 10,0:09:38.67,0:09:39.60,Default,,0,0,0,,Keep calm!
+Dialogue: 10,0:09:39.60,0:09:41.26,Default,,0,0,0,,Check your surroundings!
+Dialogue: 10,0:09:41.26,0:09:43.77,Default,,0,0,0,,How dare you do that to Miss Aru.
+Dialogue: 10,0:09:44.28,0:09:45.69,Default,,0,0,0,,Unforgivable.
+Dialogue: 10,0:09:45.69,0:09:48.88,Default,,0,0,0,,Unforgivable. Unforgivable!
+Dialogue: 10,0:09:53.06,0:09:54.02,Default,,0,0,0,,Iori!
+Dialogue: 10,0:09:56.34,0:09:58.67,Default,,0,0,0,,Heya! Did you miss me?
+Dialogue: 10,0:09:58.67,0:10:00.04,Default,,0,0,0,,That went well.
+Dialogue: 10,0:10:01.32,0:10:04.38,Default,,0,0,0,,Now then, let’s get this show started, shall we?
+Dialogue: 10,0:10:06.43,0:10:08.76,Default,,0,0,0,,You! You’ll pay for what you did to-
+Dialogue: 10,0:10:08.76,0:10:09.69,Default,,0,0,0,,I’m sorry.
+Dialogue: 10,0:10:09.69,0:10:10.42,Default,,0,0,0,,Huh?
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Now, before we go any further, members of the Foreclosure Task Force…
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I would like to apologize for this treatment.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,It would be better if you said that after you lowered your guns.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,My, how thoughtless of me. All hands, stand down.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,They seriously lowered their weapons?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,As I was saying, allow me to apologize for my colleague’s foolish behavior.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Foolish behavior? I did exactly as ordered.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Iori? You remember where the templates for written apologies are, don’t you?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Hold on, Ako(-chan)?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Did your orders include the words “begin by firing indiscriminately at people” anywhere?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,That wasn’t… I mean…
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,And to top it off, you did it outside of Gehenna, near another school’s district. Shouldn’t you know enough to take the location into account first?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I’m going to ask you again, Iori. You remember where the templates for written apologies are, don’t you?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Inside your desk, left drawer.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Perfect. You know what to do, I’m sure.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Now, back to your question. We’ve simply come here to apprehend some rule-breaking individuals from our school. Can we ask for your cooperation in performing our duties as the Prefect Team?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Is that a request, or…?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Yes, it’s a request. For now.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,We can’t do that.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Oh? And why not?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,It goes without saying. This is our district. It’s a clear violation of the rules for you to openly attack us like this. We’ll decide how to deal with Problem Solver 68.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,And what about the teacher from SCHALE? Do you share her view?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Yes. In this case, I fully support their decision.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,And I was so hoping for a peaceful resolution. What a shame.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,All hands, prepare to engage!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,What was that?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Ambush?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Keep calm! Check your surroundings!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,How dare you do that to Miss Aru. Unforgivable. Unforgivable. Unforgivable!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Iori!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Heya! Did you miss me?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,That went well.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Now then, let’s get this show started, shall we?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,You! You’ll pay for what you did to-
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I’m sorry.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Huh?
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I’m surprised you chose to show yourselves. But I suppose this saves us the trouble of searching for you.
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,They had a second group waiting.
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Well, guess it couldn’t have been that easy.
