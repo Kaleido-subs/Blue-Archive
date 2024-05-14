@@ -224,71 +224,87 @@ Dialogue: 10,0:11:43.06,0:11:45.60,Default,,0,0,0,,Except I had sent that report
 Dialogue: 10,0:11:45.60,0:11:47.73,Default,,0,0,0,,Just think. A mysterious organization,
 Dialogue: 10,0:11:47.73,0:11:51.34,Default,,0,0,0,,left behind by the General Student Council President and headed by that teacher over there.
 Dialogue: 10,0:11:51.34,0:11:55.11,Default,,0,0,0,,There’s no telling how this might tip the scales going forward.
+Dialogue: 10,0:11:55.41,0:11:59.53,Default,,0,0,0,,That’s why we, the Gehenna Prefect Team,
+Dialogue: 10,0:11:59.53,0:12:04.79,Default,,0,0,0,,would like to take him into our custody, at least until the Eden Treaty is safely signed. {TM: could move the "take him into custody" part to the other line, will check which is better}
+Dialogue: 10,0:12:04.79,0:12:06.67,Default,,0,0,0,,Quit dreaming.
+Dialogue: 10,0:12:06.67,0:12:09.26,Default,,0,0,0,,Did you really think we’d just hand him over?
+Dialogue: 10,0:12:09.26,0:12:11.92,Default,,0,0,0,,We’ll protect our teacher.
+Dialogue: 10,0:12:12.84,0:12:15.98,Default,,0,0,0,,I was afraid this would happen.
+Dialogue: 10,0:12:15.98,0:12:19.68,Default,,0,0,0,,It seems we have no choice but to take drastic action.
+Dialogue: 10,0:12:19.68,0:12:23.65,Default,,0,0,0,,If the Head Prefect were to find out about this, I’d be joining Iori in writing apologies.
+Dialogue: 10,0:12:23.65,0:12:24.68,Default,,0,0,0,,Ako(-chan)?
+Dialogue: 10,0:12:25.05,0:12:27.72,Default,,0,0,0,,Do you honestly think you can win with only the five of you?
+Dialogue: 10,0:12:27.72,0:12:29.10,Default,,0,0,0,,Actually, it’s nine of us.
+Comment: 10,0:12:29.00,0:12:29.81,Default,,0,0,0,,What?
+Dialogue: 10,0:12:30.31,0:12:33.21,Default,,0,0,0,,But they’re not after you.
+Dialogue: 10,0:12:33.21,0:12:38.57,Default,,0,0,0,,Only a third-rate villain would run away without repaying a debt.
+Dialogue: 10,0:12:39.34,0:12:40.94,Default,,0,0,0,,There’s our boss!
+Dialogue: 10,0:12:40.94,0:12:45.70,Default,,0,0,0,,I’m not letting those prefects walk away without putting a bullet in each of their smug faces first.
+Dialogue: 10,0:12:46.83,0:12:47.87,Default,,0,0,0,,Right on.
+Dialogue: 10,0:12:50.62,0:12:52.38,Default,,0,0,0,,Kuromi Serika.
+Dialogue: 10,0:12:53.00,0:12:56.26,Default,,0,0,0,,We’re going to be fighting together, so at least get my name right.
+Dialogue: 10,0:12:56.26,0:12:58.50,Default,,0,0,0,,It’s not “part-timer”.
+Dialogue: 10,0:12:59.87,0:13:01.14,Default,,0,0,0,,The name’s Rikuhachima Aru.
+Dialogue: 10,0:13:02.39,0:13:03.99,Default,,0,0,0,,Onikata Kayoko.
+Dialogue: 10,0:13:03.99,0:13:05.64,Default,,0,0,0,,And I’m Asagi Mutsuki.
+Dialogue: 10,0:13:05.64,0:13:07.65,Default,,0,0,0,,I-I’m Igusa Haruka.
+Dialogue: 10,0:13:07.65,0:13:09.57,Default,,0,0,0,,C-Charmed.
+Dialogue: 10,0:13:09.57,0:13:11.50,Default,,0,0,0,,I’m Izayoi Nonomi.
+Dialogue: 10,0:13:11.50,0:13:13.48,Default,,0,0,0,,And my name is Okusora Ayane.
+Dialogue: 10,0:13:13.89,0:13:15.94,Default,,0,0,0,,Sunaookami Shiroko.
+Dialogue: 10,0:13:18.41,0:13:19.45,Default,,0,0,0,,Hey!
+Dialogue: 10,0:13:19.45,0:13:22.20,Default,,0,0,0,,This is your last chance to change your mind. {TM: might check that snap}
+Dialogue: 10,0:13:22.57,0:13:26.70,Default,,0,0,0,,After this, you can beg, you can pay money, you can lick my feet - {TM: split?}
+Dialogue: 10,0:13:26.70,0:13:30.83,Default,,0,0,0,,I’d love to, but I’ll have to pass this time. {TM: Split?}
+Dialogue: 10,0:13:32.77,0:13:36.03,Default,,0,0,0,,That’s quite the unlikely alliance you’ve made.
+Dialogue: 10,0:13:36.03,0:13:37.59,Default,,0,0,0,,But no matter.
+Dialogue: 10,0:13:37.59,0:13:40.97,Default,,0,0,0,,You’ll soon know the true terror of -
+Dialogue: 10,0:13:45.41,0:13:46.97,Default,,0,0,0,,You talk too much.
+Dialogue: 10,0:13:47.32,0:13:50.10,Default,,0,0,0,,Begin the attack!
+Dialogue: 10,0:13:52.49,0:13:55.61,Default,,0,0,0,,Nonomi, Haruka! Take 3 o’clock! {TM: could split}
+Dialogue: 10,0:13:55.61,0:13:56.36,Default,,0,0,0,,Got it!
+Dialogue: 10,0:13:56.67,0:13:59.49,Default,,0,0,0,,Serika, Mutsuki! You two take 9 o’clock! {TM: could also split}
+Dialogue: 10,0:13:59.49,0:14:00.61,Default,,0,0,0,,Leave it to me!
+Dialogue: 10,0:13:59.49,0:14:00.61,Alt,,0,0,0,,Okay!
+Dialogue: 10,0:14:00.87,0:14:04.54,Default,,0,0,0,,Shiroko, Aru! You’re up front, high noon!{TM: once again could split}
+Dialogue: 10,0:14:04.54,0:14:05.62,Default,,0,0,0,,Roger!
+Dialogue: 10,0:14:05.62,0:14:07.67,Default,,0,0,0,,Ayane and Kayoko, support the others.
+Dialogue: 10,0:14:07.67,0:14:08.49,Default,,0,0,0,,Understood.
+Dialogue: 10,0:14:07.67,0:14:08.49,Alt,,0,0,0,,Got it!
+Dialogue: 10,0:14:11.76,0:14:13.61,Default,,0,0,0,,Haruka(-san), what should we do?
+Dialogue: 10,0:14:13.61,0:14:15.33,Default,,0,0,0,,I'll go first.
+Dialogue: 10,0:14:15.33,0:14:16.46,Default,,0,0,0,,Wait, hold on! {TM: could do alt without gasp I guess?}
+Dialogue: 10,0:14:16.46,0:14:18.46,Default,,0,0,0,,Die, please, die, please, die, please!
+Dialogue: 10,0:14:16.80,0:14:18.46,Alt,,0,0,0,,Haruka(-san)!
+Dialogue: 10,0:14:25.54,0:14:27.69,Default,,0,0,0,,T-T-T-Thank you…
+Dialogue: 10,0:14:27.69,0:14:30.52,Default,,0,0,0,,Oh, no, don’t mention it!
+Dialogue: 10,0:14:30.87,0:14:32.94,Default,,0,0,0,,Heads up, part-timer!
+Dialogue: 10,0:14:39.38,0:14:41.51,Default,,0,0,0,,Hey, you're not half bad, part-timer!
+Dialogue: 10,0:14:41.51,0:14:42.98,Default,,0,0,0,,Of course I’m not.
+Dialogue: 10,0:14:42.98,0:14:46.32,Default,,0,0,0,,All right, let’s keep the party going!
+Dialogue: 10,0:14:46.60,0:14:47.70,Default,,0,0,0,,Another grenade!
+Dialogue: 10,0:14:52.10,0:14:52.90,Default,,0,0,0,,No way!
+Dialogue: 10,0:14:52.90,0:14:54.21,Default,,0,0,0,,Oh sh- {convenient censorship goooo}
+Dialogue: 10,0:14:57.90,0:15:00.22,Default,,0,0,0,,There you are, you little rats. {it's taking all my self-control to not make a filthy rats joke here --ik}
+Dialogue: 10,0:15:00.22,0:15:02.40,Default,,0,0,0,,You’re not getting away this time.
+Dialogue: 10,0:15:11.61,0:15:13.36,Default,,0,0,0,,Great work, Haruka(-san)!
+Dialogue: 10,0:15:13.36,0:15:14.64,Default,,0,0,0,,Oh, no.
+Dialogue: 10,0:15:14.64,0:15:16.65,Default,,0,0,0,,It was all thanks to your help, Nonomi(-san)
+Dialogue: 10,0:15:16.93,0:15:19.07,Default,,0,0,0,,No, no, you did great.
+Dialogue: 10,0:15:28.35,0:15:31.22,Default,,0,0,0,,Drop your gun and surrender, please.
+Dialogue: 10,0:15:37.79,0:15:39.93,Default,,0,0,0,,Quit running around, you little jerks.
+Dialogue: 10,0:15:39.93,0:15:41.25,Default,,0,0,0,,Come out and take your beating!
+Dialogue: 10,0:15:44.80,0:15:45.34,Default,,0,0,0,,She’s fast!
+Dialogue: 10,0:15:45.34,0:15:46.84,Default,,0,0,0,,I’ve got you now! {TM: I think this snap is good but check}
+Dialogue: 10,0:15:50.10,0:15:51.85,Default,,0,0,0,,It’s all you, part-timer.
+Dialogue: 10,0:15:52.29,0:15:53.03,Default,,0,0,0,,What? {TM: not a true scene change but might still want to snap, or at least tweak leadout.}
+Dialogue: 10,0:15:54.91,0:15:57.42,Default,,0,0,0,,My name’s not “part-timer”!
+Dialogue: 10,0:16:11.53,0:16:14.29,Default,,0,0,0,,Well, what do we have here? {TM: check that leadout snap}
+Dialogue: 10,0:16:14.57,0:16:17.29,Default,,0,0,0,,You’ve got some guts, calling me a rat.
+Dialogue: 10,0:16:17.29,0:16:19.98,Default,,0,0,0,,Dammit. You think you’re so tough?
+Dialogue: 10,0:16:19.98,0:16:21.17,Default,,0,0,0,,I’ll kick your asses!
+Dialogue: 10,0:16:21.17,0:16:23.30,Default,,0,0,0,,What are you waiting for? Come on!
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,That’s why we, the Gehenna Prefect Team, would like to take him into our custody, at least until the Eden Treaty is safely signed.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Quit dreaming. Did you really think we’d just hand him over?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,We’ll protect our teacher.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I was afraid this would happen. It seems we have no choice but to take drastic action. If the Head Prefect were to find out about this, I’d be joining Iori in writing apologies.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Ako(-chan)?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Do you honestly think you can win with only the five of you?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Actually, it’s nine of us.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,But they’re not after you.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Only a third-rate villain would run away without repaying a debt.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,There’s our boss!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I’m not letting those prefects walk away without putting a bullet in each of their smug faces first.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Right on.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Kuromi Serika.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,We’re going to be fighting together, so at least get my name right. It’s not “part-timer”.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,The name’s Rikuhachima Aru.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Onikata Kayoko.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,And I’m Asagi Mutsuki.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I-I’m Igusa Haruka. C-Charmed.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I’m Izayoi Nonomi.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,And my name is Okusora Ayane.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Sunaookami Shiroko.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Hey! This is your last chance to change your mind. After this, you can beg, you can pay money, you can lick my feet -
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I’d love to, but I’ll have to pass this time.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,That’s quite the unlikely alliance you’ve made. But no matter. You’ll soon know the true terror of -
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,You talk too much.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Begin the attack!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Nonomi, Haruka! Take 3 o’clock!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Got it!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Serika, Mutsuki! You two take 9 o’clock!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Leave it to me!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Okay!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Shiroko, Aru! You’re up front, high noon!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Roger!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Ayane and Kayoko, support the others.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Got it!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Understood.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Haruka(-san), what should we do?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I’ll go first.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Wait, hold on, Haruka(-san)!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Die, please, die, please, die, please!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,T-T-T-Thank you…
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Oh, no, don’t mention it!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Heads up, part-timer!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Hey, you're not half bad, part-timer!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Of course I’m not.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,All right, let’s keep the party going!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Another grenade!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,No way!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Oh sh- (convenient censorship goooo)
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,There you are, you little rats. You’re not getting away this time. {it's taking all my self-control to not make a filthy rats joke here --ik}
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Great work, Haruka(-san)!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Oh, no. It was all thanks to your help, Nonomi(-san)
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,No, no, you did great.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Drop your gun and surrender, please.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Quit running around, you little jerks. Come out and take your beating!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,She’s fast!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,I’ve got you now!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,It’s all you, part-timer.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,What?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,My name’s not “part-timer”!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Well, what do we have here?
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,You’ve got some guts, calling me a rat.
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,Dammit. You think you’re so tough? I’ll kick your asses!
-Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,What are you waiting for? Come on!
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,3 o'clock, 9 o'clock, all clear. No hostile presence.
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,All right. All that’s left is 12 o’clock. Shiroko, Aru. Just a little bit more!
 Dialogue: 10,0:00:00.00,0:00:00.00,Default,,0,0,0,,You know, we were interrupted earlier, but I wonder. If we did end up fighting, who do you think would win?
