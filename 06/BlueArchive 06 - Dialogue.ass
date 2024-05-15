@@ -24,7 +24,16 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:09.74,0:00:11.82,Default,,0,0,0,,{=2}Miss Aru! Miss Aru!
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=4}---- Chapters
+Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
+Comment: 0,0:00:39.52,0:00:39.52,Default,chapter,0,0,0,,{OP}
+Comment: 0,0:00:44.82,0:00:44.82,Default,,0,0,0,opsync,{OPSync — First hard cut (sunrise shot)}
+Comment: 0,0:02:09.48,0:02:09.48,Default,chapter,0,0,0,,{Part A}
+Comment: 0,0:07:25.47,0:07:25.47,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:22:10.48,0:22:10.48,Default,chapter,0,0,0,,{ED}
+Comment: 0,0:22:46.39,0:22:46.39,Default,,0,0,0,edsync,{=5}{EDSync — First hard cut (Nonomi washing room shot)}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=8}---- Dialogue
+Dialogue: 10,0:00:09.74,0:00:11.82,Default,,0,0,0,,Miss Aru! Miss Aru!
 Dialogue: 10,0:00:12.08,0:00:14.79,Default,,0,0,0,,Hoo boy. That looks like bad news.
 Dialogue: 10,0:00:14.79,0:00:17.96,Default,,0,0,0,,I can't believe they chased us all the way here...
 Dialogue: 10,0:00:19.08,0:00:21.04,Default,,0,0,0,,But why?
@@ -44,7 +53,7 @@ Dialogue: 10,0:02:23.08,0:02:24.79,Default,,0,0,0,,Don’t complain, Iori.
 Dialogue: 10,0:02:24.79,0:02:27.46,Default,,0,0,0,,Why can’t we just attack them?
 Dialogue: 10,0:02:27.46,0:02:29.38,Default,,0,0,0,,We need to talk to them first.
 Dialogue: 10,0:02:29.88,0:02:33.88,Default,,0,0,0,,We’re here to catch troublemakers from our school, not talk.
-Dialogue: 10,0:02:33.88,0:02:35.68,Default,,0,0,0,,If they get in our way, we’ll just- 
+Dialogue: 10,0:02:33.88,0:02:35.68,Default,,0,0,0,,If they get in our way, we’ll just-
 Dialogue: 10,0:02:35.68,0:02:37.72,Default,,0,0,0,,First we explain why we’re here.
 Dialogue: 10,0:02:38.18,0:02:41.97,Default,,0,0,0,,Then we listen to what they have to say, and we negotiate.
 Dialogue: 10,0:02:42.27,0:02:45.31,Default,,0,0,0,,And only if that doesn’t solve the problem, we fight.
@@ -408,8 +417,14 @@ Dialogue: 10,0:21:52.54,0:21:55.17,Default,,0,0,0,,I can’t believe you, Hoshin
 Dialogue: 10,0:21:55.17,0:21:58.42,Default,,0,0,0,,I agree! Where were you when we needed you?
 Dialogue: 10,0:21:59.21,0:22:02.43,Default,,0,0,0,,Sensei! They’re being mean to me!
 Dialogue: 10,0:22:03.97,0:22:06.47,Default,,0,0,0,,All right! Let’s all go home.
-Dialogue: 10,0:22:06.89,0:22:09.47,Default,,0,0,0,,{=3}I’m pooped.
+Dialogue: 10,0:22:06.89,0:22:09.47,Default,,0,0,0,,{=9}I’m pooped.
 
 [Aegisub Extradata]
 Data: 2,_aegi_folddata,e0;0;1
 Data: 3,_aegi_folddata,e1;0;1
+Data: 4,_aegi_folddata,e0;1;2
+Data: 5,_aegi_folddata,e1;1;2
+Data: 6,_aegi_folddata,e0;1;3
+Data: 7,_aegi_folddata,e1;1;3
+Data: 8,_aegi_folddata,e0;0;3
+Data: 9,_aegi_folddata,e1;0;3
