@@ -1,0 +1,339 @@
+﻿[Script Info]
+Title: Kaleido-subs
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ED1,Bohemian Typewriter,64,&H00FFFFFF,&H000000FF,&H78204CEA,&H50FAD756,0,0,0,0,75,100,0,0,1,0,5,8,100,100,60,1
+Style: JohnnyEDSigns,Segoe UI,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,ncchapter,0,0,0,,{NCED1}
+Comment: 0,0:00:35.89,0:00:35.89,Default,,0,0,0,sync,{EDSync — First hard cut (Nonomi washing room shot)}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,-- README --,Template written for 0x.KaraTemplater. Please contact us over at the Kaleido-subs Discord if you need the effects for different languages!
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,ffms = _G.aegisub.frame_from_ms; msff = _G.aegisub.ms_from_frame
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,math.randomseed(1512)
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function framefix(s, e) retime("abs", s and msff(ffms(line.start_time)) or line.start_time, e and msff(ffms(line.end_time)) or line.end_time) end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,FRAMES_PER_KF = 4
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 1,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function is_last_syl() return orgline.chars[#orgline.chars].syl == syl end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code syl,local endf = ffms(orgline.start_time + syl.end_time); local dur_frames = endf - ffms(orgline.start_time + syl.start_time); local extra = (is_last_syl() and 0 or FRAMES_PER_KF) - dur_frames % FRAMES_PER_KF; local new_end = msff(endf + extra); syl.end_delta = new_end - (orgline.start_time + syl.end_time)
+Comment: 1,0:00:00.00,0:00:00.00,ED1,main presyl,0,0,0,template syl noactor arab noblank,!retime("start2syl", -150, 0)!!framefix(false, true)!{\fad(150,0)}
+Comment: 1,0:00:00.00,0:00:00.00,ED1,main shake,0,0,0,template char noactor arab noblank loop layer -1,!util.fbf("syl", nil, char.syl.end_delta, FRAMES_PER_KF)!
+Comment: 1,0:00:00.00,0:00:00.00,ED1,main postsyl,0,0,0,template syl noactor arab noblank,!retime("syl2end", syl.end_delta, 150)!{\fad(0,150)}
+Comment: 1,0:00:00.00,0:00:00.00,ED1,main presyl postsyl,0,0,0,template line actor arab,!retime("line", -150, 150)!{\fad(150,150)\fscx100\fnChanga\b0\fs88}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor postsyl,!retime("delta", 0, line.next and line.start_time < line.next.start_time and line.end_time > line.next.start_time and math.min(0, line.next.start_time - line.end_time) or 0)!
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main,!maxloop('layer', 3)!!relayer($loop_layer)!
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main layer 1,{\c!gc(3)!\3c!gc(3)!\4a!ga(3)!\1a!ga(3)!\3a!ga(3)!\4c!gc(3)!\blur5\bord3}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main layer 2,{\c!gc(4)!\1a!ga(4)!\blur1}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main layer 3,{\shad0\blur0.7}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,ROM_SIZE = -2.5 --fs units, -25%
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function engy() return orgline.actor:match("rom") and 64 or 0 end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function romx() return orgline.actor:match("rom") and (ROM_SIZE / -10) * (line.width/2 - (char or syl).center) or 0 end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main no_t_actor shake,{!ln.tag.pos(5,5,romx(), engy())!}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor main actor rom,{\fs!ROM_SIZE!}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor shake layer 1,!set('xoff', rnd(-2, 2))!!set('yoff', rnd(-2, 2))!!set('frz', rnd(-5, 5))!
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line t_actor shake,{!ln.tag.pos(5, 5, xoff + romx(), yoff + engy())!\frz!util.ftoa(frz, 1)!}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,
+Dialogue: 0,0:00:14.81,0:00:16.66,ED1,rom,0,0,0,kara,{\k3}{\k22}ma{\k24}do{\k21}gi{\k24}wa {\k23}no {\k44}seki {\k21}de{\k3}
+Dialogue: 0,0:00:16.66,0:00:20.99,ED1,rom,0,0,0,kara,{\k0}{\k21}u{\k23}tsu{\k22}ro{\k22}u {\k24}ki{\k46}mochi {\k23}no {\k22}o{\k23}ki{\k22}ba {\k23}wo {\k21}sa{\k48}gashi{\k24}te{\k18}i{\k47}ru{\k4}
+Dialogue: 0,0:00:23.13,0:00:26.85,ED1,rom,0,0,0,kara,{\k8}{\k26}ka{\k23}na{\k23}shi{\k22}mi {\k45}ni {\k46}oo{\k22}wa{\k23}re{\k22}na{\k22}i {\k26}yo{\k21}u {\k41}ni{\k2}
+Dialogue: 0,0:00:29.30,0:00:32.80,ED1,rom,0,0,0,kara,{\k7}{\k21}wa{\k26}ke {\k21}mo {\k24}wa{\k22}ka{\k33}razu{\k14}{\k20}to{\k24}ki {\k22}wo {\k25}wa{\k21}su{\k23}re{\k42}te{\k5}
+Dialogue: 0,0:00:32.80,0:00:35.47,ED1,rom,0,0,0,kara,{\k21}{\k22}o{\k22}do{\k25}ke{\k21}te {\k23}wa{\k46}rai{\k25}a{\k21}t{\k38}ta{\k3}
+Dialogue: 0,0:00:36.10,0:00:37.14,ED1,rom,0,0,0,kara,{\k2}{\k31}so{\k22}re {\k40}ga{\k9}
+Dialogue: 0,0:00:37.73,0:00:41.54,ED1,rom,0,0,0,kara,{\k6}{\k22}a{\k24}ri{\k21}fu{\k23}re{\k45}ta {\k43}gun{\k49}zou {\k23}da {\k22}to {\k24}shi{\k21}te{\k51}mo{\k7}
+Dialogue: 0,0:00:42.46,0:00:47.55,ED1,rom,0,0,0,kara,{\k1}{\k54}so{\k24}nna {\k21}hi{\k23}bi {\k41}wo{\k9} {\k41}mou {\k44}i{\k47}kkai {\k23}mo{\k21}u {\k46}i{\k45}kkai {\k47}nan{\k20}te{\k2}
+Dialogue: 0,0:00:47.76,0:00:50.79,ED1,rom,0,0,0,kara,{\k2}{\k23}ka{\k22}na{\k24}wa{\k23}na{\k44}i {\k20}tte {\k24}wa{\k23}ka{\k24}t{\k26}te{\k44}ru{\k4}
+Dialogue: 0,0:00:51.19,0:00:54.74,ED1,rom,0,0,0,kara,{\k2}{\k18}ma{\k31}hi{\k17}ru {\k24}no {\k23}so{\k20}ra {\k23}no {\k24}tsu{\k46}ki {\k44}no {\k49}you {\k31}ni{\k3}
+Dialogue: 0,0:00:54.74,0:00:58.09,ED1,rom,0,0,0,kara,{\k1}{\k30}tsu{\k23}yo{\k23}ku {\k24}u{\k22}tsu{\k44}kushi{\k22}ku {\k25}i{\k23}ra{\k23}re{\k22}ta{\k49}ra{\k4}
+Dialogue: 0,0:00:58.47,0:01:02.04,ED1,rom,0,0,0,kara,{\k2}{\k20}a{\k20}no {\k26}hi {\k27}no {\k18}a{\k25}ya{\k43}machi {\k45}mo {\k45}kou{\k48}kai {\k24}mo{\k14}
+Dialogue: 0,0:01:02.04,0:01:05.34,ED1,rom,0,0,0,kara,{\k4}{\k25}ze{\k24}n{\k21}bu {\k26}ki{\k19}re{\k23}i {\k23}ni {\k24}yu{\k22}ru{\k24}se{\k20}ta {\k27}ka{\k45}na{\k3}
+Dialogue: 0,0:01:05.94,0:01:08.75,ED1,rom,0,0,0,kara,{\k3}{\k27}da{\k18}i{\k23}ji {\k20}na {\k25}ko{\k23}to {\k22}wa {\k23}i{\k23}tsu {\k24}da{\k22}t{\k25}te{\k3}
+Dialogue: 0,0:01:08.82,0:01:12.90,ED1,rom,0,0,0,kara,{\k1}{\k31}su{\k26}gi{\k43}sa{\k21}tte {\k25}ka{\k21}ra {\k25}yo{\k16}u{\k28}ya{\k21}ku {\k26}ki {\k19}ga {\k23}tsu{\k24}ku{\k26}n{\k28}da{\k4}
+Dialogue: 0,0:01:12.97,0:01:16.45,ED1,rom,0,0,0,kara,{\k5}{\k15}ma{\k31}hi{\k20}ru {\k24}no {\k24}so{\k22}ra {\k23}no {\k19}tsu{\k48}ki {\k22}ni {\k24}mu{\k46}ka{\k23}tte{\k2}
+Dialogue: 0,0:01:16.64,0:01:21.11,ED1,rom,0,0,0,kara,{\k2}{\k20}te {\k24}wo {\k23}no{\k45}bashi{\k46}ta{\k25}tte {\k20}sa{\k25}wa{\k47}re{\k43}nai {\k22}ke{\k21}re{\k75}do{\k9}
+Dialogue: 0,0:01:21.19,0:01:25.67,ED1,rom,0,0,0,kara,{\k2}{\k21}wa{\k24}su{\k23}re {\k21}wa {\k23}shi{\k39}nai{\k31} {\k21}i{\k22}to{\k44}shii {\k49}hi{\k21}bi {\k102}yo{\k5}
+Dialogue: 0,0:00:14.81,0:00:16.66,ED1,arab,0,0,0,kara,على مقعد النافذة
+Dialogue: 0,0:00:16.66,0:00:20.99,ED1,arab,0,0,0,kara,أبحث عن مكان لحماية مشاعري الرقيقة في الداخل
+Dialogue: 0,0:00:23.13,0:00:26.85,ED1,arab,0,0,0,kara,مُحاولة الهروب من هذا الضجر الكئيب
+Dialogue: 0,0:00:29.30,0:00:32.80,ED1,arab,0,0,0,kara,لقد وضعنا جانبًا الأيام التي لم نكن نعرف فيها شيئًا
+Dialogue: 0,0:00:32.80,0:00:35.47,ED1,arab,0,0,0,kara,وخصصنا بعض الوقت للمزاح والضحك
+Dialogue: 0,0:00:36.10,0:00:37.14,ED1,arab,0,0,0,kara,وشعرنا
+Dialogue: 0,0:00:37.73,0:00:41.54,ED1,arab,0,0,0,kara,أننا كنا الأطفال الطبيعيين الذين كان من المفترض أن نكون
+Dialogue: 0,0:00:42.46,0:00:47.55,ED1,arab,0,0,0,kara,أتمنى أن أعود مرة أخرى لأعيش تلك الذكريات مجدداً
+Dialogue: 0,0:00:47.76,0:00:50.79,ED1,arab,0,0,0,kara,على الرغم من أنني أعرف أنهم لن يعودوا أبدًا
+Dialogue: 0,0:00:51.19,0:00:54.74,ED1,arab,0,0,0,kara,لو كان بإمكاني أن أكون نقياً كضوء القمر في منتصف النهار
+Dialogue: 0,0:00:54.74,0:00:58.09,ED1,arab,0,0,0,kara,بريئاً ونزيهاً مثل وميضه الرقيق
+Dialogue: 0,0:00:58.47,0:01:02.04,ED1,arab,0,0,0,kara,أتساءل عما إذا كان الإخفاقات التي ما زلت أحملها
+Dialogue: 0,0:01:02.04,0:01:05.34,ED1,arab,0,0,0,kara,يمكن أن يغفرها لي من أدين لهم
+Dialogue: 0,0:01:05.94,0:01:08.75,ED1,arab,0,0,0,kara,كل ما هو عزيز علينا من أعماق قلوبنا
+Dialogue: 0,0:01:08.82,0:01:12.90,ED1,arab,0,0,0,kara,يمكن أن يختفي في أي وقت قبل أن نعرف ما الذي فقدناه
+Dialogue: 0,0:01:12.97,0:01:16.45,ED1,arab,0,0,0,kara,أحدّق في القمر في سماء مليئة بضوء النهار
+Dialogue: 0,0:01:16.64,0:01:21.11,ED1,arab,0,0,0,kara,ولكن لا يزال بعيد المنال معلقًا في السماء الزرقاء
+Dialogue: 0,0:01:21.19,0:01:25.67,ED1,arab,0,0,0,kara,لا يمكنني أن أنسى أبداً الوقت الذي قضيناه معك
+Comment: 0,0:01:19.76,0:01:19.77,JohnnyEDSigns,,0,0,0,,{=0}---- Momotalk notifications
+Dialogue: 1,0:01:19.76,0:01:20.27,JohnnyEDSigns,,0,0,0,,{\an4\move(800.59,352.76,798,350)\fscx98.5\fscy98.5\frz0.1\fs15\c&H131002&\alpha&HF9&\blur0.9\t(\fscy100\fscx100\alpha&H99&)}You have 9 unread messages.
+Dialogue: 1,0:01:19.76,0:01:20.27,JohnnyEDSigns,,0,0,0,,{\move(1120.62,352.68,1123.5,350)\fscx94.23\fscy94.23\frz0.1\fs15\c&H131002&\alpha&HF9&\blur0.9\t(\fscy100\fscx100\alpha&H9F&)}Expand
+Dialogue: 1,0:01:20.26,0:01:20.77,JohnnyEDSigns,,0,0,0,,{\an4\move(797.93,352.05,794.5,348)\fscx97.8\fscy97.8\fs15\c&H131002&\alpha&H80&\blur0.82\t(\fscy100\fscx100\alpha&H30&)}You have 11 unread messages.
+Dialogue: 1,0:01:20.26,0:01:20.77,JohnnyEDSigns,,0,0,0,,{\move(1122.3,353,1126,349)\fscx95.23\fscy95.23\fs15\c&H131002&\alpha&H88&\blur0.82\t(\fscy100\fscx100\alpha&H30&)}Expand
+Dialogue: 1,0:01:20.76,0:01:20.81,JohnnyEDSigns,,0,0,0,,{\an7\pos(807.83,316.66)\fscx5.5\fscy5.5\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:20.76,0:01:20.81,JohnnyEDSigns,,0,0,0,,{\an7\pos(818.5,316.33)\fscx5.5\fscy5.5\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:20.76,0:01:20.81,JohnnyEDSigns,,0,0,0,,{\an7\pos(829.5,316.33)\fscx5.5\fscy5.5\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 2,0:01:20.76,0:01:20.81,JohnnyEDSigns,,0,0,0,,{\an4\pos(802,316.5)\frz0.2\fs15\b1\c&H1B1701&\alpha&H48&\blur0.85}Shiroko
+Dialogue: 1,0:01:20.81,0:01:20.85,JohnnyEDSigns,,0,0,0,,{\an7\pos(807.54,316.19)\fscx5.49\fscy5.49\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:20.81,0:01:20.85,JohnnyEDSigns,,0,0,0,,{\an7\pos(818.2,315.86)\fscx5.49\fscy5.49\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:20.81,0:01:20.85,JohnnyEDSigns,,0,0,0,,{\an7\pos(829.18,315.86)\fscx5.49\fscy5.49\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 2,0:01:20.81,0:01:20.85,JohnnyEDSigns,,0,0,0,,{\an4\pos(801.72,316.03)\fscx99.89\fscy99.89\frz0.2\fs15\b1\c&H1B1701&\alpha&H48&\blur0.85}Shiroko
+Dialogue: 1,0:01:20.85,0:01:20.89,JohnnyEDSigns,,0,0,0,,{\an7\pos(807.2,315.9)\fscx5.53\fscy5.53\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:20.85,0:01:20.89,JohnnyEDSigns,,0,0,0,,{\an7\pos(817.93,315.57)\fscx5.53\fscy5.53\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:20.85,0:01:20.89,JohnnyEDSigns,,0,0,0,,{\an7\pos(829,315.57)\fscx5.53\fscy5.53\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 2,0:01:20.85,0:01:20.89,JohnnyEDSigns,,0,0,0,,{\an4\pos(801.33,315.74)\fscx100.63\fscy100.63\frz0.2\fs15\b1\c&H1B1701&\alpha&H48&\blur0.85}Shiroko
+Dialogue: 1,0:01:20.89,0:01:20.93,JohnnyEDSigns,,0,0,0,,{\an7\pos(806.88,315.48)\fscx5.56\fscy5.56\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:20.89,0:01:20.93,JohnnyEDSigns,,0,0,0,,{\an7\pos(817.67,315.15)\fscx5.56\fscy5.56\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:20.89,0:01:20.93,JohnnyEDSigns,,0,0,0,,{\an7\pos(828.79,315.15)\fscx5.56\fscy5.56\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 2,0:01:20.89,0:01:20.93,JohnnyEDSigns,,0,0,0,,{\an4\pos(800.98,315.32)\fscx101.14\fscy101.14\frz0.2\fs15\b1\c&H1B1701&\alpha&H48&\blur0.85}Shiroko
+Dialogue: 1,0:01:20.93,0:01:20.97,JohnnyEDSigns,,0,0,0,,{\an7\pos(806.64,315.05)\fscx5.55\fscy5.55\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:20.93,0:01:20.97,JohnnyEDSigns,,0,0,0,,{\an7\pos(817.41,314.72)\fscx5.55\fscy5.55\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:20.93,0:01:20.97,JohnnyEDSigns,,0,0,0,,{\an7\pos(828.51,314.72)\fscx5.55\fscy5.55\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 2,0:01:20.93,0:01:20.97,JohnnyEDSigns,,0,0,0,,{\an4\pos(800.75,314.89)\fscx100.93\fscy100.93\frz0.2\fs15\b1\c&H1B1701&\alpha&H48&\blur0.85}Shiroko
+Dialogue: 1,0:01:20.97,0:01:21.01,JohnnyEDSigns,,0,0,0,,{\an7\pos(806.41,314.7)\fscx5.53\fscy5.53\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:20.97,0:01:21.01,JohnnyEDSigns,,0,0,0,,{\an7\pos(817.14,314.36)\fscx5.53\fscy5.53\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:20.97,0:01:21.01,JohnnyEDSigns,,0,0,0,,{\an7\pos(828.2,314.36)\fscx5.53\fscy5.53\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 2,0:01:20.97,0:01:21.01,JohnnyEDSigns,,0,0,0,,{\an4\pos(800.55,314.53)\fscx100.57\fscy100.57\frz0.2\fs15\b1\c&H1B1701&\alpha&H48&\blur0.85}Shiroko
+Dialogue: 1,0:01:21.01,0:01:21.06,JohnnyEDSigns,,0,0,0,,{\an7\pos(805.99,314.25)\fscx5.57\fscy5.57\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:21.01,0:01:21.06,JohnnyEDSigns,,0,0,0,,{\an7\pos(816.8,313.91)\fscx5.57\fscy5.57\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:21.01,0:01:21.06,JohnnyEDSigns,,0,0,0,,{\an7\pos(827.94,313.91)\fscx5.57\fscy5.57\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 2,0:01:21.01,0:01:21.06,JohnnyEDSigns,,0,0,0,,{\an4\pos(800.09,314.09)\fscx101.28\fscy101.28\frz0.2\fs15\b1\c&H1B1701&\alpha&H48&\blur0.85}Shiroko
+Dialogue: 1,0:01:21.06,0:01:21.10,JohnnyEDSigns,,0,0,0,,{\an7\pos(805.74,313.9)\fscx5.58\fscy5.58\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:21.06,0:01:21.10,JohnnyEDSigns,,0,0,0,,{\an7\pos(816.57,313.57)\fscx5.58\fscy5.58\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:21.06,0:01:21.10,JohnnyEDSigns,,0,0,0,,{\an7\pos(827.74,313.57)\fscx5.58\fscy5.58\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 2,0:01:21.06,0:01:21.10,JohnnyEDSigns,,0,0,0,,{\an4\pos(799.82,313.74)\fscx101.51\fscy101.51\frz0.2\fs15\b1\c&H1B1701&\alpha&H48&\blur0.85}Shiroko
+Dialogue: 1,0:01:21.10,0:01:21.14,JohnnyEDSigns,,0,0,0,,{\an7\pos(805.43,313.51)\fscx5.58\fscy5.58\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:21.10,0:01:21.14,JohnnyEDSigns,,0,0,0,,{\an7\pos(816.25,313.18)\fscx5.58\fscy5.58\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:21.10,0:01:21.14,JohnnyEDSigns,,0,0,0,,{\an7\pos(827.4,313.18)\fscx5.58\fscy5.58\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 2,0:01:21.10,0:01:21.14,JohnnyEDSigns,,0,0,0,,{\an4\pos(799.52,313.35)\fscx101.39\fscy101.39\frz0.2\fs15\b1\c&H1B1701&\alpha&H48&\blur0.85}Shiroko
+Dialogue: 1,0:01:21.14,0:01:21.18,JohnnyEDSigns,,0,0,0,,{\an7\pos(805.19,313.15)\fscx5.57\fscy5.57\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:21.14,0:01:21.18,JohnnyEDSigns,,0,0,0,,{\an7\pos(815.99,312.81)\fscx5.57\fscy5.57\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:21.14,0:01:21.18,JohnnyEDSigns,,0,0,0,,{\an7\pos(827.12,312.81)\fscx5.57\fscy5.57\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 2,0:01:21.14,0:01:21.18,JohnnyEDSigns,,0,0,0,,{\an4\pos(799.29,312.98)\fscx101.2\fscy101.2\frz0.2\fs15\b1\c&H1B1701&\alpha&H48&\blur0.85}Shiroko
+Dialogue: 1,0:01:21.18,0:01:21.22,JohnnyEDSigns,,0,0,0,,{\an7\pos(804.94,312.68)\fscx5.56\fscy5.56\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:21.18,0:01:21.22,JohnnyEDSigns,,0,0,0,,{\an7\pos(815.72,312.35)\fscx5.56\fscy5.56\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:21.18,0:01:21.22,JohnnyEDSigns,,0,0,0,,{\an7\pos(826.84,312.35)\fscx5.56\fscy5.56\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 2,0:01:21.18,0:01:21.22,JohnnyEDSigns,,0,0,0,,{\an4\pos(799.05,312.52)\fscx101.04\fscy101.04\frz0.2\fs15\b1\c&H1B1701&\alpha&H48&\blur0.85}Shiroko
+Dialogue: 1,0:01:21.22,0:01:21.26,JohnnyEDSigns,,0,0,0,,{\an7\pos(804.67,312.28)\fscx5.56\fscy5.56\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:21.22,0:01:21.26,JohnnyEDSigns,,0,0,0,,{\an7\pos(815.46,311.95)\fscx5.56\fscy5.56\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 1,0:01:21.22,0:01:21.26,JohnnyEDSigns,,0,0,0,,{\an7\pos(826.58,311.95)\fscx5.56\fscy5.56\c&H9E9080&\blur1\p1}m -100 -25 b -100 -92 -92 -100 -25 -100 l 25 -100 b 92 -100 100 -92 100 -25 l 100 25 b 100 92 92 100 25 100 l -25 100 b -92 100 -100 92 -100 25 l -100 -25
+Dialogue: 2,0:01:21.22,0:01:21.26,JohnnyEDSigns,,0,0,0,,{\an4\pos(798.78,312.12)\fscx101.09\fscy101.09\frz0.2\fs15\b1\c&H1B1701&\alpha&H48&\blur0.85}Shiroko
+Dialogue: 1,0:01:20.76,0:01:20.81,JohnnyEDSigns,,0,0,0,,{\an4\pos(804.3,342.5)\frz0.2\fs15\c&H1B1701&\alpha&H48&\blur0.85}You have 1 unread message.
+Dialogue: 1,0:01:20.81,0:01:20.85,JohnnyEDSigns,,0,0,0,,{\an4\pos(803.99,342.14)\fscx100.23\fscy100.23\frz0.2\fs15\c&H1B1701&\alpha&H48&\blur0.85}You have 1 unread message.
+Dialogue: 1,0:01:20.85,0:01:20.89,JohnnyEDSigns,,0,0,0,,{\an4\pos(803.55,341.84)\fscx100.67\fscy100.67\frz0.2\fs15\c&H1B1701&\alpha&H48&\blur0.85}You have 1 unread message.
+Dialogue: 1,0:01:20.89,0:01:20.93,JohnnyEDSigns,,0,0,0,,{\an4\pos(803.16,341.57)\fscx100.92\fscy100.92\frz0.2\fs15\c&H1B1701&\alpha&H48&\blur0.85}You have 1 unread message.
+Dialogue: 1,0:01:20.93,0:01:20.97,JohnnyEDSigns,,0,0,0,,{\an4\pos(802.82,341.13)\fscx101.27\fscy101.27\frz0.2\fs15\c&H1B1701&\alpha&H48&\blur0.85}You have 1 unread message.
+Dialogue: 1,0:01:20.97,0:01:21.01,JohnnyEDSigns,,0,0,0,,{\an4\pos(802.47,340.8)\fscx101.53\fscy101.53\frz0.2\fs15\c&H1B1701&\alpha&H48&\blur0.85}You have 1 unread message.
+Dialogue: 1,0:01:21.01,0:01:21.06,JohnnyEDSigns,,0,0,0,,{\an4\pos(802.19,340.49)\fscx101.72\fscy101.72\frz0.2\fs15\c&H1B1701&\alpha&H48&\blur0.85}You have 1 unread message.
+Dialogue: 1,0:01:21.06,0:01:21.10,JohnnyEDSigns,,0,0,0,,{\an4\pos(801.86,340.13)\fscx101.98\fscy101.98\frz0.2\fs15\c&H1B1701&\alpha&H48&\blur0.85}You have 1 unread message.
+Dialogue: 1,0:01:21.10,0:01:21.14,JohnnyEDSigns,,0,0,0,,{\an4\pos(801.43,339.75)\fscx102.36\fscy102.36\frz0.2\fs15\c&H1B1701&\alpha&H48&\blur0.85}You have 1 unread message.
+Dialogue: 1,0:01:21.14,0:01:21.18,JohnnyEDSigns,,0,0,0,,{\an4\pos(801,339.44)\fscx102.76\fscy102.76\frz0.2\fs15\c&H1B1701&\alpha&H48&\blur0.85}You have 1 unread message.
+Dialogue: 1,0:01:21.18,0:01:21.22,JohnnyEDSigns,,0,0,0,,{\an4\pos(800.6,339.12)\fscx103.13\fscy103.13\frz0.2\fs15\c&H1B1701&\alpha&H48&\blur0.85}You have 1 unread message.
+Dialogue: 1,0:01:21.22,0:01:21.26,JohnnyEDSigns,,0,0,0,,{\an4\pos(800.25,338.81)\fscx103.38\fscy103.38\frz0.2\fs15\c&H1B1701&\alpha&H48&\blur0.85}You have 1 unread message.
+Dialogue: 1,0:01:20.76,0:01:20.81,JohnnyEDSigns,,0,0,0,,{\pos(1146,343)\frz0.2\fs15\c&H1B1701&\alpha&H50&\blur0.85}View
+Dialogue: 1,0:01:20.81,0:01:20.85,JohnnyEDSigns,,0,0,0,,{\pos(1146.5,342.43)\fscx98.88\fscy98.88\frz0.2\fs15\c&H1B1701&\alpha&H50&\blur0.85}View
+Dialogue: 1,0:01:20.85,0:01:20.89,JohnnyEDSigns,,0,0,0,,{\pos(1146.7,342.12)\fscx99.28\fscy99.28\frz0.2\fs15\c&H1B1701&\alpha&H50&\blur0.85}View
+Dialogue: 1,0:01:20.89,0:01:20.93,JohnnyEDSigns,,0,0,0,,{\pos(1147.25,341.5)\fscx97.26\fscy97.26\frz0.2\fs15\c&H1B1701&\alpha&H50&\blur0.85}View
+Dialogue: 1,0:01:20.93,0:01:20.97,JohnnyEDSigns,,0,0,0,,{\pos(1147.63,341.07)\fscx97.34\fscy97.34\frz0.2\fs15\c&H1B1701&\alpha&H50&\blur0.85}View
+Dialogue: 1,0:01:20.97,0:01:21.01,JohnnyEDSigns,,0,0,0,,{\pos(1147.97,340.71)\fscx97.64\fscy97.64\frz0.2\fs15\c&H1B1701&\alpha&H50&\blur0.85}View
+Dialogue: 1,0:01:21.01,0:01:21.06,JohnnyEDSigns,,0,0,0,,{\pos(1148.46,340.22)\fscx96.43\fscy96.43\frz0.2\fs15\c&H1B1701&\alpha&H50&\blur0.85}View
+Dialogue: 1,0:01:21.06,0:01:21.10,JohnnyEDSigns,,0,0,0,,{\pos(1148.58,340.08)\fscx98.31\fscy98.31\frz0.2\fs15\c&H1B1701&\alpha&H50&\blur0.85}View
+Dialogue: 1,0:01:21.10,0:01:21.14,JohnnyEDSigns,,0,0,0,,{\pos(1149.04,339.77)\fscx99.03\fscy99.03\frz0.2\fs15\c&H1B1701&\alpha&H50&\blur0.85}View
+Dialogue: 1,0:01:21.14,0:01:21.18,JohnnyEDSigns,,0,0,0,,{\pos(1149.21,339.38)\fscx100.03\fscy100.03\frz0.2\fs15\c&H1B1701&\alpha&H50&\blur0.85}View
+Dialogue: 1,0:01:21.18,0:01:21.22,JohnnyEDSigns,,0,0,0,,{\pos(1149.84,338.92)\fscx98.06\fscy98.06\frz0.2\fs15\c&H1B1701&\alpha&H50&\blur0.85}View
+Dialogue: 1,0:01:21.22,0:01:21.26,JohnnyEDSigns,,0,0,0,,{\pos(1150.12,338.46)\fscx98.96\fscy98.96\frz0.2\fs15\c&H1B1701&\alpha&H50&\blur0.85}View
+Dialogue: 1,0:01:21.26,0:01:21.31,JohnnyEDSigns,,0,0,0,,{\an4\pos(792.2,344)\frz0.2\fs15\c&H1B0D01&\alpha&HF0&\blur3}You have 2 unread messages.
+Dialogue: 2,0:01:21.26,0:01:21.31,JohnnyEDSigns,,0,0,0,,{\an4\pos(792.2,344)\frz0.2\fs15\c&H1B0D01&\alpha&H30&\blur0.82}You have 2 unread messages.
+Dialogue: 1,0:01:21.31,0:01:21.35,JohnnyEDSigns,,0,0,0,,{\an4\pos(791.93,343.6)\fscx100.15\fscy100.15\frz0.2\fs15\c&H1B0D01&\alpha&HF0&\blur3}You have 2 unread messages.
+Dialogue: 2,0:01:21.31,0:01:21.35,JohnnyEDSigns,,0,0,0,,{\an4\pos(791.93,343.6)\fscx100.15\fscy100.15\frz0.2\fs15\c&H1B0D01&\alpha&H30&\blur0.82}You have 2 unread messages.
+Dialogue: 1,0:01:21.35,0:01:21.39,JohnnyEDSigns,,0,0,0,,{\an4\pos(791.62,343.26)\fscx100.34\fscy100.34\frz0.2\fs15\c&H1B0D01&\alpha&HF0&\blur3}You have 2 unread messages.
+Dialogue: 2,0:01:21.35,0:01:21.39,JohnnyEDSigns,,0,0,0,,{\an4\pos(791.62,343.26)\fscx100.34\fscy100.34\frz0.2\fs15\c&H1B0D01&\alpha&H30&\blur0.82}You have 2 unread messages.
+Dialogue: 1,0:01:21.39,0:01:21.43,JohnnyEDSigns,,0,0,0,,{\an4\pos(791.3,342.97)\fscx100.53\fscy100.53\frz0.2\fs15\c&H1B0D01&\alpha&HF0&\blur3}You have 2 unread messages.
+Dialogue: 2,0:01:21.39,0:01:21.43,JohnnyEDSigns,,0,0,0,,{\an4\pos(791.3,342.97)\fscx100.53\fscy100.53\frz0.2\fs15\c&H1B0D01&\alpha&H30&\blur0.82}You have 2 unread messages.
+Dialogue: 1,0:01:21.43,0:01:21.47,JohnnyEDSigns,,0,0,0,,{\an4\pos(791.02,342.54)\fscx100.7\fscy100.7\frz0.2\fs15\c&H1B0D01&\alpha&HF0&\blur3}You have 2 unread messages.
+Dialogue: 2,0:01:21.43,0:01:21.47,JohnnyEDSigns,,0,0,0,,{\an4\pos(791.02,342.54)\fscx100.7\fscy100.7\frz0.2\fs15\c&H1B0D01&\alpha&H30&\blur0.82}You have 2 unread messages.
+Dialogue: 1,0:01:21.47,0:01:21.51,JohnnyEDSigns,,0,0,0,,{\an4\pos(790.75,342.23)\fscx100.85\fscy100.85\frz0.2\fs15\c&H1B0D01&\alpha&HF0&\blur3}You have 2 unread messages.
+Dialogue: 2,0:01:21.47,0:01:21.51,JohnnyEDSigns,,0,0,0,,{\an4\pos(790.75,342.23)\fscx100.85\fscy100.85\frz0.2\fs15\c&H1B0D01&\alpha&H30&\blur0.82}You have 2 unread messages.
+Dialogue: 1,0:01:21.51,0:01:21.56,JohnnyEDSigns,,0,0,0,,{\an4\pos(790.29,341.85)\fscx101.15\fscy101.15\frz0.2\fs15\c&H1B0D01&\alpha&HF0&\blur3}You have 2 unread messages.
+Dialogue: 2,0:01:21.51,0:01:21.56,JohnnyEDSigns,,0,0,0,,{\an4\pos(790.29,341.85)\fscx101.15\fscy101.15\frz0.2\fs15\c&H1B0D01&\alpha&H30&\blur0.82}You have 2 unread messages.
+Dialogue: 1,0:01:21.56,0:01:21.60,JohnnyEDSigns,,0,0,0,,{\an4\pos(789.96,341.52)\fscx101.4\fscy101.4\frz0.2\fs15\c&H1B0D01&\alpha&HF0&\blur3}You have 2 unread messages.
+Dialogue: 2,0:01:21.56,0:01:21.60,JohnnyEDSigns,,0,0,0,,{\an4\pos(789.96,341.52)\fscx101.4\fscy101.4\frz0.2\fs15\c&H1B0D01&\alpha&H30&\blur0.82}You have 2 unread messages.
+Dialogue: 1,0:01:21.60,0:01:21.64,JohnnyEDSigns,,0,0,0,,{\an4\pos(789.65,341.15)\fscx101.58\fscy101.58\frz0.2\fs15\c&H1B0D01&\alpha&HF0&\blur3}You have 2 unread messages.
+Dialogue: 2,0:01:21.60,0:01:21.64,JohnnyEDSigns,,0,0,0,,{\an4\pos(789.65,341.15)\fscx101.58\fscy101.58\frz0.2\fs15\c&H1B0D01&\alpha&H30&\blur0.82}You have 2 unread messages.
+Dialogue: 1,0:01:21.64,0:01:21.68,JohnnyEDSigns,,0,0,0,,{\an4\pos(789.25,340.84)\fscx101.84\fscy101.84\frz0.2\fs15\c&H1B0D01&\alpha&HF0&\blur3}You have 2 unread messages.
+Dialogue: 2,0:01:21.64,0:01:21.68,JohnnyEDSigns,,0,0,0,,{\an4\pos(789.25,340.84)\fscx101.84\fscy101.84\frz0.2\fs15\c&H1B0D01&\alpha&H30&\blur0.82}You have 2 unread messages.
+Dialogue: 1,0:01:21.68,0:01:21.72,JohnnyEDSigns,,0,0,0,,{\an4\pos(788.97,340.46)\fscx102.02\fscy102.02\frz0.2\fs15\c&H1B0D01&\alpha&HF0&\blur3}You have 2 unread messages.
+Dialogue: 2,0:01:21.68,0:01:21.72,JohnnyEDSigns,,0,0,0,,{\an4\pos(788.97,340.46)\fscx102.02\fscy102.02\frz0.2\fs15\c&H1B0D01&\alpha&H30&\blur0.82}You have 2 unread messages.
+Dialogue: 1,0:01:21.72,0:01:21.76,JohnnyEDSigns,,0,0,0,,{\an4\pos(788.64,340.1)\fscx102.26\fscy102.26\frz0.2\fs15\c&H1B0D01&\alpha&HF0&\blur3}You have 2 unread messages.
+Dialogue: 2,0:01:21.72,0:01:21.76,JohnnyEDSigns,,0,0,0,,{\an4\pos(788.64,340.1)\fscx102.26\fscy102.26\frz0.2\fs15\c&H1B0D01&\alpha&H30&\blur0.82}You have 2 unread messages.
+Dialogue: 1,0:01:21.26,0:01:21.31,JohnnyEDSigns,,0,0,0,,{\pos(1132.7,343.5)\fs15\c&H1B0D01&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.26,0:01:21.31,JohnnyEDSigns,,0,0,0,,{\pos(1132.7,343.5)\fs15\c&H1B0D01&\alpha&H30&\blur0.82}Expand
+Dialogue: 1,0:01:21.31,0:01:21.35,JohnnyEDSigns,,0,0,0,,{\pos(1132.98,343.18)\fscx100.54\fscy100.54\fs15\c&H1B0D01&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.31,0:01:21.35,JohnnyEDSigns,,0,0,0,,{\pos(1132.98,343.18)\fscx100.54\fscy100.54\fs15\c&H1B0D01&\alpha&H30&\blur0.82}Expand
+Dialogue: 1,0:01:21.35,0:01:21.39,JohnnyEDSigns,,0,0,0,,{\pos(1133.29,342.81)\fscx100.5\fscy100.5\fs15\c&H1B0D01&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.35,0:01:21.39,JohnnyEDSigns,,0,0,0,,{\pos(1133.29,342.81)\fscx100.5\fscy100.5\fs15\c&H1B0D01&\alpha&H30&\blur0.82}Expand
+Dialogue: 1,0:01:21.39,0:01:21.43,JohnnyEDSigns,,0,0,0,,{\pos(1133.65,342.52)\fscx100.6\fscy100.6\fs15\c&H1B0D01&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.39,0:01:21.43,JohnnyEDSigns,,0,0,0,,{\pos(1133.65,342.52)\fscx100.6\fscy100.6\fs15\c&H1B0D01&\alpha&H30&\blur0.82}Expand
+Dialogue: 1,0:01:21.43,0:01:21.47,JohnnyEDSigns,,0,0,0,,{\pos(1133.92,341.97)\fscx99.96\fscy99.96\fs15\c&H1B0D01&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.43,0:01:21.47,JohnnyEDSigns,,0,0,0,,{\pos(1133.92,341.97)\fscx99.96\fscy99.96\fs15\c&H1B0D01&\alpha&H30&\blur0.82}Expand
+Dialogue: 1,0:01:21.47,0:01:21.51,JohnnyEDSigns,,0,0,0,,{\pos(1134.25,341.65)\fscx100.71\fscy100.71\fs15\c&H1B0D01&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.47,0:01:21.51,JohnnyEDSigns,,0,0,0,,{\pos(1134.25,341.65)\fscx100.71\fscy100.71\fs15\c&H1B0D01&\alpha&H30&\blur0.82}Expand
+Dialogue: 1,0:01:21.51,0:01:21.56,JohnnyEDSigns,,0,0,0,,{\pos(1134.55,341.31)\fscx100.85\fscy100.85\fs15\c&H1B0D01&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.51,0:01:21.56,JohnnyEDSigns,,0,0,0,,{\pos(1134.55,341.31)\fscx100.85\fscy100.85\fs15\c&H1B0D01&\alpha&H30&\blur0.82}Expand
+Dialogue: 1,0:01:21.56,0:01:21.60,JohnnyEDSigns,,0,0,0,,{\pos(1134.91,341.04)\fscx101.16\fscy101.16\fs15\c&H1B0D01&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.56,0:01:21.60,JohnnyEDSigns,,0,0,0,,{\pos(1134.91,341.04)\fscx101.16\fscy101.16\fs15\c&H1B0D01&\alpha&H30&\blur0.82}Expand
+Dialogue: 1,0:01:21.60,0:01:21.64,JohnnyEDSigns,,0,0,0,,{\pos(1135.23,340.67)\fscx101.69\fscy101.69\fs15\c&H1B0D01&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.60,0:01:21.64,JohnnyEDSigns,,0,0,0,,{\pos(1135.23,340.67)\fscx101.69\fscy101.69\fs15\c&H1B0D01&\alpha&H30&\blur0.82}Expand
+Dialogue: 1,0:01:21.64,0:01:21.68,JohnnyEDSigns,,0,0,0,,{\pos(1135.58,340.44)\fscx102.38\fscy102.38\fs15\c&H1B0D01&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.64,0:01:21.68,JohnnyEDSigns,,0,0,0,,{\pos(1135.58,340.44)\fscx102.38\fscy102.38\fs15\c&H1B0D01&\alpha&H30&\blur0.82}Expand
+Dialogue: 1,0:01:21.68,0:01:21.72,JohnnyEDSigns,,0,0,0,,{\pos(1135.91,340.13)\fscx103.22\fscy103.22\fs15\c&H1B0D01&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.68,0:01:21.72,JohnnyEDSigns,,0,0,0,,{\pos(1135.91,340.13)\fscx103.22\fscy103.22\fs15\c&H1B0D01&\alpha&H30&\blur0.82}Expand
+Dialogue: 1,0:01:21.72,0:01:21.76,JohnnyEDSigns,,0,0,0,,{\pos(1136.2,339.8)\fscx103.46\fscy103.46\fs15\c&H1B0D01&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.72,0:01:21.76,JohnnyEDSigns,,0,0,0,,{\pos(1136.2,339.8)\fscx103.46\fscy103.46\fs15\c&H1B0D01&\alpha&H30&\blur0.82}Expand
+Dialogue: 1,0:01:21.76,0:01:21.81,JohnnyEDSigns,,0,0,0,,{\an4\pos(783,332)\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}You have 15 unread messages.
+Dialogue: 2,0:01:21.76,0:01:21.81,JohnnyEDSigns,,0,0,0,,{\an4\pos(784,333)\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}You have 15 unread messages.
+Dialogue: 1,0:01:21.81,0:01:21.85,JohnnyEDSigns,,0,0,0,,{\an4\pos(782.75,331.57)\fscx100.1\fscy100.1\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}You have 15 unread messages.
+Dialogue: 2,0:01:21.81,0:01:21.85,JohnnyEDSigns,,0,0,0,,{\an4\pos(783.75,332.57)\fscx100.1\fscy100.1\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}You have 15 unread messages.
+Dialogue: 1,0:01:21.85,0:01:21.89,JohnnyEDSigns,,0,0,0,,{\an4\pos(782.3,331.25)\fscx100.41\fscy100.41\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}You have 15 unread messages.
+Dialogue: 2,0:01:21.85,0:01:21.89,JohnnyEDSigns,,0,0,0,,{\an4\pos(783.3,332.26)\fscx100.41\fscy100.41\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}You have 15 unread messages.
+Dialogue: 1,0:01:21.89,0:01:21.93,JohnnyEDSigns,,0,0,0,,{\an4\pos(781.94,330.83)\fscx100.62\fscy100.62\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}You have 15 unread messages.
+Dialogue: 2,0:01:21.89,0:01:21.93,JohnnyEDSigns,,0,0,0,,{\an4\pos(782.95,331.83)\fscx100.62\fscy100.62\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}You have 15 unread messages.
+Dialogue: 1,0:01:21.93,0:01:21.97,JohnnyEDSigns,,0,0,0,,{\an4\pos(781.56,330.52)\fscx100.87\fscy100.87\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}You have 15 unread messages.
+Dialogue: 2,0:01:21.93,0:01:21.97,JohnnyEDSigns,,0,0,0,,{\an4\pos(782.56,331.53)\fscx100.87\fscy100.87\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}You have 15 unread messages.
+Dialogue: 1,0:01:21.97,0:01:22.01,JohnnyEDSigns,,0,0,0,,{\an4\pos(781.25,330.09)\fscx101.03\fscy101.03\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}You have 15 unread messages.
+Dialogue: 2,0:01:21.97,0:01:22.01,JohnnyEDSigns,,0,0,0,,{\an4\pos(782.26,331.1)\fscx101.03\fscy101.03\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}You have 15 unread messages.
+Dialogue: 1,0:01:22.01,0:01:22.06,JohnnyEDSigns,,0,0,0,,{\an4\pos(780.8,329.75)\fscx101.33\fscy101.33\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}You have 15 unread messages.
+Dialogue: 2,0:01:22.01,0:01:22.06,JohnnyEDSigns,,0,0,0,,{\an4\pos(781.81,330.76)\fscx101.33\fscy101.33\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}You have 15 unread messages.
+Dialogue: 1,0:01:22.06,0:01:22.10,JohnnyEDSigns,,0,0,0,,{\an4\pos(780.32,329.4)\fscx101.67\fscy101.67\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}You have 15 unread messages.
+Dialogue: 2,0:01:22.06,0:01:22.10,JohnnyEDSigns,,0,0,0,,{\an4\pos(781.33,330.42)\fscx101.67\fscy101.67\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}You have 15 unread messages.
+Dialogue: 1,0:01:22.10,0:01:22.14,JohnnyEDSigns,,0,0,0,,{\an4\pos(780.08,328.98)\fscx101.77\fscy101.77\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}You have 15 unread messages.
+Dialogue: 2,0:01:22.10,0:01:22.14,JohnnyEDSigns,,0,0,0,,{\an4\pos(781.1,329.99)\fscx101.77\fscy101.77\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}You have 15 unread messages.
+Dialogue: 1,0:01:22.14,0:01:22.18,JohnnyEDSigns,,0,0,0,,{\an4\pos(779.73,328.6)\fscx101.95\fscy101.95\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}You have 15 unread messages.
+Dialogue: 2,0:01:22.14,0:01:22.18,JohnnyEDSigns,,0,0,0,,{\an4\pos(780.75,329.62)\fscx101.95\fscy101.95\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}You have 15 unread messages.
+Dialogue: 1,0:01:22.18,0:01:22.22,JohnnyEDSigns,,0,0,0,,{\an4\pos(779.33,328.23)\fscx102.23\fscy102.23\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}You have 15 unread messages.
+Dialogue: 2,0:01:22.18,0:01:22.22,JohnnyEDSigns,,0,0,0,,{\an4\pos(780.35,329.25)\fscx102.23\fscy102.23\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}You have 15 unread messages.
+Dialogue: 1,0:01:22.22,0:01:22.27,JohnnyEDSigns,,0,0,0,,{\an4\pos(778.97,327.82)\fscx102.43\fscy102.43\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}You have 15 unread messages.
+Dialogue: 2,0:01:22.22,0:01:22.27,JohnnyEDSigns,,0,0,0,,{\an4\pos(780,328.84)\fscx102.43\fscy102.43\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}You have 15 unread messages.
+Dialogue: 1,0:01:21.76,0:01:21.81,JohnnyEDSigns,,0,0,0,,{\pos(1131,332)\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.76,0:01:21.81,JohnnyEDSigns,,0,0,0,,{\pos(1132,333)\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}Expand
+Dialogue: 1,0:01:21.81,0:01:21.85,JohnnyEDSigns,,0,0,0,,{\pos(1131.26,331.57)\fscx100.1\fscy100.1\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.81,0:01:21.85,JohnnyEDSigns,,0,0,0,,{\pos(1132.26,332.57)\fscx100.1\fscy100.1\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}Expand
+Dialogue: 1,0:01:21.85,0:01:21.89,JohnnyEDSigns,,0,0,0,,{\pos(1131.58,331.25)\fscx100.55\fscy100.55\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.85,0:01:21.89,JohnnyEDSigns,,0,0,0,,{\pos(1132.59,332.25)\fscx100.55\fscy100.55\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}Expand
+Dialogue: 1,0:01:21.89,0:01:21.93,JohnnyEDSigns,,0,0,0,,{\pos(1131.95,330.71)\fscx100.31\fscy100.31\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.89,0:01:21.93,JohnnyEDSigns,,0,0,0,,{\pos(1132.95,331.71)\fscx100.31\fscy100.31\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}Expand
+Dialogue: 1,0:01:21.93,0:01:21.97,JohnnyEDSigns,,0,0,0,,{\pos(1132.22,330.41)\fscx100.7\fscy100.7\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.93,0:01:21.97,JohnnyEDSigns,,0,0,0,,{\pos(1133.23,331.42)\fscx100.7\fscy100.7\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}Expand
+Dialogue: 1,0:01:21.97,0:01:22.01,JohnnyEDSigns,,0,0,0,,{\pos(1132.57,329.99)\fscx101.1\fscy101.1\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:21.97,0:01:22.01,JohnnyEDSigns,,0,0,0,,{\pos(1133.58,331)\fscx101.1\fscy101.1\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}Expand
+Dialogue: 1,0:01:22.01,0:01:22.06,JohnnyEDSigns,,0,0,0,,{\pos(1132.93,329.67)\fscx101.66\fscy101.66\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:22.01,0:01:22.06,JohnnyEDSigns,,0,0,0,,{\pos(1133.95,330.68)\fscx101.66\fscy101.66\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}Expand
+Dialogue: 1,0:01:22.06,0:01:22.10,JohnnyEDSigns,,0,0,0,,{\pos(1133.23,329.28)\fscx101.82\fscy101.82\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:22.06,0:01:22.10,JohnnyEDSigns,,0,0,0,,{\pos(1134.25,330.3)\fscx101.82\fscy101.82\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}Expand
+Dialogue: 1,0:01:22.10,0:01:22.14,JohnnyEDSigns,,0,0,0,,{\pos(1133.51,328.84)\fscx102\fscy102\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:22.10,0:01:22.14,JohnnyEDSigns,,0,0,0,,{\pos(1134.53,329.86)\fscx102\fscy102\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}Expand
+Dialogue: 1,0:01:22.14,0:01:22.18,JohnnyEDSigns,,0,0,0,,{\pos(1133.88,328.51)\fscx102.14\fscy102.14\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:22.14,0:01:22.18,JohnnyEDSigns,,0,0,0,,{\pos(1134.9,329.54)\fscx102.14\fscy102.14\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}Expand
+Dialogue: 1,0:01:22.18,0:01:22.22,JohnnyEDSigns,,0,0,0,,{\pos(1134.24,328.09)\fscx102.48\fscy102.48\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:22.18,0:01:22.22,JohnnyEDSigns,,0,0,0,,{\pos(1135.26,329.12)\fscx102.48\fscy102.48\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}Expand
+Dialogue: 1,0:01:22.22,0:01:22.27,JohnnyEDSigns,,0,0,0,,{\pos(1134.48,327.62)\fscx102.55\fscy102.55\frz0.1\fs15\c&H74C505&\alpha&HF0&\blur3}Expand
+Dialogue: 2,0:01:22.22,0:01:22.27,JohnnyEDSigns,,0,0,0,,{\pos(1135.51,328.65)\fscx102.55\fscy102.55\frz0.1\fs15\c&H1D2001&\alpha&H30&\blur0.85}Expand
+Dialogue: 1,0:01:22.27,0:01:22.31,JohnnyEDSigns,,0,0,0,,{\an4\pos(782.2,331)\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.27,0:01:22.31,JohnnyEDSigns,,0,0,0,,{\an4\pos(783.2,332)\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.31,0:01:22.35,JohnnyEDSigns,,0,0,0,,{\an4\pos(781.66,330.67)\fscx100.4\fscy100.4\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.31,0:01:22.35,JohnnyEDSigns,,0,0,0,,{\an4\pos(782.67,331.67)\fscx100.4\fscy100.4\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.35,0:01:22.39,JohnnyEDSigns,,0,0,0,,{\an4\pos(781.33,330.28)\fscx100.58\fscy100.58\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.35,0:01:22.39,JohnnyEDSigns,,0,0,0,,{\an4\pos(782.34,331.29)\fscx100.58\fscy100.58\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.39,0:01:22.43,JohnnyEDSigns,,0,0,0,,{\an4\pos(780.98,329.89)\fscx100.79\fscy100.79\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.39,0:01:22.43,JohnnyEDSigns,,0,0,0,,{\an4\pos(781.99,330.89)\fscx100.79\fscy100.79\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.43,0:01:22.47,JohnnyEDSigns,,0,0,0,,{\an4\pos(780.55,329.53)\fscx101.09\fscy101.09\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.43,0:01:22.47,JohnnyEDSigns,,0,0,0,,{\an4\pos(781.56,330.54)\fscx101.09\fscy101.09\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.47,0:01:22.52,JohnnyEDSigns,,0,0,0,,{\an4\pos(780.2,329.12)\fscx101.28\fscy101.28\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.47,0:01:22.52,JohnnyEDSigns,,0,0,0,,{\an4\pos(781.21,330.14)\fscx101.28\fscy101.28\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.52,0:01:22.56,JohnnyEDSigns,,0,0,0,,{\an4\pos(779.74,328.77)\fscx101.6\fscy101.6\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.52,0:01:22.56,JohnnyEDSigns,,0,0,0,,{\an4\pos(780.76,329.79)\fscx101.6\fscy101.6\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.56,0:01:22.60,JohnnyEDSigns,,0,0,0,,{\an4\pos(779.32,328.39)\fscx101.86\fscy101.86\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.56,0:01:22.60,JohnnyEDSigns,,0,0,0,,{\an4\pos(780.34,329.41)\fscx101.86\fscy101.86\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.60,0:01:22.64,JohnnyEDSigns,,0,0,0,,{\an4\pos(779,328)\fscx102.03\fscy102.03\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.60,0:01:22.64,JohnnyEDSigns,,0,0,0,,{\an4\pos(780.02,329.02)\fscx102.03\fscy102.03\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.64,0:01:22.68,JohnnyEDSigns,,0,0,0,,{\an4\pos(778.6,327.63)\fscx102.29\fscy102.29\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.64,0:01:22.68,JohnnyEDSigns,,0,0,0,,{\an4\pos(779.62,328.65)\fscx102.29\fscy102.29\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.68,0:01:22.72,JohnnyEDSigns,,0,0,0,,{\an4\pos(778.22,327.24)\fscx102.51\fscy102.51\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.68,0:01:22.72,JohnnyEDSigns,,0,0,0,,{\an4\pos(779.25,328.27)\fscx102.51\fscy102.51\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.72,0:01:22.77,JohnnyEDSigns,,0,0,0,,{\an4\pos(777.87,326.82)\fscx102.71\fscy102.71\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.72,0:01:22.77,JohnnyEDSigns,,0,0,0,,{\an4\pos(778.89,327.85)\fscx102.71\fscy102.71\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.77,0:01:22.81,JohnnyEDSigns,,0,0,0,,{\an4\pos(777.37,326.42)\fscx103.09\fscy103.09\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.77,0:01:22.81,JohnnyEDSigns,,0,0,0,,{\an4\pos(778.4,327.45)\fscx103.09\fscy103.09\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.81,0:01:22.85,JohnnyEDSigns,,0,0,0,,{\an4\pos(776.99,326.06)\fscx103.32\fscy103.32\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.81,0:01:22.85,JohnnyEDSigns,,0,0,0,,{\an4\pos(778.03,327.1)\fscx103.32\fscy103.32\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.85,0:01:22.89,JohnnyEDSigns,,0,0,0,,{\an4\pos(776.53,325.69)\fscx103.64\fscy103.64\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.85,0:01:22.89,JohnnyEDSigns,,0,0,0,,{\an4\pos(777.57,326.73)\fscx103.64\fscy103.64\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.89,0:01:22.93,JohnnyEDSigns,,0,0,0,,{\an4\pos(776.08,325.29)\fscx103.98\fscy103.98\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.89,0:01:22.93,JohnnyEDSigns,,0,0,0,,{\an4\pos(777.12,326.33)\fscx103.98\fscy103.98\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.93,0:01:22.97,JohnnyEDSigns,,0,0,0,,{\an4\pos(775.5,324.74)\fscx104.34\fscy104.34\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.93,0:01:22.97,JohnnyEDSigns,,0,0,0,,{\an4\pos(776.55,325.79)\fscx104.34\fscy104.34\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.97,0:01:23.02,JohnnyEDSigns,,0,0,0,,{\an4\pos(775.28,324.49)\fscx104.53\fscy104.53\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:22.97,0:01:23.02,JohnnyEDSigns,,0,0,0,,{\an4\pos(776.33,325.54)\fscx104.53\fscy104.53\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:23.02,0:01:23.06,JohnnyEDSigns,,0,0,0,,{\an4\pos(775.13,324.21)\fscx104.62\fscy104.62\frz0.2\fs15\c&H010D1C&\alpha&HEF&\blur3}You have 5 unread messages.
+Dialogue: 2,0:01:23.02,0:01:23.06,JohnnyEDSigns,,0,0,0,,{\an4\pos(776.18,325.26)\fscx104.62\fscy104.62\frz0.2\fs15\c&H010D1C&\alpha&H40&\blur0.85}You have 5 unread messages.
+Dialogue: 1,0:01:22.27,0:01:22.31,JohnnyEDSigns,,0,0,0,,{\pos(1139.7,330)\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.27,0:01:22.31,JohnnyEDSigns,,0,0,0,,{\pos(1140.7,331)\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.31,0:01:22.35,JohnnyEDSigns,,0,0,0,,{\pos(1140.07,329.58)\fscx100.13\fscy100.13\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.31,0:01:22.35,JohnnyEDSigns,,0,0,0,,{\pos(1141.07,330.58)\fscx100.13\fscy100.13\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.35,0:01:22.39,JohnnyEDSigns,,0,0,0,,{\pos(1140.43,329.18)\fscx100.54\fscy100.54\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.35,0:01:22.39,JohnnyEDSigns,,0,0,0,,{\pos(1141.43,330.18)\fscx100.54\fscy100.54\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.39,0:01:22.43,JohnnyEDSigns,,0,0,0,,{\pos(1140.74,328.95)\fscx101.3\fscy101.3\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.39,0:01:22.43,JohnnyEDSigns,,0,0,0,,{\pos(1141.75,329.96)\fscx101.3\fscy101.3\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.43,0:01:22.47,JohnnyEDSigns,,0,0,0,,{\pos(1141.15,328.44)\fscx101.2\fscy101.2\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.43,0:01:22.47,JohnnyEDSigns,,0,0,0,,{\pos(1142.16,329.45)\fscx101.2\fscy101.2\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.47,0:01:22.52,JohnnyEDSigns,,0,0,0,,{\pos(1141.45,328.08)\fscx101.97\fscy101.97\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.47,0:01:22.52,JohnnyEDSigns,,0,0,0,,{\pos(1142.47,329.1)\fscx101.97\fscy101.97\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.52,0:01:22.56,JohnnyEDSigns,,0,0,0,,{\pos(1141.85,327.62)\fscx101.6\fscy101.6\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.52,0:01:22.56,JohnnyEDSigns,,0,0,0,,{\pos(1142.86,328.63)\fscx101.6\fscy101.6\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.56,0:01:22.60,JohnnyEDSigns,,0,0,0,,{\pos(1142.24,327.23)\fscx101.61\fscy101.61\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.56,0:01:22.60,JohnnyEDSigns,,0,0,0,,{\pos(1143.25,328.25)\fscx101.61\fscy101.61\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.60,0:01:22.64,JohnnyEDSigns,,0,0,0,,{\pos(1142.61,326.8)\fscx101.63\fscy101.63\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.60,0:01:22.64,JohnnyEDSigns,,0,0,0,,{\pos(1143.62,327.81)\fscx101.63\fscy101.63\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.64,0:01:22.68,JohnnyEDSigns,,0,0,0,,{\pos(1142.98,326.36)\fscx101.83\fscy101.83\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.64,0:01:22.68,JohnnyEDSigns,,0,0,0,,{\pos(1143.99,327.37)\fscx101.83\fscy101.83\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.68,0:01:22.72,JohnnyEDSigns,,0,0,0,,{\pos(1143.32,325.97)\fscx102.05\fscy102.05\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.68,0:01:22.72,JohnnyEDSigns,,0,0,0,,{\pos(1144.34,326.99)\fscx102.05\fscy102.05\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.72,0:01:22.77,JohnnyEDSigns,,0,0,0,,{\pos(1143.76,325.54)\fscx101.87\fscy101.87\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.72,0:01:22.77,JohnnyEDSigns,,0,0,0,,{\pos(1144.77,326.56)\fscx101.87\fscy101.87\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.77,0:01:22.81,JohnnyEDSigns,,0,0,0,,{\pos(1144.04,325.07)\fscx101.94\fscy101.94\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.77,0:01:22.81,JohnnyEDSigns,,0,0,0,,{\pos(1145.06,326.09)\fscx101.94\fscy101.94\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.81,0:01:22.85,JohnnyEDSigns,,0,0,0,,{\pos(1144.45,324.72)\fscx102.14\fscy102.14\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.81,0:01:22.85,JohnnyEDSigns,,0,0,0,,{\pos(1145.47,325.74)\fscx102.14\fscy102.14\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.85,0:01:22.89,JohnnyEDSigns,,0,0,0,,{\pos(1144.86,324.24)\fscx102.23\fscy102.23\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.85,0:01:22.89,JohnnyEDSigns,,0,0,0,,{\pos(1145.88,325.27)\fscx102.23\fscy102.23\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.89,0:01:22.93,JohnnyEDSigns,,0,0,0,,{\pos(1145.19,323.93)\fscx102.94\fscy102.94\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.89,0:01:22.93,JohnnyEDSigns,,0,0,0,,{\pos(1146.22,324.96)\fscx102.94\fscy102.94\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.93,0:01:22.97,JohnnyEDSigns,,0,0,0,,{\pos(1145.73,323.3)\fscx103.23\fscy103.23\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.93,0:01:22.97,JohnnyEDSigns,,0,0,0,,{\pos(1146.77,324.34)\fscx103.23\fscy103.23\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:22.97,0:01:23.02,JohnnyEDSigns,,0,0,0,,{\pos(1145.98,323)\fscx103.07\fscy103.07\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:22.97,0:01:23.02,JohnnyEDSigns,,0,0,0,,{\pos(1147.01,324.03)\fscx103.07\fscy103.07\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 1,0:01:23.02,0:01:23.06,JohnnyEDSigns,,0,0,0,,{\pos(1146.25,322.7)\fscx102.93\fscy102.93\frz0.1\fs15\c&H010D1C&\alpha&HEF&\blur3}Expand
+Dialogue: 2,0:01:23.02,0:01:23.06,JohnnyEDSigns,,0,0,0,,{=1}{\pos(1147.28,323.73)\fscx102.93\fscy102.93\frz0.1\fs15\c&H010D1C&\alpha&H40&\blur0.85}Expand
+Dialogue: 0,0:00:05.28,0:00:08.28,ED1,,0,0,0,,
+
+[Aegisub Extradata]
+Data: 0,_aegi_folddata,e0;1;1
+Data: 1,_aegi_folddata,e1;1;1
