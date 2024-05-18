@@ -34,7 +34,7 @@ Comment: 0,0:22:10.48,0:22:10.48,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:46.39,0:22:46.39,Default,,0,0,0,edsync,{=5}{EDSync — First hard cut (Nonomi washing room shot)}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=8}---- Dialogue
 Dialogue: 10,0:00:09.74,0:00:11.82,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}! {*}Miss Aru{*Aru-sama}!
-Dialogue: 10,0:00:12.08,0:00:14.79,Default,,0,0,0,,Hoo, boy. That looks like bad news.{lit: "we should hurry up and get out of here or else things will get bad". first bit is kinda not expressed here. Maybe add "We should probably head out."?}
+Dialogue: 10,0:00:12.08,0:00:14.79,Default,,0,0,0,,Hoo boy, that's bad news. \NWe gotta make a break for it.
 Dialogue: 10,0:00:14.79,0:00:17.96,Default,,0,0,0,,I can't believe they chased us all the way out here.
 Dialogue: 10,0:00:19.08,0:00:21.04,Default,,0,0,0,,But why?
 Dialogue: 10,0:00:21.04,0:00:23.84,Default,,0,0,0,,They just opened fire in {\i1}our{\i0} school district!
@@ -206,8 +206,10 @@ Dialogue: 10,0:10:39.03,0:10:39.58,Default,,0,0,0,,Oh?
 Dialogue: 10,0:10:39.58,0:10:40.87,Default,,0,0,0,,Kayoko?
 Dialogue: 10,0:10:40.87,0:10:42.62,Default,,0,0,0,QC,A "happy coincidence" my foot.
 Dialogue: 10,0:10:42.62,0:10:45.88,Default,,0,0,0,QC,You were planning this from the start.
-Dialogue: 10,0:10:47.38,0:10:51.80,Default,,0,0,0,QC,All these troops, just for some petty criminals? \NThe Head Prefect would never have authorised this.
-Dialogue: 10,0:10:51.80,0:10:55.13,Default,,0,0,0,QC,{\i1}You{\i0} were anticipating this to escalate \Ninto a full-blown war with Abydos. {TLC: She never mentions here that a "war" was intentional. The idea was more "this is too much firepower for taking on a tiny school like Abydos, so clearly you have other plans here". Honestly, the prior line covers pretty much everything, so deleting this bit and moving some stuff around might solve the problem, if risk not adding in context to a scene that doesn't have that much to begin with --ik} {### This is information not strictly present in the anime, but it is in the game. Without it, this entire speech simply does not connect to the situation, and it doesn't really make sense without it either. Your call, petz.}{I...would say drop this line because it just isn't said *at all* and afaict is forcefully added context (JP viewers who haven't played the game wouldn't get this implication at the very least), and spill over the previous line into this one. the "so much firepower against Abydos" bit is kind of already taken care of more explicitly with the second line after this.}
+Comment: 10,0:10:47.38,0:10:51.80,Default,,0,0,0,QC,All these troops, just for some petty criminals? \NThe Head Prefect would never have authorised this.
+Comment: 10,0:10:51.80,0:10:55.13,Default,,0,0,0,QC,{\i1}You{\i0} were anticipating this to escalate \Ninto a full-blown war with Abydos. {TLC: She never mentions here that a "war" was intentional. The idea was more "this is too much firepower for taking on a tiny school like Abydos, so clearly you have other plans here". Honestly, the prior line covers pretty much everything, so deleting this bit and moving some stuff around might solve the problem, if risk not adding in context to a scene that doesn't have that much to begin with --ik} {### This is information not strictly present in the anime, but it is in the game. Without it, this entire speech simply does not connect to the situation, and it doesn't really make sense without it either. Your call, petz.}{I...would say drop this line because it just isn't said *at all* and afaict is forcefully added context (JP viewers who haven't played the game wouldn't get this implication at the very least), and spill over the previous line into this one. the "so much firepower against Abydos" bit is kind of already taken care of more explicitly with the second line after this.}{### alt lines below. Leaving this call to petz}
+Dialogue: 10,0:10:47.38,0:10:51.80,Default,,0,0,0,QC,You're saying all these troops were deployed \Njust to deal with some petty criminals?
+Dialogue: 10,0:10:51.80,0:10:55.13,Default,,0,0,0,QC,Yeah, right. The Head Prefect \Nwould never have authorised this.
 Dialogue: 10,0:10:55.55,0:10:57.72,Default,,0,0,0,QC,Your true objective is SCHALE.
 Dialogue: 10,0:10:57.72,0:11:01.43,Default,,0,0,0,QC,This teacher is the reason you deployed \Nan entire army in Abydos.
 Dialogue: 10,0:11:01.43,0:11:02.27,Default,,0,0,0,,{\i1}I'm{\i0} the reason?
@@ -243,7 +245,7 @@ Dialogue: 10,0:12:39.32,0:12:40.95,Default,,0,0,0,,That's our boss!
 Dialogue: 10,0:12:40.95,0:12:45.70,Default,,0,0,0,,I'm not letting those prefects walk away \Nuntil I've put a bullet through each of their smug faces.
 Dialogue: 10,0:12:46.83,0:12:47.87,Default,,0,0,0,,Ditto.
 Dialogue: 10,0:12:50.62,0:12:52.38,Default,,0,0,0,,Kuromi Serika.
-Dialogue: 10,0:12:53.00,0:12:56.26,Default,,0,0,0,,We're on the same team for now, \Nso at least get my name right.{"for now" isn't really said, but I guess it technically is still true}
+Dialogue: 10,0:12:53.00,0:12:56.26,Default,,0,0,0,,We're on the same team for now, \Nso at least get my name right.
 Dialogue: 10,0:12:56.26,0:12:58.51,Default,,0,0,0,,It's not "part-timer".
 Dialogue: 10,0:12:59.88,0:13:01.14,Default,,0,0,0,,The name's Rikuhachima Aru.
 Dialogue: 10,0:13:02.39,0:13:03.97,Default,,0,0,0,,Onikata Kayoko.
@@ -255,7 +257,7 @@ Dialogue: 10,0:13:11.52,0:13:13.48,Default,,0,0,0,,And my name is Okusora Ayane.
 Dialogue: 10,0:13:13.90,0:13:15.94,Default,,0,0,0,,Sunaookami Shiroko.
 Dialogue: 10,0:13:18.40,0:13:19.45,Default,,0,0,0,,Hey!
 Dialogue: 10,0:13:19.45,0:13:22.20,Default,,0,0,0,,We're giving you one last chance to surrender.
-Dialogue: 10,0:13:22.57,0:13:26.70,Default,,0,0,0,,If you continue, so be it! You can cry, you can beg, \Nyou can lick my feet all you like, but... {"so be it" is incorrect in context. Maybe "This is your last chance to surrender" for the previous line, then here "I'm serious! ..." Also "all you like" kind of ruins the tempo for me, maybe just nix that and cut it off at feet so that Sensei's response is more clearly at the feet bit.}
+Dialogue: 10,0:13:22.57,0:13:26.68,Default,,0,0,0,,Once we're done with you, you can cry, \Nyou can beg, you can lick my feet, but we'll never...
 Dialogue: 10,0:13:26.68,0:13:30.83,Default,,0,0,0,,I'd love to, but I'll have to pass this time. {### alt: "I'd love to take you up on that, but maybe some other time."}
 Dialogue: 10,0:13:32.75,0:13:36.05,Default,,0,0,0,,That's quite the unexpected alliance.
 Dialogue: 10,0:13:36.05,0:13:37.59,Default,,0,0,0,,But no matter.
