@@ -18,8 +18,8 @@
 | **Encode**            | LightArrowsEXE   |     | **Typesetting**       | LightArrowsEXE | JohnnyZB       |
 | **Timing**            | MarioLuigi0404   |     | **Song Styling**      | LightArrowsEXE | LightArrowsEXE |
 | **Typesetting**       | LightArrowsEXE   |     |                       | petzku         | petzku         |
-|                       | MSO              |     |                       |                |                |
-|                       | petzku           |     |                       |                |                |
+|                       | MSO (01-02)      |     |                       |                |                |
+|                       | petzku (01, 06)  |     |                       |                |                |
 |                       | GrygrFlzr (01)   |     |                       |                |                |
 |                       | Period (01)      |     |                       |                |                |
 | **Quality Control**   | MarioLuigi0404   |     |                       |                |                |
