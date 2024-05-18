@@ -58,7 +58,7 @@ Dialogue: 10,0:02:42.27,0:02:45.31,Default,,0,0,0,,Only once negotiations fail d
 Dialogue: 10,0:02:45.31,0:02:46.98,Default,,0,0,0,,Why bother with all the red tape?
 Dialogue: 10,0:02:47.23,0:02:48.94,Default,,0,0,0,,They're from another school.
 Dialogue: 10,0:02:48.94,0:02:50.53,Default,,0,0,0,,It may have been accidental,
-Dialogue: 10,0:02:50.53,0:02:54.40,Default,,0,0,0,ED,but under normal circumstances, attacking another\nschool's students is a grave offence. {Consider linebreak at comma --ML}
+Dialogue: 10,0:02:50.53,0:02:54.40,Default,,0,0,0,,but under normal circumstances,\nattacking another school's students is a grave offence.
 Dialogue: 10,0:02:54.40,0:02:55.86,Default,,0,0,0,,Okay, okay. I get it.
 Dialogue: 10,0:02:56.16,0:02:58.95,Default,,0,0,0,,I'll go tell them and get this over with, then.
 Dialogue: 10,0:02:58.95,0:02:59.87,Default,,0,0,0,,Iori, wait!
@@ -103,7 +103,7 @@ Dialogue: 10,0:04:47.98,0:04:50.44,Default,,0,0,0,,You're kidding. They're {\i1}
 Dialogue: 10,0:04:50.44,0:04:52.44,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}, now's our chance.
 Dialogue: 10,0:04:52.73,0:04:54.90,Default,,0,0,0,,We should leave while we can.
 Dialogue: 10,0:04:55.86,0:04:57.11,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}?
-Dialogue: 10,0:04:57.11,0:05:03.20,Default,,0,0,0,ED,A true outlaw wouldn't spend her days\nregretting her past actions, would she? {Not sure how I feel about "her past actions". Some ideas are "what she's done", "her choices", or just leave it. --ML}
+Dialogue: 10,0:04:57.11,0:05:03.20,Default,,0,0,0,,A true outlaw wouldn't spend her days\nregretting the choices she's made, would she?
 Dialogue: 10,0:05:03.53,0:05:08.58,Default,,0,0,0,,She wouldn't pin her mistakes\non someone else and slink off like a coward.
 Dialogue: 10,0:05:08.58,0:05:10.75,Default,,0,0,0,,Don't be ridiculous. This isn't the time for—
 Dialogue: 10,0:05:10.75,0:05:12.25,Default,,0,0,0,,A true outlaw...
@@ -223,7 +223,7 @@ Dialogue: 10,0:11:24.75,0:11:28.58,Default,,0,0,0,,So when the report was brough
 Dialogue: 10,0:11:28.88,0:11:33.67,Default,,0,0,0,,I had no idea what SCHALE even was at the time,
 Dialogue: 10,0:11:33.67,0:11:38.59,Default,,0,0,0,,but if the Tea Party had intel on them,\nit was vital that we acquired it too.
 Dialogue: 10,0:11:38.93,0:11:43.06,Default,,0,0,0,,So I decided to read the report Chinatsu{**-san}\nhad prepared on the SCHALE HQ incident.
-Dialogue: 10,0:11:43.06,0:11:45.60,Default,,0,0,0,ED,{\i1}Which I submitted months ago, may I add. {I believe the expression is typically "might I add", not "may" --ML}
+Dialogue: 10,0:11:43.06,0:11:45.60,Default,,0,0,0,,{\i1}Which I submitted months ago, might I add.
 Dialogue: 10,0:11:45.60,0:11:49.41,Default,,0,0,0,,A mysterious organisation left behind\nby the General Student Council President,
 Dialogue: 10,0:11:49.41,0:11:51.36,Default,,0,0,0,,headed by the adult over there.
 Dialogue: 10,0:11:51.36,0:11:55.11,Default,,0,0,0,,There's no telling how this might\ntip the scales going forward.
@@ -231,7 +231,7 @@ Dialogue: 10,0:11:55.40,0:11:59.53,Default,,0,0,0,,That's why we, the Gehenna Pr
 Dialogue: 10,0:11:59.53,0:12:04.79,Default,,0,0,0,,would like to take him into our custody,\nat least until the Eden Treaty has been safely signed.
 Dialogue: 10,0:12:04.79,0:12:06.66,Default,,0,0,0,,Quit dreaming.
 Dialogue: 10,0:12:06.66,0:12:09.25,Default,,0,0,0,,Did you really think we'd just hand him over?
-Dialogue: 10,0:12:09.25,0:12:11.92,Default,,0,0,0,ED,We'll protect our teacher. {I believe this should have a "Sensei" alt. --ML}
+Dialogue: 10,0:12:09.25,0:12:11.92,Default,,0,0,0,,We'll protect {*}our teacher{*Sensei}.
 Dialogue: 10,0:12:12.84,0:12:15.97,Default,,0,0,0,,I was afraid this would happen.
 Dialogue: 10,0:12:15.97,0:12:19.68,Default,,0,0,0,,You've left us little choice but to resort to force.
 Dialogue: 10,0:12:19.68,0:12:23.64,Default,,0,0,0,,If the Head Prefect finds out about this,\nI'll be writing apologies along with Iori.
@@ -268,8 +268,8 @@ Dialogue: 10,0:13:52.48,0:13:55.61,Default,,0,0,0,,Nonomi, Haruka! Take three o'
 Dialogue: 10,0:13:55.61,0:13:56.36,Default,,0,1100,0,,Got it!
 Dialogue: 10,0:13:55.61,0:13:56.36,Default,,1300,0,0,,Okay!
 Dialogue: 10,0:13:56.69,0:13:59.49,Default,,0,0,0,,Serika, Mutsuki! You two take nine o'clock!
-Dialogue: 10,0:13:59.49,0:14:00.61,Default,,1050,0,0,ED,Leave it to me! {These are in the wrong positions lol --ML}
-Dialogue: 10,0:13:59.49,0:14:00.61,Default,,0,1200,0,,Okay!
+Dialogue: 10,0:13:59.49,0:14:00.61,Default,,0,1250,0,,Leave it to me!
+Dialogue: 10,0:13:59.49,0:14:00.61,Default,,1100,0,0,,Okay!
 Dialogue: 10,0:14:00.86,0:14:04.53,Default,,0,0,0,,Shiroko, Aru! You're up front, high noon!
 Dialogue: 10,0:14:04.53,0:14:05.62,Default,,0,0,0,,Roger!
 Dialogue: 10,0:14:05.62,0:14:07.66,Default,,0,0,0,,Ayane and Kayoko, support the others.
@@ -325,7 +325,7 @@ Dialogue: 10,0:17:15.18,0:17:17.35,Default,,0,0,0,,You may have joined forces,
 Dialogue: 10,0:17:17.35,0:17:20.44,Default,,0,0,0,,but you're still powerless against the might of—
 Dialogue: 10,0:17:39.25,0:17:40.29,Default,,0,0,0,,Did we get her?
 Dialogue: 10,0:17:52.51,0:17:54.09,Default,,0,0,0,,It's over!
-Dialogue: 10,0:18:05.06,0:18:11.49,Default,,0,0,0,ED,It looks like politely asking you to hand over\nthe teacher is no longer an option. {I think this could also use a Sensei alt. --ML}
+Dialogue: 10,0:18:05.06,0:18:11.49,Default,,0,0,0,,It looks like politely asking you to hand over\n{*}the teacher{*Sensei} is no longer an option.
 Dialogue: 10,0:18:11.49,0:18:14.70,Default,,0,0,0,,I'm impressed you can still talk big at this point.
 Dialogue: 10,0:18:14.70,0:18:16.49,Default,,0,0,0,,Give up already.
 Dialogue: 10,0:18:17.78,0:18:19.75,Default,,0,0,0,,I don't think you understand the situation.
