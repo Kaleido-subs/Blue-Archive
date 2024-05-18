@@ -83,7 +83,11 @@ subs {
     }
 
     // Run swapper script for honorifics
-    swap { from(cleanmerge.item()) }
+    swap {
+        from(cleanmerge.item())
+
+        styles(Regex("Main|Default|Alt"))
+    }
 
     // Finally, mux
     mux {
