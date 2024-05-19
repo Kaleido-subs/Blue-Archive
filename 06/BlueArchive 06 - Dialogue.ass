@@ -47,7 +47,7 @@ Dialogue: 10,0:02:13.28,0:02:15.37,Default,,0,0,0,,{*}Teacher{*Sensei}, it's dan
 Dialogue: 10,0:02:15.37,0:02:17.49,Default,,0,0,0,,Get clear and keep your head down.
 Dialogue: 10,0:02:17.49,0:02:19.24,Default,,0,0,0,,Right, thanks.
 Dialogue: 10,0:02:21.41,0:02:23.08,Default,,0,0,0,,God, what a pain.
-Dialogue: 10,0:02:23.08,0:02:24.79,Default,,0,0,0,,Put up with it, Iori. {This phrase has been ruined by the sunglasses meme. Also Chinatsu talks a bit like your mum would, so I don't think she'd be quite this blunt about it. --ik}{### how's this?}
+Dialogue: 10,0:02:23.08,0:02:24.79,Default,,0,0,0,,Patience, Iori.
 Dialogue: 10,0:02:24.79,0:02:27.46,Default,,0,0,0,,Why can't we just go in already?
 Dialogue: 10,0:02:27.46,0:02:29.38,Default,,0,0,0,,Negotiations come first.
 Dialogue: 10,0:02:29.88,0:02:33.88,Default,,0,0,0,,We're here to round up some rebellious students\nfrom our school, not chat over coffee.
@@ -79,7 +79,7 @@ Dialogue: 10,0:03:33.03,0:03:36.82,Default,,0,0,0,,She's never gone dark for thi
 Dialogue: 10,0:03:39.45,0:03:42.03,Default,,0,0,0,,Hello there, students from Abydos High School.
 Dialogue: 10,0:03:42.33,0:03:45.83,Default,,0,0,0,,What business does Gehenna's Prefect Team have here?
 Dialogue: 10,0:03:45.83,0:03:48.21,Default,,0,0,0,,And why did you shell us?
-Dialogue: 10,0:03:48.21,0:03:53.46,Default,,0,0,0,,We figured we'd mete out some punishment\nto the gang of rule breakers hiding in this district. {###}
+Dialogue: 10,0:03:48.21,0:03:53.46,Default,,0,0,0,,We figured we'd mete out punishment\nto the gang of delinquents hiding in this district.
 Dialogue: 10,0:03:53.46,0:03:56.30,Default,,0,0,0,,Are you talking about Problem Solver 68?
 Dialogue: 10,0:03:56.30,0:03:57.34,Default,,0,0,0,,Right on.
 Dialogue: 10,0:03:58.01,0:04:00.85,Default,,0,0,0,,I'll cut to the chase. We have no business with you.
@@ -104,13 +104,13 @@ Dialogue: 10,0:04:50.44,0:04:52.44,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}, now's
 Dialogue: 10,0:04:52.73,0:04:54.90,Default,,0,0,0,,We should leave while we can.
 Dialogue: 10,0:04:55.86,0:04:57.11,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}?
 Dialogue: 10,0:04:57.11,0:05:03.20,Default,,0,0,0,,A true outlaw wouldn't spend her days\nregretting the choices she's made, would she?
-Dialogue: 10,0:05:03.53,0:05:08.58,Default,,0,0,0,,She wouldn't pin her mistakes\non someone else and slink off like a coward.
+Dialogue: 10,0:05:03.53,0:05:08.58,Default,,0,0,0,,She wouldn't pin her mistakes on someone else\nand slink off like a coward.
 Dialogue: 10,0:05:08.58,0:05:10.75,Default,,0,0,0,,Don't be ridiculous. This isn't the time for—
-Dialogue: 10,0:05:10.75,0:05:12.25,Default,,0,0,0,,A true outlaw...
+Dialogue: 10,0:05:10.75,0:05:12.25,Default,,0,0,0,,True outlaws...
 Dialogue: 10,0:05:12.92,0:05:15.67,Default,,0,0,0,,The outlaws we're striving to become
 Dialogue: 10,0:05:15.67,0:05:19.26,Default,,0,0,0,,would never betray their ideals,\nno matter the enemy. Am I wrong?
 Dialogue: 10,0:05:19.76,0:05:20.72,Default,,0,0,0,,Aru...
-Dialogue: 10,0:05:24.51,0:05:27.52,Default,,0,0,0,,So you chose to be difficult.
+Dialogue: 10,0:05:24.51,0:05:27.52,Default,,0,0,0,,So you choose to be difficult.
 Dialogue: 10,0:05:29.81,0:05:32.23,Default,,0,0,0,,After I went to the effort of playing nice, too.
 Dialogue: 10,0:05:32.94,0:05:34.65,Default,,0,0,0,,Don't say I didn't warn you!
 Dialogue: 10,0:05:35.06,0:05:36.32,Default,,0,0,0,,Ayane{**-chan}!
@@ -125,7 +125,7 @@ Dialogue: 10,0:06:26.74,0:06:28.33,Default,,0,0,0,,And you are?
 Dialogue: 10,0:06:28.33,0:06:29.83,Default,,0,0,0,,Iori, stop!
 Dialogue: 10,0:06:31.00,0:06:33.00,Default,,0,0,0,,Get out of here, {*}Teacher{*Sensei}!
 Dialogue: 10,0:06:33.00,0:06:34.37,Default,,0,0,0,,{*}Teacher{*Sensei}?
-Dialogue: 10,0:06:34.37,0:06:36.38,Default,,0,0,0,,Wait, are you that teacher from SCHALE?
+Dialogue: 10,0:06:34.37,0:06:36.38,Default,,0,0,0,,Wait, are you that teacher from Schale?
 Dialogue: 10,0:06:39.67,0:06:41.26,Default,,0,0,0,,You're wide open.
 Dialogue: 10,0:06:41.80,0:06:43.34,Default,,0,0,0,,Is everyone okay?
 Dialogue: 10,0:06:43.34,0:06:44.55,Default,,0,0,0,,I-I'm okay.
@@ -149,9 +149,9 @@ Dialogue: 10,0:07:35.35,0:07:39.98,Default,,0,0,0,,Your apology would be a lot m
 Dialogue: 10,0:07:39.98,0:07:41.57,Default,,0,0,0,,Oh my, where are my manners?
 Dialogue: 10,0:07:41.57,0:07:44.07,Default,,0,0,0,,All hands, stand down.
 Dialogue: 10,0:07:44.94,0:07:46.99,Default,,0,0,0,,They seriously lowered their weapons?
-Dialogue: 10,0:07:46.99,0:07:52.16,Default,,0,0,0,,As I was saying, I apologise on behalf\nof my colleague's foolish behaviour.
+Dialogue: 10,0:07:46.99,0:07:52.16,Default,,0,0,0,,As I was saying, I apologise on behalf\nof my colleagues' foolish behaviour.
 Dialogue: 10,0:07:52.16,0:07:53.49,Default,,0,0,0,,Foolish behaviour?
-Dialogue: 10,0:07:53.49,0:07:56.21,Default,,0,0,0,,I was following your orders! { "I was just following orders" has heavy connotations of "it's not my fault I did something bad", but here she's more like "this was literally part of the plan, what are you talking about" --ik}{### I think in a vacuum that's a fair issue to bring up, but she's being defensive here now and her argument is getting torn apart in front of everyone, so I think it's fine. Did a minor edit, tho}
+Dialogue: 10,0:07:53.49,0:07:56.21,Default,,0,0,0,,We were following your orders!
 Dialogue: 10,0:07:56.21,0:08:00.54,Default,,0,0,0,,Iori, you remember where the\napology templates are kept, don't you?
 Dialogue: 10,0:08:00.54,0:08:01.79,Default,,0,0,0,,A-Ako{**-chan}?!
 Dialogue: 10,0:08:03.88,0:08:09.64,Default,,0,0,0,,Were your orders to blindly engage by\nfiring indiscriminately at innocent bystanders?
@@ -174,7 +174,7 @@ Dialogue: 10,0:08:57.48,0:08:59.39,Default,,0,0,0,,It goes without saying.
 Dialogue: 10,0:08:59.39,0:09:01.48,Default,,0,0,0,,You opened fire in {\i1}our{\i0} district!
 Dialogue: 10,0:09:01.48,0:09:05.48,Default,,0,0,0,,You did so without following proper procedure{/protocol}.\nThat's a blatant breach of jurisdiction! {"jurisdictional duty" is not idiomatic, afaik. maybe just "breach of jurisdiction". First sentence feels unnatural. Is there a proper procedure for opening fire in someone else's school district, then? Could just cut it entirely to save CPS. --ik}{### want petzku's opinions on what to do with the first half, since I can't think of much I like. I want to give a lot more weight to the second half of the line with the first one, so they have to somehow connect.}
 Dialogue: 10,0:09:05.78,0:09:09.49,Default,,0,0,0,,We'll decide how to deal with Problem Solver 68.
-Dialogue: 10,0:09:09.95,0:09:13.74,Default,,0,0,0,,Does the teacher from SCHALE share their view?
+Dialogue: 10,0:09:09.95,0:09:13.74,Default,,0,0,0,,Does the teacher from Schale share their view?
 Dialogue: 10,0:09:13.74,0:09:14.66,Default,,0,0,0,,Yes.
 Dialogue: 10,0:09:14.66,0:09:19.25,Default,,0,0,0,,Considering the current situation,\nI stand by their decision.
 Dialogue: 10,0:09:20.92,0:09:24.25,Default,,0,0,0,,And here I was hoping for a peaceful resolution.
@@ -200,32 +200,29 @@ Dialogue: 10,0:10:15.26,0:10:19.31,Default,,0,0,0,,But I suppose this saves us\n
 Dialogue: 10,0:10:24.06,0:10:26.48,Default,,0,0,0,,They had a reserve force in the back.
 Dialogue: 10,0:10:26.48,0:10:29.44,Default,,0,0,0,,Oh, well. Figured this wasn't gonna be {\i1}that{\i0} easy.
 Dialogue: 10,0:10:29.69,0:10:32.44,Default,,0,0,0,,I must say, this is quite the happy coincidence.
-Dialogue: 10,0:10:32.90,0:10:36.82,Default,,0,0,0,,Who knew chasing Problem Solver 68\nwould lead to the teacher from SCHALE?
+Dialogue: 10,0:10:32.90,0:10:36.82,Default,,0,0,0,,Who knew chasing Problem Solver 68\nwould lead to the teacher from Schale?
 Dialogue: 10,0:10:37.07,0:10:39.03,Default,,0,0,0,,Cut the act, Ako.
 Dialogue: 10,0:10:39.03,0:10:39.58,Default,,0,0,0,,Oh?
 Dialogue: 10,0:10:39.58,0:10:40.87,Default,,0,0,0,,Kayoko?
-Dialogue: 10,0:10:40.87,0:10:42.62,Default,,0,0,0,QC,A "happy coincidence" my foot.
-Dialogue: 10,0:10:42.62,0:10:45.88,Default,,0,0,0,QC,You were planning this from the start.
-Comment: 10,0:10:47.38,0:10:51.80,Default,,0,0,0,QC,All these troops, just for some petty criminals?\nThe Head Prefect would never have authorised this.
-Comment: 10,0:10:51.80,0:10:55.13,Default,,0,0,0,QC,{\i1}You{\i0} were anticipating this to escalate\ninto a full-blown war with Abydos. {TLC: She never mentions here that a "war" was intentional. The idea was more "this is too much firepower for taking on a tiny school like Abydos, so clearly you have other plans here". Honestly, the prior line covers pretty much everything, so deleting this bit and moving some stuff around might solve the problem, if risk not adding in context to a scene that doesn't have that much to begin with --ik} {### This is information not strictly present in the anime, but it is in the game. Without it, this entire speech simply does not connect to the situation, and it doesn't really make sense without it either. Your call, petz.}{I...would say drop this line because it just isn't said *at all* and afaict is forcefully added context (JP viewers who haven't played the game wouldn't get this implication at the very least), and spill over the previous line into this one. the "so much firepower against Abydos" bit is kind of already taken care of more explicitly with the second line after this.}{### alt lines below. Leaving this call to petz}
-Dialogue: 10,0:10:47.38,0:10:51.80,Default,,0,0,0,QC,You're saying all these troops were deployed\njust to deal with some petty criminals?
-Dialogue: 10,0:10:51.80,0:10:55.13,Default,,0,0,0,QC,Yeah, right. The Head Prefect\nwould never have authorised this.
-Dialogue: 10,0:10:55.55,0:10:57.72,Default,,0,0,0,QC,Your true objective is SCHALE.
-Dialogue: 10,0:10:57.72,0:11:01.43,Default,,0,0,0,QC,This teacher is the reason you deployed\nan entire army in Abydos.
+Dialogue: 10,0:10:40.87,0:10:42.62,Default,,0,0,0,,A "happy coincidence" my foot.
+Dialogue: 10,0:10:42.62,0:10:45.88,Default,,0,0,0,,You were planning this from the start.
+Dialogue: 10,0:10:47.38,0:10:51.80,Default,,0,0,0,,You're saying all these troops were deployed\njust to deal with some petty criminals? {TLC: She never mentions here that a "war" was intentional. The idea was more "this is too much firepower for taking on a tiny school like Abydos, so clearly you have other plans here". Honestly, the prior line covers pretty much everything, so deleting this bit and moving some stuff around might solve the problem, if risk not adding in context to a scene that doesn't have that much to begin with --ik} {### This is information not strictly present in the anime, but it is in the game. Without it, this entire speech simply does not connect to the situation, and it doesn't really make sense without it either. Your call, petz.}{I...would say drop this line because it just isn't said *at all* and afaict is forcefully added context (JP viewers who haven't played the game wouldn't get this implication at the very least), and spill over the previous line into this one. the "so much firepower against Abydos" bit is kind of already taken care of more explicitly with the second line after this.}{### alt lines below. Leaving this call to petz}{ugh this is pain. i think i prefer current (alt) lines -p}
+Dialogue: 10,0:10:51.80,0:10:55.13,Default,,0,0,0,,Yeah, right. The Head Prefect\nwould never have authorised this.
+Dialogue: 10,0:10:55.55,0:10:57.72,Default,,0,0,0,,Your true objective is Schale.
+Dialogue: 10,0:10:57.72,0:11:01.43,Default,,0,0,0,,This teacher is the reason you deployed\nan entire army in Abydos.
 Dialogue: 10,0:11:01.43,0:11:02.27,Default,,0,0,0,,{\i1}I'm{\i0} the reason?
 Dialogue: 10,0:11:02.52,0:11:04.56,Default,,0,0,0,,What is she talking about?
 Dialogue: 10,0:11:04.56,0:11:07.69,Default,,0,0,0,,I'm impressed, Kayoko{**-san}. You're quite observant.
 Dialogue: 10,0:11:08.11,0:11:12.69,Default,,0,0,0,,Very well. I'm feeling generous today,\nso I'll explain everything.
 Dialogue: 10,0:11:12.69,0:11:15.32,Default,,0,0,0,,It all started with the Tea Party.
 Dialogue: 10,0:11:15.32,0:11:19.83,Default,,0,0,0,,As you may know, Trinity has a long-standing\nhistory of rivalry with Gehenna.
-Dialogue: 10,0:11:19.83,0:11:24.75,Default,,0,0,0,,Our intelligence division learned of a dossier on SCHALE\nthat was submitted to their student council.
+Dialogue: 10,0:11:19.83,0:11:24.75,Default,,0,0,0,,Our intelligence division learned of a dossier on Schale\nthat was submitted to their student council.
 Dialogue: 10,0:11:24.75,0:11:28.58,Default,,0,0,0,,So when the report was brought to my desk,\nI simply couldn't ignore it.
-Dialogue: 10,0:11:28.88,0:11:33.67,Default,,0,0,0,,I had no idea what SCHALE even was at the time,
+Dialogue: 10,0:11:28.88,0:11:33.67,Default,,0,0,0,,I had no idea what Schale even was at the time,
 Dialogue: 10,0:11:33.67,0:11:38.59,Default,,0,0,0,,but if the Tea Party had intel on them,\nit was vital that we acquired it too.
-Dialogue: 10,0:11:38.93,0:11:43.06,Default,,0,0,0,,So I decided to read the report Chinatsu{**-san}\nhad prepared on the SCHALE HQ incident.
+Dialogue: 10,0:11:38.93,0:11:43.06,Default,,0,0,0,,So I decided to read the report Chinatsu{**-san}\nhad prepared on the Schale HQ incident.
 Dialogue: 10,0:11:43.06,0:11:45.60,Default,,0,0,0,,{\i1}Which I submitted months ago, might I add.
-Dialogue: 10,0:11:45.60,0:11:49.41,Default,,0,0,0,,A mysterious organisation left behind\nby the General Student Council President,
-Dialogue: 10,0:11:49.41,0:11:51.36,Default,,0,0,0,,headed by the adult over there.
+Dialogue: 10,0:11:45.60,0:11:51.36,Default,,0,0,0,,A mysterious organisation left behind by\nthe GSC President, headed by the adult over there.
 Dialogue: 10,0:11:51.36,0:11:55.11,Default,,0,0,0,,There's no telling how this might\ntip the scales going forward.
 Dialogue: 10,0:11:55.40,0:11:59.53,Default,,0,0,0,,That's why we, the Gehenna Prefect Team,
 Dialogue: 10,0:11:59.53,0:12:04.79,Default,,0,0,0,,would like to take him into our custody,\nat least until the Eden Treaty has been safely signed.
@@ -265,12 +262,12 @@ Dialogue: 10,0:13:37.59,0:13:40.97,Default,,0,0,0,,You'll soon learn what it mea
 Dialogue: 10,0:13:45.43,0:13:46.97,Default,,0,0,0,,You talk too much.
 Dialogue: 10,0:13:47.31,0:13:50.10,Default,,0,0,0,,C-Commence the operation!
 Dialogue: 10,0:13:52.48,0:13:55.61,Default,,0,0,0,,Nonomi, Haruka! Take three o'clock!
-Dialogue: 10,0:13:55.61,0:13:56.36,Default,,0,1100,0,,Got it!
+Dialogue: 10,0:13:55.73,0:13:56.36,Default,,0,1100,0,,Got it!
 Dialogue: 10,0:13:55.61,0:13:56.36,Default,,1300,0,0,,Okay!
 Dialogue: 10,0:13:56.69,0:13:59.49,Default,,0,0,0,,Serika, Mutsuki! You two take nine o'clock!
-Dialogue: 10,0:13:59.49,0:14:00.61,Default,,0,1250,0,,Leave it to me!
+Dialogue: 10,0:13:59.61,0:14:00.61,Default,,0,1250,0,,Leave it to me!
 Dialogue: 10,0:13:59.49,0:14:00.61,Default,,1100,0,0,,Okay!
-Dialogue: 10,0:14:00.86,0:14:04.53,Default,,0,0,0,,Shiroko, Aru! You're up front, high noon!
+Dialogue: 10,0:14:00.86,0:14:04.53,Default,,0,0,0,,Shiroko, Aru! You're up front!
 Dialogue: 10,0:14:04.53,0:14:05.62,Default,,0,0,0,,Roger!
 Dialogue: 10,0:14:05.62,0:14:07.66,Default,,0,0,0,,Ayane and Kayoko, support the others.
 Dialogue: 10,0:14:07.66,0:14:08.49,Default,,0,0,0,,Understood.
@@ -286,7 +283,7 @@ Dialogue: 10,0:14:30.85,0:14:32.94,Default,,0,0,0,,Heads up, part-timer!
 Dialogue: 10,0:14:39.40,0:14:41.53,Default,,0,0,0,,Hey, you're not half bad, part-timer!
 Dialogue: 10,0:14:41.53,0:14:42.99,Default,,0,0,0,,Of course I'm not.
 Dialogue: 10,0:14:42.99,0:14:46.32,Default,,0,0,0,,All right, let's keep the party going!
-Dialogue: 10,0:14:46.62,0:14:47.70,Default,,0,0,0,,Another grenade incoming!
+Dialogue: 10,0:14:46.62,0:14:47.70,Default,,0,0,0,,Grenade incoming!
 Dialogue: 10,0:14:52.08,0:14:52.91,Default,,0,0,0,,No way!
 Dialogue: 10,0:14:52.91,0:14:54.21,Default,,0,0,0,,Oh, cr—
 Dialogue: 10,0:14:57.92,0:15:00.21,Default,,0,0,0,,There you are, you filthy rats.
@@ -339,7 +336,7 @@ Dialogue: 10,0:18:34.26,0:18:36.35,Default,,0,0,0,,I, well, you see...
 Dialogue: 10,0:18:36.35,0:18:39.22,Default,,0,0,0,,I mobilised the troops to arrest a group\nof troublemakers, and...
 Dialogue: 10,0:18:39.22,0:18:41.85,Default,,0,0,0,,You mean Problem Solver 68?
 Dialogue: 10,0:18:41.85,0:18:43.10,Default,,0,0,0,,Where are they then?
-Dialogue: 10,0:18:43.10,0:18:46.02,Default,,0,0,0,,Wh-What do you mean? They should be right...
+Dialogue: 10,0:18:43.10,0:18:46.02,Default,,0,0,0,,Wh-What do you mean? They're right...
 Dialogue: 10,0:18:46.48,0:18:47.52,Default,,0,0,0,,Huh?
 Dialogue: 10,0:18:47.90,0:18:50.53,Default,,0,0,0,,What? How? They were right there!
 Dialogue: 10,0:18:50.53,0:18:53.32,Default,,0,0,0,,President Hina! I can explain this!
@@ -350,7 +347,7 @@ Dialogue: 10,0:19:03.04,0:19:05.21,Default,,0,0,0,,We'll discuss the details onc
 Dialogue: 10,0:19:05.21,0:19:07.29,Default,,0,0,0,,Wait for me in the school building until then.
 Dialogue: 10,0:19:07.96,0:19:09.04,Default,,0,0,0,,Yes, ma'am.
 Dialogue: 10,0:19:11.34,0:19:12.05,Default,,0,0,0,,Now, then.
-Dialogue: 10,0:19:12.55,0:19:17.97,Default,,0,0,0,,Prefect President, do you understand the situation?
+Dialogue: 10,0:19:12.55,0:19:17.97,Default,,0,0,0,,Head Prefect, do you understand the situation?
 Dialogue: 10,0:19:17.97,0:19:23.31,Default,,0,0,0,,There has been an unauthorised military operation\nwithin another school's district without prior notification,
 Dialogue: 10,0:19:23.31,0:19:26.31,Default,,0,0,0,,resulting in a clash with said school's students.
 Dialogue: 10,0:19:26.31,0:19:27.81,Default,,0,0,0,,Yes. In other words—
@@ -365,18 +362,17 @@ Dialogue: 10,0:19:50.54,0:19:52.42,Default,,0,0,0,,{\i1}Hoshino? From Abydos?
 Dialogue: 10,0:19:52.88,0:19:56.30,Default,,0,0,0,,{\i1}Could this be Takanashi Hoshino?
 Dialogue: 10,0:19:59.30,0:20:01.76,Default,,0,0,0,,I dunno what's going on here,
 Dialogue: 10,0:20:01.76,0:20:03.81,Default,,0,0,0,,but what's with the army,
-Dialogue: 10,0:20:03.81,0:20:06.02,Default,,0,0,0,,{*}Miss Prefect President{*Prefect President-chan}?
+Dialogue: 10,0:20:03.81,0:20:06.02,Default,,0,0,0,,{*}Miss Head Prefect{*Head Prefect-chan}?
 Dialogue: 10,0:20:06.02,0:20:08.90,Default,,0,0,0,,You've changed a lot since your first year.
 Dialogue: 10,0:20:08.90,0:20:11.11,Default,,0,0,0,,I almost didn't recognise you.
 Dialogue: 10,0:20:11.57,0:20:14.07,Default,,0,0,0,,Oh? Do we know each other?
-Dialogue: 10,0:20:14.07,0:20:15.57,Default,,0,0,0,,While I was in the intelligence division,
-Dialogue: 10,0:20:15.57,0:20:20.07,Default,,0,0,0,,I took note of any students of interest\nin every school district.
+Dialogue: 10,0:20:14.07,0:20:20.07,Default,,0,0,0,,While I was in intelligence, I took note of\nany students of interest in every school district.
 Dialogue: 10,0:20:21.58,0:20:23.83,Default,,0,0,0,,You're saying a fellow like me is famous?
 Dialogue: 10,0:20:23.83,0:20:25.70,Default,,0,0,0,,Takanashi Hoshino.
 Dialogue: 10,0:20:25.70,0:20:28.37,Default,,0,0,0,,I could never forget you.
 Dialogue: 10,0:20:28.37,0:20:32.79,Default,,0,0,0,,I thought you had left Abydos following the incident.
 Dialogue: 10,0:20:32.79,0:20:34.46,Default,,0,0,0,,I see.
-Dialogue: 10,0:20:34.96,0:20:36.13,Default,,0,0,0,,So that's why SCHALE...
+Dialogue: 10,0:20:34.96,0:20:36.13,Default,,0,0,0,,So that's why Schale...
 Dialogue: 10,0:20:36.13,0:20:37.47,Default,,0,0,0,,What's that now?
 Dialogue: 10,0:20:37.47,0:20:42.18,Default,,0,0,0,,If you have something you wanna say,\nyou'll have to speak a bit more clearly than that.
 Dialogue: 10,0:20:45.31,0:20:46.43,Default,,0,0,0,,Prepare to withdraw.
@@ -391,7 +387,7 @@ Dialogue: 10,0:21:10.87,0:21:11.88,Default,,0,0,0,,Ma'am!
 Dialogue: 10,0:21:32.40,0:21:34.86,Default,,0,0,0,,{*}Teacher{*Sensei}, what did she say?
 Dialogue: 10,0:21:34.86,0:21:36.19,Default,,0,0,0,,Oh, right.
 Dialogue: 10,0:21:36.61,0:21:38.69,Default,,0,0,0,,The abandoned desert in Abydos.
-Dialogue: 10,0:21:39.19,0:21:43.45,Default,,0,0,0,,{\t(3945,4195,\3c&HFFFFFF&\4c&HFFFFFF&)}Kaiser Corporation is plotting something there.
+Dialogue: 10,0:21:39.19,0:21:43.45,Default,,0,0,0,,{\t(3945,4195,\3c&HFFFFFF&\4c&HFFFFFF&)}The Kaiser Corporation is plotting something there.
 Dialogue: 10,0:21:45.45,0:21:46.70,Default,,0,0,0,,{*}Teacher{*Sensei}?
 Dialogue: 10,0:21:46.70,0:21:47.70,Default,,0,0,0,,Hoo, boy.
 Dialogue: 10,0:21:48.08,0:21:51.21,Default,,0,0,0,,I gotta say, I'm feeling kinda lost here.
