@@ -33,7 +33,7 @@ Comment: 0,0:10:45.54,0:10:45.54,Default,chapter,0,0,0,,{Part B}
 Comment: 0,0:20:47.56,0:20:47.56,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:21:23.47,0:21:23.47,Default,,0,0,0,edsync,{=9}{EDSync — First hard cut (Nonomi washing room shot)}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=14}---- Dialogue
-Dialogue: 10,0:00:06.17,0:00:07.86,Default,,0,0,0,,{=6}What a pleasant surprise.
+Dialogue: 10,0:00:06.17,0:00:07.86,Default,,0,0,0,,{=6}What a pleasant surprise. {techically more of "look of who we have here" but this doesn't flow so i give up --rapid}
 Dialogue: 10,0:00:07.86,0:00:10.14,Default,,0,0,0,,I've been expecting you.
 Dialogue: 10,0:00:10.14,0:00:11.37,Default,,0,0,0,,The legendary Horu—
 Dialogue: 10,0:00:12.06,0:00:12.87,Default,,0,0,0,,Excuse me.
@@ -41,14 +41,14 @@ Dialogue: 10,0:00:13.56,0:00:16.17,Default,,0,0,0,,I'm sure you would prefer Tak
 Dialogue: 10,0:00:17.86,0:00:19.82,Default,,0,0,0,,What is it this time?
 Dialogue: 10,0:00:21.05,0:00:23.00,Default,,0,0,0,,There's been a change of plans.
 Dialogue: 10,0:00:23.36,0:00:30.51,Default,,0,0,0,,I'd like to once again extend an offer to you, \Nwielder of the strongest Mystic in Abydos.
-Dialogue: 10,0:00:30.51,0:00:31.37,Default,,0,0,0,,Don't screw with me! {Let the Ojisan say fuck? --ML}
-Dialogue: 10,0:00:31.37,0:00:34.26,Default,,0,0,0,,Come now, settle down.
-Dialogue: 10,0:00:34.26,0:00:38.64,Default,,0,0,0,,I am extending an offer you cannot possibly refuse.
+Dialogue: 10,0:00:30.51,0:00:31.37,Default,,0,0,0,,Don't screw with me! {Let the Ojisan say fuck? --ML}{perchance -rapid}
+Dialogue: 10,0:00:31.37,0:00:34.26,Default,,0,0,0,,Come now, settle down. {he says this in a very condesending manner, maybe "Come on now, no need to ger angry" or smth --rapid}
+Dialogue: 10,0:00:34.26,0:00:38.64,Default,,0,0,0,,I am extending an offer you cannot possibly refuse. {chiche as fuck but wtv --rapid }
 Dialogue: 10,0:00:40.86,0:00:44.18,Default,,0,0,0,,I assure you will find this proposal difficult to resist. {redundant, consider changing "difficult to resist" to something like "quite fascinating" since "cannot refuse" is already stronger than "difficult to resist" --ik}
 Dialogue: 10,0:02:31.66,0:02:36.51,Default,,800,0,0,,{\q2}We end today's segment \Nwith a report from the Abydos district.
 Dialogue: 10,0:02:37.08,0:02:42.52,Default,,0,0,0,,Despite the recent explosion, \Nthe desert shows no signs of change.
 Dialogue: 10,0:02:43.02,0:02:46.27,Default,,0,0,0,,This concludes our news for today.
-Dialogue: 10,0:02:46.27,0:02:48.52,Default,,0,0,0,,We'll see you again tomorrow.
+Dialogue: 10,0:02:46.27,0:02:48.52,Default,,0,0,0,,We'll see you again tomorrow. {Is this consistent with the one from last time -rapid}
 Dialogue: 10,0:03:09.54,0:03:11.70,Default,,0,0,0,,How did it come to this? {Doesn't strike me as something someone would actually say... maybe "how did things end up like this"? --ik}
 Dialogue: 10,0:03:11.70,0:03:13.26,Default,,0,0,0,,Did you say something?
 Dialogue: 10,0:03:13.98,0:03:18.64,Default,,0,0,0,,What I meant was, how many more \Nshould I finish, President Hina? {"finish" seems unnatural since she needs to both start and finish each page, so I'd just do "write" --ik}
@@ -57,7 +57,7 @@ Dialogue: 10,0:03:20.76,0:03:23.44,Default,,0,0,0,,Weren't you the one who said 
 Dialogue: 10,0:03:23.44,0:03:28.02,Default,,0,0,0,,That was merely a figure of speech! \NI didn't mean I {\i1}wanted{\i0} to write that many. {Too blunt of a complaint, better to have her a bit more evasive by saying that she "meant that she was so ashamed she COULD write a thousand" so she's not directly talking back to a superior --ik}
 Dialogue: 10,0:03:28.02,0:03:30.21,Default,,0,0,0,,Less chatter, more writing.
 Dialogue: 10,0:03:30.21,0:03:31.90,Default,,0,0,0,,Y-Yes, ma'am.
-Dialogue: 10,0:03:35.42,0:03:40.67,Default,,0,0,0,,Incidentally, have you ever met \NHoshino from Abydos before? {"have" is incorrect. She has, now. She had not, before. --ik}
+Dialogue: 10,0:03:35.42,0:03:40.67,Default,,0,0,0,,Incidentally, have you ever met \NHoshino from Abydos before? {"have" is incorrect. She has, now. She had not, before. --ik}{incidentally? incidentally? do people really use that work? in this case? as a high school student? "On another note," works just fine --rapid}
 Dialogue: 10,0:03:40.67,0:03:44.28,Default,,0,0,0,,No. I had done research on her \Nwhile I was in the intelligence division.
 Dialogue: 10,0:03:44.28,0:03:46.41,Default,,0,0,0,,That was the first time I met her. {Here, "That" seems to incorrectly refer to when she was doing research in the intelligence division. "This" more clearly refers to "just now".}
 Dialogue: 10,0:03:46.41,0:03:48.18,Default,,0,0,0,,I see.
