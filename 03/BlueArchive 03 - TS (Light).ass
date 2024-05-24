@@ -7096,7 +7096,7 @@ Comment: 0,0:20:07.77,0:20:11.02,LightSigns,,0,0,0,,{=10689}-- Skip for BDs beca
 Comment: 0,0:20:29.54,0:20:29.54,LightSigns,,0,0,0,,{=10690}---- Fifth instance
 Comment: 0,0:20:29.54,0:20:32.42,LightSigns,,0,0,0,,{=10691}Skip for BDs because annoying
 Comment: 0,0:18:59.45,0:18:59.45,LightSigns,,0,0,0,,{=10693}-- Abydos High School nameplate
-Comment: 0,0:02:14.03,0:02:14.03,LightSigns,,0,0,0,,{=11513}-- Whiteboard
+Comment: 0,0:02:14.03,0:02:14.03,LightSigns,,0,0,0,,{=11499}-- Whiteboard
 Comment: 0,0:02:14.03,0:02:14.03,LightSigns,,0,0,0,,{=11255}---- First instance
 Dialogue: 2,0:02:14.03,0:02:19.41,LightSigns,,0,0,0,,{=11237=11256}{\fnFabfeltScript Bold\fs164\c&H000000&\1a&H50&\blur1.2\fax0\fscx46.69\fscy52.79\frx-0.682\fry28.953\org(-45.21,396.04)\pos(-70.71,128.76)\frz9.614}Task Force Regular Meeting
 Comment: 0,0:02:58.32,0:02:58.37,LightSigns,,0,0,0,,{=11517}---- Second instance
@@ -7163,7 +7163,7 @@ Dialogue: 0,0:03:58.26,0:03:58.38,LightSigns,,0,0,0,,{=11172}{\an7\pos(324.76,13
 Dialogue: 0,0:03:58.38,0:03:58.63,LightSigns,,0,0,0,,{=11172=11180}{\an7\pos(324.76,139.16)\org(851.68,605.67)\fscx85.14\fscy65.69\frz0.6\fry4.792\frx-0.531\fnFabfeltScript Bold\fs134\c&H3D2927&\blur4.5\iclip(m 566.34 177.01 l 565.14 180.04 b 599.84 178.58 610.31 195.49 613.94 236.36 l 457.01 220.11 483.29 87.13 582.37 96.06 m 734.57 218.24 b 751.91 212.04 775.59 202.75 800.95 180.08 811.75 153.77 821.97 158.87 836.75 127.54 l 1295.82 175.14 1258.59 300.66)\q2}T{\c&H3F2C2B&}a{\c&H422F30&}s{\c&H453235&}k {\c&H4A383F&}F{\c&H4D3B44&}o{\c&H503E49&}r{\c&H53414E&}c{\c&H554452&}e {\c&H5B4A5C&}R{\c&H5E4D61&}e{\c&H615166&}g{\c&H63546B&}u{\c&H665770&}l{\c&H695A75&}a{\c&H6C5D7A&}r {\c&H716383&}M{\c&H746688&}e{\c&H77698D&}e{\c&H796C92&}t{\c&H7C6F97&}i{\c&H7F729C&}n{\c&H8275A1&}g{\c&H8579A6&}
 Comment: 0,0:04:16.65,0:04:16.65,LightSigns,,0,0,0,,{=11251}---- Sixth instance
 Dialogue: 0,0:04:16.65,0:04:22.78,LightSigns,,0,0,0,,{=11252}{\an7\org(814.35,536.34)\fscx85.14\fscy65.69\fry356.8\frx353.5\fnFabfeltScript Bold\fs190\c&H3D2927&\blur1\q2\frz359.6\pos(202.83,-45.03)}Task Force
-Comment: 0,0:05:11.71,0:05:13.88,LightSigns,,0,0,0,,{=11497}---- Seventh instance
+Comment: 0,0:05:11.71,0:05:11.71,LightSigns,,0,0,0,,{=11497}---- Seventh instance
 Dialogue: 0,0:05:11.79,0:05:11.83,LightSigns,,0,0,0,,{=11200=11447=11448}{\pos(461.04,32.48)\org(461.25,-230.16)\fscx142.69\fscy143.46\frz0.13\fry9.95\frx-0.452\fnFabfeltScript Bold\fs40\c&H3D2927&\blur6\q2}T{\c&H3E2B29&}a{\c&H402D2C&}s{\c&H422F2F&}k {\c&H453334&}F{\c&H473537&}o{\c&H493839&}r{\c&H4B3A3C&}c{\c&H4C3C3F&}e {\c&H504044&}R{\c&H524247&}e{\c&H54454A&}g{\c&H55474C&}u{\c&H57494F&}l{\c&H594B52&}a{\c&H5B4D54&}r {\c&H5E515A&}M{\c&H60545C&}e{\c&H62565F&}e{\c&H635862&}t{\c&H655A64&}i{\c&H675C67&}n{\c&H695E6A&}g{\c&H6B616D&}
 Dialogue: 0,0:05:11.83,0:05:11.87,LightSigns,,0,0,0,,{=11200=11447=11449}{\pos(497.17,70.59)\org(493.84,-167.46)\fscx129.34\fscy130.04\frz0.98\fry9.95\frx-0.452\fnFabfeltScript Bold\fs40\c&H3D2927&\blur4.9\q2}T{\c&H3E2B29&}a{\c&H402D2C&}s{\c&H422F2F&}k {\c&H453334&}F{\c&H473537&}o{\c&H493839&}r{\c&H4B3A3C&}c{\c&H4C3C3F&}e {\c&H504044&}R{\c&H524247&}e{\c&H54454A&}g{\c&H55474C&}u{\c&H57494F&}l{\c&H594B52&}a{\c&H5B4D54&}r {\c&H5E515A&}M{\c&H60545C&}e{\c&H62565F&}e{\c&H635862&}t{\c&H655A64&}i{\c&H675C67&}n{\c&H695E6A&}g{\c&H6B616D&}
 Dialogue: 0,0:05:11.87,0:05:11.91,LightSigns,,0,0,0,,{=11200=11447=11450}{\pos(516.68,91.99)\org(511.13,-132.47)\fscx121.98\fscy122.65\frz1.59\fry9.95\frx-0.452\fnFabfeltScript Bold\fs40\c&H3D2927&\blur3.8\q2}T{\c&H3E2B29&}a{\c&H402D2C&}s{\c&H422F2F&}k {\c&H453334&}F{\c&H473537&}o{\c&H493839&}r{\c&H4B3A3C&}c{\c&H4C3C3F&}e {\c&H504044&}R{\c&H524247&}e{\c&H54454A&}g{\c&H55474C&}u{\c&H57494F&}l{\c&H594B52&}a{\c&H5B4D54&}r {\c&H5E515A&}M{\c&H60545C&}e{\c&H62565F&}e{\c&H635862&}t{\c&H655A64&}i{\c&H675C67&}n{\c&H695E6A&}g{\c&H6B616D&}
@@ -7217,8 +7217,8 @@ Comment: 0,0:02:14.03,0:02:14.03,LightSigns,,0,0,0,,{=11221}---- Eight instance
 Dialogue: 0,0:06:05.14,0:06:09.02,LightSigns,,0,0,0,,{=11218=11222}{\an7\org(421.74,219.18)\fscx79.84\fscy91.42\fnFabfeltScript Bold\c&H594339&\blur2\fs74\q2\clip(m 310.85 49.92 b 296.87 94.6 259.93 108.41 250.28 100.84 257.43 107 265.08 115.32 279.56 120.15 254.93 151.93 267.58 188.21 271.58 207.35 l 89.53 186.05 113.23 -44.24)\pos(233.28,70.09)\frx1.986\fry40.74\frz6.246}Task
 Comment: 0,0:07:17.29,0:07:17.33,LightSigns,,0,0,0,,{=11253}---- Ninth instance
 Dialogue: 0,0:07:17.29,0:07:21.92,LightSigns,,0,0,0,,{=11218=11254}{\an7\pos(1606.4,-156.8)\fry352\frx358\fnFabfeltScript Bold\fs200\c&H3F2D2D&\blur1.2\q2\frz6.587}Task
-Comment: 0,0:02:14.03,0:02:14.03,LightSigns,,0,0,0,,{=11514}-- Whiteboard
-Comment: 0,0:00:17.50,0:00:17.50,LightSigns,,0,0,0,,{=11523}---- Aru's masterpiece
+Comment: 0,0:02:14.03,0:02:14.03,LightSigns,,0,0,0,,{=11500}-- Whiteboard
+Comment: 0,0:00:17.50,0:00:17.50,LightSigns,,0,0,0,,{=11389}---- Aru's masterpiece
 Dialogue: 4,0:00:17.50,0:00:21.00,LightSigns,,0,0,0,,{=11275=11388}{\an7\move(761,1701,761,952,17,3479)\c&H8C8284&\p1}m 2 -11 l 2 -7 3 -10 3 -7 4 -8 4 -6 6 -7 -5 11 -4 8 -5 9 -4 6 -5 7 -5 5 -6 6
 Dialogue: 4,0:00:17.50,0:00:21.00,LightSigns,,0,0,0,,{=11275=11387}{\an7\move(763,1776,763,1027,17,3479)\c&H8C8284&\p1}m -5 -6 l 8 5 5 5 6 6 4 6 5 7 -8 -5 -7 -5 -7 -6 -5 -6
 Dialogue: 4,0:00:17.50,0:00:21.00,LightSigns,,0,0,0,,{=11275=11386}{\an7\move(1098,1628,1098,879,17,3479)\c&H8C8284&\p1}m -10 -5 l 7 9 7 7 8 6 8 4 10 3 -7 -9 -7 -7 -9 -7 -8 -5
@@ -8953,7 +8953,7 @@ Dialogue: 0,0:00:20.79,0:00:20.83,LightSigns,,0,0,0,,{=11275=11276}{\an7\pos(986
 Dialogue: 0,0:00:20.83,0:00:20.87,LightSigns,,0,0,0,,{=11275=11276}{\an7\pos(986,683.04)\c&HA0837E&\blur1\clip(746,1018.04,1109,1057.04)\p1\frz1.209}m -234 288 l 108 221 118 300 -231 368
 Dialogue: 0,0:00:20.87,0:00:20.91,LightSigns,,0,0,0,,{=11275=11276}{\an7\pos(986,674.03)\c&HA0837E&\blur1\clip(746,1009.03,1109,1048.03)\p1\frz1.209}m -234 288 l 108 221 118 300 -231 368
 Dialogue: 0,0:00:20.91,0:00:20.95,LightSigns,,0,0,0,,{=11275=11276}{\an7\pos(986,665.01)\c&HA0837E&\blur1\clip(746,1000.01,1109,1039)\p1\frz1.209}m -234 288 l 108 221 118 300 -231 368
-Dialogue: 0,0:00:20.95,0:00:21.00,LightSigns,,0,0,0,,{=11275=11276=11524}{\an7\pos(986,656)\c&HA0837E&\blur1\clip(746,991,1109,1030)\p1\frz1.209}m -234 288 l 108 221 118 300 -231 368
+Dialogue: 0,0:00:20.95,0:00:21.00,LightSigns,,0,0,0,,{=11275=11276=11390}{\an7\pos(986,656)\c&HA0837E&\blur1\clip(746,991,1109,1030)\p1\frz1.209}m -234 288 l 108 221 118 300 -231 368
 Dialogue: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,
 
 [Aegisub Extradata]
