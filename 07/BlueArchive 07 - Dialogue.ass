@@ -58,7 +58,7 @@ Dialogue: 10,0:03:23.44,0:03:28.02,Default,,0,0,0,,What I meant was that I was s
 Dialogue: 10,0:03:28.02,0:03:30.21,Default,,0,0,0,,Less chatter, more writing.
 Dialogue: 10,0:03:30.21,0:03:31.90,Default,,0,0,0,,Y-Yes, ma'am.
 Dialogue: 10,0:03:35.42,0:03:40.67,Default,,0,0,0,,Incidentally, have you met \NHoshino from Abydos before? {"have" is incorrect. She has, now. She had not, before. --ik}{### nitpicky}{incidentally? incidentally? do people really use that work? in this case? as a high school student? "On another note," works just fine --rapid}
-Dialogue: 10,0:03:40.67,0:03:44.28,Default,,0,0,0,,No. I had done research on her \Nwhile I was in the intelligence division.
+Dialogue: 10,0:03:40.67,0:03:44.28,Default,,0,0,0,,No. I had done research on her \Nwhile I was in intelligence.
 Dialogue: 10,0:03:44.28,0:03:46.41,Default,,0,0,0,,This was the first time I met her.
 Dialogue: 10,0:03:46.41,0:03:48.18,Default,,0,0,0,,I see.
 Dialogue: 10,0:03:48.18,0:03:51.92,Default,,0,0,0,,You sounded like you knew her well, \Nso I presumed you had met her before.
@@ -76,7 +76,7 @@ Dialogue: 10,0:04:32.13,0:04:37.47,Default,,0,0,0,,Had we carelessly engaged Aby
 Dialogue: 10,0:04:37.82,0:04:40.62,Default,,0,0,0,,All because you jumped the gun, Ako.
 Dialogue: 10,0:04:40.62,0:04:45.60,Default,,0,0,0,,I had analysed their combat capability, \N but there was nothing like that in the report.
 Dialogue: 10,0:04:45.60,0:04:49.63,Default,,0,0,0,,Well, she did just fall off the grid one day.
-Dialogue: 10,0:04:49.63,0:04:53.61,Default,,0,0,0,,At some point, the intelligence division \Nmay have stopped viewing her as a threat.
+Dialogue: 10,0:04:49.63,0:04:53.61,Default,,0,0,0,,At some point, intelligence may have \Nstopped viewing her as a threat.
 Dialogue: 10,0:04:53.99,0:04:58.61,Default,,0,0,0,,If you're curious, I recommend \Ndigging through the old reports.
 Dialogue: 10,0:05:00.34,0:05:02.32,Default,,0,0,0,,Ako, your pen stopped moving.
 Dialogue: 10,0:05:02.32,0:05:03.62,Default,,0,0,0,,Y-Yes, ma'am!
