@@ -91,7 +91,7 @@ Dialogue: 10,0:05:33.38,0:05:36.90,Default,,0,0,0,,Well, I guess she may wanna k
 Dialogue: 10,0:05:39.73,0:05:40.84,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}...
 Dialogue: 10,0:05:40.84,0:05:43.53,Default,,0,0,0,,It's so obvious she doesn't wanna move.
 Dialogue: 10,0:05:43.53,0:05:47.77,Default,,0,0,0,,I get it, but the Prefects \Nwill be swarming this place soon.
-Dialogue: 10,0:05:47.77,0:05:50.88,Default,,0,0,0,,And since we messed up, \Nthe client's wants a piece of us too.
+Dialogue: 10,0:05:47.77,0:05:50.88,Default,,0,0,0,,And since we messed up, \Nthe client'll want a piece of us too.
 Dialogue: 10,0:05:50.88,0:05:52.42,Default,,0,0,0,,I'd rather be anywhere else.
 Dialogue: 10,0:05:53.74,0:05:58.37,Default,,0,0,0,,Speaking of enemies, our little dispute \Nwith Abydos ended up unresolved, huh?
 Dialogue: 10,0:05:58.37,0:06:00.88,Default,,0,0,0,,Wh-What other option did we have?
@@ -211,7 +211,7 @@ Dialogue: 10,0:11:49.59,0:11:51.88,Default,,0,0,0,,Serika, did you know about th
 Dialogue: 10,0:11:51.88,0:11:54.57,Default,,0,0,0,,No, this is the first I've heard of it.
 Dialogue: 10,0:11:54.85,0:11:58.44,Default,,0,0,0,,Does this mean there's another debt \Nthat had to be paid off?
 Dialogue: 10,0:11:58.44,0:12:00.50,Default,,0,0,0,,I was also unaware of this.
-Dialogue: 10,0:12:00.50,0:12:02.82,Default,,0,0,0,,Then who does this debt belong to?!
+Dialogue: 10,0:12:00.50,0:12:02.82,Default,,0,0,0,,Then who does the property belong to now?!
 Dialogue: 10,0:12:04.26,0:12:08.46,Default,,0,0,0,,Could it be the Kaiser Corporation?
 Dialogue: 10,0:12:09.46,0:12:12.52,Default,,0,0,0,,That name {\i1}does{\i0} ring a bell.
 Dialogue: 10,0:12:12.52,0:12:15.59,Default,,0,0,0,,But sorry. I just can't remember it well.
@@ -244,7 +244,7 @@ Dialogue: 10,0:13:27.58,0:13:31.68,Default,,0,0,0,,If that's true, I can't even 
 Dialogue: 10,0:13:31.68,0:13:36.66,Default,,0,0,0,,All I want in life is to see my hungry customers \Neatin' their fill of delicious ramen.
 Dialogue: 10,0:13:36.66,0:13:39.59,Default,,0,0,0,,That's what kept me goin' all these years!
 Dialogue: 10,0:13:39.94,0:13:42.74,Default,,0,0,0,,Everyone's waiting to have your ramen again.
-Dialogue: 10,0:13:42.74,0:13:46.03,Default,,0,0,0,,So hurry and get better, \Nand then rebuild your store!
+Dialogue: 10,0:13:42.74,0:13:46.03,Default,,0,0,0,,So hurry and get better, \Nand then rebuild your restaurant!
 Dialogue: 10,0:13:46.03,0:13:49.60,Default,,0,0,0,,And once that's done, \Nyou'd better hire me again, boss.
 Dialogue: 10,0:13:49.60,0:13:51.68,Default,,0,0,0,,You got it! Leave it to me!
 Dialogue: 10,0:13:51.68,0:13:55.15,Default,,0,0,0,,The moment I'm back on my feet, \NI'll feed ya all the ramen you can stomach!
