@@ -42,7 +42,7 @@ Dialogue: 10,0:00:13.56,0:00:16.17,Default,,0,0,0,,I'm sure you would prefer Tak
 Dialogue: 10,0:00:17.86,0:00:19.82,Default,,0,0,0,,What is it this time?
 Dialogue: 10,0:00:21.05,0:00:23.00,Default,,0,0,0,,There's been a change of plans.
 Dialogue: 10,0:00:23.36,0:00:30.51,Default,,0,0,0,,I'd like to once again extend an offer to you,\nthe wielder of the strongest Mystic in Abydos.
-Dialogue: 10,0:00:30.51,0:00:31.37,Default,,0,0,0,,Don't screw with me! {Let the Ojisan say fuck? --ML}{perchance -rapid}
+Dialogue: 10,0:00:30.51,0:00:31.37,Default,,0,0,0,,Don't screw with me! {Let the Ojisan say fuck? --ML}{perchance -rapid}{would -p}
 Dialogue: 10,0:00:31.37,0:00:34.26,Default,,0,0,0,,Come on, now. No need to get angry.
 Dialogue: 10,0:00:34.26,0:00:38.64,Default,,0,0,0,,I am extending an offer you cannot possibly refuse.
 Dialogue: 10,0:00:40.86,0:00:44.18,Default,,0,0,0,,I assure you, you will find\nthis proposal quite fascinating.
@@ -92,7 +92,7 @@ Dialogue: 10,0:05:33.38,0:05:36.90,Default,,0,0,0,,Well, I guess she may wanna k
 Dialogue: 10,0:05:39.73,0:05:40.84,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}...
 Dialogue: 10,0:05:40.84,0:05:43.53,Default,,0,0,0,,It's so obvious she doesn't wanna move.
 Dialogue: 10,0:05:43.53,0:05:47.77,Default,,0,0,0,,I get it, but the Prefects\nwill be swarming this place soon.
-Dialogue: 10,0:05:47.77,0:05:50.88,Default,,0,0,0,,And since we messed up,\nthe client'll want a piece of us too.{consider "the clients will" per ik's original suggestion -p}
+Dialogue: 10,0:05:47.77,0:05:50.88,Default,,0,0,0,,And since we messed up,\nthe client'll want a piece of us too.
 Dialogue: 10,0:05:50.88,0:05:52.42,Default,,0,0,0,,No sense crying over spilt milk.
 Dialogue: 10,0:05:53.74,0:05:58.37,Default,,0,0,0,,Speaking of enemies, our little dispute\nwith Abydos ended up unresolved, huh?
 Dialogue: 10,0:05:58.37,0:06:00.88,Default,,0,0,0,,Wh-What other option did we have?
@@ -160,7 +160,7 @@ Dialogue: 10,0:09:16.20,0:09:18.86,Default,,0,0,0,,In fact, I've never even hear
 Dialogue: 10,0:09:19.49,0:09:25.46,Default,,0,0,0,,Aru{**-chan}, you know you gave the game away\nby mentioning the money, right?
 Dialogue: 10,0:09:26.76,0:09:30.72,Default,,0,0,0,,Y-You stole that money\nwhen you robbed the bank, right?
 Dialogue: 10,0:09:30.72,0:09:34.97,Default,,0,0,0,,We're not so desperate\nthat we'd claim it for ourselves.
-Dialogue: 10,0:09:34.97,0:09:37.22,Default,,0,0,0,,Outlaws have standards, too! {omg Sniper TF2 --ML}{### I almost wanna put "professionals" now} {Be polite. Be efficient --ik}
+Dialogue: 10,0:09:34.97,0:09:37.22,Default,,0,0,0,,Outlaws have standards, too! {omg Sniper TF2 --ML}{### I almost wanna put "professionals" now} {Be polite. Be efficient --ik}{we're not common criminals, we're outlaws -p}
 Dialogue: 10,0:09:37.54,0:09:39.23,Default,,0,0,0,,Well, look who's sassy now.
 Dialogue: 10,0:09:39.23,0:09:42.46,Default,,0,0,0,,I went ahead and delivered the bag to the boss.
 Dialogue: 10,0:09:42.46,0:09:44.56,Default,,0,0,0,,I see. Thanks.
@@ -231,13 +231,13 @@ Dialogue: 10,0:13:04.18,0:13:07.56,Default,,0,0,0,,And wouldn't ya know, it's st
 Dialogue: 10,0:13:07.56,0:13:10.02,Default,,0,0,0,,Guessin' this ain't just a tip for good service, huh?
 Dialogue: 10,0:13:10.02,0:13:11.94,Default,,0,0,0,,Wh-Who knows, maybe it is?
 Dialogue: 10,0:13:11.94,0:13:14.54,Default,,0,0,0,,I'm sure it's from a well-meaning stranger!
-Dialogue: 10,0:13:14.54,0:13:19.80,Default,,0,0,0,ED,That's right! I think it's perfectly fine\nto use the money to rebuild your restaurant!{meh line -p}{### then come up with something better :^)}
+Dialogue: 10,0:13:14.54,0:13:19.80,Default,,0,0,0,,That's right! I bet they would want you\nto use it to rebuild your restaurant!
 Dialogue: 10,0:13:19.80,0:13:25.76,Default,,0,0,0,,Yeah! I'm sure whoever left this behind\nwas touched by your ramen!
 Dialogue: 10,0:13:25.76,0:13:27.58,Default,,0,0,0,,Y'all gotta be kiddin' me.
 Dialogue: 10,0:13:27.58,0:13:31.68,Default,,0,0,0,,If that's true, I can't even tell ya\nhow happy that makes me.
 Dialogue: 10,0:13:31.68,0:13:36.66,Default,,0,0,0,,All I want in life is to see my hungry customers\neatin' their fill of delicious ramen.
 Dialogue: 10,0:13:36.66,0:13:39.59,Default,,0,0,0,,That's what kept me goin' all these years!
-Dialogue: 10,0:13:39.94,0:13:42.74,Default,,0,0,0,ED,We're all waiting{### dying?} to have your ramen again.
+Dialogue: 10,0:13:39.94,0:13:42.74,Default,,0,0,0,,We're all dying to have your ramen again.
 Dialogue: 10,0:13:42.74,0:13:46.03,Default,,0,0,0,,So hurry and get better,\nand then rebuild your restaurant!
 Dialogue: 10,0:13:46.03,0:13:49.60,Default,,0,0,0,,And once that's done,\nyou'd better hire me again, boss.
 Dialogue: 10,0:13:49.60,0:13:51.68,Default,,0,0,0,,You got it! Leave it to me!
@@ -258,15 +258,15 @@ Dialogue: 10,0:14:38.74,0:14:39.82,Default,,0,0,0,,But y'know...
 Dialogue: 10,0:14:39.82,0:14:44.13,Default,,0,0,0,,The Task Force seems\na lot happier now with you around.
 Dialogue: 10,0:14:44.13,0:14:49.29,Default,,0,0,0,,I can't take credit for that. That's because\nthey got a clear direction for the future now.
 Dialogue: 10,0:14:50.56,0:14:52.33,Default,,0,0,0,,Yeah, you could be right.
-Dialogue: 10,0:14:52.59,0:14:56.03,Default,,0,0,0,,Serika{**-chan} doesn't try to do\neverything on her own anymore. 
+Dialogue: 10,0:14:52.59,0:14:56.03,Default,,0,0,0,,Serika{**-chan} doesn't try to do\neverything on her own anymore.
 Dialogue: 10,0:14:56.03,0:15:00.34,Default,,0,0,0,,Ayane{**-chan} doesn't look so down all the time, I guess?
 Dialogue: 10,0:15:00.34,0:15:04.98,Default,,0,0,0,,Nonomi{**-chan} laughs for herself now,\nnot just to make the others happy. {###}
 Dialogue: 10,0:15:04.98,0:15:06.54,Default,,0,0,0,,And as for Shiroko{**-chan}...
 Dialogue: 10,0:15:07.56,0:15:09.62,Default,,0,0,0,,I think she's breathing easier now.
 Dialogue: 10,0:15:10.65,0:15:14.10,Default,,0,0,0,,You're doing your best, too.\nEveryone trusts in you.
-Dialogue: 10,0:15:14.10,0:15:18.58,Default,,0,0,0,,This seasoned bird just wants to see\nher fledgelings soar free through the skies. {### meh coming up with something here is hard} {Also beware. The key point here is Hoshino is trying to protect everyone's everyday life. This will almost certainly come back in a later scene. But also this line is kind of meh in general --ik}
+Dialogue: 10,0:15:14.10,0:15:18.58,Default,,0,0,0,,I just want to give them the chance\nto live a normal life.{###}
 Dialogue: 10,0:15:19.58,0:15:20.82,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:15:28.69,0:15:32.37,Default,,0,0,0,,Letting them soar free is the only way\nthey'll find happiness for themselves. {### may as well connect this to the previous line ye?} {I'll think of something, promise. Literally, he says something like "That's what leads to everyone's happiness." I think Sensei's point is "you're doing your best to protect everyone's happiness, and that kind of mindset is exactly why they're able to keep being themselves despite everything." But god we don't have much space here. I'll think of somehting. --ik}{### will leave this and the next line to you, my brain has been fried this week}
+Dialogue: 10,0:15:28.69,0:15:32.37,Default,,0,0,0,,That way they can find their own happiness.{###}
 Dialogue: 10,0:15:35.87,0:15:38.88,Default,,0,0,0,,And that's why I have to keep moving forward.
 Dialogue: 10,0:15:39.20,0:15:39.98,Default,,0,0,0,,What's that?
 Dialogue: 10,0:15:39.98,0:15:45.42,Default,,0,0,0,,Man, I feel a lot better after hearing you say that.\nNow I can really enjoy my nap!
@@ -311,19 +311,19 @@ Dialogue: 10,0:17:39.80,0:17:40.75,Default,,0,0,0,,Yes, it is.
 Dialogue: 10,0:17:42.04,0:17:43.38,Default,,0,0,0,,What's the matter?
 Dialogue: 10,0:17:43.38,0:17:46.50,Default,,0,0,0,,We've actually run into another problem.
 Dialogue: 10,0:17:46.78,0:17:49.76,Default,,0,0,0,,We were just about to dive into it.
-Dialogue: 10,0:17:49.76,0:17:56.26,Default,,0,0,0,ED,Simply put, it seems that Abydos High\ndoes not own the rights to this area.{"rights to this area" doesn't sound right to me but i might just be stupid -p}{###}
+Dialogue: 10,0:17:49.76,0:17:56.26,Default,,0,0,0,,Simply put, it seems that Abydos High\ndoes not own the land in this area.
 Dialogue: 10,0:17:57.53,0:18:01.21,Default,,0,0,0,,What? Doesn't the land within\na school district belong to the school?
 Dialogue: 10,0:18:01.21,0:18:04.92,Default,,0,0,0,,According to the boss, even the building\nShiba Seki Ramen was in
-Dialogue: 10,0:18:04.92,0:18:07.77,Default,,0,0,0,,doesn't belong to Abydos High anymore.
+Dialogue: 10,0:18:04.92,0:18:07.77,Default,,0,0,0,,doesn't belong to Abydos anymore.
 Dialogue: 10,0:18:09.66,0:18:11.23,Default,,0,0,0,,Since when?
 Dialogue: 10,0:18:11.23,0:18:16.24,Default,,0,0,0,,We don't know for sure,\nbut the boss said it was a few years ago.
 Dialogue: 10,0:18:16.24,0:18:18.04,Default,,0,0,0,,So who owns it now?
-Dialogue: 10,0:18:18.76,0:18:21.04,Default,,0,0,0,,The Kaiser Corporation. {Did we have "The" in previous episodes? I could have sworn we didn't --ik}{## yeah https://i.imgur.com/KLCs5PI.png}
+Dialogue: 10,0:18:18.76,0:18:21.04,Default,,0,0,0,,The Kaiser Corporation.
 Dialogue: 10,0:18:23.98,0:18:26.60,Default,,0,0,0,,It didn't start just recently.
 Dialogue: 10,0:18:26.60,0:18:30.42,Default,,0,0,0,,This had been going on since before we ever met\nProblem Solver 68 or the Helmet Gang.
 Dialogue: 10,0:18:30.42,0:18:33.86,Default,,0,0,0,,We've been dancing to the tune\nof Kaiser Corporation all along.
 Dialogue: 10,0:18:33.86,0:18:36.09,Default,,0,0,0,,God, now I'm pissed!
-Dialogue: 10,0:18:36.09,0:18:38.98,Default,,0,0,0,ED/TLC,W-Well, we won't know\nfor sure until the results come out.{what "results" is she talking about -p}{### the search she's doing, probs. Can a TLC give additional clarification?}
+Dialogue: 10,0:18:36.09,0:18:38.98,Default,,0,0,0,,W-Well, we won't know for sure\nuntil we get to the bottom of this.
 Dialogue: 10,0:18:38.98,0:18:40.93,Default,,0,0,0,,We may be jumping to conclusions.
 Dialogue: 10,0:18:45.20,0:18:49.15,Default,,0,0,0,,Feels like I can never get enough sleep\nno matter how many naps I take these days.
 Dialogue: 10,0:18:50.84,0:18:53.47,Default,,0,0,0,,Maybe I'm just getting old.
