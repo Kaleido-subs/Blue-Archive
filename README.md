@@ -22,7 +22,7 @@
 |                       | petzku (01, 06-07) |     |                       |                |                |
 |                       | GrygrFlzr (01)     |     |                       |                |                |
 |                       | Period (01)        |     |                       |                |                |
-|                       | WitchyMary (07)    |     |                       |                |                |
+|                       | witchymary (07)    |     |                       |                |                |
 | **Quality Control**   | MarioLuigi0404     |     |                       |                |                |
 |                       | petzku             |     |                       |                |                |
 | **Special Thanks**    | Phrenapates        |     |                       |                |                |
