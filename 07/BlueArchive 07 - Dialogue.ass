@@ -56,7 +56,7 @@ Dialogue: 10,0:03:13.98,0:03:18.64,Default,,0,0,0,,What I meant was, how many mo
 Dialogue: 10,0:03:18.64,0:03:20.76,Default,,0,0,0,,You've written about two hundred so far, right?
 Dialogue: 10,0:03:20.76,0:03:23.44,Default,,0,0,0,,Weren't you the one who said you'd write a thousand?
 Dialogue: 10,0:03:23.44,0:03:28.02,Default,,0,0,0,,What I meant was that I was\nso ashamed I {\i1}could{\i0} write a thousand!
-Dialogue: 10,0:03:28.02,0:03:30.21,Default,,0,0,0,,Less chatter, more writing.
+Dialogue: 10,0:03:28.02,0:03:30.21,Default,,0,0,0,,Less talking, more writing.
 Dialogue: 10,0:03:30.21,0:03:31.90,Default,,0,0,0,,Y-Yes, ma'am.
 Dialogue: 10,0:03:35.42,0:03:40.67,Default,,0,0,0,,Incidentally, had you met\nHoshino from Abydos before?
 Dialogue: 10,0:03:40.67,0:03:44.28,Default,,0,0,0,,No. I had done research on her\nwhile I was in intelligence.
@@ -64,12 +64,12 @@ Dialogue: 10,0:03:44.28,0:03:46.41,Default,,0,0,0,,That was my first time meetin
 Dialogue: 10,0:03:46.41,0:03:48.18,Default,,0,0,0,,I see.
 Dialogue: 10,0:03:48.18,0:03:51.92,Default,,0,0,0,,You sounded like you knew her well,\nso I presumed you had met her before.
 Dialogue: 10,0:03:51.92,0:03:53.98,Default,,0,0,0,,Takanashi Hoshino.
-Dialogue: 10,0:03:53.98,0:03:56.95,Default,,0,0,0,,A true elite, a genius by all standards.
+Dialogue: 10,0:03:53.98,0:03:56.95,Default,,0,0,0,,A true elite. A genius by all standards.
 Dialogue: 10,0:03:56.95,0:04:04.68,Default,,0,0,0,,The intelligence division's analysis two years ago\nlisted her as a potential threat to Gehenna.
 Dialogue: 10,0:04:04.68,0:04:08.14,Default,,0,0,0,,She certainly didn't give me that impression.
 Dialogue: 10,0:04:08.14,0:04:11.87,Default,,0,0,0,,Ako, you should refrain from\nmaking judgments based on appearances.
 Dialogue: 10,0:04:13.12,0:04:14.20,Default,,0,0,0,,But...
-Dialogue: 10,0:04:14.45,0:04:17.70,Default,,0,0,0,,She really did seem like\na completely different person.
+Dialogue: 10,0:04:14.45,0:04:17.70,Default,,0,0,0,,She really {\i1}did{\i0} seem like\na completely different person.
 Dialogue: 10,0:04:18.46,0:04:23.46,Default,,0,0,0,,In the past, she was extremely aggressive,\nspecialising in assault tactics.
 Dialogue: 10,0:04:23.90,0:04:28.56,Default,,0,0,0,,Based on the reports, she struck me as a rough,\nyet dangerously sharp individual.
 Dialogue: 10,0:04:30.06,0:04:32.13,Default,,0,0,0,,Well, let's set her past aside for now.
@@ -153,7 +153,7 @@ Dialogue: 10,0:08:55.19,0:08:57.43,Default,,0,0,0,,A-And also, about the ramen s
 Dialogue: 10,0:08:57.72,0:08:59.19,Default,,0,0,0,,That's different.
 Dialogue: 10,0:09:00.70,0:09:03.19,Default,,0,0,0,,But you do seem like you're sorry.
 Dialogue: 10,0:09:04.74,0:09:06.44,Default,,0,0,0,,You owe us one. How's that?
-Dialogue: 10,0:09:06.90,0:09:10.45,Default,,0,0,0,,After all, you were the ones\nwho left that bag, right?
+Dialogue: 10,0:09:06.90,0:09:10.45,Default,,0,0,0,,You were the ones who left that bag, right?
 Dialogue: 10,0:09:11.10,0:09:13.45,Default,,0,0,0,,{\t(1800,2300,0.5,\3c&HFFFFFF&\4c&HFFFFFF&)}I-I have no idea what you mean!
 Dialogue: 10,0:09:13.45,0:09:16.20,Default,,0,0,0,,I don't know anything about a bag filled with money!
 Dialogue: 10,0:09:16.20,0:09:18.86,Default,,0,0,0,,In fact, I've never even heard of such a thing!
@@ -188,8 +188,8 @@ Dialogue: 10,0:10:53.83,0:10:56.05,Default,,0,0,0,,How are you feeling?
 Dialogue: 10,0:10:56.30,0:10:59.06,Default,,0,0,0,,Aw, don't worry 'bout me.\n'Tis but a scratch.
 Dialogue: 10,0:10:59.06,0:11:05.06,Default,,0,0,0,,Rather, that was a mighty fine blast.\nSure glad no one 'sides me was caught up in it.
 Dialogue: 10,0:11:05.06,0:11:07.30,Default,,0,0,0,,Well, yes, but...
-Dialogue: 10,0:11:07.30,0:11:09.28,Default,,0,0,0,,Shiba Seki Ramen, your store...
-Dialogue: 10,0:11:09.28,0:11:13.08,Default,,0,0,0,,Right. Sorry Serika{**-chan},\nbut I can't hire you part-time anymore.
+Dialogue: 10,0:11:07.30,0:11:09.28,Default,,0,0,0,,Your restaurant...
+Dialogue: 10,0:11:09.28,0:11:13.08,Default,,0,0,0,,Right. Sorry Serika{**-chan}, but I can't really\nkeep you around anymore.
 Dialogue: 10,0:11:13.08,0:11:15.18,Default,,0,0,0,,It's not about that, boss!
 Dialogue: 10,0:11:15.18,0:11:16.32,Default,,0,0,0,,It's fine.
 Dialogue: 10,0:11:16.53,0:11:20.58,Default,,0,0,0,,I was thinkin' 'bout closing up shop either way.
@@ -208,7 +208,7 @@ Dialogue: 10,0:11:58.44,0:12:00.50,Default,,0,0,0,,I didn't know about this, eit
 Dialogue: 10,0:12:00.50,0:12:02.82,Default,,0,0,0,,Then who does the property belong to now?!
 Dialogue: 10,0:12:04.26,0:12:08.46,Default,,0,0,0,,Could it be the Kaiser Corporation again?
 Dialogue: 10,0:12:09.46,0:12:12.52,Default,,0,0,0,,That name {\i1}does{\i0} ring a bell.
-Dialogue: 10,0:12:12.52,0:12:15.59,Default,,0,0,0,,But sorry. I just can't remember it well.
+Dialogue: 10,0:12:12.52,0:12:15.59,Default,,0,0,0,,But sorry, I just can't remember it well.
 Dialogue: 10,0:12:17.56,0:12:20.84,Default,,0,0,0,,We should probably investigate this further.
 Dialogue: 10,0:12:20.84,0:12:23.42,Default,,0,0,0,,Ayane{**-chan}, let me help out, too.
 Dialogue: 10,0:12:23.42,0:12:25.85,Default,,0,0,0,,Me, too. I'll help however I can.
@@ -266,8 +266,8 @@ Dialogue: 10,0:15:07.56,0:15:09.62,Default,,0,0,0,,I think she's breathing easie
 Dialogue: 10,0:15:10.65,0:15:14.10,Default,,0,0,0,,You're doing your best, too.\nEveryone trusts in you.
 Dialogue: 10,0:15:14.10,0:15:18.58,Default,,0,0,0,,I just want to give them the chance\nto live a normal life.{###}
 Dialogue: 10,0:15:19.58,0:15:20.82,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:15:28.69,0:15:32.37,Default,,0,0,0,,That way they can find their own happiness.{###}
-Dialogue: 10,0:15:35.87,0:15:38.88,Default,,0,0,0,,And that's why I have to keep moving forward.
+Dialogue: 10,0:15:28.69,0:15:32.37,Default,,0,0,0,,That's why they're able to keep smiling.{###}
+Dialogue: 10,0:15:35.87,0:15:38.88,Default,,0,0,0,,And that's why I have to move on.
 Dialogue: 10,0:15:39.20,0:15:39.98,Default,,0,0,0,,What's that?
 Dialogue: 10,0:15:39.98,0:15:45.42,Default,,0,0,0,,Man, I feel a lot better after hearing you say that.\nNow I can really enjoy my nap!
 Dialogue: 10,0:15:45.69,0:15:49.85,Default,,0,0,0,,And here I thought you were finally\nbeing serious for once.
@@ -305,7 +305,7 @@ Dialogue: 10,0:17:24.19,0:17:26.20,Default,,0,0,0,,Hello, {*}Teacher{*Sensei}!
 Dialogue: 10,0:17:27.97,0:17:29.32,Default,,0,0,0,,Welcome back, everyone.
 Dialogue: 10,0:17:29.32,0:17:31.11,Default,,0,0,0,,How was the boss doing?
 Dialogue: 10,0:17:31.37,0:17:34.13,Default,,0,0,0,,He was doing great, in both health and spirit!
-Dialogue: 10,0:17:34.13,0:17:36.99,Default,,0,0,0,,He said he'll rebuild Shiba Seki Ramen soon, too.
+Dialogue: 10,0:17:34.13,0:17:36.99,Default,,0,0,0,,He said he'll rebuild his restaurant soon, too.
 Dialogue: 10,0:17:37.34,0:17:39.80,Default,,0,0,0,,I see. That's good to hear.
 Dialogue: 10,0:17:39.80,0:17:40.75,Default,,0,0,0,,Yes, it is.
 Dialogue: 10,0:17:42.04,0:17:43.38,Default,,0,0,0,,What's the matter?
@@ -313,8 +313,7 @@ Dialogue: 10,0:17:43.38,0:17:46.50,Default,,0,0,0,,We've actually run into anoth
 Dialogue: 10,0:17:46.78,0:17:49.76,Default,,0,0,0,,We were just about to dive into it.
 Dialogue: 10,0:17:49.76,0:17:56.26,Default,,0,0,0,,Simply put, it seems that Abydos High\ndoes not own the land in this area.
 Dialogue: 10,0:17:57.53,0:18:01.21,Default,,0,0,0,,What? Doesn't the land within\na school district belong to the school?
-Dialogue: 10,0:18:01.21,0:18:04.92,Default,,0,0,0,,According to the boss, even the building\nShiba Seki Ramen was in
-Dialogue: 10,0:18:04.92,0:18:07.77,Default,,0,0,0,,doesn't belong to Abydos anymore.
+Dialogue: 10,0:18:01.21,0:18:07.77,Default,,0,0,0,,According to the boss, even the building Shiba Seki\nwas in doesn't belong to Abydos anymore.
 Dialogue: 10,0:18:09.66,0:18:11.23,Default,,0,0,0,,Since when?
 Dialogue: 10,0:18:11.23,0:18:16.24,Default,,0,0,0,,We don't know for sure,\nbut the boss said it was a few years ago.
 Dialogue: 10,0:18:16.24,0:18:18.04,Default,,0,0,0,,So who owns it now?
@@ -333,8 +332,9 @@ Dialogue: 10,0:18:58.11,0:19:00.04,Default,,0,0,0,,Um, Hoshino{**-senpai}?
 Dialogue: 10,0:19:00.04,0:19:02.96,Default,,0,0,0,,Come on, it's right there! The big one!
 Dialogue: 10,0:19:02.96,0:19:05.75,Default,,0,0,0,,You can't see it from all the way back there.
 Dialogue: 10,0:19:05.75,0:19:08.97,Default,,0,0,0,,Come closer. I promise I won't bite.
-Dialogue: 10,0:19:08.97,0:19:11.25,Default,,0,0,0,,S-Stop pushing me!
-Dialogue: 10,0:19:11.25,0:19:14.87,Default,,0,0,0,,Excuse me? We're in the middle of\na serious conversation! This isn't the time for—
+Dialogue: 10,0:19:08.97,0:19:11.05,Default,,0,0,0,,S-Stop pulling me!
+Dialogue: 10,0:19:08.97,0:19:11.05,Alt,,0,0,0,,Come on now!
+Dialogue: 10,0:19:11.05,0:19:14.87,Default,,0,0,0,,Excuse me? We're in the middle of\na serious conversation! This isn't the time for—
 Dialogue: 10,0:19:14.87,0:19:17.96,Default,,0,0,0,,Come now, why don't we take a look too, Serika?
 Dialogue: 10,0:19:17.96,0:19:20.76,Default,,0,0,0,,Y-You, too, Nonomi{**-senpai}?\nWhat's going on with everyone?
 Dialogue: 10,0:19:20.76,0:19:25.32,Default,,0,0,0,,You mean that cloud right there?\nI'd say it looks more like a dolphin than a whale.
@@ -362,7 +362,8 @@ Dialogue: 10,0:20:29.88,0:20:31.33,Default,,0,0,0,,You're coming too, right, {*}
 Dialogue: 10,0:20:31.33,0:20:32.34,Default,,0,0,0,,Huh?
 Dialogue: 10,0:20:32.34,0:20:34.74,Default,,0,0,0,,What do you mean, "huh"? You busy?
 Dialogue: 10,0:20:34.74,0:20:37.59,Default,,0,0,0,,I believe we need a teacher to chaperone us.
-Dialogue: 10,0:20:37.59,0:20:40.84,Default,,0,0,0,,That's true. Sure, let's all go together!
+Dialogue: 10,0:20:37.59,0:20:38.99,Default,,0,0,0,,That's true.
+Dialogue: 10,0:20:38.99,0:20:40.84,Default,,0,0,0,,Sure, let's all go together!
 Dialogue: 10,0:20:41.46,0:20:43.21,Default,,0,0,0,,I look forward to it!
 Dialogue: 10,0:20:44.82,0:20:46.78,Default,,0,0,0,,{=15}We're gonna have so much fun!
 
