@@ -27,7 +27,7 @@ Comment: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11509}-- Repeat Signs
 Comment: 0,0:01:35.60,0:01:35.62,LightSigns,,0,0,0,,{=11526}---- Episode Title
 Dialogue: 0,0:02:31.01,0:02:34.51,LightSigns,,0,0,0,,{\pos(593.07,225.8)\fscx150\fscy150\fax-0.35\fnSegoe UI Symbol\fs48\c&H2C2D2B&\blur0.5\fad(516,523)}☆
 Dialogue: 0,0:02:31.01,0:02:34.51,LightSigns,,0,0,0,,{=11527}{\pos(306.74,228.8)\fscx90\fax-0.35\fnRoG2サンセリフStd-B\fs48\c&H2C2D2B&\blur0.5\fad(516,523)}Th{\fsp10}e{\fsp}Maske{\fsp10}d{\fsp}Swimsui{\fsp10}t{\fsp}Gang
-Dialogue: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11510}-- Repeat Signs
+Comment: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11510}-- Repeat Signs
 Comment: 0,0:02:41.89,0:02:41.89,LightSigns,,0,0,0,,{=11529}---- Abydos name plate
 Dialogue: 0,0:02:41.89,0:02:46.15,LightSigns,,0,0,0,,{\an7\pos(-73,-197)\org(1481.26,652.1)\fscx105.68\fscy123.95\frz-0.245\fry2.687\frx-0.157\c&H72787E&\blur1\p1}m 1366 699 l 1580 699 1580 726 1366 726
 Dialogue: 1,0:02:41.89,0:02:46.15,LightSigns,,0,0,0,,{\an7\pos(-71,-197)\org(1481.26,652.1)\fscx105.68\fscy123.95\frz-0.245\fry2.687\frx-0.157\c&HDEE0DF&\blur1\p1}m 1366 699 l 1580 699 1580 726 1366 726

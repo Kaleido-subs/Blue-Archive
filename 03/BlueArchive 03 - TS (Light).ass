@@ -27,7 +27,7 @@ Comment: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11509}-- Repeat Signs
 Comment: 0,0:01:35.60,0:01:35.62,LightSigns,,0,0,0,,{=11511}---- Episode Title
 Dialogue: 1,0:02:01.98,0:02:05.52,LightSigns,,0,0,0,,{\blur0.5\fnRoG2サンセリフStd-B\fscx90\fs48\fax-0.35\c&HF8D600&\fad(1000,1000)\pos(424.34,1040)}Proble{\fsp10}m{\fsp}Solve{\fsp10}r{\fsp}6{\fsp10}8{\fsp\c&HFBFCFC&}I{\fsp10}s{\fsp}o{\fsp10}n{\fsp}th{\fsp10}e{\fsp}Case
 Dialogue: 0,0:02:01.98,0:02:05.52,LightSigns,,0,0,0,,{=11512}{\bord0.4\blur1\fnRoG2サンセリフStd-B\fscx90\fs48\fax-0.35\xshad0.01\4c&HFAD700&\fad(1000,1000)\1a&HFE&\c&HFFFFFF&\3c&H000000&\3a&HFF&\4a&HB4&\pos(424.34,1040)}Proble{\fsp10}m{\fsp}Solve{\fsp10}r{\fsp}6{\fsp10}8{\fsp\c&HFBFCFC&}I{\fsp10}s{\fsp}o{\fsp10}n{\fsp}th{\fsp10}e{\fsp}Case
-Dialogue: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11510}-- Repeat Signs
+Comment: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11510}-- Repeat Signs
 Comment: 0,0:05:46.24,0:05:46.24,LightSigns,,0,0,0,,{=10534}---- Bank
 Comment: 4,0:05:46.24,0:05:50.25,LightSigns,sunshine,0,0,0,,{=10448=10527}-- TODO: mimic sunhsine glare (for BDs)
 Dialogue: 3,0:05:46.24,0:05:46.28,LightSigns,text sheen,0,0,0,,{=10448=10527}{\pos(1464,559)\org(1510,573)\fscx86\fscy87\frz13.587\fry-5.212\frx8.553\fnGaramond\b1\c&H3A596E&\blur1.6\clip(1149,467,1821,484)}Abydos First Central Bank
