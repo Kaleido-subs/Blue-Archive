@@ -8,6 +8,8 @@ PlayResX: 1920
 PlayResY: 1080
 ScaledBorderAndShadow: yes
 
+[Aegisub Project Garbage]
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,60,1
@@ -19,7 +21,7 @@ Dialogue: 10,0:00:03.02,0:00:04.32,Default,,0,0,0,,{=2}Come on, hurry up!
 Dialogue: 10,0:00:04.40,0:00:06.28,Default,,0,0,0,,Hold on, Serika!
 Dialogue: 10,0:00:07.24,0:00:08.36,Default,,0,0,0,,My, my.
 Dialogue: 10,0:00:08.53,0:00:10.45,Default,,0,0,0,,Look how excited they are.
-Dialogue: 10,0:00:10.70,0:00:12.32,Default,,0,0,0,,Hey, careful not to trip and fall.
+Dialogue: 10,0:00:10.70,0:00:12.32,Default,,0,0,0,,Hey, watch your step.
 Dialogue: 10,0:00:12.37,0:00:13.87,Default,,0,0,0,,I know, I know.
 Dialogue: 10,0:00:14.87,0:00:16.16,Default,,0,0,0,,Well then, shall we be off?
 Dialogue: 10,0:00:16.29,0:00:17.29,Default,,0,0,0,,Yeah.
@@ -35,7 +37,7 @@ Dialogue: 10,0:00:38.89,0:00:40.02,Default,,0,0,0,,I agree.
 Dialogue: 10,0:02:26.67,0:02:28.67,Default,,0,0,0,,Wow! Just look at this place!
 Dialogue: 10,0:02:28.79,0:02:30.59,Default,,0,0,0,,It's like we're in the middle of the ocean!
 Dialogue: 10,0:02:30.88,0:02:33.42,Default,,0,0,0,,Hey, come on, there's sharks over there!
-Dialogue: 10,0:02:34.18,0:02:36.72,Default,,0,0,0,,Hey, careful not to trip and fall!
+Dialogue: 10,0:02:34.18,0:02:36.72,Default,,0,0,0,,Hey, take it easy, don't trip and fall.
 Dialogue: 10,0:02:36.84,0:02:40.10,Default,,0,0,0,,This aquarium is so big!
 Dialogue: 10,0:02:40.14,0:02:42.18,Default,,0,0,0,,We might not get to see everything today.
 Dialogue: 10,0:02:42.35,0:02:43.89,Default,,0,0,0,,What? Is it that big?
@@ -51,12 +53,12 @@ Dialogue: 10,0:03:13.59,0:03:15.51,Default,,0,0,0,,It keeps opening its mouth!
 Dialogue: 10,0:03:15.59,0:03:17.22,Default,,0,0,0,,Maybe that's how it breathes?
 Dialogue: 10,0:03:17.51,0:03:18.51,Default,,0,0,0,,Probably.
 Dialogue: 10,0:03:19.22,0:03:24.14,Default,,0,0,0,,But now that I think about it, \Nhow does it breathe underwater?
-Dialogue: 10,0:03:24.60,0:03:29.36,Default,,0,0,0,,Fish have this organ that lets them \Nabsorb oxygen from the water, you see.
+Dialogue: 10,0:03:24.60,0:03:29.36,Default,,0,0,0,,Fish have this organ that lets them \Nget oxygen from the water, you see.
 Dialogue: 10,0:03:29.48,0:03:31.82,Default,,0,0,0,,You've heard of gills, right?
-Dialogue: 10,0:03:32.11,0:03:36.53,Default,,0,0,0,,They suck in water from their mouths\N and pass it over the gills, which absorb oxygen.
-Dialogue: 10,0:03:36.95,0:03:40.03,Default,,0,0,0,,Fish take in oxygen and expel carbon dioxide, too.
-Dialogue: 10,0:03:40.20,0:03:43.24,Default,,0,0,0,,In a sense, fish breathe just like we do.
-Dialogue: 10,0:03:43.74,0:03:47.37,Default,,0,0,0,,They may look different, but on \Nthe inside, we're all built the same.
+Dialogue: 10,0:03:32.11,0:03:36.53,Default,,0,0,0,,Water goes in through their mouths \Nand passes over their gills on the way out.
+Dialogue: 10,0:03:36.95,0:03:40.03,Default,,0,0,0,,That's how fish take in oxygen \Nand expel carbon dioxide.
+Dialogue: 10,0:03:40.20,0:03:43.24,Default,,0,0,0,,In a sense, they breathe just like we do.
+Dialogue: 10,0:03:43.74,0:03:47.37,Default,,0,0,0,,We may look different, but on \Nthe inside, we're all built the same.
 Dialogue: 10,0:03:48.21,0:03:53.09,Default,,0,0,0,,Well, there are animals like whales \Nthat actually hold their breath while underwater, too.
 Dialogue: 10,0:03:53.71,0:03:58.05,Default,,0,0,0,,But that doesn't really count, \Nsince whales are mammals, not fish.
 Dialogue: 10,0:04:00.59,0:04:02.89,Default,,0,0,0,,Why's everyone all quiet?
@@ -197,7 +199,7 @@ Dialogue: 10,0:10:55.22,0:10:58.55,Default,,0,0,0,,That's a surprisingly normal 
 Dialogue: 10,0:10:58.76,0:11:01.85,Default,,0,0,0,,But it probably costs a good bit.
 Dialogue: 10,0:11:03.43,0:11:06.44,Default,,0,0,0,,Eh, you don't have to worry about that part.
 Dialogue: 10,0:11:06.60,0:11:07.94,Default,,0,0,0,,Isn't that right, Sensei?
-Dialogue: 10,0:11:07.98,0:11:10.90,Default,,0,0,0,,Huh? Oh, yes, right.
+Dialogue: 10,0:11:07.98,0:11:10.90,Default,,0,0,0,,Huh? Oh, uh, yeah...
 Dialogue: 10,0:11:11.07,0:11:14.36,Default,,0,0,0,,But you know, we could go for \Nsomething smaller, like a keychain...
 Dialogue: 10,0:11:14.53,0:11:16.74,Default,,0,0,0,,It's fine, right, Sensei?
 Dialogue: 10,0:11:17.07,0:11:19.32,Default,,0,0,0,,Well, but, I mean...
@@ -260,7 +262,7 @@ Dialogue: 10,0:15:41.46,0:15:43.55,Default,,0,0,0,,They said we could pick them 
 Dialogue: 10,0:15:43.67,0:15:48.18,Default,,0,0,0,,This photo makes it look like you're \Nsaying "I caught this starfish"
 Dialogue: 10,0:15:48.55,0:15:52.31,Default,,0,0,0,,I feel like Shiroko would be pretty good at fishing.
 Dialogue: 10,0:15:52.43,0:15:55.35,Default,,0,0,0,,I guess I might try it out if we get the chance.
-Dialogue: 10,0:15:55.73,0:15:58.98,Default,,0,0,0,,Maybe we should go to the real ocean next time.
+Dialogue: 10,0:15:55.73,0:15:58.98,Default,,0,0,0,,Maybe we should go to the actual ocean next time.
 Dialogue: 10,0:15:59.10,0:16:01.52,Default,,0,0,0,,That underwater tunnel was really cool, too.
 Dialogue: 10,0:16:01.65,0:16:04.15,Default,,0,0,0,,I'd love to go diving or something one day.
 Dialogue: 10,0:16:04.23,0:16:07.61,Default,,0,0,0,,I agree. If that happens, \Nwe should all go together again.
@@ -347,19 +349,19 @@ Dialogue: 10,0:20:31.46,0:20:33.67,Default,,0,0,0,,Thank you, Shiroko.
 Dialogue: 10,0:20:38.63,0:20:40.55,Default,,0,0,0,,But I have to do this.
 Dialogue: 10,0:20:42.51,0:20:44.14,Default,,0,0,0,,So, the time has finally come.
 Dialogue: 10,0:20:45.47,0:20:47.39,Default,,0,0,0,,Remember, this is the point of no return.
-Dialogue: 10,0:20:47.68,0:20:50.23,Default,,0,0,0,,Once things have been set in motion, \Nthere's no going back.
+Dialogue: 10,0:20:47.68,0:20:50.23,Default,,0,0,0,,Once things are set in motion, \Nthere's no going back.
 Dialogue: 10,0:22:44.63,0:22:46.39,Default,,0,0,0,,Are you okay, Shiroko?
 Dialogue: 10,0:22:46.72,0:22:48.97,Default,,0,0,0,,Yeah, I've calmed down a little.
 Dialogue: 10,0:22:51.97,0:22:53.64,Default,,0,0,0,,Sensei, look at this.
 Dialogue: 10,0:22:54.52,0:22:55.52,Default,,0,0,0,,What is it?
-Dialogue: 10,0:23:00.44,0:23:01.57,Default,,0,0,0,,Oh my god.
+Dialogue: 10,0:23:00.44,0:23:01.57,Default,,0,0,0,,Oh...
 Dialogue: 10,0:23:01.65,0:23:05.20,Default,,0,0,0,,Hoshino is hiding something from us.
 Dialogue: 10,0:23:05.91,0:23:07.99,Default,,0,0,0,,But I couldn't...
 Dialogue: 10,0:23:10.62,0:23:13.83,Default,,0,0,0,,I don't think it's that Hoshino doesn't trust you.
 Dialogue: 10,0:23:15.21,0:23:18.21,Default,,0,0,0,,Do you think you could let me handle this for now?
 Dialogue: 10,0:23:19.04,0:23:21.80,Default,,0,0,0,,I want to help Hoshino, too.
 Dialogue: 10,0:23:23.17,0:23:25.63,Default,,0,0,0,,If you say so, Sensei...
-Dialogue: 10,0:23:26.30,0:23:31.97,Default,,0,0,0,,I'm sure there are some things she can't say \Nexactly because she trusts and cares about you.
+Dialogue: 10,0:23:26.30,0:23:31.97,Default,,0,0,0,,I'm sure there are some things she can't say \N{\i1}because{\i0} she trusts and cares about you.
 Dialogue: 10,0:23:35.18,0:23:36.23,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:23:37.02,0:23:38.94,Default,,0,0,0,,{=3}Thank you, Sensei.
 
