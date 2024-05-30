@@ -77,15 +77,15 @@ Dialogue: 10,0:03:40.11,0:03:43.29,Default,,0,0,0,,In a sense, they breathe just
 Dialogue: 10,0:03:43.72,0:03:47.79,Default,,0,0,0,,We may look different, but on \Nthe inside, we're all built the same.
 Dialogue: 10,0:03:48.13,0:03:53.70,Default,,0,0,0,,Well, there are animals like whales \Nthat actually hold their breath while underwater, too.
 Dialogue: 10,0:03:53.70,0:03:58.35,Default,,0,0,0,,But that doesn't really count, \Nsince whales are mammals, not fish.
-Dialogue: 10,0:04:00.64,0:04:03.49,Default,,0,0,0,,Why's everyone all quiet? {TM: check link}
-Dialogue: 10,0:04:03.49,0:04:06.98,Default,,0,0,0,,Oh, sorry, I was just a little surprised... {TM: add split alt?}
+Dialogue: 10,0:04:00.64,0:04:03.49,Default,,0,0,0,,Why's everyone all quiet?
+Dialogue: 10,0:04:03.49,0:04:06.98,Default,,0,0,0,,Oh, sorry, I was just a little surprised...
 Dialogue: 10,0:04:06.98,0:04:10.06,Default,,0,0,0,,You actually said something smart for once.
 Dialogue: 10,0:04:10.06,0:04:10.82,Default,,0,0,0,,Didn't expect that.
 Dialogue: 10,0:04:10.82,0:04:11.98,Default,,0,0,0,,How rude!
 Dialogue: 10,0:04:12.30,0:04:14.62,Default,,0,0,0,,Wow, you're quite the encyclopedia.
 Dialogue: 10,0:04:14.62,0:04:17.99,Default,,0,0,0,,Hoshino knows a lot about fish, after all.
 Dialogue: 10,0:04:19.58,0:04:23.28,Default,,0,0,0,,Aw, shucks, you're making me blush.
-Dialogue: 10,0:04:24.37,0:04:27.83,Default,,0,0,0,,Aw, yeah, I love jellyfish! {TM: alt?}
+Dialogue: 10,0:04:24.37,0:04:27.83,Default,,0,0,0,,Aw, yeah, I love jellyfish!
 Dialogue: 10,0:04:27.83,0:04:30.79,Default,,0,0,0,,I agree! The way they glow is so cute!
 Dialogue: 10,0:04:31.49,0:04:34.66,Default,,0,0,0,,They aren't shining lights \Non them or anything, right?
 Dialogue: 10,0:04:34.66,0:04:37.80,Default,,0,0,0,,Nope. They glow all on their own!
@@ -117,7 +117,7 @@ Dialogue: 10,0:05:44.08,0:05:45.61,Default,,0,0,0,,Who, me?
 Dialogue: 10,0:05:45.61,0:05:47.70,Default,,0,0,0,,I think they're cute, of course!
 Dialogue: 10,0:05:47.70,0:05:49.27,Default,,0,0,0,,Nonomi!
 Dialogue: 10,0:05:49.27,0:05:52.27,Default,,0,0,0,,But I also think they look quite tasty!
-Dialogue: 10,0:05:53.33,0:05:55.33,Default,,0,0,0,,Sorry for the wait, girls. {TM: check leadin}
+Dialogue: 10,0:05:53.56,0:05:55.33,Default,,0,0,0,,Sorry for the wait, girls.
 Dialogue: 10,0:05:55.85,0:05:57.84,Default,,0,0,0,,What are you all chatting about?
 Dialogue: 10,0:05:58.90,0:06:03.55,Default,,0,0,0,,Hey, Serika, why don't we have \Nthe teacher decide at this point?
 Dialogue: 10,0:06:03.55,0:06:05.60,Default,,0,0,0,,Good idea, Hoshino.
@@ -141,7 +141,7 @@ Dialogue: 10,0:06:50.66,0:06:52.10,Default,,0,0,0,,You think so?
 Dialogue: 10,0:06:52.10,0:06:53.86,Default,,0,0,0,,What do you think, Nonomi?
 Dialogue: 10,0:06:53.86,0:06:55.27,Default,,0,0,0,,Hmm, let's see...
 Dialogue: 10,0:06:55.58,0:06:57.77,Default,,0,0,0,,If I had to pick one...
-Dialogue: 10,0:06:57.77,0:07:00.27,Default,,0,0,0,,maybe a penguin? {TM: check leadin snap}
+Dialogue: 10,0:06:57.77,0:07:00.27,Default,,0,0,0,,maybe a penguin?
 Dialogue: 10,0:07:00.27,0:07:02.17,Default,,0,0,0,,Huh? Really?
 Dialogue: 10,0:07:02.17,0:07:04.90,Default,,0,0,0,,Yes, I think they're quite similar!
 Dialogue: 10,0:07:05.92,0:07:08.47,Default,,0,0,0,,The way they both move is just adorable! {TRUE! --ML}
@@ -172,13 +172,13 @@ Dialogue: 10,0:08:38.75,0:08:39.71,Default,,0,0,0,,A whale. {Nah, that's Nonomi 
 Dialogue: 10,0:08:40.54,0:08:44.20,Default,,0,0,0,,What? No way. I'm so tiny!
 Dialogue: 10,0:08:44.20,0:08:46.63,Default,,0,0,0,,That's a bit of a stretch, wouldn't you say?
 Dialogue: 10,0:08:46.63,0:08:48.08,Default,,0,0,0,,Not really.
-Dialogue: 10,0:08:48.72,0:08:50.72,Default,,0,0,0,,I think you're similar. {TM: Check leadin snap?}
+Dialogue: 10,0:08:48.72,0:08:50.72,Default,,0,0,0,,I think you're similar.
 Dialogue: 10,0:08:51.30,0:08:53.77,Default,,0,0,0,,Like how they can swim while sleeping.
 Dialogue: 10,0:08:53.77,0:08:56.43,Default,,0,0,0,,Or how you can only see a part of them, even up close.
 Dialogue: 10,0:08:56.97,0:08:57.72,Default,,0,0,0,,And...
 Dialogue: 10,0:08:58.90,0:09:01.23,Default,,0,0,0,,How they're always holding their breath.
 Dialogue: 10,0:09:02.92,0:09:03.98,Default,,0,0,0,,Back then,
-Dialogue: 10,0:09:04.35,0:09:07.99,Default,,0,0,0,,you said that you had been taking a nap. {TM: check leadout snap}
+Dialogue: 10,0:09:04.35,0:09:07.99,Default,,0,0,0,,you said that you had been taking a nap.
 Dialogue: 10,0:09:07.99,0:09:09.99,Default,,0,0,0,,{\t(1450,1900,1,\3c&HFFFFFF&\4c&HFFFFFF&)}But that was a lie, wasn't it?
 Dialogue: 10,0:09:10.58,0:09:12.10,Default,,0,0,0,,Shiroko?
 Dialogue: 10,0:09:12.10,0:09:14.70,Default,,0,0,0,,Is there anything I can do to help?
@@ -188,7 +188,7 @@ Dialogue: 10,0:09:26.57,0:09:30.38,Default,,0,0,0,,Just like how you did for me 
 Dialogue: 10,0:09:35.43,0:09:37.89,Default,,0,0,0,,You're a sweet kid, Shiroko.
 Dialogue: 10,0:09:37.89,0:09:39.25,Default,,0,0,0,,Hoshino?
 Dialogue: 10,0:09:39.91,0:09:43.12,Default,,0,0,0,,But you know, that's exactly why...
-Dialogue: 10,0:09:43.85,0:09:46.66,Default,,0,0,0,,this old man can't get enough of you! {TM: figure out what to do with this leadin}
+Dialogue: 10,0:09:43.85,0:09:46.66,Default,,0,0,0,,this old man can't get enough of you!
 Dialogue: 10,0:09:48.28,0:09:50.65,Default,,0,0,0,,Gosh, you make me so happy!
 Dialogue: 10,0:09:51.24,0:09:54.41,Default,,0,0,0,,I'm lucky to have you in my class.
 Dialogue: 10,0:09:54.80,0:09:57.91,Default,,0,0,0,,My, it looks like the two of you \Nare getting along well.
@@ -218,7 +218,7 @@ Dialogue: 10,0:11:03.39,0:11:06.35,Default,,0,0,0,,Eh, you don't have to worry a
 Dialogue: 10,0:11:06.35,0:11:07.86,Default,,0,0,0,,Isn't that right, Sensei?
 Dialogue: 10,0:11:07.86,0:11:10.99,Default,,0,0,0,,Huh? Oh, uh, yeah...
 Dialogue: 10,0:11:10.99,0:11:14.11,Default,,0,0,0,,But you know, we could go for \Nsomething smaller, like a keychain...
-Dialogue: 10,0:11:14.11,0:11:16.61,Default,,0,0,0,,It's fine, right, Sensei? {TM: check leadin snap}
+Dialogue: 10,0:11:14.11,0:11:16.61,Default,,0,0,0,,It's fine, right, Sensei?
 Dialogue: 10,0:11:17.06,0:11:19.37,Default,,0,0,0,,Well, but, I mean...
 Comment: 10,0:11:19.66,0:11:21.37,Default,,0,0,0,,Sensei? {wiggly wiggly intonation --ik} {Like a jellyfish! --ML}
 Dialogue: 10,0:11:19.66,0:11:22.09,Default,,0,0,0,,Sensei? {wiggly wiggly intonation --ik} {Like a jellyfish! --ML}
@@ -228,8 +228,10 @@ Dialogue: 10,0:11:29.24,0:11:30.84,Default,,0,0,0,,Thank you, Sensei.
 Dialogue: 10,0:11:31.27,0:11:33.85,Default,,0,0,0,,I'm happy you like it.
 Dialogue: 10,0:11:36.60,0:11:40.25,Default,,0,0,0,,Hey, now that we're all here, let's take a picture!
 Dialogue: 10,0:11:40.25,0:11:41.43,Default,,0,0,0,,Great idea.
-Dialogue: 10,0:11:41.43,0:11:42.10,Default,,0,0,0,,I'm down. {TM: Check kf snap}
-Dialogue: 10,0:11:42.52,0:11:45.98,Default,,0,0,0,,In that case, I'll take the photo, \Nso the five of you, line up over there. {TM: add split}
+Dialogue: 10,0:11:41.43,0:11:42.10,Default,,0,0,0,,I'm down.
+Comment: 10,0:11:42.52,0:11:44.10,Default,,0,0,0,,In that case, I'll take the photo,
+Comment: 10,0:11:44.38,0:11:45.98,Default,,0,0,0,,so the five of you, line up over there.
+Dialogue: 10,0:11:42.52,0:11:45.98,Default,,0,0,0,,In that case, I'll take the photo, \Nso the five of you, line up over there.
 Dialogue: 10,0:11:45.98,0:11:48.94,Default,,0,0,0,,Huh? Are you not joining us?
 Dialogue: 10,0:11:48.94,0:11:51.09,Default,,0,0,0,,Oh, no, I'll be -
 Dialogue: 10,0:11:51.09,0:11:52.40,Default,,0,0,0,,Not happening.
@@ -248,7 +250,7 @@ Dialogue: 10,0:12:17.88,0:12:22.47,Default,,0,0,0,,I thought I might take the op
 Dialogue: 10,0:12:23.66,0:12:26.77,Default,,0,0,0,,But it seems it would be better \Nto save it for another time.
 Dialogue: 10,0:12:26.77,0:12:31.48,Default,,0,0,0,,If you'd like, we can take the photo for you.
 Dialogue: 10,0:12:31.48,0:12:32.94,Default,,0,0,0,,Are you sure?
-Dialogue: 10,0:12:32.94,0:12:35.34,Default,,0,0,0,,In that case, please do. {TM: check leadin snap}
+Dialogue: 10,0:12:32.94,0:12:35.34,Default,,0,0,0,,In that case, please do.
 Dialogue: 10,0:12:35.94,0:12:39.09,Default,,0,0,0,,Is everyone ready?
 Dialogue: 10,0:12:39.09,0:12:40.30,Default,,0,0,0,,Ready!
 Dialogue: 10,0:12:40.30,0:12:41.87,Default,,0,0,0,,All right, here we go.
@@ -258,130 +260,132 @@ Dialogue: 10,0:13:10.58,0:13:13.40,Default,,0,0,0,,I hope I'm just imagining thi
 Dialogue: 10,0:13:37.20,0:13:39.26,Default,,0,0,0,,The way I am now...
 Dialogue: 10,0:13:39.71,0:13:43.76,Default,,0,0,0,,am I doing as good a job as you were, back then?
 Dialogue: 10,0:13:45.22,0:13:46.57,Default,,0,0,0,,Yume.
-Dialogue: 10,0:14:29.10,0:14:30.39,Default,,0,0,0,,Hoshino?
-Dialogue: 10,0:14:39.32,0:14:40.48,Default,,0,0,0,,Just my imagination?
-Dialogue: 10,0:14:50.66,0:14:52.04,Default,,0,0,0,,Wasn't that...?
-Dialogue: 10,0:14:55.42,0:14:57.88,Default,,0,0,0,,Is this really Hoshino?
-Dialogue: 10,0:14:57.96,0:15:00.96,Default,,0,0,0,,She looks gorgeous in profile.
-Dialogue: 10,0:15:01.05,0:15:03.09,Default,,0,0,0,,She's gorgeous normally.
-Dialogue: 10,0:15:03.55,0:15:07.97,Default,,0,0,0,,Oh, right! Why don't I send this \Nto the group chat in Momotalk, too?
-Dialogue: 10,0:15:08.09,0:15:11.97,Default,,0,0,0,,In that case, let's all upload \Nthe photos we each took.
-Dialogue: 10,0:15:13.73,0:15:14.98,Default,,0,0,0,,Good morning.
-Dialogue: 10,0:15:15.35,0:15:16.77,Default,,0,0,0,,Good morning.
-Dialogue: 10,0:15:19.15,0:15:21.78,Default,,0,0,0,,If you're looking for Hoshino, she's not here yet.
-Dialogue: 10,0:15:21.86,0:15:24.24,Default,,0,0,0,,I'm sure she's off napping somewhere again.
-Dialogue: 10,0:15:24.44,0:15:25.49,Default,,0,0,0,,I see.
-Dialogue: 10,0:15:26.70,0:15:30.49,Default,,0,0,0,,Could you also send over \Nthe photos you took yesterday?
-Dialogue: 10,0:15:30.70,0:15:31.70,Default,,0,0,0,,Sure.
-Dialogue: 10,0:15:31.83,0:15:36.08,Default,,0,0,0,,That reminds me, I hadn't sent \Nanything besides the group photo.
-Dialogue: 10,0:15:36.79,0:15:39.38,Default,,0,0,0,,Whoa, where did you take this?
-Dialogue: 10,0:15:39.67,0:15:41.13,Default,,0,0,0,,There was a specimen area.
-Dialogue: 10,0:15:41.46,0:15:43.55,Default,,0,0,0,,They said we could pick them up, so...
-Dialogue: 10,0:15:43.67,0:15:48.18,Default,,0,0,0,,This photo makes it look like you're \Nsaying "I caught this starfish"
-Dialogue: 10,0:15:48.55,0:15:52.31,Default,,0,0,0,,I feel like Shiroko would be pretty good at fishing.
-Dialogue: 10,0:15:52.43,0:15:55.35,Default,,0,0,0,,I guess I might try it out if we get the chance.
-Dialogue: 10,0:15:55.73,0:15:58.98,Default,,0,0,0,,Maybe we should go to the actual ocean next time.
-Dialogue: 10,0:15:59.10,0:16:01.52,Default,,0,0,0,,That underwater tunnel was really cool, too.
-Dialogue: 10,0:16:01.65,0:16:04.15,Default,,0,0,0,,I'd love to go diving or something one day.
-Dialogue: 10,0:16:04.23,0:16:07.61,Default,,0,0,0,,I agree. If that happens, \Nwe should all go together again.
-Dialogue: 10,0:16:07.74,0:16:09.66,Default,,0,0,0,,Oh, in that case,
-Dialogue: 10,0:16:10.62,0:16:13.20,Default,,0,0,0,,Heya, everyone, how's it hanging?
-Dialogue: 10,0:16:13.28,0:16:15.41,Default,,0,0,0,,Hoshino, you're late!
-Dialogue: 10,0:16:15.54,0:16:17.04,Default,,0,0,0,,Sorry, sorry.
-Dialogue: 10,0:16:17.12,0:16:21.38,Default,,0,0,0,,I was just so comfy in my bed, \NI didn't want to move.
-Dialogue: 10,0:16:21.92,0:16:23.88,Default,,0,0,0,,So what's everyone up to?
-Dialogue: 10,0:16:24.38,0:16:27.38,Default,,0,0,0,,We were looking at the photos \Nfrom yesterday's aquarium trip.
-Dialogue: 10,0:16:27.55,0:16:29.18,Default,,0,0,0,,Oooh, nice!
-Dialogue: 10,0:16:29.26,0:16:31.34,Default,,0,0,0,,Let this old man join in on the fun!
-Dialogue: 10,0:16:31.55,0:16:34.43,Default,,0,0,0,,Did you not take any pictures, Hoshino?
-Dialogue: 10,0:16:34.72,0:16:37.98,Default,,0,0,0,,All this fancy technology's \Ntoo much for someone my age.
-Dialogue: 10,0:16:38.06,0:16:39.77,Default,,0,0,0,,Fancy technology...?
-Dialogue: 10,0:16:39.89,0:16:41.31,Default,,0,0,0,,Don't worry!
-Dialogue: 10,0:16:41.60,0:16:46.53,Default,,0,0,0,,I made sure to take plenty of photos \Nof both Hoshino and everyone else!
-Dialogue: 10,0:16:46.61,0:16:48.32,Default,,0,0,0,,Great work, Nonomi!
-Dialogue: 10,0:16:48.49,0:16:53.74,Default,,0,0,0,,Is what I'd like to say, but I knew you'd be \Ntoo busy taking photos for everyone else,
-Dialogue: 10,0:16:53.83,0:16:55.99,Default,,0,0,0,,so I made sure to take plenty of you as well!
-Dialogue: 10,0:16:56.16,0:16:58.41,Default,,0,0,0,,I also have many pictures of you!
-Dialogue: 10,0:16:59.25,0:17:01.92,Default,,0,0,0,,Serika, Ayane.
-Dialogue: 10,0:17:02.25,0:17:04.09,Default,,0,0,0,,Thank you!
-Dialogue: 10,0:17:04.29,0:17:07.05,Default,,0,0,0,,You're both so thoughtful! I'm touched!
-Dialogue: 10,0:17:13.89,0:17:16.93,Default,,0,0,0,,Hey, Shiroko. Aren't you going to join them?
-Dialogue: 10,0:17:18.02,0:17:19.02,Default,,0,0,0,,Actually...
-Dialogue: 10,0:17:19.06,0:17:21.23,Default,,0,0,0,,Of course, I love you two as well!
-Dialogue: 10,0:17:24.73,0:17:29.11,Default,,0,0,0,,Well then, everyone, that's it \Nfor today's general meeting.
-Dialogue: 10,0:17:29.32,0:17:30.36,Default,,0,0,0,,Got it.
-Dialogue: 10,0:17:29.32,0:17:30.36,Default,,0,0,0,,
-Dialogue: 10,0:17:30.90,0:17:32.41,Default,,0,0,0,,See you tomorrow.
-Dialogue: 10,0:17:33.82,0:17:35.37,Default,,0,0,0,,I'll also be heading home now.
-Dialogue: 10,0:17:36.33,0:17:39.33,Default,,0,0,0,,I'll pay Sensei a visit before heading back.
-Dialogue: 10,0:17:39.45,0:17:40.46,Default,,0,0,0,,Okay.
-Dialogue: 10,0:17:44.17,0:17:46.80,Default,,0,0,0,,I think I'll go home and have a nice snooze.
-Dialogue: 10,0:17:48.25,0:17:49.42,Default,,0,0,0,,Hoshino.
-Dialogue: 10,0:17:49.76,0:17:51.51,Default,,0,0,0,,Hm? What's up?
-Dialogue: 10,0:17:56.14,0:17:58.06,Default,,0,0,0,,Where were you this morning?
-Dialogue: 10,0:17:58.35,0:18:00.35,Default,,0,0,0,,I already told you, didn't I?
-Dialogue: 10,0:18:00.43,0:18:03.56,Default,,0,0,0,,I didn't go anywhere, I just overslept, that's all.
-Dialogue: 10,0:18:04.06,0:18:05.06,Default,,0,0,0,,Really?
-Dialogue: 10,0:18:06.06,0:18:07.69,Default,,0,0,0,,What's the matter, Shiroko?
-Dialogue: 10,0:18:07.90,0:18:09.32,Default,,0,0,0,,Did something happen?
-Dialogue: 10,0:18:09.61,0:18:10.61,Default,,0,0,0,,
-Dialogue: 10,0:18:11.44,0:18:15.03,Default,,0,0,0,,I thought I saw you in town this morning.
-Dialogue: 10,0:18:17.58,0:18:19.83,Default,,0,0,0,,I'm sure you had the wrong person.
-Dialogue: 10,0:18:20.50,0:18:23.96,Default,,0,0,0,,There are plenty of girls out there who look just like me.
-Dialogue: 10,0:18:24.37,0:18:28.46,Default,,0,0,0,,You're probably just seeing things \Nbecause you're still tired from yesterday.
-Dialogue: 10,0:18:29.05,0:18:31.38,Default,,0,0,0,,Let's just go home and take it easy for today.
-Dialogue: 10,0:18:30.13,0:18:31.38,Default,,0,0,0,,Hoshino.
-Dialogue: 10,0:18:31.51,0:18:33.01,Default,,0,0,0,,You're hiding something from -
-Dialogue: 10,0:18:36.30,0:18:38.10,Default,,0,0,0,,What? Pictures of me?
-Dialogue: 10,0:18:38.43,0:18:42.18,Default,,0,0,0,,Yes! I'll send them over along with everyone else's.
-Dialogue: 10,0:18:42.48,0:18:44.06,Default,,0,0,0,,Oh, uh, thanks.
-Dialogue: 10,0:18:45.40,0:18:46.94,Default,,0,0,0,,Oww...
-Dialogue: 10,0:18:47.27,0:18:49.52,Default,,0,0,0,,That hurts, Shiroko.
-Dialogue: 10,0:18:50.44,0:18:52.40,Default,,0,0,0,,Hoshino, what is this?
-Dialogue: 10,0:18:53.82,0:18:55.45,Default,,0,0,0,,It's just a form.
-Dialogue: 10,0:18:55.82,0:18:58.83,Default,,0,0,0,,It doesn't mean anything yet, so relax.
-Dialogue: 10,0:18:58.91,0:19:00.66,Default,,0,0,0,,As if I can relax.
-Dialogue: 10,0:19:00.87,0:19:03.00,Default,,0,0,0,,What do you mean, "yet"?
-Dialogue: 10,0:19:04.29,0:19:06.50,Default,,0,0,0,,How should I put this...
-Dialogue: 10,0:19:10.00,0:19:12.21,Default,,0,0,0,,Hoshino? Shiroko?
-Dialogue: 10,0:19:13.21,0:19:14.84,Default,,0,0,0,,What's going on, you two?
-Dialogue: 10,0:19:15.17,0:19:16.76,Default,,0,0,0,,We're, I mean...
-Dialogue: 10,0:19:17.22,0:19:19.26,Default,,0,0,0,,What on earth happened?
-Dialogue: 10,0:19:20.72,0:19:21.72,Default,,0,0,0,,Shiroko.
-Dialogue: 10,0:19:22.10,0:19:24.48,Default,,0,0,0,,I'm sorry, but just leave us alone.
-Dialogue: 10,0:19:28.98,0:19:30.40,Default,,0,0,0,,I'm afraid I can't do that.
-Dialogue: 10,0:19:31.69,0:19:36.82,Default,,0,0,0,,There are no secrets \Nbetween members of the Task Force.
-Dialogue: 10,0:19:37.61,0:19:41.53,Default,,0,0,0,,After all, we're all in this together, as a team!
-Dialogue: 10,0:19:41.87,0:19:42.66,Default,,0,0,0,,But -
-Dialogue: 10,0:19:42.66,0:19:44.29,Default,,0,0,0,,Sorry about that.
-Dialogue: 10,0:19:44.45,0:19:47.75,Default,,0,0,0,,It's really not a big deal, so it's fine.
-Dialogue: 10,0:19:48.50,0:19:50.75,Default,,0,0,0,,Shiroko's such a worrywart.
-Dialogue: 10,0:19:52.59,0:19:56.22,Default,,0,0,0,,But I really do appreciate the thought, honest.
-Dialogue: 10,0:19:58.26,0:20:00.80,Default,,0,0,0,,Wait, Hoshino, I'm not done -
-Dialogue: 10,0:20:00.80,0:20:01.60,Default,,0,0,0,,Shiroko.
-Dialogue: 10,0:20:02.97,0:20:07.23,Default,,0,0,0,,I don't know what's going on, but maybe \Nyou should leave her alone for a little bit.
-Dialogue: 10,0:20:07.31,0:20:09.48,Default,,0,0,0,,But Hoshino's -
+Dialogue: 10,0:14:29.03,0:14:31.06,Default,,0,0,0,,Hoshino?
+Dialogue: 10,0:14:39.34,0:14:40.66,Default,,0,0,0,,Just my imagination?
+Dialogue: 10,0:14:50.73,0:14:52.22,Default,,0,0,0,,Wasn't that...?
+Dialogue: 10,0:14:55.25,0:14:57.75,Default,,0,0,0,,Is this really Hoshino?
+Dialogue: 10,0:14:57.75,0:15:01.02,Default,,0,0,0,,She looks gorgeous in profile.
+Dialogue: 10,0:15:01.02,0:15:03.01,Default,,0,0,0,,She's gorgeous normally.
+Dialogue: 10,0:15:03.52,0:15:08.06,Default,,0,0,0,,Oh, right! Why don't I send this \Nto the group chat in Momotalk, too?
+Dialogue: 10,0:15:08.06,0:15:12.08,Default,,0,0,0,,In that case, let's all upload \Nthe photos we each took.
+Dialogue: 10,0:15:13.76,0:15:15.32,Default,,0,0,0,,Good morning.
+Dialogue: 10,0:15:15.32,0:15:16.97,Default,,0,0,0,,Good morning.
+Dialogue: 10,0:15:19.16,0:15:21.53,Default,,0,0,0,,If you're looking for Hoshino, she's not here yet.
+Dialogue: 10,0:15:21.86,0:15:24.44,Default,,0,0,0,,I'm sure she's off napping somewhere again.
+Dialogue: 10,0:15:24.44,0:15:25.71,Default,,0,0,0,,I see.
+Dialogue: 10,0:15:26.61,0:15:30.73,Default,,0,0,0,,Could you also send over \Nthe photos you took yesterday?
+Dialogue: 10,0:15:30.73,0:15:31.82,Default,,0,0,0,,Sure.
+Dialogue: 10,0:15:31.82,0:15:36.29,Default,,0,0,0,,That reminds me, I hadn't sent \Nanything besides the group photo.
+Dialogue: 10,0:15:36.82,0:15:39.64,Default,,0,0,0,,Whoa, where did you take this?
+Dialogue: 10,0:15:39.64,0:15:41.04,Default,,0,0,0,,There was a specimen area.
+Dialogue: 10,0:15:41.47,0:15:43.68,Default,,0,0,0,,They said we could pick them up, so...
+Dialogue: 10,0:15:43.68,0:15:48.52,Default,,0,0,0,,This photo makes it look like you're \Nsaying "I caught this starfish"
+Dialogue: 10,0:15:48.52,0:15:52.31,Default,,0,0,0,,I feel like Shiroko would be pretty good at fishing.
+Dialogue: 10,0:15:52.31,0:15:55.74,Default,,0,0,0,,I guess I might try it out if we get the chance.
+Dialogue: 10,0:15:55.74,0:15:59.12,Default,,0,0,0,,Maybe we should go to the actual ocean next time.
+Dialogue: 10,0:15:59.12,0:16:01.58,Default,,0,0,0,,That underwater tunnel was really cool, too.
+Dialogue: 10,0:16:01.58,0:16:04.12,Default,,0,0,0,,I'd love to go diving or something one day.
+Dialogue: 10,0:16:04.12,0:16:07.61,Default,,0,0,0,,I agree. If that happens, \Nwe should all go together again.
+Dialogue: 10,0:16:07.61,0:16:09.79,Default,,0,0,0,,Oh, in that case,
+Dialogue: 10,0:16:10.62,0:16:13.04,Default,,0,0,0,,Heya, everyone, how's it hanging?
+Dialogue: 10,0:16:13.04,0:16:15.42,Default,,0,0,0,,Hoshino, you're late!
+Dialogue: 10,0:16:15.42,0:16:17.10,Default,,0,0,0,,Sorry, sorry.
+Dialogue: 10,0:16:17.10,0:16:21.71,Default,,0,0,0,,I was just so comfy in my bed, \NI didn't want to move.
+Dialogue: 10,0:16:21.71,0:16:24.30,Default,,0,0,0,,So what's everyone up to?
+Dialogue: 10,0:16:24.30,0:16:27.50,Default,,0,0,0,,We were looking at the photos \Nfrom yesterday's aquarium trip.
+Dialogue: 10,0:16:27.50,0:16:29.23,Default,,0,0,0,,Oooh, nice!
+Dialogue: 10,0:16:29.23,0:16:31.22,Default,,0,0,0,,Let this old man join in on the fun!
+Dialogue: 10,0:16:31.51,0:16:34.66,Default,,0,0,0,,Did you not take any pictures, Hoshino?
+Dialogue: 10,0:16:34.66,0:16:37.73,Default,,0,0,0,,All this fancy technology's \Ntoo much for someone my age.
+Dialogue: 10,0:16:38.01,0:16:39.82,Default,,0,0,0,,Fancy technology...?
+Dialogue: 10,0:16:39.82,0:16:41.36,Default,,0,0,0,,Don't worry!
+Dialogue: 10,0:16:41.36,0:16:46.52,Default,,0,0,0,,I made sure to take plenty of photos \Nof both Hoshino and everyone else!
+Dialogue: 10,0:16:46.52,0:16:48.41,Default,,0,0,0,,Great work, Nonomi!
+Dialogue: 10,0:16:48.41,0:16:53.76,Default,,0,0,0,,Is what I'd like to say, but I knew you'd be \Ntoo busy taking photos for everyone else,
+Dialogue: 10,0:16:53.76,0:16:56.14,Default,,0,0,0,,so I made sure to take plenty of you as well!
+Dialogue: 10,0:16:56.14,0:16:58.37,Default,,0,0,0,,I also have many pictures of you!
+Dialogue: 10,0:16:59.24,0:17:01.88,Default,,0,0,0,,Serika, Ayane.
+Dialogue: 10,0:17:02.22,0:17:04.17,Default,,0,0,0,,Thank you!
+Dialogue: 10,0:17:04.17,0:17:07.30,Default,,0,0,0,,You're both so thoughtful! I'm touched!
+Dialogue: 10,0:17:13.90,0:17:17.05,Default,,0,0,0,,Hey, Shiroko. Aren't you going to join them?
+Dialogue: 10,0:17:17.99,0:17:18.77,Default,,0,0,0,,Actually...
+Dialogue: 10,0:17:18.77,0:17:21.02,Default,,0,0,0,,Of course, I love you two as well!
+Comment: 10,0:17:24.66,0:17:25.52,Default,,0,0,0,,Well then, everyone,
+Comment: 10,0:17:26.04,0:17:29.20,Default,,0,0,0,,that's it for today's general meeting.
+Dialogue: 10,0:17:24.66,0:17:29.20,Default,,0,0,0,,Well then, everyone, that's it \Nfor today's general meeting.
+Dialogue: 10,0:17:29.20,0:17:30.28,Default,,0,0,0,,Got it.
+Comment: 10,0:17:29.20,0:17:30.28,Default,,0,0,0,,
+Dialogue: 10,0:17:30.85,0:17:32.65,Default,,0,0,0,,See you tomorrow.
+Dialogue: 10,0:17:33.78,0:17:35.69,Default,,0,0,0,,I'll also be heading home now.
+Dialogue: 10,0:17:36.29,0:17:39.50,Default,,0,0,0,,I'll pay Sensei a visit before heading back.
+Dialogue: 10,0:17:39.50,0:17:40.26,Default,,0,0,0,,Okay.
+Dialogue: 10,0:17:44.14,0:17:46.96,Default,,0,0,0,,I think I'll go home and have a nice snooze.
+Dialogue: 10,0:17:48.26,0:17:49.77,Default,,0,0,0,,Hoshino.
+Dialogue: 10,0:17:49.77,0:17:51.47,Default,,0,0,0,,Hm? What's up?
+Dialogue: 10,0:17:56.14,0:17:57.97,Default,,0,0,0,,Where were you this morning?
+Dialogue: 10,0:17:58.31,0:18:00.43,Default,,0,0,0,,I already told you, didn't I?
+Dialogue: 10,0:18:00.43,0:18:03.44,Default,,0,0,0,,I didn't go anywhere, I just overslept, that's all.
+Dialogue: 10,0:18:04.03,0:18:05.31,Default,,0,0,0,,Really?
+Dialogue: 10,0:18:06.04,0:18:07.97,Default,,0,0,0,,What's the matter, Shiroko?
+Dialogue: 10,0:18:07.97,0:18:09.50,Default,,0,0,0,,Did something happen?
+Comment: 10,0:18:09.71,0:18:10.44,Default,,0,0,0,,
+Dialogue: 10,0:18:11.46,0:18:15.45,Default,,0,0,0,,I thought I saw you in town this morning.
+Dialogue: 10,0:18:17.45,0:18:20.20,Default,,0,0,0,,I'm sure you had the wrong person.
+Dialogue: 10,0:18:20.43,0:18:24.30,Default,,0,0,0,,There are plenty of girls out there who look just like me.
+Dialogue: 10,0:18:24.30,0:18:28.96,Default,,0,0,0,,You're probably just seeing things \Nbecause you're still tired from yesterday.
+Dialogue: 10,0:18:28.96,0:18:31.38,Default,,0,0,0,,Let's just go home and take it easy for today.
+Dialogue: 10,0:18:30.06,0:18:31.38,Alt,,0,0,0,,Hoshino.
+Dialogue: 10,0:18:31.38,0:18:32.80,Default,,0,0,0,,You're hiding something from -
+Dialogue: 10,0:18:36.28,0:18:38.10,Default,,0,0,0,,What? Pictures of me?
+Dialogue: 10,0:18:38.36,0:18:42.35,Default,,0,0,0,,Yes! I'll send them over along with everyone else's.
+Dialogue: 10,0:18:42.35,0:18:44.27,Default,,0,0,0,,Oh, uh, thanks.
+Dialogue: 10,0:18:45.38,0:18:47.02,Default,,0,0,0,,Oww...
+Dialogue: 10,0:18:47.27,0:18:50.19,Default,,0,0,0,,That hurts, Shiroko.
+Dialogue: 10,0:18:50.45,0:18:52.64,Default,,0,0,0,,Hoshino, what is this?
+Dialogue: 10,0:18:53.82,0:18:55.49,Default,,0,0,0,,It's just a form.
+Dialogue: 10,0:18:55.80,0:18:58.82,Default,,0,0,0,,It doesn't mean anything yet, so relax.
+Dialogue: 10,0:18:58.82,0:19:00.85,Default,,0,0,0,,As if I can relax.
+Dialogue: 10,0:19:00.85,0:19:02.87,Default,,0,0,0,,What do you mean, "yet"?
+Dialogue: 10,0:19:04.23,0:19:06.72,Default,,0,0,0,,How should I put this...
+Dialogue: 10,0:19:09.94,0:19:12.35,Default,,0,0,0,,Hoshino? Shiroko?
+Dialogue: 10,0:19:13.18,0:19:15.13,Default,,0,0,0,,What's going on, you two?
+Dialogue: 10,0:19:15.13,0:19:17.05,Default,,0,0,0,,We're, I mean...
+Dialogue: 10,0:19:17.05,0:19:19.50,Default,,0,0,0,,What on earth happened?
+Dialogue: 10,0:19:20.72,0:19:22.05,Default,,0,0,0,,Shiroko.
+Dialogue: 10,0:19:22.05,0:19:24.43,Default,,0,0,0,,I'm sorry, but just leave us alone.
+Dialogue: 10,0:19:28.90,0:19:30.32,Default,,0,0,0,,I'm afraid I can't do that.
+Dialogue: 10,0:19:31.70,0:19:37.07,Default,,0,0,0,,There are no secrets \Nbetween members of the Task Force.
+Dialogue: 10,0:19:37.58,0:19:41.70,Default,,0,0,0,,After all, we're all in this together, as a team!
+Dialogue: 10,0:19:41.70,0:19:42.54,Default,,0,0,0,,But -
+Dialogue: 10,0:19:42.54,0:19:44.08,Default,,0,0,0,,Sorry about that.
+Dialogue: 10,0:19:44.43,0:19:47.83,Default,,0,0,0,,It's really not a big deal, so it's fine.
+Dialogue: 10,0:19:48.45,0:19:51.34,Default,,0,0,0,,Shiroko's such a worrywart.
+Dialogue: 10,0:19:52.58,0:19:56.09,Default,,0,0,0,,But I really do appreciate the thought, honest.
+Dialogue: 10,0:19:58.27,0:20:00.68,Default,,0,0,0,,Wait, Hoshino, I'm not done -
+Dialogue: 10,0:20:00.68,0:20:02.26,Default,,0,0,0,,Shiroko.
+Dialogue: 10,0:20:02.98,0:20:07.28,Default,,0,0,0,,I don't know what's going on, but maybe \Nyou should leave her alone for a little bit.
+Dialogue: 10,0:20:07.28,0:20:09.15,Default,,0,0,0,,But Hoshino's -
 Dialogue: 10,0:20:09.90,0:20:14.40,Default,,0,0,0,,Everyone has something that \Nthey'd rather not talk about.
-Dialogue: 10,0:20:20.74,0:20:21.91,Default,,0,0,0,,Hoshino...
-Dialogue: 10,0:20:31.46,0:20:33.67,Default,,0,0,0,,Thank you, Shiroko.
-Dialogue: 10,0:20:38.63,0:20:40.55,Default,,0,0,0,,But I have to do this.
-Dialogue: 10,0:20:42.51,0:20:44.14,Default,,0,0,0,,So, the time has finally come.
-Dialogue: 10,0:20:45.47,0:20:47.39,Default,,0,0,0,,Remember, this is the point of no return.
-Dialogue: 10,0:20:47.68,0:20:50.23,Default,,0,0,0,,Once things are set in motion, \Nthere's no going back.
-Dialogue: 10,0:22:44.63,0:22:46.39,Default,,0,0,0,,Are you okay, Shiroko?
-Dialogue: 10,0:22:46.72,0:22:48.97,Default,,0,0,0,,Yeah, I've calmed down a little.
-Dialogue: 10,0:22:51.97,0:22:53.64,Default,,0,0,0,,Sensei, look at this.
-Dialogue: 10,0:22:54.52,0:22:55.52,Default,,0,0,0,,What is it?
-Dialogue: 10,0:23:00.44,0:23:01.57,Default,,0,0,0,,Oh...
-Dialogue: 10,0:23:01.65,0:23:05.20,Default,,0,0,0,,Hoshino is hiding something from us.
-Dialogue: 10,0:23:05.91,0:23:07.99,Default,,0,0,0,,But I couldn't...
-Dialogue: 10,0:23:10.62,0:23:13.83,Default,,0,0,0,,I don't think it's that Hoshino doesn't trust you.
-Dialogue: 10,0:23:15.21,0:23:18.21,Default,,0,0,0,,Do you think you could let me handle this for now?
-Dialogue: 10,0:23:19.04,0:23:21.80,Default,,0,0,0,,I want to help Hoshino, too.
-Dialogue: 10,0:23:23.17,0:23:25.63,Default,,0,0,0,,If you say so, Sensei...
-Dialogue: 10,0:23:26.30,0:23:31.97,Default,,0,0,0,,I'm sure there are some things she can't say \N{\i1}because{\i0} she trusts and cares about you.
-Dialogue: 10,0:23:35.18,0:23:36.23,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:23:37.02,0:23:38.94,Default,,0,0,0,,{=3}Thank you, Sensei.
+Dialogue: 10,0:20:20.78,0:20:21.97,Default,,0,0,0,,Hoshino...
+Dialogue: 10,0:20:31.53,0:20:33.86,Default,,0,0,0,,Thank you, Shiroko.
+Dialogue: 10,0:20:38.64,0:20:40.70,Default,,0,0,0,,But I have to do this.
+Dialogue: 10,0:20:42.51,0:20:44.43,Default,,0,0,0,,So, the time has finally come.
+Dialogue: 10,0:20:45.42,0:20:47.70,Default,,0,0,0,,Remember, this is the point of no return.
+Dialogue: 10,0:20:47.70,0:20:50.44,Default,,0,0,0,,Once things are set in motion, \Nthere's no going back.
+Dialogue: 10,0:22:44.64,0:22:46.70,Default,,0,0,0,,Are you okay, Shiroko?
+Dialogue: 10,0:22:46.70,0:22:48.93,Default,,0,0,0,,Yeah, I've calmed down a little.
+Dialogue: 10,0:22:52.02,0:22:53.94,Default,,0,0,0,,Sensei, look at this.
+Dialogue: 10,0:22:54.51,0:22:55.46,Default,,0,0,0,,What is it?
+Dialogue: 10,0:23:00.46,0:23:01.64,Default,,0,0,0,,Oh...
+Dialogue: 10,0:23:01.64,0:23:05.94,Default,,0,0,0,,Hoshino is hiding something from us.
+Dialogue: 10,0:23:05.94,0:23:08.45,Default,,0,0,0,,But I couldn't...
+Dialogue: 10,0:23:10.66,0:23:14.46,Default,,0,0,0,,I don't think it's that Hoshino doesn't trust you.
+Dialogue: 10,0:23:15.20,0:23:18.40,Default,,0,0,0,,Do you think you could let me handle this for now?
+Dialogue: 10,0:23:19.08,0:23:21.98,Default,,0,0,0,,I want to help Hoshino, too.
+Dialogue: 10,0:23:23.14,0:23:26.31,Default,,0,0,0,,If you say so, Sensei...
+Dialogue: 10,0:23:26.31,0:23:32.11,Default,,0,0,0,,I'm sure there are some things she can't say \N{\i1}because{\i0} she trusts and cares about you.
+Dialogue: 10,0:23:35.25,0:23:36.09,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:23:37.00,0:23:39.19,Default,,0,0,0,,{=3}Thank you, Sensei.
 
 [Aegisub Extradata]
 Data: 2,_aegi_folddata,e0;0;1
