@@ -146,7 +146,7 @@ Dialogue: 10,0:06:55.58,0:06:57.77,Default,,0,0,0,,If I had to pick one...
 Dialogue: 10,0:06:57.77,0:07:00.27,Default,,0,0,0,,Maybe a penguin?
 Dialogue: 10,0:07:00.27,0:07:02.17,Default,,0,0,0,,Huh? Really?
 Dialogue: 10,0:07:02.17,0:07:04.90,Default,,0,0,0,,Yes, I think they're quite similar!
-Dialogue: 10,0:07:05.92,0:07:08.47,Default,,0,0,0,,Like how cute they are when they waddle their feet! {TRUE! --ML}
+Dialogue: 10,0:07:05.92,0:07:08.47,Default,,0,0,0,,Like how cute they are when they waddle their feet! {TRUE! --ML}{holy}
 Dialogue: 10,0:07:17.20,0:07:18.82,Default,,0,0,0,,Did you see that?
 Dialogue: 10,0:07:18.82,0:07:22.17,Default,,0,0,0,,Yeah! It just jumped higher than our heads!
 Dialogue: 10,0:07:24.14,0:07:27.59,Default,,0,0,0,,Hey, look, does that mean \Nthey'll jump even higher next?
@@ -208,7 +208,7 @@ Dialogue: 10,0:10:30.79,0:10:33.17,Default,,0,0,0,,I wonder if we can even bring
 Dialogue: 10,0:10:33.17,0:10:35.74,Default,,0,0,0,,Even if you {\i1}did{\i0} buy it, where would you put it?
 Dialogue: 10,0:10:36.34,0:10:38.24,Default,,0,0,0,,I'm sure {*}Teach{*Sensei} would figure something out.
 Dialogue: 10,0:10:36.32,0:10:37.53,Alt,,0,0,0,,{\an8}True. {I don't even think this really needs to be subbed tbh}
-Dialogue: 10,0:10:38.24,0:10:41.73,Default,,0,0,0,,That one's very cute, too.
+Dialogue: 10,0:10:38.24,0:10:41.73,Default,,0,0,0,,Speaking of cute, Hoshino{**-senpai} \Nand that whale sure are cute, too.
 Dialogue: 10,0:10:47.76,0:10:51.23,Default,,0,0,0,,Did you find anything you like, Shiroko{**-chan}?
 Dialogue: 10,0:10:51.23,0:10:51.96,Default,,0,0,0,,Well...
 Dialogue: 10,0:10:52.68,0:10:54.97,Default,,0,0,0,,I thought this was cute.
@@ -224,7 +224,7 @@ Dialogue: 10,0:11:19.66,0:11:22.09,Default,,0,0,0,,{*}Teacher{*Sensei}? {wiggly 
 Dialogue: 10,0:11:25.73,0:11:27.58,Default,,0,0,0,,O-Of course!
 Dialogue: 10,0:11:27.84,0:11:29.24,Default,,0,0,0,,Sweet!
 Dialogue: 10,0:11:29.24,0:11:30.84,Default,,0,0,0,,Thank you, {*}Teacher{*Sensei}.
-Dialogue: 10,0:11:31.27,0:11:33.85,Default,,0,0,0,,I'm happy you like it.
+Dialogue: 10,0:11:31.27,0:11:33.85,Default,,0,0,0,,I'm happy if you're happy.
 Dialogue: 10,0:11:36.60,0:11:40.25,Default,,0,0,0,,Hey, now that we're all here, let's take a picture!
 Dialogue: 10,0:11:40.25,0:11:41.43,Default,,0,0,0,,Great idea.
 Dialogue: 10,0:11:41.43,0:11:42.10,Default,,0,0,0,,I'm down.
@@ -297,7 +297,7 @@ Dialogue: 10,0:16:34.66,0:16:37.73,Default,,0,0,0,,All this fancy technology's a
 Dialogue: 10,0:16:38.01,0:16:39.82,Default,,0,0,0,,Fancy technology?
 Dialogue: 10,0:16:39.82,0:16:41.36,Default,,0,0,0,,Don't worry!
 Dialogue: 10,0:16:41.36,0:16:46.52,Default,,0,0,0,,I made sure to take plenty of pics \Nof both you and everyone else!
-Dialogue: 10,0:16:46.52,0:16:48.41,Default,,0,0,0,,Nice thinking, Nonomi{**-senpai}!
+Dialogue: 10,0:16:46.52,0:16:48.41,Default,,0,0,0,,Nice thinking, Nonomi{**-senpai}!{"thinking" instead of "going"?}{### ambivalent. Will leave to petz to decide which he likes more.}
 Dialogue: 10,0:16:48.41,0:16:53.76,Default,,0,0,0,,Is what I'd like to say, but I knew \Nyou'd be too busy taking pics of us,
 Dialogue: 10,0:16:53.76,0:16:56.14,Default,,0,0,0,,so I made sure to take plenty of you as well!
 Dialogue: 10,0:16:56.14,0:16:58.37,Default,,0,0,0,,I also have many pictures of you!
