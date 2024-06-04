@@ -44,7 +44,7 @@ Dialogue: 10,0:00:16.29,0:00:17.37,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:00:19.42,0:00:22.73,Default,,0,0,0,,Hey, Ayane{**-chan}, what should we\nlook at first when we get there?
 Dialogue: 10,0:00:22.73,0:00:25.62,Default,,0,0,0,,Good question. I think I'd like\nto go see the sea turtles.
 Dialogue: 10,0:00:25.62,0:00:28.66,Default,,0,0,0,,Huh? Wouldn't you normally start with the fish?
-Dialogue: 10,0:00:28.66,0:00:31.39,Default,,0,0,0,,Shiroko{**-senpai}, Hoshino{**-senpai}, back me up here.
+Dialogue: 10,0:00:28.66,0:00:31.39,Default,,0,0,0,ED,Shiroko{**-senpai}, Hoshino{**-senpai}, back me up here.{consider "Back me up here, you two." -p}
 Dialogue: 10,0:00:31.39,0:00:33.76,Default,,0,0,0,,You have a point.
 Dialogue: 10,0:00:33.76,0:00:35.38,Default,,0,0,0,,Let's start with the seahorses then.
 Dialogue: 10,0:00:35.38,0:00:36.89,Default,,0,0,0,,That's also weirdly specific...
@@ -58,8 +58,8 @@ Dialogue: 10,0:02:36.82,0:02:40.10,Default,,0,0,0,,This aquarium is so big!
 Dialogue: 10,0:02:40.10,0:02:42.27,Default,,0,0,0,,We may not be able to see everything.
 Dialogue: 10,0:02:42.27,0:02:44.10,Default,,0,0,0,,What? Is it {\i1}that{\i0} big?
 Dialogue: 10,0:02:46.20,0:02:50.86,Default,,0,0,0,,It seems like in addition to the fish tanks,\nthe penguin area, and the dolphin show,
-Dialogue: 10,0:02:50.86,0:02:54.71,Default,,0,0,0,,they also offer a variety\nof other attractions and shops!
-Dialogue: 10,0:02:54.71,0:02:57.74,Default,,0,0,0,,That's a lot. Do we try to rush\nthrough each one of them?
+Dialogue: 10,0:02:50.86,0:02:54.71,Default,,0,0,0,ED,they also offer a variety\nof other attractions and shops!{unsure of linebreak -p}
+Dialogue: 10,0:02:54.71,0:02:57.74,Default,,0,0,0,ED,That's a lot. Do we try to rush\nthrough each one of them?{"each" feels wrong here? maybe "every one" or "all of them" -p}
 Dialogue: 10,0:02:57.99,0:03:01.46,Default,,0,0,0,,Now, now, the aquarium isn't gonna run away.
 Dialogue: 10,0:03:01.46,0:03:04.37,Default,,0,0,0,,We can always come back\nanother time if we have to.
 Comment: 10,0:03:04.65,0:03:05.63,Default,,0,0,0,,{Ojisan noises}
@@ -68,7 +68,7 @@ Dialogue: 10,0:03:08.28,0:03:09.63,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:03:08.28,0:03:09.63,Alt,,0,0,0,,Yes!
 Dialogue: 10,0:03:13.61,0:03:15.38,Default,,0,0,0,,It keeps opening its mouth!
 Dialogue: 10,0:03:15.38,0:03:17.49,Default,,0,0,0,,Maybe that's how it breathes?
-Dialogue: 10,0:03:17.49,0:03:19.11,Default,,0,0,0,,Probably.
+Dialogue: 10,0:03:17.49,0:03:19.11,Default,,0,0,0,TM,Probably.{long leadout -p}
 Dialogue: 10,0:03:19.11,0:03:24.39,Default,,0,0,0,,I never really thought about it,\nbut how {\i1}does{\i0} it breathe underwater?
 Dialogue: 10,0:03:24.39,0:03:29.43,Default,,0,0,0,,Fish have a special organ that\nlets them absorb oxygen from water.
 Dialogue: 10,0:03:29.43,0:03:31.65,Default,,0,0,0,,You've heard of gills, right?
@@ -98,7 +98,7 @@ Dialogue: 10,0:04:51.71,0:04:54.48,Default,,0,0,0,,They can even use it as a wea
 Dialogue: 10,0:04:55.94,0:04:59.70,Default,,0,0,0,,Come on, let's go look at\nthe tropical fish next, pretty please?
 Dialogue: 10,0:04:59.70,0:05:02.20,Default,,0,0,0,,It looks like they have a great selection!
 Dialogue: 10,0:05:02.20,0:05:04.70,Default,,0,0,0,,Good idea. Let's go check it out!
-Dialogue: 10,0:05:05.11,0:05:07.29,Default,,0,0,0,,Ooh! Look at that!
+Dialogue: 10,0:05:05.11,0:05:07.29,Default,,0,0,0,TM,Ooh! Look at that!{consider snapping end -p}
 Dialogue: 10,0:05:07.29,0:05:11.29,Default,,0,0,0,,Look at those ones! Don't they look just adorable?
 Dialogue: 10,0:05:09.71,0:05:11.30,Alt,,0,0,0,,Yummy!
 Dialogue: 10,0:05:11.30,0:05:12.33,Default,,0,0,0,,Huh?
@@ -121,18 +121,18 @@ Dialogue: 10,0:05:47.70,0:05:49.27,Default,,0,0,0,,Nonomi{**-senpai}!
 Dialogue: 10,0:05:49.27,0:05:52.27,Default,,0,0,0,,But I also think they look quite tasty!
 Dialogue: 10,0:05:53.56,0:05:55.33,Default,,0,0,0,,Sorry for the wait, girls.
 Dialogue: 10,0:05:55.85,0:05:57.84,Default,,0,0,0,,What are you all chatting about?
-Dialogue: 10,0:05:58.90,0:06:03.55,Default,,0,0,0,,Hey, Serika{**-chan}, at this point,\nwhy don't we let {*}the teacher{*Sensei} decide?
+Dialogue: 10,0:05:58.90,0:06:03.55,Default,,0,0,0,ED,Hey, Serika{**-chan}, at this point,\nwhy don't we let {*}the teacher{*Sensei} decide?{consider "him" on main track -p}
 Dialogue: 10,0:06:03.55,0:06:05.60,Default,,0,0,0,,Good idea, Hoshino{**-senpai}.
 Dialogue: 10,0:06:06.87,0:06:08.30,Default,,0,0,0,,Decide what?
-Dialogue: 10,0:06:08.30,0:06:11.85,Default,,0,0,0,,{*}Teacher{*Sensei}, about the tropical fish here...
+Dialogue: 10,0:06:08.30,0:06:11.85,Default,,0,0,0,ED,{*}Teacher{*Sensei}, about the tropical fish here...{as usual: dislike the "about X..." construction -p}
 Dialogue: 10,0:06:11.85,0:06:13.48,Default,,0,0,0,,You think they look cute, right?
 Dialogue: 10,0:06:11.85,0:06:13.48,Alt,,0,0,0,,You think they look tasty, right?
-Dialogue: 10,0:06:14.58,0:06:16.02,Default,,0,0,0,,You agree with {\i1}me{\i0}, right?
+Dialogue: 10,0:06:14.58,0:06:16.02,Default,,0,0,0,ST,You agree with {\i1}me{\i0}, right?{consider duplicating -p}
 Dialogue: 10,0:06:16.02,0:06:17.73,Default,,0,0,0,,Uh, well...
 Dialogue: 10,0:06:19.62,0:06:21.24,Default,,0,0,0,,Personally...
 Dialogue: 10,0:06:21.76,0:06:25.49,Default,,0,0,0,,I think all of you look much cuter? {He really tried it} {God love him, the poor sap --ik}
 Dialogue: 10,0:06:27.74,0:06:29.24,Default,,0,0,0,,Yeah, no. Just... no.
-Dialogue: 10,0:06:29.24,0:06:31.15,Default,,0,0,0,,This is why people make fun of you, {*}Teacher{*Sensei}.
+Dialogue: 10,0:06:29.24,0:06:31.15,Default,,0,0,0,ED,This is why people make fun of you, {*}Teacher{*Sensei}.{just "teach"? -p}
 Dialogue: 10,0:06:31.15,0:06:34.50,Default,,0,0,0,,S-Sorry! Let me try that again, please?
 Dialogue: 10,0:06:36.30,0:06:38.50,Default,,0,0,0,,That fish looks like an old man! {## https://en.wikipedia.org/wiki/Parupeneus_multifasciatus}
 Dialogue: 10,0:06:38.84,0:06:40.98,Default,,0,0,0,,It must be Hoshino{**-senpai}'s spirit animal!
@@ -159,13 +159,13 @@ Dialogue: 10,0:07:46.26,0:07:48.36,Default,,0,0,0,,Hey, Hoshino{**-senpai}.
 Dialogue: 10,0:07:49.77,0:07:51.18,Default,,0,0,0,,Can I have a word?
 Dialogue: 10,0:07:53.02,0:07:54.96,Default,,0,0,0,,What's up, Shiroko{**-chan}? {two girls alone in a aquarium................................ what will they do....................... (delusion) --rapid}
 Dialogue: 10,0:07:54.96,0:07:58.00,Default,,0,0,0,,You wanted to talk with me privately?
-Dialogue: 10,0:07:58.00,0:08:01.31,Default,,0,0,0,,Oh! Are you about to confess\nyour undying love for me?! {Yuri archive real? --ML} {I DIDN"T EVEN READ THIS LINE YET AQUARIUM = YURI --rapid}
+Dialogue: 10,0:07:58.00,0:08:01.31,Default,,0,0,0,ED,Oh! Are you about to confess\nyour undying love for me?! {Yuri archive real? --ML} {I DIDN"T EVEN READ THIS LINE YET AQUARIUM = YURI --rapid}{confess bad. try "profess" -p}{also yes aquarium = yuri, them's the rules -p}
 Dialogue: 10,0:08:01.31,0:08:02.95,Default,,0,0,0,,No. Not at all.
 Dialogue: 10,0:08:03.34,0:08:05.46,Default,,0,0,0,,Aw, bummer.
 Dialogue: 10,0:08:07.06,0:08:10.97,Default,,0,0,0,,By the way, while we were\nwatching that show, I was thinking.
 Dialogue: 10,0:08:11.44,0:08:14.23,Default,,0,0,0,,You're kind of like a dolphin, Shiroko{**-chan}.
 Dialogue: 10,0:08:14.90,0:08:15.98,Default,,0,0,0,,What do you mean?
-Dialogue: 10,0:08:15.98,0:08:21.90,Default,,0,0,0,,Well, Nonomi{**-chan} and the others were talking about\nwhat animal I reminded them of earlier.
+Dialogue: 10,0:08:15.98,0:08:21.90,Default,,0,0,0,ED,Well, Nonomi{**-chan} and the others were talking about\nwhat animal I reminded them of earlier.{-tachi is always a bit awkward, and line becomes really long with honorific. consider just "Well, the others were" -p}
 Dialogue: 10,0:08:22.69,0:08:26.40,Default,,0,0,0,,And I was thinking, you're cute and real sporty.
 Dialogue: 10,0:08:26.40,0:08:28.28,Default,,0,0,0,,Kind of like a dolphin, y'know?
 Dialogue: 10,0:08:28.72,0:08:29.71,Default,,0,0,0,,I guess.
@@ -206,7 +206,7 @@ Dialogue: 10,0:10:25.31,0:10:27.76,Default,,0,0,0,,Not at all!
 Dialogue: 10,0:10:28.52,0:10:30.48,Default,,0,0,0,,Look at this beauty!
 Dialogue: 10,0:10:30.79,0:10:33.17,Default,,0,0,0,,I wonder if we can even bring him back with us.
 Dialogue: 10,0:10:33.17,0:10:35.74,Default,,0,0,0,,Even if you {\i1}did{\i0} buy it, where would you put it?
-Dialogue: 10,0:10:36.34,0:10:38.24,Default,,0,0,0,TM,I'm sure {*}Teach{*Sensei} would figure something out. {timing cuts off too soon, hoshino isn't finished her line --rapid}{### timing this segment in general is just kinda awkward. @petzku?} {yeah this one was and is weird. petzku input is appreciated --ML}
+Dialogue: 10,0:10:36.34,0:10:38.24,Default,,0,0,0,TM,I'm sure {*}Teach{*Sensei} would figure something out. {timing cuts off too soon, hoshino isn't finished her line --rapid}{### timing this segment in general is just kinda awkward. @petzku?} {yeah this one was and is weird. petzku input is appreciated --ML}{i think i would an8 all of this -p}
 Dialogue: 10,0:10:36.32,0:10:37.53,Alt,,0,0,0,,{\an8}True. {I don't even think this really needs to be subbed tbh}
 Dialogue: 10,0:10:38.24,0:10:41.73,Default,,0,0,0,,Speaking of cute, Hoshino{**-senpai}\nand that whale sure are cute, too.
 Dialogue: 10,0:10:47.76,0:10:51.23,Default,,0,0,0,,Did you find anything you like, Shiroko{**-chan}?
@@ -276,7 +276,7 @@ Dialogue: 10,0:15:31.82,0:15:36.29,Default,,0,0,0,,That reminds me, I hadn't sen
 Dialogue: 10,0:15:36.82,0:15:39.64,Default,,0,0,0,,Whoa, where did you take this? {iwak --rapid}
 Dialogue: 10,0:15:39.64,0:15:41.04,Default,,0,0,0,,There was a specimen area.
 Dialogue: 10,0:15:41.47,0:15:43.68,Default,,0,0,0,,They said we could pick them up, so...
-Dialogue: 10,0:15:43.68,0:15:48.52,Default,,0,0,0,,This photo makes it look like\nyou're saying, "I caught this starfish".
+Dialogue: 10,0:15:43.68,0:15:48.52,Default,,0,0,0,ED,This photo makes it look like\nyou're saying,{not sure about this comma -p} "I caught this starfish".
 Dialogue: 10,0:15:48.52,0:15:52.31,Default,,0,0,0,,I feel like Shiroko{**-chan} would be pretty good at fishing.
 Dialogue: 10,0:15:52.31,0:15:55.74,Default,,0,0,0,,I guess I might try it out if we get the chance.
 Dialogue: 10,0:15:55.74,0:15:59.12,Default,,0,0,0,,Maybe we should go to the actual ocean next time.
@@ -297,8 +297,8 @@ Dialogue: 10,0:16:34.66,0:16:37.73,Default,,0,0,0,,At my age, it's hard to keep 
 Dialogue: 10,0:16:38.01,0:16:39.82,Default,,0,0,0,,Fancy technology?
 Dialogue: 10,0:16:39.82,0:16:41.36,Default,,0,0,0,,Don't worry!
 Dialogue: 10,0:16:41.36,0:16:46.52,Default,,0,0,0,,I made sure to take plenty of pics\nof both you and everyone else!
-Dialogue: 10,0:16:46.52,0:16:48.41,Default,,0,0,0,,Nice thinking, Nonomi{**-senpai}!{"thinking" instead of "going"?}{### ambivalent. Will leave to petz to decide which he likes more.}
-Dialogue: 10,0:16:48.41,0:16:53.76,Default,,0,0,0,,Is what I'd like to say, but I knew\nyou'd be too busy taking pics of us,
+Dialogue: 10,0:16:46.52,0:16:48.41,Default,,0,0,0,ED,Nice thinking, Nonomi{**-senpai}!{"thinking" instead of "going"?}{### ambivalent. Will leave to petz to decide which he likes more.}{i really don't care lol -p}
+Dialogue: 10,0:16:48.41,0:16:53.76,Default,,0,0,0,ED,Is what I'd like to say, but I knew\nyou'd be too busy taking pics of us,{consider "pictures" here -p}
 Dialogue: 10,0:16:53.76,0:16:56.14,Default,,0,0,0,,so I made sure to take plenty of you as well!
 Dialogue: 10,0:16:56.14,0:16:58.37,Default,,0,0,0,,I also took pictures of you!
 Dialogue: 10,0:16:59.24,0:17:01.88,Default,,0,0,0,,Serika{**-chan}, Ayane{**-chan}...
@@ -307,7 +307,7 @@ Dialogue: 10,0:17:04.17,0:17:07.30,Default,,0,0,0,,You're both so thoughtful! I'
 Dialogue: 10,0:17:13.90,0:17:17.05,Default,,0,0,0,,Hey, Shiroko{**-chan}. Aren't you going to join them?
 Dialogue: 10,0:17:17.99,0:17:18.77,Default,,0,0,0,,Actually...
 Dialogue: 10,0:17:18.77,0:17:21.02,Default,,0,0,0,,Of course, I love you two as well!
-Dialogue: 10,0:17:24.66,0:17:29.20,Default,,0,0,0,,Well then, everyone, that's it\nfor today's general meeting.
+Dialogue: 10,0:17:24.66,0:17:29.20,Default,,0,0,0,ED,Well then, everyone, that's it\nfor today's general meeting.{general? regular? daily? -p}
 Dialogue: 10,0:17:29.20,0:17:30.28,Default,,0,0,0,,Got it.
 Dialogue: 10,0:17:29.20,0:17:30.28,Alt,,0,0,0,,Great!
 Dialogue: 10,0:17:30.85,0:17:32.65,Default,,0,0,0,,See you tomorrow.
@@ -328,8 +328,8 @@ Dialogue: 10,0:18:11.46,0:18:15.45,Default,,0,0,0,,I thought I saw you in town t
 Dialogue: 10,0:18:17.45,0:18:20.20,Default,,0,0,0,,I'm sure you had the wrong person.
 Dialogue: 10,0:18:20.43,0:18:24.30,Default,,0,0,0,,There's plenty of girls who look just like me.
 Dialogue: 10,0:18:24.30,0:18:28.96,Default,,0,0,0,,Maybe you were so tired from yesterday\nyou started seeing things?
-Dialogue: 10,0:18:28.96,0:18:31.38,Default,,0,0,0,,Let's take it easy for today and go home.
-Dialogue: 10,0:18:30.06,0:18:31.38,Alt,,0,0,0,,Hoshino{**-senpai}.
+Dialogue: 10,0:18:28.96,0:18:31.38,Default,,0,0,0,TM,Let's take it easy for today and go home.{consider cutting at kf (both lines) -p}
+Dialogue: 10,0:18:30.06,0:18:31.38,Alt,,0,0,0,TM,Hoshino{**-senpai}.
 Dialogue: 10,0:18:31.38,0:18:32.80,Default,,0,0,0,,You're hiding something from—
 Dialogue: 10,0:18:36.28,0:18:38.10,Default,,0,0,0,,Huh? You took pictures of me, too?
 Dialogue: 10,0:18:38.36,0:18:42.35,Default,,0,0,0,,Yes! I'll send them over along with everyone else's.
@@ -340,11 +340,11 @@ Dialogue: 10,0:18:50.45,0:18:52.64,Default,,0,0,0,,{*}Hoshino{*Senpai}, what is 
 Dialogue: 10,0:18:53.82,0:18:55.49,Default,,0,0,0,,It's just a form.
 Dialogue: 10,0:18:55.80,0:18:58.82,Default,,0,0,0,,It doesn't mean anything yet, so relax.
 Dialogue: 10,0:18:58.82,0:19:00.85,Default,,0,0,0,,As if I can relax.
-Dialogue: 10,0:19:00.85,0:19:02.87,Default,,0,0,0,,What do you mean, "yet"?
+Dialogue: 10,0:19:00.85,0:19:02.87,Default,,0,0,0,ED,What do you mean,{also unsure of comma -p} "yet"?
 Dialogue: 10,0:19:04.23,0:19:06.72,Default,,0,0,0,,How should I put this...
 Dialogue: 10,0:19:09.94,0:19:12.35,Default,,0,0,0,,Hoshino{**-senpai}? Shiroko{**-chan}?
 Dialogue: 10,0:19:13.18,0:19:15.13,Default,,0,0,0,,What's going on, you two?
-Dialogue: 10,0:19:15.13,0:19:17.05,Default,,0,0,0,,We're, I mean...
+Dialogue: 10,0:19:15.13,0:19:17.05,Default,,0,0,0,ED,We're,{emdash/ellipsis? -p} I mean...
 Dialogue: 10,0:19:17.05,0:19:19.50,Default,,0,0,0,,What on earth happened?
 Dialogue: 10,0:19:20.72,0:19:22.05,Default,,0,0,0,,Shiroko?
 Dialogue: 10,0:19:22.05,0:19:24.43,Default,,0,0,0,,I'm sorry, but please leave us alone.
@@ -363,7 +363,7 @@ Dialogue: 10,0:20:07.28,0:20:09.15,Default,,0,0,0,,But Hoshino{**-senpai}'s—
 Dialogue: 10,0:20:09.90,0:20:14.40,Default,,0,0,0,,Everyone has things they'd rather not talk about.
 Dialogue: 10,0:20:20.78,0:20:21.97,Default,,0,0,0,,{\i1}Hoshino...
 Dialogue: 10,0:20:31.53,0:20:33.86,Default,,0,0,0,,Thank you, Shiroko{**-chan}.
-Dialogue: 10,0:20:38.64,0:20:40.70,Default,,0,0,0,,But I have to do this.
+Dialogue: 10,0:20:38.64,0:20:40.70,Default,,0,0,0,ED,But I have to do this.{maybe internal? -p}
 Dialogue: 10,0:20:42.51,0:20:44.43,Default,,0,0,0,,So, the time has finally come.
 Dialogue: 10,0:20:45.42,0:20:47.70,Default,,0,0,0,,Remember, this is the point of no return.
 Dialogue: 10,0:20:47.70,0:20:50.44,Default,,0,0,0,,Once we move forward,\nthere's no going back.
