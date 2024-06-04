@@ -66,7 +66,7 @@ Dialogue: 10,0:03:08.28,0:03:09.63,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:03:08.28,0:03:09.63,Alt,,0,0,0,,Yes!
 Dialogue: 10,0:03:13.61,0:03:15.38,Default,,0,0,0,,It keeps opening its mouth!
 Dialogue: 10,0:03:15.38,0:03:17.49,Default,,0,0,0,,Maybe that's how it breathes?
-Dialogue: 10,0:03:17.49,0:03:19.11,Default,,0,0,0,TM,Probably.{long leadout -p}
+Dialogue: 10,0:03:17.49,0:03:18.70,Default,,0,0,0,,Probably.
 Dialogue: 10,0:03:19.11,0:03:24.39,Default,,0,0,0,,I never really thought about it,\nbut how {\i1}does{\i0} it breathe underwater?
 Dialogue: 10,0:03:24.39,0:03:29.43,Default,,0,0,0,,Fish have a special organ that\nlets them absorb oxygen from water.
 Dialogue: 10,0:03:29.43,0:03:31.65,Default,,0,0,0,,You've heard of gills, right?
@@ -96,7 +96,7 @@ Dialogue: 10,0:04:51.71,0:04:54.48,Default,,0,0,0,,They can even use it as a wea
 Dialogue: 10,0:04:55.94,0:04:59.70,Default,,0,0,0,,Come on, let's go look at\nthe tropical fish next, pretty please?
 Dialogue: 10,0:04:59.70,0:05:02.20,Default,,0,0,0,,It looks like they have a great selection!
 Dialogue: 10,0:05:02.20,0:05:04.70,Default,,0,0,0,,Good idea. Let's go check it out!
-Dialogue: 10,0:05:05.11,0:05:07.29,Default,,0,0,0,TM,Ooh! Look at that!{consider snapping end -p}
+Dialogue: 10,0:05:05.11,0:05:06.70,Default,,0,0,0,,Ooh! Look at that!
 Dialogue: 10,0:05:07.29,0:05:11.29,Default,,0,0,0,,Look at those ones! Don't they look just adorable?
 Dialogue: 10,0:05:09.71,0:05:11.30,Alt,,0,0,0,,Yummy!
 Dialogue: 10,0:05:11.30,0:05:12.33,Default,,0,0,0,,Huh?
@@ -205,8 +205,8 @@ Dialogue: 10,0:10:25.31,0:10:27.76,Default,,0,0,0,,Not at all!
 Dialogue: 10,0:10:28.52,0:10:30.48,Default,,0,0,0,,Look at this beauty!
 Dialogue: 10,0:10:30.79,0:10:33.17,Default,,0,0,0,,I wonder if we can even bring him back with us.
 Dialogue: 10,0:10:33.17,0:10:35.74,Default,,0,0,0,,Even if you {\i1}did{\i0} buy it, where would you put it?
-Dialogue: 10,0:10:36.34,0:10:38.24,Default,,0,0,0,TM,{\an8}I'm sure {*}Teach{*Sensei} would figure something out. {timing cuts off too soon, hoshino isn't finished her line --rapid}{### timing this segment in general is just kinda awkward. @petzku?}{yeah this one was and is weird. petzku input is appreciated --ML}{i think i would an8 all of this -p}{### has this been dealt with?}
-Dialogue: 10,0:10:36.32,0:10:37.53,Alt,,0,0,0,,{\an8}True.
+Dialogue: 10,0:10:36.15,0:10:38.24,Default,,0,0,0,,{\an8}I'm sure {*}Teach{*Sensei} would figure something out.
+Dialogue: 10,0:10:36.15,0:10:37.53,Alt,,0,0,0,,{\an8}True.
 Dialogue: 10,0:10:38.24,0:10:41.73,Default,,0,0,0,,{\an8}Doesn't Hoshino{**-senpai} look \njust adorbs with that huge whale?
 Dialogue: 10,0:10:47.76,0:10:51.23,Default,,0,0,0,,Did you find anything you like, Shiroko{**-chan}?
 Dialogue: 10,0:10:51.23,0:10:51.96,Default,,0,0,0,,Well...
@@ -327,9 +327,9 @@ Dialogue: 10,0:18:11.46,0:18:15.45,Default,,0,0,0,,I thought I saw you in town t
 Dialogue: 10,0:18:17.45,0:18:20.20,Default,,0,0,0,,I'm sure you had the wrong person.
 Dialogue: 10,0:18:20.43,0:18:24.30,Default,,0,0,0,,There's plenty of girls who look just like me.
 Dialogue: 10,0:18:24.30,0:18:28.96,Default,,0,0,0,,Maybe you were so tired from yesterday\nyou started seeing things?
-Dialogue: 10,0:18:28.96,0:18:31.38,Default,,0,0,0,TM,Let's take it easy for today and go home.{consider cutting at kf (both lines) -p}
-Dialogue: 10,0:18:30.06,0:18:31.38,Alt,,0,0,0,TM,Hoshino{**-senpai}.
-Dialogue: 10,0:18:31.38,0:18:32.80,Default,,0,0,0,,You're hiding something from—
+Dialogue: 10,0:18:28.96,0:18:30.96,Default,,0,0,0,,Let's take it easy for today and go home.
+Dialogue: 10,0:18:30.06,0:18:30.96,Alt,,0,0,0,,Hoshino{**-senpai}.
+Dialogue: 10,0:18:31.48,0:18:32.80,Default,,0,0,0,,You're hiding something from—
 Dialogue: 10,0:18:36.28,0:18:38.10,Default,,0,0,0,,Huh? You took pictures of me, too?
 Dialogue: 10,0:18:38.36,0:18:42.35,Default,,0,0,0,,Yes! I'll send them over along with everyone else's.
 Dialogue: 10,0:18:42.35,0:18:44.27,Default,,0,0,0,,Oh, uh, thanks.
