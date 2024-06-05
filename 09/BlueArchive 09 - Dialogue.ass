@@ -97,7 +97,7 @@ Dialogue: 10,0:05:33.97,0:05:36.36,Default,,0,0,0,,Everything about it was just 
 Dialogue: 10,0:05:36.36,0:05:38.87,Default,,0,0,0,,What the heck? How is that even a student council?
 Dialogue: 10,0:05:39.57,0:05:44.15,Default,,0,0,0,,Well, it was just a couple of idiots \Ndoing stupid things together at the end of the day.
 Dialogue: 10,0:05:44.87,0:05:49.37,Default,,0,0,0,,Man, we really were just loitering \Naround all sorts of places back then.
-Dialogue: 10,0:05:49.37,0:05:53.02,Default,,0,0,0,,Just a few idiots, blissfully unaware of anything. {TM: fade this}
+Dialogue: 10,0:05:49.37,0:05:53.02,Default,,0,0,0,TM,Just a few idiots, blissfully unaware of anything. {TM: probably fade this}
 Dialogue: 10,0:05:56.40,0:05:59.46,Default,,0,0,0,,It's not something you should blame yourself for.
 Dialogue: 10,0:06:00.30,0:06:02.60,Default,,0,0,0,,I don't know what happened in the past.
 Dialogue: 10,0:06:02.60,0:06:06.68,Default,,0,0,0,,But what I do know is that without you, \Nthe Task Force wouldn't be here today.
@@ -108,7 +108,9 @@ Dialogue: 10,0:06:13.89,0:06:17.40,Default,,0,0,0,,But you're always the first t
 Dialogue: 10,0:06:17.40,0:06:19.33,Default,,0,0,0,,And I respect you. {Clearly this should be translated as "I'm confessing to you" smh homophobic fansubbers --ML}
 Dialogue: 10,0:06:19.86,0:06:21.49,Default,,0,0,0,,Where's this coming from, Shiroko?
 Dialogue: 10,0:06:21.77,0:06:24.51,Default,,0,0,0,,You can't just drop a line like that out of nowhere!
-Dialogue: 10,0:06:26.08,0:06:31.79,Default,,0,0,0,,Speaking of which, why did the student council sell \Nthe land to Kaiser Corporation in the first place? {TM: could do split alt}
+Comment: 10,0:06:26.08,0:06:27.12,Default,,0,0,0,,Speaking of which,
+Comment: 10,0:06:27.38,0:06:31.79,Default,,0,0,0,,why did the student council sell \Nthe land to Kaiser Corporation in the first place?
+Dialogue: 10,0:06:26.08,0:06:31.79,Default,,0,0,0,,Speaking of which, why did the student council sell \Nthe land to Kaiser Corporation in the first place?
 Dialogue: 10,0:06:31.79,0:06:36.83,Default,,0,0,0,,I'm guessing they were just \Ntrying to pay off the debt at first.
 Dialogue: 10,0:06:37.66,0:06:41.38,Default,,0,0,0,,I wasn't involved in it, though, so this is just speculation.
 Dialogue: 10,0:06:41.88,0:06:47.44,Default,,0,0,0,,But I think they were trying their best for the sake \Nof the school, and more things just kept happening.
@@ -125,9 +127,10 @@ Dialogue: 10,0:07:12.66,0:07:15.74,Default,,0,0,0,,First, they make a loan that 
 Dialogue: 10,0:07:15.74,0:07:20.86,Default,,0,0,0,,Then, they pressure the school to sell their land \Nin order to pay even a portion of the debt.
 Dialogue: 10,0:07:21.44,0:07:22.84,Default,,0,0,0,,That has to be it.
 Dialogue: 10,0:07:23.12,0:07:28.96,Default,,0,0,0,,And so the entire Abydos school district slowly falls \Ninto the hands of the Kaiser Corporation.
-Dialogue: 10,0:07:28.96,0:07:33.98,Default,,0,0,0,,True. They may have planned for this all along. {TM: Split alt this}
-Dialogue: 10,0:07:33.98,0:07:38.20,Default,,0,0,0,,That was why they lent Abydos \Nthe money in the first place.
-Dialogue: 10,0:07:38.20,0:07:42.07,Default,,0,0,0,,The trap may have been set \N far earlier than we realized. {TM: might unsnap}
+Dialogue: 10,0:07:28.96,0:07:30.14,Default,,0,0,0,,True.
+Dialogue: 10,0:07:30.76,0:07:33.97,Default,,0,0,0,,They may have planned for this all along.
+Dialogue: 10,0:07:33.97,0:07:38.20,Default,,0,0,0,,That was why they lent Abydos \Nthe money in the first place.
+Dialogue: 10,0:07:38.20,0:07:42.07,Default,,0,0,0,,The trap may have been set \N far earlier than we realized.
 Dialogue: 10,0:07:42.38,0:07:44.82,Default,,0,0,0,,Decades ago, even.
 Dialogue: 10,0:07:44.82,0:07:48.22,Default,,0,0,0,,What? That means Kaiser just \Nplayed them like a damn fiddle! {Why are we still here? Just to suffer? --ML}
 Dialogue: 10,0:07:48.22,0:07:50.59,Default,,0,0,0,,I can't believe they fell for this scam... {you're one to talk --ML}
@@ -154,7 +157,7 @@ Dialogue: 10,0:08:58.52,0:09:03.61,Default,,0,0,0,,What could they possibly stan
 Dialogue: 10,0:09:05.40,0:09:06.42,Default,,0,0,0,,Actually...
 Dialogue: 10,0:09:07.52,0:09:10.65,Default,,0,0,0,,Speaking of the desert, right after we fought Gehenna,
 Dialogue: 10,0:09:11.08,0:09:13.16,Default,,0,0,0,,The abandoned desert outside Abydos. {check with corresponding scene please}
-Dialogue: 10,0:09:13.67,0:09:17.91,Default,,0,0,0,,The Kaiser Corporation is plotting something there. {TM: fade this}
+Dialogue: 10,0:09:13.67,0:09:17.91,Default,,0,0,0,TM,The Kaiser Corporation is plotting something there. {TM: fade this}
 Dialogue: 10,0:09:18.96,0:09:22.57,Default,,0,0,0,,Wait, what? How does the Head Prefect \Nof Gehenna know about that?
 Dialogue: 10,0:09:22.90,0:09:25.04,Default,,0,0,0,,Sensei, why didn't you tell us?
 Dialogue: 10,0:09:25.04,0:09:28.20,Default,,0,0,0,,W-well, I mean, there was a lot going on.
