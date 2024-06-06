@@ -13,6 +13,7 @@ PlayResY: 1080
 Last Style Storage: BA
 Audio File: Blue Archive The Animation - S01E09 (Premux) [561BFE3D].mkv
 Video File: Blue Archive The Animation - S01E09 (Premux) [561BFE3D].mkv
+Keyframes File: BlueArchive_S01E09_scening.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -264,7 +265,7 @@ Dialogue: 10,0:15:03.57,0:15:06.19,Default,,0,0,0,,I've got some very bad news.
 Dialogue: 10,0:15:07.43,0:15:09.14,Default,,0,0,0,,What is he doing?
 Dialogue: 10,0:15:10.18,0:15:10.68,Default,,0,0,0,,Huh?!
 Dialogue: 10,0:15:11.32,0:15:13.18,Default,,0,0,0,,What? Why?
-Dialogue: 10,0:15:13.73,0:15:17.93,Default,,0,0,0,,The interest rate starting next month \Nhas increased 3000%! {TM: Might unlink}
+Dialogue: 10,0:15:13.73,0:15:17.93,Default,,0,0,0,,The interest rate starting next month \Nhas increased 3000%!
 Dialogue: 10,0:15:17.93,0:15:18.94,Default,,0,0,0,,What the heck?
 Dialogue: 10,0:15:20.91,0:15:22.94,Default,,0,0,0,,Now do you understand?
 Dialogue: 10,0:15:23.63,0:15:26.91,Default,,0,0,0,,You're all nothing more than dogs on a leash.
@@ -342,7 +343,7 @@ Dialogue: 10,0:19:45.34,0:19:46.48,Default,,0,0,0,,Ah. Okay.
 Dialogue: 10,0:19:47.25,0:19:48.63,Default,,0,0,0,,Could you tell me?
 Dialogue: 10,0:19:51.26,0:19:53.13,Default,,0,0,0,,Well, if you insist.
 Dialogue: 10,0:19:53.54,0:19:56.13,Default,,0,0,0,,It's a bit awkward to say face to face.
-Dialogue: 10,0:19:56.34,0:19:59.80,Default,,0,0,0,,Mind if we walk and talk, Sensei? {TM: might snap}
+Dialogue: 10,0:19:56.34,0:19:59.80,Default,,0,0,0,,Mind if we walk and talk, Sensei?
 Dialogue: 10,0:20:01.85,0:20:03.43,Default,,0,0,0,,Hey, Sensei.
 Comment: 10,0:20:03.82,0:20:07.27,Default,,0,0,0,,High school is supposed to be fun, right?
 Comment: 10,0:20:07.62,0:20:09.98,Default,,0,0,0,,Kind of sad if it's all covered in sand, don't you think?
