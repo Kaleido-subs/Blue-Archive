@@ -24,9 +24,8 @@ Style: LightSigns,LTFinnegan Medium,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11509}-- Repeat Signs
-Comment: 0,0:01:35.60,0:01:35.62,LightSigns,,0,0,0,,{=11511}---- Episode Title
-Dialogue: 1,0:02:01.98,0:02:05.52,LightSigns,,0,0,0,,{\blur0.5\fnRoG2サンセリフStd-B\fscx90\fs48\fax-0.35\c&HF8D600&\fad(1000,1000)\pos(424.34,1040)}Proble{\fsp10}m{\fsp}Solve{\fsp10}r{\fsp}6{\fsp10}8{\fsp\c&HFBFCFC&}I{\fsp10}s{\fsp}o{\fsp10}n{\fsp}th{\fsp10}e{\fsp}Case
-Dialogue: 0,0:02:01.98,0:02:05.52,LightSigns,,0,0,0,,{=11512}{\bord0.4\blur1\fnRoG2サンセリフStd-B\fscx90\fs48\fax-0.35\xshad0.01\4c&HFAD700&\fad(1000,1000)\1a&HFE&\c&HFFFFFF&\3c&H000000&\3a&HFF&\4a&HB4&\pos(424.34,1040)}Proble{\fsp10}m{\fsp}Solve{\fsp10}r{\fsp}6{\fsp10}8{\fsp\c&HFBFCFC&}I{\fsp10}s{\fsp}o{\fsp10}n{\fsp}th{\fsp10}e{\fsp}Case
+Comment: 0,0:02:01.98,0:02:01.98,LightSigns,,0,0,0,,{=11529}---- Episode Title
+Dialogue: 0,0:02:01.98,0:02:05.52,LightSigns,,0,0,0,,{=11530}{\pos(632,1040)\fax-0.35\fnRoG2サンセリフStd-B\fs48\fsp-0.3\c&HF8D600&\fad(1018,1021)}Problem Solver 68 {\c&HFDFDFD&}Is on the Case!
 Comment: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11510}-- Repeat Signs
 Comment: 0,0:05:46.24,0:05:46.24,LightSigns,,0,0,0,,{=10534}---- Bank
 Comment: 4,0:05:46.24,0:05:50.25,LightSigns,sunshine,0,0,0,,{=10448=10527}-- TODO: mimic sunhsine glare (for BDs)
@@ -9078,8 +9077,6 @@ Data: 10692,_aegi_folddata,e0;1;18
 Data: 10693,_aegi_folddata,e1;1;18
 Data: 10709,_aegi_perspective_ambient_plane,e-3194.81;-1391.36#7C199.82;-97.16#7C288.86;760.43#7C-3221.34;2241.54
 Data: 10718,a-mo,e{"uuid"#3A"bd91ac61-72f3-4bf3-9a04-42b153bf422b"#2C"originalText"#3A"{\\fnFabfeltScript Bold\\fs192\\c&H362221&\\1a&H00&\\blur1.2\\pos(2354#2C488)}Task Force Regular Meeting"}
-Data: 11141,_aegi_folddata,e0;1;326
-Data: 11142,_aegi_folddata,e1;1;326
 Data: 11153,_aegi_folddata,e0;1;332
 Data: 11154,_aegi_folddata,e1;1;332
 Data: 11172,_aegi_perspective_ambient_plane,e200.84;95.91#7C1562.79;254.59#7C1560.39;365.72#7C203.76;257.72
@@ -9271,17 +9268,10 @@ Data: 11507,_aegi_folddata,e0;1;10
 Data: 11508,_aegi_folddata,e1;1;10
 Data: 11509,_aegi_folddata,e0;0;2
 Data: 11510,_aegi_folddata,e1;0;2
-Data: 11511,_aegi_folddata,e0;1;1
-Data: 11512,_aegi_folddata,e1;1;1
-Data: 11513,_aegi_folddata,e0;0;338
-Data: 11514,_aegi_folddata,e1;0;338
-Data: 11515,_aegi_folddata,e0;0;326
-Data: 11516,_aegi_folddata,e1;0;326
 Data: 11517,_aegi_folddata,e0;1;393
 Data: 11518,_aegi_folddata,e1;1;393
-Data: 11519,_aegi_folddata,e0;0;333
-Data: 11520,_aegi_folddata,e1;0;333
-Data: 11521,_aegi_folddata,e0;0;5
-Data: 11522,_aegi_folddata,e1;0;5
-Data: 11523,_aegi_folddata,e0;0;342
-Data: 11524,_aegi_folddata,e1;0;342
+Data: 11525,_aegi_folddata,e0;0;1
+Data: 11527,_aegi_folddata,e0;1;394
+Data: 11528,_aegi_folddata,e1;1;394
+Data: 11529,_aegi_folddata,e0;0;394
+Data: 11530,_aegi_folddata,e1;0;394

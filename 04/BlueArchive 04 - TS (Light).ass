@@ -24,9 +24,8 @@ Style: LightSigns,LTFinnegan Medium,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11509}-- Repeat Signs
-Comment: 0,0:01:35.60,0:01:35.62,LightSigns,,0,0,0,,{=11526}---- Episode Title
-Dialogue: 0,0:02:31.01,0:02:34.51,LightSigns,,0,0,0,,{\pos(593.07,225.8)\fscx150\fscy150\fax-0.35\fnSegoe UI Symbol\fs48\c&H2C2D2B&\blur0.5\fad(516,523)}☆
-Dialogue: 0,0:02:31.01,0:02:34.51,LightSigns,,0,0,0,,{=11527}{\pos(306.74,228.8)\fscx90\fax-0.35\fnRoG2サンセリフStd-B\fs48\c&H2C2D2B&\blur0.5\fad(516,523)}Th{\fsp10}e{\fsp}Maske{\fsp10}d{\fsp}Swimsui{\fsp10}t{\fsp}Gang
+Comment: 0,0:01:35.60,0:01:35.62,LightSigns,,0,0,0,,{=11855}---- Episode Title
+Dialogue: 0,0:02:31.01,0:02:34.51,LightSigns,,0,0,0,,{=11856}{\pos(408,216)\fax-0.35\fnRo GSan Serif Std Mod\fs48\fsp-1\c&HFA8911&\blur0.5\fad(516,523)}The Masked {\c&H2C2D2B&}Swimsuit Gang {\fscx110\fnSegoe UI Symbol\fs64\b1}☆
 Comment: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11510}-- Repeat Signs
 Comment: 0,0:02:41.89,0:02:41.89,LightSigns,,0,0,0,,{=11529}---- Abydos name plate
 Dialogue: 0,0:02:41.89,0:02:46.15,LightSigns,,0,0,0,,{\an7\pos(-73,-197)\org(1481.26,652.1)\fscx105.68\fscy123.95\frz-0.245\fry2.687\frx-0.157\c&H72787E&\blur1\p1}m 1366 699 l 1580 699 1580 726 1366 726
@@ -925,8 +924,6 @@ Dialogue: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,
 [Aegisub Extradata]
 Data: 11509,_aegi_folddata,e0;0;2
 Data: 11510,_aegi_folddata,e1;0;2
-Data: 11526,_aegi_folddata,e0;1;4
-Data: 11527,_aegi_folddata,e1;1;4
 Data: 11529,_aegi_folddata,e0;1;6
 Data: 11530,_aegi_folddata,e1;1;6
 Data: 11553,_aegi_perspective_ambient_plane,e169.58;339.98#7C1788.87;603.86#7C2309.00;2302.51#7C243.09;3043.39
@@ -950,7 +947,6 @@ Data: 11736,_aegi_perspective_ambient_plane,e1414.73;304.98#7C1630.95;223.76#7C1
 Data: 11740,a-mo,e{"uuid"#3A"c0c582aa-7e2b-428a-8efc-8226195c3a84"#2C"originalText"#3A"{\\fnArtificeSSK\\c&H634C2D&\\blur2\\fax0\\fscx25\\fscy25\\frz28.499\\frx-4.625\\fry-8.803\\org(1348.99#2C55.15)\\pos(1352.4#2C194.05)\\1a&H28&}Taiyaki"}
 Data: 11741,_aegi_folddata,e0;1;14
 Data: 11742,_aegi_folddata,e1;1;14
-Data: 11757,_aegi_perspective_ambient_plane,e1463.56;307.35#7C1956.34;699.10#7C1367.02;854.64#7C974.89;392.97
 Data: 11761,_aegi_perspective_ambient_plane,e1463.58;307.38#7C1956.37;699.09#7C1366.92;854.67#7C974.87;393.01
 Data: 11806,_aegi_perspective_ambient_plane,e1463.60;307.37#7C1956.32;699.07#7C1366.98;854.62#7C974.88;393.00
 Data: 11809,_aegi_perspective_ambient_plane,e1463.62;307.38#7C1956.45;699.09#7C1366.95;854.65#7C974.90;393.02
@@ -959,11 +955,7 @@ Data: 11814,_aegi_perspective_ambient_plane,e1463.62;307.40#7C1956.41;699.07#7C1
 Data: 11819,_aegi_perspective_ambient_plane,e1463.51;307.38#7C1956.23;699.10#7C1367.00;854.61#7C974.91;393.00
 Data: 11824,_aegi_folddata,e0;1;17
 Data: 11825,_aegi_folddata,e1;1;17
-Data: 11830,_aegi_folddata,e0;0;16
-Data: 11831,_aegi_folddata,e1;0;16
 Data: 11832,_aegi_perspective_ambient_plane,e1463.18;307.44#7C1955.84;699.24#7C1367.07;854.59#7C975.03;392.98
-Data: 11841,_aegi_folddata,e0;0;15
-Data: 11842,_aegi_folddata,e1;0;15
 Data: 11844,_aegi_folddata,e1;0;13
 Data: 11846,_aegi_folddata,e0;1;19
 Data: 11847,_aegi_folddata,e1;1;19
@@ -972,3 +964,7 @@ Data: 11849,_aegi_folddata,e1;1;16
 Data: 11850,_aegi_perspective_ambient_plane,e1463.57;307.35#7C1956.25;699.10#7C1367.26;854.58#7C975.17;392.95
 Data: 11851,_aegi_folddata,e0;1;15
 Data: 11852,_aegi_folddata,e1;1;15
+Data: 11853,_aegi_folddata,e0;0;4
+Data: 11854,_aegi_folddata,e1;0;4
+Data: 11855,_aegi_folddata,e0;1;4
+Data: 11856,_aegi_folddata,e1;1;4
