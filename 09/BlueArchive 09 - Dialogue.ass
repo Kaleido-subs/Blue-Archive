@@ -27,7 +27,7 @@ Dialogue: 10,0:00:01.21,0:00:04.23,Default,,0,0,0,,{=2}...{*}no{*chan}. Hey, com
 Dialogue: 10,0:00:04.66,0:00:06.14,Default,,0,0,0,,Hoshino{**-chan}!
 Dialogue: 10,0:00:06.47,0:00:07.49,Default,,0,0,0,,What is it?
 Dialogue: 10,0:00:08.08,0:00:10.78,Default,,0,0,0,,Ta-dah! Look at what I found!
-Dialogue: 10,0:00:10.78,0:00:12.24,Default,,0,0,0,,Sand Festival?
+Dialogue: 10,0:00:10.78,0:00:12.24,Default,,0,0,0,,Oasis Festival?
 Dialogue: 10,0:00:12.70,0:00:17.38,Default,,0,0,0,,This was back when the oasis \Nwas still the size of a lake.
 Dialogue: 10,0:00:18.10,0:00:19.79,Default,,0,0,0,,Here, you can have it.
 Dialogue: 10,0:00:20.94,0:00:23.22,Default,,0,0,0,,Isn't that just precious?
@@ -180,8 +180,8 @@ Dialogue: 10,0:10:18.61,0:10:20.89,Default,,0,0,0,,A few times, for student coun
 Dialogue: 10,0:10:21.51,0:10:25.59,Default,,0,0,0,,Just a bit further and there's a \Ngiant oasis just waiting for us!
 Dialogue: 10,0:10:25.71,0:10:27.25,Default,,0,0,0,,What? An oasis?
 Dialogue: 10,0:10:27.33,0:10:31.77,Default,,0,0,0,,Yeah! Well, to be fair, it's all dried up now.
-Dialogue: 10,0:10:32.69,0:10:36.23,Default,,0,0,0,,They used to hold the Abydos \NSand Festival there every year.
-Dialogue: 10,0:10:36.53,0:10:37.73,Default,,0,0,0,,Sand Festival...
+Dialogue: 10,0:10:32.69,0:10:36.23,Default,,0,0,0,,They used to hold the Abydos \NOasis Festival there every year.
+Dialogue: 10,0:10:36.53,0:10:37.73,Default,,0,0,0,,Oasis Festival...
 Dialogue: 10,0:10:37.85,0:10:39.49,Default,,0,0,0,,I've heard of that!
 Dialogue: 10,0:10:39.85,0:10:42.03,Default,,0,0,0,,It was very well known within Abydos.
 Dialogue: 10,0:10:42.15,0:10:44.45,Default,,0,0,0,,Apparently it attracted a ton of people!
@@ -193,7 +193,7 @@ Dialogue: 10,0:10:59.33,0:11:00.57,Default,,0,0,0,,
 Dialogue: 10,0:11:04.55,0:11:06.65,Default,,0,0,0,,Look! Look, Hoshino!
 Dialogue: 10,0:11:06.73,0:11:07.99,Default,,0,0,0,,It's right there!
 Dialogue: 10,0:11:08.09,0:11:10.29,Default,,0,0,0,,Are you sure your lead is good?
-Dialogue: 10,0:11:13.27,0:11:17.57,Default,,0,0,0,,Right there is the very oasis where \Nthey used to hold the Sand Festival!
+Dialogue: 10,0:11:13.27,0:11:17.57,Default,,0,0,0,,Right there is the very oasis where \Nthey used to hold the Oasis Festival!
 Dialogue: 10,0:11:31.01,0:11:33.29,Default,,0,0,0,,I see a large structure ahead!
 Dialogue: 10,0:11:33.63,0:11:35.39,Default,,0,0,0,,Huh? Out here?
 Dialogue: 10,0:11:35.51,0:11:38.75,Default,,0,0,0,,This might be what Hina was talking about.
