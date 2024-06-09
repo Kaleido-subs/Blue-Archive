@@ -33,7 +33,7 @@ Comment: 0,0:11:18.95,0:11:18.95,Default,chapter,0,0,0,,{Part B}
 Comment: 0,0:22:10.52,0:22:10.52,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:46.43,0:22:46.43,Default,,0,0,0,edsync,{=9}{EDSync — First hard cut (Nonomi washing room shot)}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=6}---- Dialogue
-Dialogue: 10,0:00:01.21,0:00:04.23,Default,,0,0,0,,  ...{*}no{*chan}. Hey, come on, listen!
+Dialogue: 10,0:00:01.21,0:00:04.23,Default,,0,0,0,,...{*}no{*chan}. Hey, come on, listen!
 Dialogue: 10,0:00:04.66,0:00:06.14,Default,,0,0,0,,Hoshino{**-chan}!
 Dialogue: 10,0:00:06.47,0:00:07.49,Default,,0,0,0,,What is it?
 Dialogue: 10,0:00:08.08,0:00:10.78,Default,,0,0,0,,Ta-dah! Look at what I found!
@@ -89,7 +89,7 @@ Dialogue: 10,0:04:31.82,0:04:33.58,Default,,0,0,0,,It's simply common sense.
 Dialogue: 10,0:04:34.56,0:04:40.18,Default,,0,0,0,,We were so caught up repaying our debt \Nthat we never even suspected this could happen.
 Dialogue: 10,0:04:40.75,0:04:44.64,Default,,0,0,0,,I'm sorry. If only I had realized this sooner...
 Dialogue: 10,0:04:45.18,0:04:48.18,Default,,0,0,0,,Don't sweat it, Ayane{**-chan}.
-Dialogue: 10,0:04:48.56,0:04:50.72,Default,,0,0,0,,This all happened long before anyone enrolled h— {probably could cut it off at "enro-" instead --rapid}
+Dialogue: 10,0:04:48.56,0:04:50.72,Default,,0,0,0,,This all happened long before anyone enro—
 Dialogue: 10,0:04:50.72,0:04:52.40,Default,,0,0,0,,Oh, that reminds me.
 Dialogue: 10,0:04:52.40,0:04:56.02,Default,,0,0,0,,Weren't you part of the student council, Hoshino{**-senpai}?
 Dialogue: 10,0:04:56.02,0:04:57.69,Default,,0,0,0,,Wait, really?
@@ -97,7 +97,7 @@ Dialogue: 10,0:04:58.00,0:05:01.95,Default,,0,0,0,,If I remember correctly, \Nyo
 Dialogue: 10,0:05:03.00,0:05:05.08,Default,,0,0,0,,Yeah, well, y'know.
 Dialogue: 10,0:05:05.38,0:05:09.46,Default,,0,0,0,,Really, it was just me and the president.
 Dialogue: 10,0:05:09.46,0:05:11.21,Default,,0,0,0,,What? Just two of you?
-Dialogue: 10,0:05:12.11,0:05:17.14,Default,,0,0,0,,Yeah. By that time, the student population \Nwas already in the double digits. {needs more emphasis that it had fallen to the double digits, bc thats still a lot more than 5 --rapid}
+Dialogue: 10,0:05:12.11,0:05:17.14,Default,,0,0,0,,Yeah. By then, the student population \Nhad already dropped into the double digits.
 Dialogue: 10,0:05:17.14,0:05:20.84,Default,,0,0,0,,The staff had all up and left, \Nand actual classes were a thing of the past.
 Dialogue: 10,0:05:21.22,0:05:24.35,Default,,0,0,0,,Even the student council room \Nwas just being treated like a fancy storage room.
 Dialogue: 10,0:05:25.10,0:05:29.35,Default,,0,0,0,,The president was the biggest klutz at school, \Nwith hardly a thought in her head.
@@ -119,9 +119,9 @@ Dialogue: 10,0:06:19.86,0:06:21.49,Default,,0,0,0,,Wh-Where's this coming from, 
 Dialogue: 10,0:06:21.77,0:06:24.51,Default,,0,0,0,,You can't just drop a line like that out of nowhere!
 Dialogue: 10,0:06:26.08,0:06:27.12,Default,,0,0,0,,Speaking of which,
 Dialogue: 10,0:06:27.38,0:06:31.79,Default,,0,0,0,,why did the student council sell their land \Nto the Kaiser Corporation in the first place?
-Dialogue: 10,0:06:31.79,0:06:36.83,Default,,0,0,0,,They probably did it to pay off their debt at first. {needs something like "or something like like that" at the end --rapid}
+Dialogue: 10,0:06:31.79,0:06:36.83,Default,,0,0,0,,They probably did it to pay off their debt at first.
 Dialogue: 10,0:06:37.66,0:06:41.38,Default,,0,0,0,,But that's just my guess. \NI wasn't there when it happened.
-Dialogue: 10,0:06:41.88,0:06:47.44,Default,,0,0,0,,They were probably trying their best for the school, \Nbut the debts just kept piling up. {this also has the wrong tone, the second half it sounds like she is way more sure on the reason than she is in what she is saying. Shes giving hesitant reasons, so the english should better reflect that --rapid}
+Dialogue: 10,0:06:41.88,0:06:47.44,Default,,0,0,0,,I think they were trying their best for the school, \Nbut the debts just kept piling up. {this also has the wrong tone, the second half it sounds like she is way more sure on the reason than she is in what she is saying. Shes giving hesitant reasons, so the english should better reflect that --rapid}{### for this (and the previous comment), I think it's already very clear she's speculating on everything here. We don't have to add "I think" or "probably" everywhere, it just makes it clunkier}
 Dialogue: 10,0:06:47.44,0:06:49.26,Default,,0,0,0,,I believe so, too.
 Dialogue: 10,0:06:49.82,0:06:54.27,Default,,0,0,0,,But it's unlikely all the land \Nclaimed by the desert had much value.
 Dialogue: 10,0:06:54.98,0:06:59.52,Default,,0,0,0,,They may have paid back the interest, \Nbut they couldn't have reduced the principle.
@@ -180,7 +180,7 @@ Dialogue: 10,0:09:47.12,0:09:47.82,Default,,0,0,0,,Yes.
 Dialogue: 10,0:09:48.76,0:09:49.93,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:09:52.40,0:09:53.49,Default,,0,0,0,,Let's go.
 Dialogue: 10,0:09:53.49,0:09:55.11,Default,,0,0,0,,To the Abydos Desert!
-Dialogue: 10,0:09:59.87,0:10:03.25,Default,,0,0,0,,Looks like we'll have to hoof it from here. {hoof it??? never heard of that one --rapid}
+Dialogue: 10,0:09:59.87,0:10:03.25,Default,,0,0,0,,Looks like we'll have to hoof it from here.
 Dialogue: 10,0:10:03.25,0:10:06.00,Default,,0,0,0,,Can't have you collapsing on us out here.
 Dialogue: 10,0:10:06.76,0:10:09.26,Default,,0,0,0,,Just leave this part to us!
 Dialogue: 10,0:10:10.63,0:10:12.55,Default,,0,0,0,,Sorry, girls.
@@ -208,7 +208,7 @@ Dialogue: 10,0:11:13.24,0:11:17.78,Default,,0,0,0,,That's the oasis where they \
 Dialogue: 10,0:11:30.75,0:11:33.59,Default,,0,0,0,,I see a large structure ahead!
 Dialogue: 10,0:11:33.59,0:11:35.34,Default,,0,0,0,,Huh? Out here?
 Dialogue: 10,0:11:35.34,0:11:39.14,Default,,0,0,0,,This might be what Hina was talking about.
-Dialogue: 10,0:11:39.14,0:11:41.51,Default,,0,0,0,,Everyone, we have no idea what's out there. {no shit ayane --rapid}
+Dialogue: 10,0:11:39.14,0:11:41.51,Default,,0,0,0,,Careful, everyone. We don't know what's out there. {no shit ayane --rapid}
 Dialogue: 10,0:11:41.51,0:11:44.26,Default,,0,0,0,,Stay cautious while you investigate.
 Dialogue: 10,0:11:44.26,0:11:45.52,Default,,0,0,0,,Roger!
 Dialogue: 10,0:11:50.11,0:11:51.91,Default,,0,0,0,,It's swarming with guards.
@@ -229,7 +229,7 @@ Dialogue: 10,0:12:28.80,0:12:32.00,Default,,0,0,0,,Ugh, this could get messy.
 Dialogue: 10,0:12:32.00,0:12:34.47,Default,,0,0,0,,The Prefects were already bad enough.
 Dialogue: 10,0:12:34.48,0:12:36.92,Default,,0,0,0,,What do we do, Hoshino{**-senpai}?
 Dialogue: 10,0:12:38.49,0:12:41.16,Default,,0,0,0,,Don't be reckless! Retreat!
-Dialogue: 10,0:12:55.80,0:12:57.59,Default,,0,0,0,,What a pleasant surprise. {again i perfer "oh look who we have here" but i digress --rapid}
+Dialogue: 10,0:12:55.80,0:12:57.59,Default,,0,0,0,,Look who we have here.
 Dialogue: 10,0:12:57.99,0:13:00.29,Default,,0,0,0,,I heard we had some intruders,
 Dialogue: 10,0:13:00.29,0:13:03.83,Default,,0,0,0,,but I wasn't expecting to find \NAbydos students at my front door.
 Dialogue: 10,0:13:03.83,0:13:05.10,Default,,0,0,0,,That man...
@@ -323,7 +323,7 @@ Dialogue: 10,0:18:04.35,0:18:06.32,Default,,0,0,0,,I understand where you're com
 Dialogue: 10,0:18:06.32,0:18:08.86,Default,,0,0,0,,But I can't let you become criminals!
 Dialogue: 10,0:18:08.86,0:18:11.42,Default,,0,0,0,,Then what do you want us to do?
 Dialogue: 10,0:18:11.42,0:18:12.86,Default,,0,0,0,,Well...
-Dialogue: 10,0:18:15.14,0:18:17.37,Default,,0,0,0,,Come on, everyone. \NLet's all calm down a bit. {### tempted to use chillax here frfr}{take a chill pill, simmer down, stop - hammer time --ik} {light i agree with the chillax --rapid}
+Dialogue: 10,0:18:15.14,0:18:17.37,Default,,0,0,0,,Come on, everyone. \NLet's all calm down a bit. {### tempted to use chillax here frfr}{take a chill pill, simmer down, stop - hammer time --ik} {light i agree with the chillax --rapid}{### petzku you heard rapid. Let me do it let me do it let me do it}
 Dialogue: 10,0:18:17.69,0:18:19.98,Default,,0,0,0,,I can see steam coming out your ears.
 Dialogue: 10,0:18:19.98,0:18:21.98,Default,,0,0,0,,Okay, Shiroko{**-chan}?
 Dialogue: 10,0:18:21.98,0:18:25.42,Default,,0,0,0,,Sorry. I didn't want things to get so heated.
@@ -342,7 +342,7 @@ Dialogue: 10,0:19:18.46,0:19:19.50,Default,,0,0,0,,Hoshino.
 Dialogue: 10,0:19:20.45,0:19:22.62,Default,,0,0,0,,Oh, it's just you.
 Dialogue: 10,0:19:22.62,0:19:24.94,Default,,0,0,0,,Oh, come on. That's a bit harsh.
 Dialogue: 10,0:19:25.20,0:19:28.02,Default,,0,0,0,,So, when did you and \Nmy little Shiroko{**-chan} become so close?
-Dialogue: 10,0:19:28.02,0:19:31.89,Default,,0,0,0,,I could practically see you reading each other's minds. {is this really the best place to split? Its not matching with the thoughts in jpn and it feels a bit awkard. --rapid} {first bit is just : my cute shiroko and the rest is in the secont --rapid}
+Dialogue: 10,0:19:28.02,0:19:31.89,Default,,0,0,0,,I could practically see you reading each other's minds. {is this really the best place to split? Its not matching with the thoughts in jpn and it feels a bit awkard. --rapid} {first bit is just : my cute shiroko and the rest is in the secont --rapid}{### what would be a better place to split? keeping in mind that this is for English readers who probably can't tell either way}
 Dialogue: 10,0:19:32.14,0:19:35.67,Default,,0,0,0,,I'll have to keep a closer eye on you, {*}Teach{*Sensei}.
 Dialogue: 10,0:19:38.95,0:19:41.35,Default,,0,0,0,,Hoshino, can I ask you something?
 Dialogue: 10,0:19:42.25,0:19:43.54,Default,,0,0,0,,What is it?
@@ -355,7 +355,7 @@ Dialogue: 10,0:20:01.85,0:20:03.43,Default,,0,0,0,,Hey, {*}Teach{*Sensei}.
 Dialogue: 10,0:20:03.82,0:20:07.27,Default,,0,0,0,,High school is supposed to be fun, right?
 Dialogue: 10,0:20:07.62,0:20:09.98,Default,,0,0,0,,Kinda sad if it's all covered in sand, don't you think?
 Dialogue: 10,0:20:10.24,0:20:13.84,Default,,0,0,0,,But you like this school, don't you?
-Dialogue: 10,0:20:16.27,0:20:22.99,Default,,0,0,0,,They say that before the desert moved in, \NAbydos was known for its size and influence. {i feel like this is ever so slightly off, it feels like shes more saying "Abydos was knows for being such a big and strong force," and  less so for noting why people were attracted to it --rapid}
+Dialogue: 10,0:20:16.27,0:20:22.99,Default,,0,0,0,,They say that before the desert moved in, \NAbydos was known for its size and influence. {i feel like this is ever so slightly off, it feels like shes more saying "Abydos was knows for being such a big and strong force," and  less so for noting why people were attracted to it --rapid}{### So more like "military prowess"?}
 Dialogue: 10,0:20:23.35,0:20:28.75,Default,,0,0,0,,But that was before my time. \NI never got see it like that myself.
 Dialogue: 10,0:20:29.06,0:20:31.43,Default,,0,0,0,,It was a complete mess from the start.
 Dialogue: 10,0:20:31.43,0:20:35.26,Default,,0,0,0,,There wasn't one thing the school actually did right.
@@ -385,13 +385,7 @@ Dialogue: 10,0:22:06.60,0:22:07.39,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:22:08.42,0:22:09.61,Default,,0,0,0,,{=7}See you tomorrow!
 
 [Aegisub Extradata]
-Data: 2,_aegi_folddata,e0;0;1
-Data: 3,_aegi_folddata,e1;0;1
-Data: 4,_aegi_folddata,e0;1;2
-Data: 5,_aegi_folddata,e1;1;2
 Data: 6,_aegi_folddata,e0;0;2
 Data: 7,_aegi_folddata,e1;0;2
 Data: 8,_aegi_folddata,e0;1;3
 Data: 9,_aegi_folddata,e1;1;3
-Data: 10,_aegi_folddata,e0;0;3
-Data: 11,_aegi_folddata,e1;0;3
