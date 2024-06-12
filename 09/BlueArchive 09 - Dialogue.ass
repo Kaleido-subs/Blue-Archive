@@ -39,7 +39,7 @@ Dialogue: 10,0:00:06.47,0:00:07.49,Default,,0,0,0,,What is it?
 Dialogue: 10,0:00:08.08,0:00:10.78,Default,,0,0,0,,Ta-dah! Look at what I found!
 Dialogue: 10,0:00:10.78,0:00:12.24,Default,,0,0,0,,Oasis Festival?
 Dialogue: 10,0:00:12.70,0:00:17.38,Default,,0,0,0,,This was back when the oasis\nwas still the size of a lake.
-Dialogue: 10,0:00:18.10,0:00:19.79,Default,,0,0,0,,Here, you can have it.{add "as a memento" for 記念に? too long?}
+Dialogue: 10,0:00:18.10,0:00:19.79,Default,,0,0,0,,Here, for you. As a memento.
 Dialogue: 10,0:00:20.94,0:00:23.22,Default,,0,0,0,,Isn't that just precious?
 Dialogue: 10,0:00:23.22,0:00:28.05,Default,,0,0,0,,What if a miracle happened\nand Abydos started booming agai—
 Dialogue: 10,0:00:28.05,0:00:30.80,Default,,0,0,0,,Miracles don't exist, {*}Yume{*Senpai}.
@@ -121,7 +121,7 @@ Dialogue: 10,0:06:26.08,0:06:27.12,Default,,0,0,0,,Speaking of which,
 Dialogue: 10,0:06:27.38,0:06:31.79,Default,,0,0,0,,why did the student council sell their land\nto the Kaiser Corporation in the first place?
 Dialogue: 10,0:06:31.79,0:06:36.83,Default,,0,0,0,,They probably did it to pay off their debt at first.
 Dialogue: 10,0:06:37.66,0:06:41.38,Default,,0,0,0,,But that's just my guess.\nI wasn't there when it happened.
-Dialogue: 10,0:06:41.88,0:06:47.44,Default,,0,0,0,,I think they were trying their best for the school,\nbut the debts just kept piling up.{this also has the wrong tone, the second half it sounds like she is way more sure on the reason than she is in what she is saying. Shes giving hesitant reasons, so the english should better reflect that --rapid}{### for this (and the previous comment), I think it's already very clear she's speculating on everything here. We don't have to add "I think" or "probably" everywhere, it just makes it clunkier}{second half is extrapolation that isn't really said so maybe it could just be left out, literally this is more like "I think (actually said, in the sense that it's her opinion) that (selling the land) was just one of the things they did while trying to do their best for the school"}
+Dialogue: 10,0:06:41.88,0:06:47.44,Default,,0,0,0,,I think they were trying their best for the school,\nbut the debts just kept piling up.
 Dialogue: 10,0:06:47.44,0:06:49.26,Default,,0,0,0,,I believe so, too.
 Dialogue: 10,0:06:49.82,0:06:54.27,Default,,0,0,0,,But it's unlikely all the land\nclaimed by the desert had much value.
 Dialogue: 10,0:06:54.98,0:06:59.52,Default,,0,0,0,,They may have paid back the interest,\nbut they couldn't have reduced the principal.
@@ -198,14 +198,14 @@ Dialogue: 10,0:10:39.82,0:10:42.04,Default,,0,0,0,,It was very well known within
 Dialogue: 10,0:10:42.04,0:10:44.55,Default,,0,0,0,,Apparently it attracted a ton of people!
 Dialogue: 10,0:10:44.55,0:10:45.42,Default,,0,0,0,,That's the one!
 Dialogue: 10,0:10:45.91,0:10:51.19,Default,,0,0,0,,It used to be such a big event,\nit even attracted students from other schools.
-Dialogue: 10,0:10:52.23,0:10:54.59,Default,,0,0,0,,Big enough to attract them to the desert?{feels like not enough impact, "all the way into the desert"?}
-Dialogue: 10,0:10:54.59,0:10:59.19,Default,,0,0,0,,Thing is, from what I heard this place\nused to be much more pleasant.{place used to be livable, pleasant works I guess? maybe?}
+Dialogue: 10,0:10:52.23,0:10:54.59,Default,,0,0,0,,Big enough to attract them\nall the way to the desert?
+Dialogue: 10,0:10:54.59,0:10:59.19,Default,,0,0,0,,Thing is, from what I heard this place\nused to be much more hospitable.
 Dialogue: 10,0:10:59.19,0:11:00.89,Default,,0,0,0,,Oh?
 Dialogue: 10,0:11:04.53,0:11:06.44,Default,,0,0,0,,Look, Hoshino{**-chan}!
 Dialogue: 10,0:11:06.70,0:11:08.00,Default,,0,0,0,,It's right there!
 Dialogue: 10,0:11:08.00,0:11:10.64,Default,,0,0,0,,Are you sure your lead was any good?
 Dialogue: 10,0:11:13.24,0:11:17.78,Default,,0,0,0,,That's the oasis where they\nused to hold the Oasis Festival!
-Dialogue: 10,0:11:30.75,0:11:33.59,Default,,0,0,0,,I see a large structure ahead!{not scene timed}
+Dialogue: 10,0:11:30.75,0:11:33.26,Default,,0,0,0,,I see a large structure ahead!
 Dialogue: 10,0:11:33.59,0:11:35.34,Default,,0,0,0,,Huh? Out here?
 Dialogue: 10,0:11:35.34,0:11:39.14,Default,,0,0,0,,This might be what Hina was talking about.
 Dialogue: 10,0:11:39.14,0:11:41.51,Default,,0,0,0,,Careful, everyone. We don't know what's out there. {no shit ayane --rapid}
@@ -285,7 +285,7 @@ Dialogue: 10,0:15:41.09,0:15:44.82,Default,,0,0,0,,This debt is the school's res
 Dialogue: 10,0:15:44.82,0:15:49.18,Default,,0,0,0,,Why should you, as students, carry that burden?
 Dialogue: 10,0:15:49.18,0:15:52.38,Default,,0,0,0,,Th-There's no way we could just leave!
 Dialogue: 10,0:15:52.39,0:15:55.42,Default,,0,0,0,,She's right! We're not abandoning Abydos!
-Dialogue: 10,0:15:55.42,0:15:58.94,Default,,0,0,0,,Abydos is our school. It's our hometown!{is it their hometown? could use "home" or "soil" (and this makes me realise that hometown doesn't necessarily mean home, funny how language's)}
+Dialogue: 10,0:15:55.42,0:15:58.94,Default,,0,0,0,,Abydos is our school. It's our home!
 Dialogue: 10,0:15:58.94,0:16:00.50,Default,,0,0,0,,Then what will it be?
 Dialogue: 10,0:16:00.50,0:16:03.25,Default,,0,0,0,,Do you have any other options?
 Dialogue: 10,0:16:03.25,0:16:04.40,Default,,0,0,0,,Well...
@@ -323,7 +323,7 @@ Dialogue: 10,0:18:04.35,0:18:06.32,Default,,0,0,0,,I understand where you're com
 Dialogue: 10,0:18:06.32,0:18:08.86,Default,,0,0,0,,But I can't let you become criminals!
 Dialogue: 10,0:18:08.86,0:18:11.42,Default,,0,0,0,,Then what do you want us to do?
 Dialogue: 10,0:18:11.42,0:18:12.86,Default,,0,0,0,,Well...
-Dialogue: 10,0:18:15.14,0:18:17.37,Default,,0,0,0,,Come on, everyone.\nLet's all calm down a bit. {### tempted to use chillax here frfr}{take a chill pill, simmer down, stop - hammer time --ik} {light i agree with the chillax --rapid}{### petzku you heard rapid. Let me do it let me do it let me do it}{calm down y'all - sika}
+Dialogue: 10,0:18:15.14,0:18:17.37,Default,,0,0,0,QC,Come on, everyone.\nLet's all calm down a bit. {### tempted to use chillax here frfr}{take a chill pill, simmer down, stop - hammer time --ik} {light i agree with the chillax --rapid}{### petzku you heard rapid. Let me do it let me do it let me do it}{calm down y'all - sika}
 Dialogue: 10,0:18:17.69,0:18:19.98,Default,,0,0,0,,I can see steam coming out your ears.
 Dialogue: 10,0:18:19.98,0:18:21.98,Default,,0,0,0,,Okay, Shiroko{**-chan}?
 Dialogue: 10,0:18:21.98,0:18:25.42,Default,,0,0,0,,Sorry. I didn't want things to get so heated.
@@ -341,9 +341,9 @@ Dialogue: 10,0:19:10.42,0:19:16.43,Default,,0,0,0,,{\i1}Entertaining useless ide
 Dialogue: 10,0:19:18.46,0:19:19.50,Default,,0,0,0,,Hoshino.
 Dialogue: 10,0:19:20.45,0:19:22.62,Default,,0,0,0,,Oh, it's just you.
 Dialogue: 10,0:19:22.62,0:19:24.94,Default,,0,0,0,,Oh, come on. That's a bit harsh.
-Dialogue: 10,0:19:25.20,0:19:28.02,Default,,0,0,0,,So, when did you and\nmy little Shiroko{**-chan} become so close?
-Dialogue: 10,0:19:28.02,0:19:31.89,Default,,0,0,0,,I could practically see you reading each other's minds. {is this really the best place to split? Its not matching with the thoughts in jpn and it feels a bit awkard. --rapid} {first bit is just : my cute shiroko and the rest is in the secont --rapid}{### what would be a better place to split? keeping in mind that this is for English readers who probably can't tell either way}{if anything, starting second line at ~19:28.78 helps a bit with the cognitive dissonance if we're not rephrasing this, but the lack of an audible pause does make things difficult. also there's a sub-300ms gap before the next line}
-Dialogue: 10,0:19:32.14,0:19:35.67,Default,,0,0,0,,I'll have to keep a closer eye on you, {*}Teach{*Sensei}.
+Dialogue: 10,0:19:25.20,0:19:28.65,Default,,0,0,0,,So, when did you and\nmy little Shiroko{**-chan} become so close?
+Dialogue: 10,0:19:28.65,0:19:32.13,Default,,0,0,0,,I could practically see you reading each other's minds.
+Dialogue: 10,0:19:32.13,0:19:35.65,Default,,0,0,0,,I'll have to keep a closer eye on you, {*}Teach{*Sensei}.
 Dialogue: 10,0:19:38.95,0:19:41.35,Default,,0,0,0,,Hoshino, can I ask you something?
 Dialogue: 10,0:19:42.25,0:19:43.54,Default,,0,0,0,,What is it?
 Dialogue: 10,0:19:45.34,0:19:46.48,Default,,0,0,0,,Ah.
@@ -359,7 +359,7 @@ Dialogue: 10,0:20:16.27,0:20:22.99,Default,,0,0,0,,They say that before the dese
 Dialogue: 10,0:20:23.35,0:20:28.75,Default,,0,0,0,,But that was before my time.\nI never got to see it like that myself.
 Dialogue: 10,0:20:29.06,0:20:31.43,Default,,0,0,0,,It was a complete mess from the start.
 Dialogue: 10,0:20:31.43,0:20:35.26,Default,,0,0,0,,There wasn't one thing the school actually did right.
-Dialogue: 10,0:20:35.50,0:20:40.17,Default,,0,0,0,,But despite all that,\nyou still love this school, right?{I kinda want there to be emphasis on "this is THE (singular) school you (came to) love" but this is fine}
+Dialogue: 10,0:20:35.50,0:20:40.17,Default,,0,0,0,QC,But despite all that,\nyou still love this school, right?{I kinda want there to be emphasis on "this is THE (singular) school you (came to) love" but this is fine}{### maybe petz has ideas for this}
 Dialogue: 10,0:20:41.44,0:20:47.30,Default,,0,0,0,,By the time I enrolled, the main building\nwas already hidden deep underneath the sand.
 Dialogue: 10,0:20:47.85,0:20:54.75,Default,,0,0,0,,The school kept relocating as the desert expanded,\nand this annex is where it ended up.
 Dialogue: 10,0:20:55.67,0:21:00.48,Default,,0,0,0,,But y'know, if I hadn't come here,\nI wouldn't have met everyone in the Task Force.
