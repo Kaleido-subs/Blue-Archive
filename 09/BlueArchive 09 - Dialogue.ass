@@ -112,8 +112,8 @@ Dialogue: 10,0:06:07.71,0:06:09.96,Default,,0,0,0,,You're always lazing about.
 Dialogue: 10,0:06:09.96,0:06:12.23,Default,,0,0,0,,You never give a straight answer.
 Dialogue: 10,0:06:12.23,0:06:13.89,Default,,0,0,0,ED,And that's only the start of your problems.{@ED barely the tip of the iceberg? -p}
 Dialogue: 10,0:06:13.89,0:06:17.40,Default,,0,0,0,,But you're always the first to step up when we need you.
-Dialogue: 10,0:06:17.40,0:06:19.33,Default,,0,0,0,,And I respect you. {Clearly this should be translated as "I'm confessing to you" smh homophobic fansubbers --ML}{confess your crimes, shiroko --ik}
-Dialogue: 10,0:06:19.86,0:06:21.49,Default,,0,0,0,TM,Wh-Where's this coming from, Shiroko{**-chan}?{@TM consider including the noise before this -p}
+Dialogue: 10,0:06:17.40,0:06:19.03,Default,,0,0,0,,And I respect you. {Clearly this should be translated as "I'm confessing to you" smh homophobic fansubbers --ML}{confess your crimes, shiroko --ik}
+Dialogue: 10,0:06:19.03,0:06:21.49,Default,,0,0,0,,Wh-Where's this coming from, Shiroko{**-chan}?
 Dialogue: 10,0:06:21.77,0:06:24.51,Default,,0,0,0,,You can't just drop a line like that out of nowhere!
 Dialogue: 10,0:06:26.08,0:06:27.12,Default,,0,0,0,,Speaking of which,
 Dialogue: 10,0:06:27.38,0:06:31.79,Default,,0,0,0,,why did the student council sell their land\nto the Kaiser Corporation in the first place?
@@ -285,8 +285,8 @@ Dialogue: 10,0:15:49.18,0:15:52.38,Default,,0,0,0,,Th-There's no way we could ju
 Dialogue: 10,0:15:52.39,0:15:55.42,Default,,0,0,0,,She's right! We're not abandoning Abydos!
 Dialogue: 10,0:15:55.42,0:15:58.94,Default,,0,0,0,,Abydos is our school. It's our home!
 Dialogue: 10,0:15:58.94,0:16:00.50,Default,,0,0,0,,Then what will it be?
-Dialogue: 10,0:16:00.50,0:16:03.25,Default,,0,0,0,,Do you have any other options?
-Dialogue: 10,0:16:03.25,0:16:04.40,Default,,0,0,0,TM,Well...{@TM noise before line -p}
+Dialogue: 10,0:16:00.50,0:16:02.72,Default,,0,0,0,,Do you have any other options?
+Dialogue: 10,0:16:02.72,0:16:04.40,Default,,0,0,0,ED,Well...{@TM noise before line -p}{@ED might want to add stutter or something with the timing change idk}
 Dialogue: 10,0:16:06.64,0:16:08.03,Default,,0,0,0,,Come on, girls. Time to go home.
 Dialogue: 10,0:16:09.55,0:16:10.73,Default,,0,0,0,,Hoshino?
 Dialogue: 10,0:16:10.73,0:16:13.70,Default,,0,0,0,,There's no point in arguing with him.
@@ -319,8 +319,8 @@ Dialogue: 10,0:17:58.07,0:18:03.49,Default,,0,0,0,,Can you really say we saved A
 Dialogue: 10,0:18:03.49,0:18:04.35,Default,,0,0,0,,B-But...
 Dialogue: 10,0:18:04.35,0:18:06.32,Default,,0,0,0,,I understand where you're coming from.
 Dialogue: 10,0:18:06.32,0:18:08.86,Default,,0,0,0,,But I can't let you become criminals!
-Dialogue: 10,0:18:08.86,0:18:11.42,Default,,0,0,0,,Then what do you want us to do?
-Dialogue: 10,0:18:11.42,0:18:12.86,Default,,0,0,0,TM,Well...{@TM noise before line, maybe stutter it -p}
+Dialogue: 10,0:18:08.86,0:18:10.78,Default,,0,0,0,,Then what do you want us to do?
+Dialogue: 10,0:18:10.78,0:18:12.86,Default,,0,0,0,,W-Well...
 Dialogue: 10,0:18:15.14,0:18:17.37,Default,,0,0,0,QC,Come on, everyone.\nLet's all calm down a bit. {### tempted to use chillax here frfr}{take a chill pill, simmer down, stop - hammer time --ik} {light i agree with the chillax --rapid}{### petzku you heard rapid. Let me do it let me do it let me do it}{calm down y'all - sika}{I feel like chillax wouldn't really fit the tone here ngl --ML}{chillax is a bit far IMO. also sounds too millennial/zoomer for hoshino to me -p}
 Dialogue: 10,0:18:17.69,0:18:19.98,Default,,0,0,0,,I can see steam coming out your ears.
 Dialogue: 10,0:18:19.98,0:18:21.98,Default,,0,0,0,,Okay, Shiroko{**-chan}?
@@ -339,11 +339,11 @@ Dialogue: 10,0:19:10.42,0:19:16.43,Default,,0,0,0,,{\i1}Entertaining useless ide
 Dialogue: 10,0:19:18.46,0:19:19.50,Default,,0,0,0,,Hoshino.
 Dialogue: 10,0:19:20.45,0:19:22.62,Default,,0,0,0,,Oh, it's just you.
 Dialogue: 10,0:19:22.62,0:19:24.94,Default,,0,0,0,,Oh, come on. That's a bit harsh.
-Dialogue: 10,0:19:25.20,0:19:28.65,Default,,0,0,0,,So, when did you and\nmy little Shiroko{**-chan} become so close?
-Dialogue: 10,0:19:28.65,0:19:32.13,Default,,0,0,0,TM,I could practically see you reading each other's minds.{@TM this feels like a really weird spot to split. could probably just merge the two lines? that or split after "shiroko-chan to" -p}
+Dialogue: 10,0:19:25.20,0:19:28.02,Default,,0,0,0,,So, when did you and\nmy little Shiroko{**-chan} become so close?
+Dialogue: 10,0:19:28.02,0:19:32.13,Default,,0,0,0,,I could practically see you reading each other's minds.
 Dialogue: 10,0:19:32.13,0:19:35.65,Default,,0,0,0,,I'll have to keep a closer eye on you, {*}Teach{*Sensei}.
-Dialogue: 10,0:19:38.95,0:19:41.35,Default,,0,0,0,,Hoshino, can I ask you something?
-Dialogue: 10,0:19:42.25,0:19:43.54,Default,,0,0,0,TM,What is it?{@TM consider including the noise before this -p}
+Dialogue: 10,0:19:38.95,0:19:41.51,Default,,0,0,0,,Hoshino, can I ask you something?
+Dialogue: 10,0:19:41.51,0:19:43.54,Default,,0,0,0,ED,What is it?{@TM consider including the noise before this -p}{@ED might want to add a "hmm" in accordance with the timing change. --ML}
 Dialogue: 10,0:19:45.34,0:19:46.48,Default,,0,0,0,,Ah.
 Dialogue: 10,0:19:47.25,0:19:48.63,Default,,0,0,0,,Could you tell me?
 Dialogue: 10,0:19:51.26,0:19:53.13,Default,,0,0,0,,Well, if you insist.
