@@ -33,7 +33,7 @@ Comment: 0,0:22:46.43,0:22:46.43,Default,,0,0,0,edsync,{=9}{EDSync — First har
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=6}---- Dialogue
 Dialogue: 10,0:00:01.21,0:00:04.23,Default,,0,0,0,,...{*}no{*chan}. Hey, come on, listen!
 Dialogue: 10,0:00:04.66,0:00:06.14,Default,,0,0,0,,Hoshino{**-chan}!
-Dialogue: 10,0:00:06.47,0:00:07.49,Default,,0,0,0,,What is it?
+Dialogue: 10,0:00:06.47,0:00:07.49,Default,,0,0,0,ED,What is it?{@ED maybe "what now"? -p}
 Dialogue: 10,0:00:08.08,0:00:10.78,Default,,0,0,0,,Ta-dah! Look at what I found!
 Dialogue: 10,0:00:10.78,0:00:12.24,Default,,0,0,0,,Oasis Festival?
 Dialogue: 10,0:00:12.70,0:00:17.38,Default,,0,0,0,,This was back when the oasis\nwas still the size of a lake.
@@ -67,11 +67,11 @@ Dialogue: 10,0:03:24.30,0:03:27.31,Default,,0,0,0,,Man, I really did luck out,\n
 Dialogue: 10,0:03:29.98,0:03:30.98,Default,,0,0,0,,Hey, everyone.
 Dialogue: 10,0:03:31.40,0:03:37.24,Default,,0,0,0,,Remember how the land Abydos owned\nwas transferred to a third party?
 Dialogue: 10,0:03:37.24,0:03:39.37,Default,,0,0,0,,We looked deeper into it,
-Dialogue: 10,0:03:39.96,0:03:47.50,Default,,0,0,0,,and it turns out that the land is currently\nowned by "Kaiser Construction".
+Dialogue: 10,0:03:39.96,0:03:47.50,Default,,0,0,0,ED,and it turns out that the land is currently\nowned by "Kaiser Construction".{@ED IMO either remove quotes or add "a" before it; i.e. owned by a "Kaiser Construction" -p}
 Dialogue: 10,0:03:48.22,0:03:49.26,Default,,0,0,0,,Then that means...
 Dialogue: 10,0:03:49.26,0:03:51.67,Default,,0,0,0,,It was the Kaiser Corporation after all?
 Dialogue: 10,0:03:51.67,0:03:54.88,Default,,0,0,0,,Yes. The only property we own\nis this building and its surroundings.
-Dialogue: 10,0:03:54.88,0:04:01.51,Default,,0,0,0,,Everything else, the main building buried underneath\nthe sand, the miles of wasteland surrounding it, {###}
+Dialogue: 10,0:03:54.88,0:04:01.51,Default,,0,0,0,ED,Everything else, the main building buried underneath\nthe sand, the miles of wasteland surrounding it, {###}{@ED splitting is really awkward. smallest fix is using em dash for "else—the" and on next line before newline; would rather suggest rewriting -p}
 Dialogue: 10,0:04:01.51,0:04:06.86,Default,,0,0,0,,and even the infrastructure and land in the city,\nare owned by them now.
 Dialogue: 10,0:04:06.86,0:04:08.39,Default,,0,0,0,,All of that?
 Dialogue: 10,0:04:08.39,0:04:10.14,Default,,0,0,0,,But how?
@@ -89,7 +89,7 @@ Dialogue: 10,0:04:40.75,0:04:44.64,Default,,0,0,0,,I'm sorry. If only I had real
 Dialogue: 10,0:04:45.18,0:04:48.18,Default,,0,0,0,,Don't sweat it, Ayane{**-chan}.
 Dialogue: 10,0:04:48.56,0:04:50.72,Default,,0,0,0,,This all happened long before anyone enro—
 Dialogue: 10,0:04:50.72,0:04:52.40,Default,,0,0,0,,Oh, that reminds me.
-Dialogue: 10,0:04:52.40,0:04:56.02,Default,,0,0,0,,Weren't you part of the student council, Hoshino{**-senpai}?
+Dialogue: 10,0:04:52.40,0:04:56.02,Default,,0,0,0,ED,Weren't you part of the student council, Hoshino{**-senpai}?{@ED tad long on hon, maybe add a swapper linebreak -p}
 Dialogue: 10,0:04:56.02,0:04:57.69,Default,,0,0,0,,Wait, really?
 Dialogue: 10,0:04:58.00,0:05:01.95,Default,,0,0,0,,If I remember correctly,\nyou were the vice president, right?
 Dialogue: 10,0:05:03.00,0:05:05.08,Default,,0,0,0,,Yeah, well, y'know.
@@ -110,10 +110,10 @@ Dialogue: 10,0:06:00.30,0:06:02.60,Default,,0,0,0,,I don't know what happened in
 Dialogue: 10,0:06:02.60,0:06:06.68,Default,,0,0,0,,but what I {\i1}do{\i0} know is that without you,\nthe Task Force wouldn't be what it is today.
 Dialogue: 10,0:06:07.71,0:06:09.96,Default,,0,0,0,,You're always lazing about.
 Dialogue: 10,0:06:09.96,0:06:12.23,Default,,0,0,0,,You never give a straight answer.
-Dialogue: 10,0:06:12.23,0:06:13.89,Default,,0,0,0,,And that's only the start of your problems.
+Dialogue: 10,0:06:12.23,0:06:13.89,Default,,0,0,0,ED,And that's only the start of your problems.{@ED barely the tip of the iceberg? -p}
 Dialogue: 10,0:06:13.89,0:06:17.40,Default,,0,0,0,,But you're always the first to step up when we need you.
 Dialogue: 10,0:06:17.40,0:06:19.33,Default,,0,0,0,,And I respect you. {Clearly this should be translated as "I'm confessing to you" smh homophobic fansubbers --ML}{confess your crimes, shiroko --ik}
-Dialogue: 10,0:06:19.86,0:06:21.49,Default,,0,0,0,,Wh-Where's this coming from, Shiroko{**-chan}?
+Dialogue: 10,0:06:19.86,0:06:21.49,Default,,0,0,0,TM,Wh-Where's this coming from, Shiroko{**-chan}?{@TM consider including the noise before this -p}
 Dialogue: 10,0:06:21.77,0:06:24.51,Default,,0,0,0,,You can't just drop a line like that out of nowhere!
 Dialogue: 10,0:06:26.08,0:06:27.12,Default,,0,0,0,,Speaking of which,
 Dialogue: 10,0:06:27.38,0:06:31.79,Default,,0,0,0,,why did the student council sell their land\nto the Kaiser Corporation in the first place?
@@ -121,16 +121,16 @@ Dialogue: 10,0:06:31.79,0:06:36.83,Default,,0,0,0,,They probably did it to pay o
 Dialogue: 10,0:06:37.66,0:06:41.38,Default,,0,0,0,,But that's just my guess.\nI wasn't there when it happened.
 Dialogue: 10,0:06:41.88,0:06:47.44,Default,,0,0,0,,I think they were trying their best for the school,\nbut the debts just kept piling up.
 Dialogue: 10,0:06:47.44,0:06:49.26,Default,,0,0,0,,I believe so, too.
-Dialogue: 10,0:06:49.82,0:06:54.27,Default,,0,0,0,,But it's unlikely all the land\nclaimed by the desert had much value.
+Dialogue: 10,0:06:49.82,0:06:54.27,Default,,0,0,0,ED,But it's unlikely all the land\nclaimed by the desert had much value.{@ED bad linebreak -p}
 Dialogue: 10,0:06:54.98,0:06:59.52,Default,,0,0,0,,They may have paid back the interest,\nbut they couldn't have reduced the principal.
-Dialogue: 10,0:06:59.52,0:07:04.10,Default,,0,0,0,,And as a result, they were forced\nto sell more and more land.
+Dialogue: 10,0:06:59.52,0:07:04.10,Default,,0,0,0,ED,And as a result, they were forced\nto sell more and more land.{@ED "Which would have forced them to keep selling more and more land"? -p}
 Dialogue: 10,0:07:04.10,0:07:05.38,Default,,0,0,0,,Could that be it?
 Dialogue: 10,0:07:05.38,0:07:06.57,Default,,0,0,0,,What the heck?!
-Dialogue: 10,0:07:06.86,0:07:09.62,Default,,0,0,0,,That means the game was rigged from the start! {is that a NV reference --ML}{The bear and the bull --ik}
+Dialogue: 10,0:07:06.86,0:07:09.62,Default,,0,0,0,ED,That means the game was rigged from the start! {is that a NV reference --ML}{The bear and the bull --ik}{@ED "the deal was" maybe -p}
 Dialogue: 10,0:07:09.62,0:07:11.70,Default,,0,0,0,,You might be right about that.
 Dialogue: 10,0:07:11.70,0:07:12.66,Default,,0,0,0,,What?
 Dialogue: 10,0:07:12.66,0:07:15.74,Default,,0,0,0,,First, they make a loan that could never be paid off.
-Dialogue: 10,0:07:15.74,0:07:20.86,Default,,0,0,0,,Then, they pressure the school to sell their land\nin order to pay even a portion of the debt back.
+Dialogue: 10,0:07:15.74,0:07:20.86,Default,,0,0,0,ED,Then, they pressure the school to sell their land\nin order to pay even a portion{@ED fraction? possibly drop "even" -p} of the debt back.
 Dialogue: 10,0:07:21.44,0:07:22.84,Default,,0,0,0,,That has to be it.
 Dialogue: 10,0:07:23.12,0:07:28.96,Default,,0,0,0,,And by the end of it, the entire school district\nwill have fallen into the Kaiser Corporation's hands.
 Dialogue: 10,0:07:28.96,0:07:30.14,Default,,0,0,0,,True.
@@ -151,7 +151,7 @@ Dialogue: 10,0:08:14.77,0:08:16.73,Default,,0,0,0,,The school's debt,
 Dialogue: 10,0:08:16.73,0:08:19.52,Default,,0,0,0,,Abydos's current situation,
 Dialogue: 10,0:08:19.86,0:08:23.28,Default,,0,0,0,,and these new discoveries we just made...
 Dialogue: 10,0:08:23.28,0:08:26.95,Default,,0,0,0,,I think all the pieces are starting to fall into place.
-Dialogue: 10,0:08:26.95,0:08:32.16,Default,,0,0,0,,After the Abydos student council disbanded,\nthey lost their ability to buy more land.
+Dialogue: 10,0:08:26.95,0:08:32.16,Default,,0,0,0,ED,After the Abydos student council disbanded,\nthey lost their ability to buy more land.{@ED "they" presumably means kaiser here; this reads like referring to the student council -p}
 Dialogue: 10,0:08:32.16,0:08:38.66,Default,,0,0,0,,So in order to take over this final piece of land,\nthey hired the Helmet Gang.
 Dialogue: 10,0:08:39.02,0:08:43.17,Default,,0,0,0,,Does that mean the Kaiser Corporation\nwas never after the money?
 Dialogue: 10,0:08:43.17,0:08:46.99,Default,,0,0,0,,Their true goal was the land itself all along?
@@ -188,7 +188,7 @@ Dialogue: 10,0:10:18.54,0:10:21.35,Default,,0,0,0,,A few times for student counc
 Dialogue: 10,0:10:21.35,0:10:25.66,Default,,0,0,0,,Just a little bit further and you'll find\na great oasis waiting for us!
 Dialogue: 10,0:10:25.66,0:10:27.31,Default,,0,0,0,,What? An oasis?
 Dialogue: 10,0:10:27.31,0:10:28.14,Default,,0,0,0,,Yeah!
-Dialogue: 10,0:10:28.14,0:10:32.11,Default,,0,0,0,,Well, a dried-up oasis, anyway.
+Dialogue: 10,0:10:28.14,0:10:32.11,Default,,0,0,0,ED,Well, a dried-up oasis, anyway.{@ED consider "one" instead -p}
 Dialogue: 10,0:10:32.64,0:10:36.16,Default,,0,0,0,,It used to be where they'd hold\nthe Abydos Oasis Festival every year.
 Dialogue: 10,0:10:36.51,0:10:37.73,Default,,0,0,0,,The Oasis Festival?
 Dialogue: 10,0:10:37.73,0:10:39.54,Default,,0,0,0,,I've heard of that!
@@ -197,7 +197,7 @@ Dialogue: 10,0:10:42.04,0:10:44.55,Default,,0,0,0,,Apparently it attracted a ton
 Dialogue: 10,0:10:44.55,0:10:45.42,Default,,0,0,0,,That's the one!
 Dialogue: 10,0:10:45.91,0:10:51.19,Default,,0,0,0,,It used to be such a big event,\nit even attracted students from other schools.
 Dialogue: 10,0:10:52.23,0:10:54.59,Default,,0,0,0,,Big enough to attract them\nall the way to the desert?
-Dialogue: 10,0:10:54.59,0:10:59.19,Default,,0,0,0,,Thing is, from what I heard this place\nused to be much more hospitable.
+Dialogue: 10,0:10:54.59,0:10:59.19,Default,,0,0,0,ED,Thing is, from what I heard{@ED comma or linebreak here? -p} this place\nused to be much more hospitable.
 Dialogue: 10,0:10:59.19,0:11:00.89,Default,,0,0,0,,Oh?
 Dialogue: 10,0:11:04.53,0:11:06.44,Default,,0,0,0,,Look, Hoshino{**-chan}!
 Dialogue: 10,0:11:06.70,0:11:08.00,Default,,0,0,0,,It's right there!
@@ -217,7 +217,7 @@ Dialogue: 10,0:12:01.84,0:12:03.22,Default,,0,0,0,,PMC...
 Dialogue: 10,0:12:03.22,0:12:04.36,Default,,0,0,0,,You know what it means?
 Dialogue: 10,0:12:04.36,0:12:05.16,Default,,0,0,0,,Yes.
 Dialogue: 10,0:12:05.44,0:12:07.61,Default,,0,0,0,,PMC stands for "Private Military Company".
-Dialogue: 10,0:12:07.61,0:12:10.67,Default,,0,0,0,,In other words, they're mercenaries.
+Dialogue: 10,0:12:07.61,0:12:10.67,Default,,0,0,0,ED,In other words, they're mercenaries.{@ED i kinda wanna drop the "in other words" here but it's also a bit short without it -p}{maybe "Guns-for-hire. They're mercenaries." -p}
 Dialogue: 10,0:12:11.42,0:12:13.67,Default,,0,0,0,,They're nothing like the Helmet Gang.
 Dialogue: 10,0:12:14.02,0:12:16.21,Default,,0,0,0,,These are professional soldiers.
 Dialogue: 10,0:12:17.23,0:12:18.32,Default,,0,0,0,,Intruders?
@@ -252,7 +252,7 @@ Dialogue: 10,0:14:02.52,0:14:05.13,Default,,0,0,0,,It was a completely legitimat
 Dialogue: 10,0:14:05.13,0:14:07.87,Default,,0,0,0,,We even have the records to prove it.
 Dialogue: 10,0:14:08.98,0:14:13.58,Default,,0,0,0,,I imagine you must be wondering why we\nwould purchase {such a massive sandpit :^)}this massive, barren wasteland.
 Dialogue: 10,0:14:14.06,0:14:16.58,Default,,0,0,0,ED,Allow me to happily explain. {I can't exactly put my finger on why, but something about "happily explain" feels wrong to me. --ML}
-Dialogue: 10,0:14:16.58,0:14:22.72,Default,,0,0,0,,We're looking for a treasure\nsaid to be buried somewhere in Abydos.
+Dialogue: 10,0:14:16.58,0:14:22.72,Default,,0,0,0,ED,We're looking for a treasure\nsaid to be buried somewhere in Abydos.{@ED unsure if "treasure" takes an article here -p}
 Dialogue: 10,0:14:23.57,0:14:24.72,Default,,0,0,0,,Give me a break!
 Dialogue: 10,0:14:24.72,0:14:27.43,Default,,0,0,0,,You really expect us to believe that crap?
 Dialogue: 10,0:14:27.43,0:14:29.64,Default,,0,0,0,,Then why do you have an army?
@@ -286,7 +286,7 @@ Dialogue: 10,0:15:52.39,0:15:55.42,Default,,0,0,0,,She's right! We're not abando
 Dialogue: 10,0:15:55.42,0:15:58.94,Default,,0,0,0,,Abydos is our school. It's our home!
 Dialogue: 10,0:15:58.94,0:16:00.50,Default,,0,0,0,,Then what will it be?
 Dialogue: 10,0:16:00.50,0:16:03.25,Default,,0,0,0,,Do you have any other options?
-Dialogue: 10,0:16:03.25,0:16:04.40,Default,,0,0,0,,Well...
+Dialogue: 10,0:16:03.25,0:16:04.40,Default,,0,0,0,TM,Well...{@TM noise before line -p}
 Dialogue: 10,0:16:06.64,0:16:08.03,Default,,0,0,0,,Come on, girls. Time to go home.
 Dialogue: 10,0:16:09.55,0:16:10.73,Default,,0,0,0,,Hoshino?
 Dialogue: 10,0:16:10.73,0:16:13.70,Default,,0,0,0,,There's no point in arguing with him.
@@ -298,14 +298,14 @@ Dialogue: 10,0:16:25.88,0:16:32.12,Default,,0,0,0,ED,{\t(6110,6220,\3c&HFFFFFF&\
 Dialogue: 10,0:16:49.97,0:16:53.03,Default,,0,0,0,,Well, then. I am eager to see those monthly repayments.
 Dialogue: 10,0:16:53.46,0:16:57.29,Default,,0,0,0,,Thank you again, cherished customers,\nfor choosing Kaiser Loan.
 Dialogue: 10,0:17:07.12,0:17:09.30,Default,,0,0,0,,God! What the hell was that crap!
-Dialogue: 10,0:17:09.68,0:17:12.80,Default,,0,0,0,,He said they were looking for a treasure.
+Dialogue: 10,0:17:09.68,0:17:12.80,Default,,0,0,0,ED,He said they were looking for a treasure.{@ED same note about article -p}
 Dialogue: 10,0:17:12.80,0:17:18.55,Default,,0,0,0,,Abydos collected survey reports long ago\nwhile searching for oil and other resources.
 Dialogue: 10,0:17:18.56,0:17:22.55,Default,,0,0,0,,The desert is empty. There's nothing of value there.
 Dialogue: 10,0:17:23.58,0:17:24.53,Default,,0,0,0,,Shiroko?
 Dialogue: 10,0:17:24.53,0:17:26.07,Default,,0,0,0,,I'm going back.
 Dialogue: 10,0:17:26.07,0:17:28.78,Default,,0,0,0,,We need to find out what they're up to.
 Dialogue: 10,0:17:29.67,0:17:31.09,Default,,0,0,0,,Wait, you want to go back there?
-Dialogue: 10,0:17:31.62,0:17:35.39,Default,,0,0,0,,If I take time to prepare,\nI think I can infiltrate that base.
+Dialogue: 10,0:17:31.62,0:17:35.39,Default,,0,0,0,ED,If I take time to prepare,\nI think I can infiltrate that base.{@ED that -> their? -p}
 Dialogue: 10,0:17:35.39,0:17:36.83,Default,,0,0,0,,H-Hold on!
 Dialogue: 10,0:17:36.83,0:17:40.08,Default,,0,0,0,,We need to think about\nhow to deal with the debt first.
 Dialogue: 10,0:17:40.08,0:17:43.58,Default,,0,0,0,,The debt's too big. We can no longer\npay it back by playing fair.
@@ -320,8 +320,8 @@ Dialogue: 10,0:18:03.49,0:18:04.35,Default,,0,0,0,,B-But...
 Dialogue: 10,0:18:04.35,0:18:06.32,Default,,0,0,0,,I understand where you're coming from.
 Dialogue: 10,0:18:06.32,0:18:08.86,Default,,0,0,0,,But I can't let you become criminals!
 Dialogue: 10,0:18:08.86,0:18:11.42,Default,,0,0,0,,Then what do you want us to do?
-Dialogue: 10,0:18:11.42,0:18:12.86,Default,,0,0,0,,Well...
-Dialogue: 10,0:18:15.14,0:18:17.37,Default,,0,0,0,QC,Come on, everyone.\nLet's all calm down a bit. {### tempted to use chillax here frfr}{take a chill pill, simmer down, stop - hammer time --ik} {light i agree with the chillax --rapid}{### petzku you heard rapid. Let me do it let me do it let me do it}{calm down y'all - sika}{I feel like chillax wouldn't really fit the tone here ngl --ML}
+Dialogue: 10,0:18:11.42,0:18:12.86,Default,,0,0,0,TM,Well...{@TM noise before line, maybe stutter it -p}
+Dialogue: 10,0:18:15.14,0:18:17.37,Default,,0,0,0,QC,Come on, everyone.\nLet's all calm down a bit. {### tempted to use chillax here frfr}{take a chill pill, simmer down, stop - hammer time --ik} {light i agree with the chillax --rapid}{### petzku you heard rapid. Let me do it let me do it let me do it}{calm down y'all - sika}{I feel like chillax wouldn't really fit the tone here ngl --ML}{chillax is a bit far IMO. also sounds too millennial/zoomer for hoshino to me -p}
 Dialogue: 10,0:18:17.69,0:18:19.98,Default,,0,0,0,,I can see steam coming out your ears.
 Dialogue: 10,0:18:19.98,0:18:21.98,Default,,0,0,0,,Okay, Shiroko{**-chan}?
 Dialogue: 10,0:18:21.98,0:18:25.42,Default,,0,0,0,,Sorry. I didn't want things to get so heated.
@@ -340,10 +340,10 @@ Dialogue: 10,0:19:18.46,0:19:19.50,Default,,0,0,0,,Hoshino.
 Dialogue: 10,0:19:20.45,0:19:22.62,Default,,0,0,0,,Oh, it's just you.
 Dialogue: 10,0:19:22.62,0:19:24.94,Default,,0,0,0,,Oh, come on. That's a bit harsh.
 Dialogue: 10,0:19:25.20,0:19:28.65,Default,,0,0,0,,So, when did you and\nmy little Shiroko{**-chan} become so close?
-Dialogue: 10,0:19:28.65,0:19:32.13,Default,,0,0,0,,I could practically see you reading each other's minds.
+Dialogue: 10,0:19:28.65,0:19:32.13,Default,,0,0,0,TM,I could practically see you reading each other's minds.{@TM this feels like a really weird spot to split. could probably just merge the two lines? that or split after "shiroko-chan to" -p}
 Dialogue: 10,0:19:32.13,0:19:35.65,Default,,0,0,0,,I'll have to keep a closer eye on you, {*}Teach{*Sensei}.
 Dialogue: 10,0:19:38.95,0:19:41.35,Default,,0,0,0,,Hoshino, can I ask you something?
-Dialogue: 10,0:19:42.25,0:19:43.54,Default,,0,0,0,,What is it?
+Dialogue: 10,0:19:42.25,0:19:43.54,Default,,0,0,0,TM,What is it?{@TM consider including the noise before this -p}
 Dialogue: 10,0:19:45.34,0:19:46.48,Default,,0,0,0,,Ah.
 Dialogue: 10,0:19:47.25,0:19:48.63,Default,,0,0,0,,Could you tell me?
 Dialogue: 10,0:19:51.26,0:19:53.13,Default,,0,0,0,,Well, if you insist.
@@ -374,7 +374,7 @@ Dialogue: 10,0:21:39.99,0:21:43.68,Default,,0,0,0,,I'm sure they'll understand\n
 Dialogue: 10,0:21:43.68,0:21:44.73,Default,,0,0,0,,Trust me!
 Dialogue: 10,0:21:44.73,0:21:48.97,Default,,0,0,0,,The road ahead is long, but as long as\nwe stick together, we can make it to the end.
 Dialogue: 10,0:21:50.53,0:21:51.75,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:21:52.19,0:21:54.95,Default,,0,0,0,,Who knows? Maybe a miracle will happen.
+Dialogue: 10,0:21:52.19,0:21:54.95,Default,,0,0,0,ED,Who knows? Maybe a miracle will happen.{@ED ehh -p}
 Dialogue: 10,0:21:54.95,0:21:57.69,Default,,0,0,0,,I'm sure we can make one happen\nif we're all together.
 Dialogue: 10,0:22:00.23,0:22:01.58,Default,,0,0,0,,All righty, then.
 Dialogue: 10,0:22:01.58,0:22:04.01,Default,,0,0,0,,That's enough serious talk for me.
