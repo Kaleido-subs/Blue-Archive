@@ -42,9 +42,9 @@ Dialogue: 10,0:00:12.70,0:00:17.38,Default,,0,0,0,,This was back when the oasis\
 Dialogue: 10,0:00:18.10,0:00:19.79,Default,,0,0,0,,Here, for you. As a memento.
 Dialogue: 10,0:00:20.94,0:00:23.22,Default,,0,0,0,,Isn't that just precious?
 Dialogue: 10,0:00:23.22,0:00:28.05,Default,,0,0,0,,What if a miracle happened\nand Abydos started booming agai—
-Dialogue: 10,0:00:28.05,0:00:30.80,Default,,0,0,0,,Miracles don't exist, {*}Yume{*Senpai}.
+Dialogue: 10,0:00:28.05,0:00:30.80,Default,,0,0,0,ED,Miracles don't exist, {*}Yume{*Senpai}. {Probably fine, but also consider "Miracles aren't real"? --ML}
 Dialogue: 10,0:00:30.80,0:00:31.82,Default,,0,0,0,,Huh?
-Dialogue: 10,0:00:31.82,0:00:34.60,Default,,0,0,0,,They're only in fairy tales.
+Dialogue: 10,0:00:31.82,0:00:34.60,Default,,0,0,0,ED,They're only in fairy tales. {"They only happen in fairy tales" or something might be better. --ML}
 Dialogue: 10,0:00:34.60,0:00:36.80,Default,,0,0,0,,Face reality.
 Dialogue: 10,0:00:38.20,0:00:42.40,Default,,0,0,0,,Why would {\i1}anyone{\i0} ever come\nto the middle of the desert?
 Dialogue: 10,0:00:42.40,0:00:44.61,Default,,0,0,0,,Even entertaining the idea is a waste of time.
@@ -60,7 +60,7 @@ Dialogue: 10,0:02:51.55,0:02:54.46,Default,,0,0,0,,About yesterday, well... I'm 
 Dialogue: 10,0:02:54.46,0:02:57.20,Default,,0,0,0,,It's fine. I was also being too pushy.
 Dialogue: 10,0:02:57.20,0:03:00.58,Default,,0,0,0,,I know you're just worried about li'l ol' me.
 Dialogue: 10,0:03:01.00,0:03:03.28,Default,,0,0,0,,Well, of course.
-Dialogue: 10,0:03:03.28,0:03:07.49,Default,,0,0,0,,The Abydos Task Force\nisn't complete without all five of us.
+Dialogue: 10,0:03:03.28,0:03:07.49,Default,,0,0,0,ED,The Abydos Task Force\nisn't complete without all five of us. {Consider "Forclosure Task Force" instead of "Abydos[...]". Makes more sense as the shorthand imo. Or you could use the full name like in JP, but that might become stilted in English. --ML}
 Dialogue: 10,0:03:08.54,0:03:10.88,Default,,0,0,0,,Aww, you're so sweet.
 Dialogue: 10,0:03:11.48,0:03:13.46,Default,,0,0,0,,Hey, Hoshino{**-senpai}.
 Dialogue: 10,0:03:14.26,0:03:17.59,Default,,0,0,0,,I don't know what you're hiding from us,
@@ -140,11 +140,11 @@ Dialogue: 10,0:07:30.76,0:07:33.97,Default,,0,0,0,,This was probably their plan 
 Dialogue: 10,0:07:33.97,0:07:38.20,Default,,0,0,0,,That's why they lent Abydos money in the first place.
 Dialogue: 10,0:07:38.20,0:07:42.07,Default,,0,0,0,,The trap may have been set\nfar earlier than we realised.
 Dialogue: 10,0:07:42.38,0:07:44.82,Default,,0,0,0,,Decades ago, even.
-Dialogue: 10,0:07:44.82,0:07:48.22,Default,,0,0,0,,What? That means Kaiser\nplayed them like a damn fiddle!
+Dialogue: 10,0:07:44.82,0:07:48.22,Default,,0,0,0,ED,What? That means Kaiser\nplayed them like a damn fiddle! {As much as I really do appreciate this reference, I feel like perhaps its a little too blatant? --ML}
 Dialogue: 10,0:07:48.22,0:07:50.59,Default,,0,0,0,,I can't believe they fell for this scam! {you're one to talk --ML}
 Dialogue: 10,0:07:50.57,0:07:52.54,Default,,0,0,0,,Calm down, Serika.
 Dialogue: 10,0:07:52.54,0:07:55.96,Default,,0,0,0,,I think the perpetrators\nare to blame here, not the victims.
-Dialogue: 10,0:07:55.96,0:07:58.00,Default,,0,0,0,,I know that!
+Dialogue: 10,0:07:55.96,0:07:58.00,Default,,0,0,0,TM,I know that! {Want to double check if I should include that stutter in this line or not. Ask Petzku. --ML}
 Dialogue: 10,0:07:58.55,0:07:59.58,Default,,0,0,0,,But still...
 Dialogue: 10,0:08:02.26,0:08:05.80,Default,,0,0,0,,People become desperate\nwhen backed into a corner.
 Dialogue: 10,0:08:07.14,0:08:10.26,Default,,0,0,0,,They'll do anything, even if they know\nit'll only make things worse.
@@ -176,7 +176,7 @@ Dialogue: 10,0:09:34.94,0:09:39.22,Default,,0,0,0,,Whatever. Now we know that Ka
 Dialogue: 10,0:09:39.22,0:09:41.31,Default,,0,0,0,,And if they're plotting something, we should act.
 Dialogue: 10,0:09:41.64,0:09:43.75,Default,,0,0,0,,Serika{**-chan}'s right.
 Dialogue: 10,0:09:43.75,0:09:47.12,Default,,0,0,0,,The answers to all of our questions\nmust be hidden in the Abydos Desert.
-Dialogue: 10,0:09:47.12,0:09:47.82,Default,,0,0,0,,Yes.
+Dialogue: 10,0:09:47.12,0:09:47.82,Default,,0,0,0,ED,Yes. {I would probably go with "Right" instead of "yes" here --ML}
 Dialogue: 10,0:09:48.76,0:09:49.93,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:09:52.40,0:09:53.49,Default,,0,0,0,,Let's go.
 Dialogue: 10,0:09:53.49,0:09:55.11,Default,,0,0,0,,To the Abydos Desert!
@@ -253,7 +253,7 @@ Dialogue: 10,0:13:59.74,0:14:02.52,Default,,0,0,0,,Yes, we did in fact buy that 
 Dialogue: 10,0:14:02.52,0:14:05.13,Default,,0,0,0,,It was a completely legitimate transaction.
 Dialogue: 10,0:14:05.13,0:14:07.87,Default,,0,0,0,,We even have the records to prove it.
 Dialogue: 10,0:14:08.98,0:14:13.58,Default,,0,0,0,,I imagine you must be wondering why we\nwould purchase {such a massive sandpit :^)}this massive, barren wasteland.
-Dialogue: 10,0:14:14.06,0:14:16.58,Default,,0,0,0,,Allow me to happily explain.
+Dialogue: 10,0:14:14.06,0:14:16.58,Default,,0,0,0,ED,Allow me to happily explain. {I can't exactly put my finger on why, but something about "happily explain" feels wrong to me. --ML}
 Dialogue: 10,0:14:16.58,0:14:22.72,Default,,0,0,0,,We're looking for a treasure\nsaid to be buried somewhere in Abydos.
 Dialogue: 10,0:14:23.57,0:14:24.72,Default,,0,0,0,,Give me a break!
 Dialogue: 10,0:14:24.72,0:14:27.43,Default,,0,0,0,,You really expect us to believe that crap?
@@ -296,7 +296,7 @@ Dialogue: 10,0:16:14.45,0:16:16.22,Default,,0,0,0,,He's just toying with us.
 Dialogue: 10,0:16:17.54,0:16:20.07,Default,,0,0,0,,A wise choice, Miss Vice President. {SASUGA} {askcully this should be "As expected of the Vice President of Abydos"}
 Dialogue: 10,0:16:20.07,0:16:21.96,Default,,0,0,0,,You're a smart cookie.
 Dialogue: 10,0:16:23.56,0:16:24.96,Default,,0,0,0,,That reminds me.
-Dialogue: 10,0:16:25.88,0:16:32.12,Default,,0,0,0,,{\t(6110,6220,\3c&HFFFFFF&\4c&HFFFFFF&)}I'm shocked someone so smart was willing\nto follow that brainless idiot of a president.
+Dialogue: 10,0:16:25.88,0:16:32.12,Default,,0,0,0,ED,{\t(6110,6220,\3c&HFFFFFF&\4c&HFFFFFF&)}I'm shocked someone so smart was willing\nto follow that brainless idiot of a president. {Consider putting the newline after "to" --ML}
 Dialogue: 10,0:16:49.97,0:16:53.03,Default,,0,0,0,,Well, then. I am eager to see those monthly repayments.
 Dialogue: 10,0:16:53.46,0:16:57.29,Default,,0,0,0,,Thank you again, cherished customers,\nfor choosing Kaiser Loan.
 Dialogue: 10,0:17:07.12,0:17:09.30,Default,,0,0,0,,God! What the hell was that crap!
@@ -323,7 +323,7 @@ Dialogue: 10,0:18:04.35,0:18:06.32,Default,,0,0,0,,I understand where you're com
 Dialogue: 10,0:18:06.32,0:18:08.86,Default,,0,0,0,,But I can't let you become criminals!
 Dialogue: 10,0:18:08.86,0:18:11.42,Default,,0,0,0,,Then what do you want us to do?
 Dialogue: 10,0:18:11.42,0:18:12.86,Default,,0,0,0,,Well...
-Dialogue: 10,0:18:15.14,0:18:17.37,Default,,0,0,0,QC,Come on, everyone.\nLet's all calm down a bit. {### tempted to use chillax here frfr}{take a chill pill, simmer down, stop - hammer time --ik} {light i agree with the chillax --rapid}{### petzku you heard rapid. Let me do it let me do it let me do it}{calm down y'all - sika}
+Dialogue: 10,0:18:15.14,0:18:17.37,Default,,0,0,0,QC,Come on, everyone.\nLet's all calm down a bit. {### tempted to use chillax here frfr}{take a chill pill, simmer down, stop - hammer time --ik} {light i agree with the chillax --rapid}{### petzku you heard rapid. Let me do it let me do it let me do it}{calm down y'all - sika}{I feel like chillax wouldn't really fit the tone here ngl --ML}
 Dialogue: 10,0:18:17.69,0:18:19.98,Default,,0,0,0,,I can see steam coming out your ears.
 Dialogue: 10,0:18:19.98,0:18:21.98,Default,,0,0,0,,Okay, Shiroko{**-chan}?
 Dialogue: 10,0:18:21.98,0:18:25.42,Default,,0,0,0,,Sorry. I didn't want things to get so heated.
@@ -367,7 +367,7 @@ Dialogue: 10,0:21:02.52,0:21:05.11,Default,,0,0,0,,So I guess I do like this sch
 Dialogue: 10,0:21:10.59,0:21:11.62,Default,,0,0,0,,{*}Teacher{*Sensei}.
 Dialogue: 10,0:21:13.09,0:21:14.21,Default,,0,0,0,,The truth is...
 Dialogue: 10,0:21:18.87,0:21:19.88,Default,,0,0,0,,That's a load off my chest!
-Dialogue: 10,0:21:20.38,0:21:24.72,Default,,0,0,0,,If I told everyone this,\nthey'd all just worry, y'know?
+Dialogue: 10,0:21:20.38,0:21:24.72,Default,,0,0,0,ED,If I told everyone this,\nthey'd all just worry, y'know? {I feel like this should be "told everyone about this", assuming she's referring to what is discussed offscreen after "the truth is" --ML}
 Dialogue: 10,0:21:24.98,0:21:30.98,Default,,0,0,0,,But I know I can't go keeping secrets\nfrom my adorable little clubmates forever either.
 Dialogue: 10,0:21:31.31,0:21:34.23,Default,,0,0,0,,I'll tell them everything tomorrow.
 Dialogue: 10,0:21:34.23,0:21:37.28,Default,,0,0,0,,Not like they need more on their plate, though.
