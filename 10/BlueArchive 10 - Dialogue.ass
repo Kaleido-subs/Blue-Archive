@@ -50,7 +50,7 @@ Dialogue: 10,0:02:27.35,0:02:28.67,Default,,0,0,0,,That's the gist, anyhow.
 Dialogue: 10,0:02:29.59,0:02:34.01,Default,,0,0,0,,I may not look like it, but I've \Nactually got a bit of a reputation.
 Dialogue: 10,0:02:34.69,0:02:39.47,Default,,0,0,0,,I know I got ahead of myself \Na little back at the Black Market. {TLC: cross reference with the Black Market episode to see what she means by this}
 Dialogue: 10,0:02:40.01,0:02:43.50,Default,,0,0,0,,I'm sorry for not keeping that promise.
-Dialogue: 10,0:02:44.29,0:02:48.47,Default,,0,0,0,TM,But this should give the Task Force \Nsome breathing room at least. {check snap}
+Dialogue: 10,0:02:44.29,0:02:48.47,Default,,0,0,0,,But this should give the Task Force \Nsome breathing room at least.
 Dialogue: 10,0:02:49.37,0:02:52.92,Default,,0,0,0,,This is all my responsibility to bear.
 Dialogue: 10,0:02:53.63,0:02:57.78,Default,,0,0,0,,I need to do this as the last remaining \Nmember of the Abydos student council.
 Dialogue: 10,0:02:58.78,0:03:00.47,Default,,0,0,0,,So this is goodbye.
@@ -139,7 +139,7 @@ Dialogue: 10,0:07:32.50,0:07:34.79,Default,,0,0,0,,Finally starting to get the p
 Dialogue: 10,0:07:34.79,0:07:39.27,Default,,0,0,0,,Struggle all you might, but nothing will ever change.
 Dialogue: 10,0:07:39.69,0:07:45.21,Default,,0,0,0,,And now, Takanashi Hoshino, the final member \Nof the Abydos student council, has withdrawn.
 Dialogue: 10,0:07:45.21,0:07:49.28,Default,,0,0,0,,With this, Abydos no longer has a student council.
-Dialogue: 10,0:07:49.55,0:07:53.04,Alt,,0,0,0,,And all of you are no longer anybody at all.
+Dialogue: 10,0:07:49.55,0:07:53.04,Default,,0,0,0,,And all of you are no longer anybody at all.
 Dialogue: 10,0:07:53.31,0:07:55.19,Default,,0,0,0,,Don't be ridiculous!
 Dialogue: 10,0:07:55.19,0:07:58.67,Default,,0,0,0,,Student council or no, Abydos still has the Task Force!
 Dialogue: 10,0:07:58.67,0:08:00.97,Default,,0,0,0,,You can't get away with that while we're still -
@@ -194,233 +194,244 @@ Dialogue: 10,0:10:12.61,0:10:16.76,Default,,0,0,0,,I'd rather die than listen to
 Dialogue: 10,0:10:17.85,0:10:20.52,Default,,0,0,0,,An eye for an eye. A tooth for a tooth.
 Dialogue: 10,0:10:20.52,0:10:25.52,Default,,0,0,0,,We tread a path that none may follow, \Nand we do so without mercy. {TLC: reference bank robbery ep for consistency}
 Dialogue: 10,0:10:26.37,0:10:31.03,Default,,0,0,0,,Wasn't that supposed to be your motto, \NMasked Swimsuit Gang?
-Dialogue: 10,0:10:34.47,0:10:36.57,Default,,0,0,0,,Y-You're...?
-Dialogue: 10,0:10:38.55,0:10:41.71,Default,,0,0,0,,I didn't fall in love with a bunch of pushovers.
-Dialogue: 10,0:10:41.99,0:10:43.39,Default,,0,0,0,,Come on, Aru.
-Dialogue: 10,0:10:43.49,0:10:45.55,Default,,0,0,0,,I'm sure they get the message.
-Dialogue: 10,0:10:45.83,0:10:47.93,Default,,0,0,0,,Girls with glasses are quite delicate.
-Dialogue: 10,0:10:48.05,0:10:49.69,Default,,0,0,0,,They can't help it sometimes.
-Dialogue: 10,0:10:49.85,0:10:51.83,Default,,0,0,0,,W-What are you doing here?
-Dialogue: 10,0:10:52.43,0:10:53.71,Default,,0,0,0,,But you know...
-Dialogue: 10,0:10:53.85,0:10:56.65,Default,,0,0,0,,You make a girl with glasses cry, \Nthere's blood to pay.
-Dialogue: 10,0:10:57.19,0:10:58.97,Default,,0,0,0,,So you asked for this.
-Dialogue: 10,0:10:59.67,0:11:01.77,Default,,0,0,0,,I'm gonna paint the town red with your guts!
-Dialogue: 10,0:11:02.15,0:11:04.25,Default,,0,0,0,,That's Problem Solver 68!
-Dialogue: 10,0:11:05.71,0:11:09.35,Default,,0,0,0,,Lost in the road, not knowing right from wrong.
-Dialogue: 10,0:11:09.75,0:11:12.33,Default,,0,0,0,,Everything you try, ending in failure.
-Dialogue: 10,0:11:12.47,0:11:16.87,Default,,0,0,0,,And even if you make it through, \Nit's just more hell you're walking into.
-Dialogue: 10,0:11:19.57,0:11:20.65,Default,,0,0,0,,They're here!
-Dialogue: 10,0:11:21.07,0:11:23.13,Default,,0,0,0,,So what?!
-Dialogue: 10,0:11:32.95,0:11:35.31,Default,,0,0,0,,Your friend is in danger, isn't she?
-Dialogue: 10,0:11:35.59,0:11:40.59,Default,,0,0,0,,Are you just going to sit there feeling sorry \Nwhile they take everything from you?
-Dialogue: 10,0:11:40.83,0:11:42.63,Default,,0,0,0,,Is that really what you want?
-Dialogue: 10,0:11:43.03,0:11:45.67,Default,,0,0,0,,Are you telling me that's the kind of people you are?
-Dialogue: 10,0:11:48.35,0:11:50.25,Default,,0,0,0,,Damn you, Problem Solver!
-Dialogue: 10,0:11:50.57,0:11:54.05,Default,,0,0,0,,You're nothing but dogs! How dare you turn on me!
-Dialogue: 10,0:11:54.19,0:11:55.57,Default,,0,0,0,,Oh, shut up.
-Dialogue: 10,0:11:55.69,0:11:58.19,Default,,0,0,0,,I prefer working with these girls.
-Dialogue: 10,0:11:58.27,0:11:59.47,Default,,0,0,0,,That's all this is.
-Dialogue: 10,0:12:00.27,0:12:04.11,Default,,0,0,0,,It's only natural for a villain to turn \Non her employer, don't you think?
-Dialogue: 10,0:12:04.39,0:12:05.53,Default,,0,0,0,,You guys...
-Dialogue: 10,0:12:05.71,0:12:06.73,Default,,0,0,0,,You're right.
-Dialogue: 10,0:12:06.93,0:12:09.01,Default,,0,0,0,,That's how a villain should be.
-Dialogue: 10,0:12:09.41,0:12:11.25,Default,,0,0,0,,Of course. It's so simple!
-Dialogue: 10,0:12:11.49,0:12:13.87,Default,,0,0,0,,We don't have time to be doubting ourselves!
-Dialogue: 10,0:12:13.97,0:12:19.47,Default,,0,0,0,,Yeah! Who cares if we're unofficial? \NNone of that matters right now!
-Dialogue: 10,0:12:20.25,0:12:22.01,Default,,0,0,0,,We save Hoshino.
-Dialogue: 10,0:12:22.75,0:12:24.43,Default,,0,0,0,,That's all that matters.
-Dialogue: 10,0:12:25.05,0:12:27.99,Default,,0,0,0,,You still waste my time with your pointless resistance?
-Dialogue: 10,0:12:28.09,0:12:28.98,Default,,0,0,0,,How dare you -
-Dialogue: 10,0:12:28.98,0:12:31.59,Default,,0,0,0,,How dare you do this to my precious students!
-Dialogue: 10,0:12:32.17,0:12:34.81,Default,,0,0,0,,We'll be taking Hoshino back!
-Dialogue: 10,0:12:35.29,0:12:36.53,Default,,0,0,0,,Don't screw with me!
-Dialogue: 10,0:12:36.61,0:12:40.73,Default,,0,0,0,,You think you can just come out of \Nnowhere and start making demands?
-Dialogue: 10,0:12:47.49,0:12:49.47,Default,,0,0,0,,Fine then, I have just the thing for you!
-Dialogue: 10,0:12:50.01,0:12:52.01,Default,,0,0,0,,But sir, it's still a prototype!
-Dialogue: 10,0:12:52.21,0:12:53.81,Default,,0,0,0,,It's too dangerous to deploy!
-Dialogue: 10,0:12:53.85,0:12:54.85,Default,,0,0,0,,Silence!
-Dialogue: 10,0:12:55.11,0:12:58.71,Default,,0,0,0,,I will teach them what it means to defy me!
-Dialogue: 10,0:13:06.07,0:13:07.61,Default,,0,0,0,,Behold!
-Dialogue: 10,0:13:07.91,0:13:11.87,Default,,0,0,0,,This exosuit is the pinnacle \Nof our company's technology!
-Dialogue: 10,0:13:12.11,0:13:16.61,Default,,0,0,0,,Its armaments and armor are \Nforged from only the purest materials.
-Dialogue: 10,0:13:16.77,0:13:18.75,Default,,0,0,0,,It is the cutting edge of weaponry!
-Dialogue: 10,0:13:20.05,0:13:21.91,Default,,0,0,0,,My my, that's quite large.
-Dialogue: 10,0:13:22.03,0:13:24.19,Default,,0,0,0,,W-W-What do we do?
-Dialogue: 10,0:13:24.45,0:13:26.45,Default,,0,0,0,,This could get messy.
-Dialogue: 10,0:13:26.81,0:13:28.61,Default,,0,0,0,,True, this won't be easy.
-Dialogue: 10,0:13:29.21,0:13:30.23,Default,,0,0,0,,However...
-Dialogue: 10,0:13:30.71,0:13:34.01,Default,,0,0,0,,That's if we assume \Nit's only the four of us against it, right?
-Dialogue: 10,0:13:36.61,0:13:37.67,Default,,0,0,0,,Back us up.
-Dialogue: 10,0:13:38.91,0:13:40.03,Default,,0,0,0,,You can do that, right?
-Dialogue: 10,0:13:41.31,0:13:42.31,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:13:42.47,0:13:43.65,Default,,0,0,0,,In that case,
-Dialogue: 10,0:13:43.73,0:13:45.75,Default,,0,0,0,,Alley-oop!
-Dialogue: 10,0:13:51.49,0:13:52.53,Default,,0,0,0,,Can't dent it.
-Dialogue: 10,0:13:53.53,0:13:55.17,Default,,0,0,0,,It's useless!
-Dialogue: 10,0:13:56.87,0:13:58.83,Default,,0,0,0,,That's just cheating!
-Dialogue: 10,0:14:02.73,0:14:05.13,Default,,0,0,0,,Would not recommend \Ntaking a direct hit from that.
-Dialogue: 10,0:14:05.45,0:14:07.27,Default,,0,0,0,,There has to be some way...
-Dialogue: 10,0:14:07.95,0:14:08.95,Default,,0,0,0,,Bombs.
-Dialogue: 10,0:14:09.23,0:14:10.89,Default,,0,0,0,,How many do you have left?
-Dialogue: 10,0:14:12.59,0:14:14.49,Default,,0,0,0,,I'm down if you have a plan.
-Dialogue: 10,0:14:15.13,0:14:16.13,Default,,0,0,0,,Don't worry.
-Dialogue: 10,0:14:16.35,0:14:17.35,Default,,0,0,0,,I got this.
-Dialogue: 10,0:14:18.95,0:14:22.07,Default,,0,0,0,,Honestly, I don't care how bad the odds are.
-Dialogue: 10,0:14:22.45,0:14:24.91,Default,,0,0,0,,That's just how outlaws are, right?
-Dialogue: 10,0:14:26.51,0:14:28.15,Default,,0,0,0,,You're wasting your time!
-Dialogue: 10,0:14:30.33,0:14:31.33,Default,,0,0,0,,Go!
-Dialogue: 10,0:14:33.33,0:14:34.85,Default,,0,0,0,,We should go, too!
-Dialogue: 10,0:14:34.91,0:14:36.05,Default,,0,0,0,,You got it!
-Dialogue: 10,0:14:42.85,0:14:45.23,Default,,0,0,0,,You thought you could flank us that easily?
-Dialogue: 10,0:14:45.31,0:14:47.03,Default,,0,0,0,,You're in the way. Move, please!
-Dialogue: 10,0:14:51.11,0:14:52.17,Default,,0,0,0,,Thanks!
-Dialogue: 10,0:14:52.25,0:14:54.37,Default,,0,0,0,,Oh, no, um...
-Dialogue: 10,0:14:54.51,0:14:56.65,Default,,0,0,0,,Come on, eyes forward! Let's go!
-Dialogue: 10,0:14:57.17,0:14:58.17,Default,,0,0,0,,Right!
-Dialogue: 10,0:14:58.31,0:15:00.25,Default,,0,0,0,,Dammit! Don't let them through!
-Dialogue: 10,0:15:01.39,0:15:04.61,Default,,0,0,0,,What do we do? We can't just destroy the store.
-Dialogue: 10,0:15:06.59,0:15:07.77,Default,,0,0,0,,Ta-da!
-Dialogue: 10,0:15:08.73,0:15:10.43,Default,,0,0,0,,Is that a bomb?
-Dialogue: 10,0:15:10.51,0:15:12.89,Default,,0,0,0,,Yeah! But it'll be fine!
-Dialogue: 10,0:15:19.03,0:15:21.55,Default,,0,0,0,,Wow! That's a neat little trick!
-Dialogue: 10,0:15:21.79,0:15:22.95,Default,,0,0,0,,I know, right?
-Dialogue: 10,0:15:23.35,0:15:24.59,Default,,0,0,0,,Leave the rest to me.
-Dialogue: 10,0:15:24.71,0:15:26.13,Default,,0,0,0,,Thank you!
-Dialogue: 10,0:15:27.15,0:15:28.67,Default,,0,0,0,,Break a leg!
-Dialogue: 10,0:15:32.45,0:15:35.09,Default,,0,0,0,,When will you learn that resistance is futile?!
-Dialogue: 10,0:15:40.85,0:15:42.17,Default,,0,0,0,,Just a little more...
-Dialogue: 10,0:15:42.49,0:15:45.21,Default,,0,0,0,,I don't know what it is you're plotting.
-Dialogue: 10,0:15:45.27,0:15:47.97,Default,,0,0,0,,But I've had about enough of this little game.
-Dialogue: 10,0:15:54.51,0:15:56.43,Default,,0,0,0,,So that's where you were hiding!
-Dialogue: 10,0:15:56.73,0:15:57.56,Default,,0,0,0,,Serika!
-Dialogue: 10,0:15:57.56,0:15:58.21,Default,,0,0,0,,Yeah!
-Dialogue: 10,0:15:59.31,0:16:01.61,Default,,0,0,0,,Why you! Hold still!
-Dialogue: 10,0:16:10.05,0:16:11.69,Default,,0,0,0,,It'll be dangerous.
-Dialogue: 10,0:16:12.83,0:16:13.87,Default,,0,0,0,,I know.
-Dialogue: 10,0:16:14.67,0:16:17.27,Default,,0,0,0,,But I can't always let other people protect me.
-Dialogue: 10,0:16:23.11,0:16:24.19,Default,,0,0,0,,Go get him.
-Dialogue: 10,0:16:24.31,0:16:25.31,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:16:25.63,0:16:26.63,Default,,0,0,0,,Be careful.
-Dialogue: 10,0:16:26.85,0:16:27.99,Default,,0,0,0,,I've got your back!
-Dialogue: 10,0:16:34.97,0:16:37.35,Default,,0,0,0,,You're dealing with me, now.
-Dialogue: 10,0:16:38.09,0:16:40.21,Default,,0,0,0,,Why, you little...
-Dialogue: 10,0:16:41.75,0:16:43.61,Default,,0,0,0,,It looks like they've started.
-Dialogue: 10,0:16:44.47,0:16:45.55,Default,,0,0,0,,Well, then...
-Dialogue: 10,0:16:46.03,0:16:48.51,Default,,0,0,0,,Shall we get started ourselves, then, Haruka?
-Dialogue: 10,0:16:48.91,0:16:51.17,Default,,0,0,0,,Yes, let's.
-Dialogue: 10,0:16:54.61,0:16:57.09,Default,,0,0,0,,Looks like Mutsuki and Haruka are doing fine.
-Dialogue: 10,0:17:02.01,0:17:03.27,Default,,0,0,0,,Nice try.
-Dialogue: 10,0:17:04.37,0:17:07.09,Default,,0,0,0,,It looks like you're set on getting in our way.
-Dialogue: 10,0:17:07.47,0:17:11.59,Default,,0,0,0,,You're ruining the atmosphere. Mind cutting that out?
-Dialogue: 10,0:17:14.37,0:17:15.69,Default,,0,0,0,,Filthy rats!
-Dialogue: 10,0:17:15.77,0:17:17.83,Default,,0,0,0,,Scurrying around in the dirt!
-Dialogue: 10,0:17:17.97,0:17:20.63,Default,,0,0,0,,You should have just buried yourselves in the sand!
-Dialogue: 10,0:17:28.09,0:17:30.25,Default,,0,0,0,,Your entire existence is an eyesore!
-Dialogue: 10,0:17:50.45,0:17:53.07,Default,,0,0,0,,You call this cutting edge?
-Dialogue: 10,0:17:54.61,0:17:56.07,Default,,0,0,0,,You little shit!
-Dialogue: 10,0:17:56.27,0:17:58.57,Default,,0,0,0,,Did you really think you had me cornered?
-Dialogue: 10,0:17:58.65,0:18:01.03,Default,,0,0,0,,Your puny form is too weak!
-Dialogue: 10,0:18:01.25,0:18:06.47,Default,,0,0,0,,Just try and stop the 12,860 horsepower of this craft!
-Dialogue: 10,0:18:10.07,0:18:11.07,Default,,0,0,0,,What the -
-Dialogue: 10,0:18:15.05,0:18:16.67,Default,,0,0,0,,And there you go!
-Dialogue: 10,0:18:17.07,0:18:18.07,Default,,0,0,0,,We did it!
-Dialogue: 10,0:18:21.63,0:18:22.63,Default,,0,0,0,,Shiroko!
-Dialogue: 10,0:18:29.57,0:18:34.33,Default,,0,0,0,,You've got some guts, not running \Naway after witnessing this firepower.
-Dialogue: 10,0:18:35.43,0:18:37.17,Default,,0,0,0,,Save it for someone who cares.
-Dialogue: 10,0:18:37.91,0:18:41.11,Default,,0,0,0,,Now if only you had the brains to match.
-Dialogue: 10,0:18:41.19,0:18:44.13,Default,,0,0,0,,At least as much as that Hoshino, \Nor whatever her name was.
-Dialogue: 10,0:18:44.39,0:18:47.05,Default,,0,0,0,,Why don't you just give up already?
-Dialogue: 10,0:18:47.57,0:18:48.57,Default,,0,0,0,,He's not...
-Dialogue: 10,0:18:49.39,0:18:51.49,Default,,0,0,0,,Shiroko! Five meters behind you!
-Dialogue: 10,0:18:52.07,0:18:54.05,Default,,0,0,0,,Where do you think you're looking?
-Dialogue: 10,0:18:59.71,0:19:02.49,Default,,0,0,0,,It's over!
-Dialogue: 10,0:19:09.21,0:19:10.41,Default,,0,0,0,,Sensei!
-Dialogue: 10,0:19:11.93,0:19:13.67,Default,,0,0,0,,Shiroko!
-Dialogue: 10,0:19:20.73,0:19:21.91,Default,,0,0,0,,Hoshino...
-Dialogue: 10,0:19:23.39,0:19:25.75,Default,,0,0,0,,It's not easy up front, huh.
-Dialogue: 10,0:19:32.01,0:19:33.73,Default,,0,0,0,,What? How?
-Dialogue: 10,0:19:33.95,0:19:36.73,Default,,0,0,0,,This can't be happening!
-Dialogue: 10,0:19:45.07,0:19:46.19,Default,,0,0,0,,Shiroko!
-Dialogue: 10,0:19:46.45,0:19:47.47,Default,,0,0,0,,Are you okay?
-Dialogue: 10,0:19:47.65,0:19:49.25,Default,,0,0,0,,Yeah. No problem.
-Dialogue: 10,0:19:50.19,0:19:52.43,Default,,0,0,0,,Thank goodness it worked.
-Dialogue: 10,0:19:52.59,0:19:54.19,Default,,0,0,0,,Thanks, Ayane.
-Dialogue: 10,0:19:54.45,0:19:55.73,Default,,0,0,0,,Nonomi and Serika, too.
-Dialogue: 10,0:19:58.09,0:19:59.45,Default,,0,0,0,,All according to plan.
-Dialogue: 10,0:19:59.83,0:20:02.07,Default,,0,0,0,,Still, cutting it a bit close there.
-Dialogue: 10,0:20:02.33,0:20:05.67,Default,,0,0,0,,Well, I figured they of all people \Nwould be able to pull off that much.
-Dialogue: 10,0:20:06.89,0:20:08.59,Default,,0,0,0,,Mr. Chairman! Are you all right?
-Dialogue: 10,0:20:10.61,0:20:12.01,Default,,0,0,0,,We need to get you to medical!
-Dialogue: 10,0:20:12.25,0:20:14.13,Default,,0,0,0,,Why don't you just give up already?
-Dialogue: 10,0:20:15.69,0:20:17.31,Default,,0,0,0,,I'm not done yet!
-Dialogue: 10,0:20:17.47,0:20:19.37,Default,,0,0,0,,What? You really want to keep going?
-Dialogue: 10,0:20:20.61,0:20:23.05,Default,,0,0,0,,Honestly, I'm fine with going for round two.
-Dialogue: 10,0:20:24.23,0:20:25.93,Default,,0,0,0,,We're falling back. For now.
-Dialogue: 10,0:20:26.03,0:20:28.03,Default,,0,0,0,,Regroup our forces!
-Dialogue: 10,0:20:28.07,0:20:28.96,Default,,0,0,0,,Y-Yes, sir!
-Dialogue: 10,0:20:28.96,0:20:29.99,Default,,0,0,0,,Fall back!
-Dialogue: 10,0:20:30.45,0:20:31.87,Default,,0,0,0,,Chairman's orders! Fall back!
-Dialogue: 10,0:20:32.13,0:20:35.01,Default,,0,0,0,,I say again, the chairman is ordering us to fall back!
-Dialogue: 10,0:20:35.17,0:20:36.71,Default,,0,0,0,,Don't think this is over.
-Dialogue: 10,0:20:35.17,0:20:36.71,Alt,,0,0,0,,
-Dialogue: 10,0:20:36.97,0:20:39.55,Default,,0,0,0,,There'll be hell to pay, mark my words.
-Dialogue: 10,0:20:36.97,0:20:39.55,Alt,,0,0,0,,
-Dialogue: 10,0:20:41.05,0:20:43.35,Default,,0,0,0,,Hostile forces are retreating.
-Dialogue: 10,0:20:45.69,0:20:47.55,Default,,0,0,0,,L-Looks like it's over.
-Dialogue: 10,0:20:47.75,0:20:52.85,Default,,0,0,0,,Man, that's the first time I've ever heard \Nsomeone say "mark my words" in real life.
-Dialogue: 10,0:20:53.29,0:20:54.85,Default,,0,0,0,,Great work, everyone.
-Dialogue: 10,0:20:55.75,0:20:59.37,Default,,0,0,0,,It was a difficult situation, \Nbut you did very well to get through it.
-Dialogue: 10,0:20:59.75,0:21:00.75,Default,,0,0,0,,Yeah.
-Dialogue: 10,0:21:01.07,0:21:02.09,Default,,0,0,0,,You girls, too.
-Dialogue: 10,0:21:02.27,0:21:05.07,Default,,0,0,0,,You saved us back there. Thank you, truly.
-Dialogue: 10,0:21:05.61,0:21:07.97,Default,,0,0,0,,T-That was nothing.
-Dialogue: 10,0:21:08.61,0:21:11.31,Default,,0,0,0,,After all, we're first-class outlaws.
-Dialogue: 10,0:21:11.39,0:21:14.53,Default,,0,0,0,,Yeah, I saw you were all fired up from the beginning.
-Dialogue: 10,0:21:14.57,0:21:16.47,Default,,0,0,0,,You don't have to tell them that!
-Dialogue: 10,0:21:18.21,0:21:19.63,Default,,0,0,0,,Now, for the next part.
-Dialogue: 10,0:21:23.53,0:21:26.11,Default,,0,0,0,,We're coming, Hoshino.
-Dialogue: 10,0:21:31.93,0:21:33.39,Default,,0,0,0,,What? Why?
-Dialogue: 10,0:21:34.29,0:21:35.59,Default,,0,0,0,,Why did you attack Abydos?
-Dialogue: 10,0:21:35.79,0:21:38.01,Default,,0,0,0,,I'm certain I don't know what you mean.
-Dialogue: 10,0:21:38.37,0:21:40.77,Default,,0,0,0,,What is there to be confused about?
-Dialogue: 10,0:21:41.25,0:21:45.31,Default,,0,0,0,,I will be sure to repay over half of the school's debt.
-Dialogue: 10,0:21:45.83,0:21:49.93,Default,,0,0,0,,This was the promise that we made between us.
-Dialogue: 10,0:21:51.81,0:21:53.17,Default,,0,0,0,,That aside...
-Dialogue: 10,0:21:53.51,0:21:58.69,Default,,0,0,0,,With your withdrawal, there is no longer anyone \Nin the student council at Abydos High School.
-Dialogue: 10,0:21:59.03,0:22:01.33,Default,,0,0,0,,It could hardly be considered a school at that point.
-Dialogue: 10,0:22:03.03,0:22:07.27,Default,,0,0,0,,This whole situation with Abydos is \Na mere preamble to the real event.
-Dialogue: 10,0:22:08.53,0:22:09.65,Default,,0,0,0,,Miss Hoshino.
-Dialogue: 10,0:22:09.91,0:22:13.21,Default,,0,0,0,,Our eyes were set on you from the start.
-Dialogue: 10,0:22:16.31,0:22:21.91,Default,,0,0,0,,We needed you to sign that contract \Nand surrender all of your rights to us.
-Dialogue: 10,0:22:22.65,0:22:26.03,Default,,0,0,0,,And to reach that end, we cooperated \Nwith the Kaiser Corporation.
-Dialogue: 10,0:22:27.47,0:22:29.35,Default,,0,0,0,,It's as simple as that.
-Dialogue: 10,0:22:30.75,0:22:33.31,Default,,0,0,0,,I do apologize for any misunderstanding.
-Dialogue: 10,0:22:33.59,0:22:38.89,Default,,0,0,0,,But I was never a member of that petty corporation.
-Dialogue: 10,0:22:39.49,0:22:43.79,Default,,0,0,0,,You've attained the strongest Mystic in Kivotos.
-Dialogue: 10,0:22:43.97,0:22:48.49,Default,,0,0,0,,I could never waste your potential \Non mere mercenary work.
-Dialogue: 10,0:22:52.49,0:22:58.45,Default,,0,0,0,,This fascinating experiment here \Nis what we've yearned to witness.
-Dialogue: 10,0:22:59.39,0:23:01.59,Default,,0,0,0,,That's all there is to it.
-Dialogue: 10,0:23:03.95,0:23:04.95,Default,,0,0,0,,I see.
-Dialogue: 10,0:23:05.43,0:23:06.43,Default,,0,0,0,,So once again...
-Dialogue: 10,0:23:06.95,0:23:08.87,Default,,0,0,0,,I've been tricked by an adult.
-Dialogue: 10,0:23:10.23,0:23:11.81,Default,,0,0,0,,I'm sorry, everyone.
-Dialogue: 10,0:23:12.53,0:23:14.53,Default,,0,0,0,,It's all my fault.
-Dialogue: 10,0:23:16.17,0:23:17.21,Default,,0,0,0,,Shiroko.
-Dialogue: 10,0:23:17.49,0:23:18.53,Default,,0,0,0,,Nonomi.
-Dialogue: 10,0:23:18.79,0:23:19.83,Default,,0,0,0,,Serika.
-Dialogue: 10,0:23:20.07,0:23:21.09,Default,,0,0,0,,Ayane.
-Dialogue: 10,0:23:21.43,0:23:22.43,Default,,0,0,0,,Sensei.
-Dialogue: 10,0:23:23.67,0:23:24.69,Default,,0,0,0,,Yume.
-Dialogue: 10,0:23:25.49,0:23:26.51,Default,,0,0,0,,{=3}I'm sorry.
+Dialogue: 10,0:10:34.46,0:10:36.71,Default,,0,0,0,,Y-You're...?
+Dialogue: 10,0:10:38.59,0:10:41.93,Default,,0,0,0,,I didn't fall in love with a bunch of pushovers.
+Dialogue: 10,0:10:41.93,0:10:43.43,Default,,0,0,0,,Come on, Aru.
+Dialogue: 10,0:10:43.43,0:10:45.58,Default,,0,0,0,,I'm sure they get the message.
+Dialogue: 10,0:10:45.58,0:10:47.97,Default,,0,0,0,,Girls with glasses are quite delicate.
+Dialogue: 10,0:10:47.97,0:10:49.81,Default,,0,0,0,,They can't help it sometimes.
+Dialogue: 10,0:10:49.81,0:10:52.45,Default,,0,0,0,,W-What are you doing here?
+Dialogue: 10,0:10:52.45,0:10:53.84,Default,,0,0,0,,But you know...
+Dialogue: 10,0:10:53.84,0:10:57.27,Default,,0,0,0,,You make a girl with glasses cry, \Nthere's blood to pay.
+Dialogue: 10,0:10:57.27,0:10:59.14,Default,,0,0,0,,So you asked for this.
+Dialogue: 10,0:10:59.69,0:11:01.85,Default,,0,0,0,,I'm gonna paint the town red with your guts!
+Dialogue: 10,0:11:02.14,0:11:04.10,Default,,0,0,0,,That's Problem Solver 68!
+Dialogue: 10,0:11:05.69,0:11:09.61,Default,,0,0,0,,Lost in the road, not knowing right from wrong.
+Dialogue: 10,0:11:09.61,0:11:12.45,Default,,0,0,0,,Everything you try, ending in failure.
+Dialogue: 10,0:11:12.45,0:11:17.18,Default,,0,0,0,,And even if you make it through, \Nit's just more hell you're walking into.
+Dialogue: 10,0:11:19.55,0:11:20.66,Default,,0,0,0,,They're here!
+Dialogue: 10,0:11:21.07,0:11:23.29,Default,,0,0,0,,So what?!
+Dialogue: 10,0:11:32.93,0:11:35.65,Default,,0,0,0,,Your friend is in danger, isn't she?
+Dialogue: 10,0:11:35.65,0:11:40.79,Default,,0,0,0,,Are you just going to sit there feeling sorry \Nwhile they take everything from you?
+Dialogue: 10,0:11:40.79,0:11:42.35,Default,,0,0,0,,Is that really what you want?
+Dialogue: 10,0:11:43.01,0:11:45.88,Default,,0,0,0,,Are you telling me that's the kind of people you are?
+Dialogue: 10,0:11:48.37,0:11:50.36,Default,,0,0,0,,Damn you, Problem Solver!
+Dialogue: 10,0:11:50.36,0:11:54.03,Default,,0,0,0,,You're nothing but dogs! How dare you turn on me!
+Dialogue: 10,0:11:54.23,0:11:55.60,Default,,0,0,0,,Oh, shut up.
+Dialogue: 10,0:11:55.60,0:11:58.27,Default,,0,0,0,,I prefer working with these girls.
+Dialogue: 10,0:11:58.27,0:12:00.25,Default,,0,0,0,,That's all this is.
+Dialogue: 10,0:12:00.25,0:12:03.79,Default,,0,0,0,,It's only natural for a villain to turn \Non her employer, don't you think?
+Dialogue: 10,0:12:04.38,0:12:05.50,Default,,0,0,0,,You guys...
+Dialogue: 10,0:12:05.72,0:12:06.92,Default,,0,0,0,,You're right.
+Dialogue: 10,0:12:06.92,0:12:09.33,Default,,0,0,0,,That's how a villain should be.
+Dialogue: 10,0:12:09.33,0:12:11.49,Default,,0,0,0,,Of course. It's so simple!
+Dialogue: 10,0:12:11.49,0:12:14.00,Default,,0,0,0,,We don't have time to be doubting ourselves!
+Comment: 10,0:12:14.00,0:12:19.72,Default,,0,0,0,,Yeah! Who cares if we're unofficial? \NNone of that matters right now!
+Dialogue: 10,0:12:14.00,0:12:17.01,Default,,0,0,0,,Yeah! Who cares if we're unofficial?
+Dialogue: 10,0:12:17.01,0:12:19.72,Default,,0,0,0,,None of that matters right now!
+Dialogue: 10,0:12:20.23,0:12:22.14,Default,,0,0,0,,We save Hoshino.
+Dialogue: 10,0:12:22.72,0:12:24.89,Default,,0,0,0,,That's all that matters.
+Dialogue: 10,0:12:24.89,0:12:27.99,Default,,0,0,0,,You still waste my time with your pointless resistance?
+Dialogue: 10,0:12:27.99,0:12:28.89,Default,,0,0,0,,How dare you -
+Dialogue: 10,0:12:28.89,0:12:31.52,Default,,0,0,0,,How dare you do this to my precious students!
+Dialogue: 10,0:12:32.19,0:12:34.90,Default,,0,0,0,,We'll be taking Hoshino back!
+Dialogue: 10,0:12:35.29,0:12:36.57,Default,,0,0,0,,Don't screw with me!
+Dialogue: 10,0:12:36.57,0:12:40.97,Default,,0,0,0,,You think you can just come out of \Nnowhere and start making demands?
+Dialogue: 10,0:12:47.46,0:12:49.29,Default,,0,0,0,,Fine then, I have just the thing for you!
+Comment: 10,0:12:49.86,0:12:51.79,Default,,0,0,0,,But sir, it's still a prototype!
+Dialogue: 10,0:12:49.54,0:12:51.79,Default,,0,0,0,,B-But sir, it's still a prototype!
+Dialogue: 10,0:12:52.19,0:12:53.79,Default,,0,0,0,,It's too dangerous to deploy!
+Dialogue: 10,0:12:53.79,0:12:54.92,Default,,0,0,0,,Silence!
+Dialogue: 10,0:12:54.92,0:12:58.76,Default,,0,0,0,,I will teach them what it means to defy me!
+Dialogue: 10,0:13:05.76,0:13:07.31,Default,,0,0,0,,Behold!
+Dialogue: 10,0:13:07.60,0:13:11.73,Default,,0,0,0,,This exosuit is the pinnacle \Nof our company's technology!
+Dialogue: 10,0:13:11.73,0:13:16.74,Default,,0,0,0,,Its armaments and armor are \Nforged from only the purest materials.
+Dialogue: 10,0:13:16.74,0:13:18.49,Default,,0,0,0,,It is the cutting edge of weaponry!
+Dialogue: 10,0:13:20.07,0:13:21.99,Default,,0,0,0,,My my, that's quite large.
+Dialogue: 10,0:13:21.99,0:13:24.42,Default,,0,0,0,,W-W-What do we do?
+Dialogue: 10,0:13:24.42,0:13:26.80,Default,,0,0,0,,This could get messy.
+Dialogue: 10,0:13:26.80,0:13:29.00,Default,,0,0,0,,True, this won't be easy.
+Dialogue: 10,0:13:29.22,0:13:30.75,Default,,0,0,0,,However...
+Dialogue: 10,0:13:30.75,0:13:34.25,Default,,0,0,0,,That's if we assume \Nit's only the four of us against it, right?
+Dialogue: 10,0:13:36.64,0:13:38.30,Default,,0,0,0,,Back us up.
+Comment: 10,0:13:37.55,0:13:38.30,Default,,0,0,0,,{noises of agreement}
+Dialogue: 10,0:13:38.92,0:13:40.05,Default,,0,0,0,,You can do that, right?
+Dialogue: 10,0:13:41.39,0:13:42.30,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:13:42.30,0:13:43.76,Default,,0,0,0,,In that case,
+Dialogue: 10,0:13:43.76,0:13:45.80,Default,,0,0,0,,Alley-oop!
+Dialogue: 10,0:13:51.35,0:13:52.60,Default,,0,0,0,,Can't dent it.
+Dialogue: 10,0:13:53.47,0:13:54.81,Default,,0,0,0,,It's useless!
+Dialogue: 10,0:13:56.87,0:13:58.78,Default,,0,0,0,,That's just cheating!
+Dialogue: 10,0:14:02.77,0:14:05.45,Default,,0,0,0,,Would not recommend \Ntaking a direct hit from that.
+Dialogue: 10,0:14:05.45,0:14:07.49,Default,,0,0,0,,There has to be some way...
+Dialogue: 10,0:14:08.01,0:14:08.99,Default,,0,0,0,,Bombs.
+Dialogue: 10,0:14:09.30,0:14:11.08,Default,,0,0,0,,How many do you have left?
+Dialogue: 10,0:14:12.55,0:14:14.50,Default,,0,0,0,,I'm down if you have a plan.
+Dialogue: 10,0:14:15.14,0:14:16.37,Default,,0,0,0,,Don't worry.
+Dialogue: 10,0:14:16.37,0:14:17.42,Default,,0,0,0,,I got this.
+Dialogue: 10,0:14:18.84,0:14:22.09,Default,,0,0,0,,Honestly, I don't care how bad the odds are.
+Dialogue: 10,0:14:22.45,0:14:24.68,Default,,0,0,0,,That's just how outlaws are, right?
+Dialogue: 10,0:14:26.38,0:14:28.64,Default,,0,0,0,,You're wasting your time!
+Dialogue: 10,0:14:30.37,0:14:30.89,Default,,0,0,0,,Go!
+Dialogue: 10,0:14:33.31,0:14:34.91,Default,,0,0,0,,We should go, too!
+Dialogue: 10,0:14:34.91,0:14:35.98,Default,,0,0,0,,You got it!
+Dialogue: 10,0:14:42.90,0:14:44.91,Default,,0,0,0,,You thought you could flank us that easily?
+Dialogue: 10,0:14:45.23,0:14:47.16,Default,,0,0,0,,You're in the way. Move, please!
+Dialogue: 10,0:14:51.13,0:14:52.23,Default,,0,0,0,,Thanks!
+Dialogue: 10,0:14:52.23,0:14:54.25,Default,,0,0,0,,Oh, no, um...
+Dialogue: 10,0:14:54.25,0:14:57.00,Default,,0,0,0,,Come on, eyes forward! Let's go!
+Dialogue: 10,0:14:57.00,0:14:57.88,Default,,0,0,0,,Right!
+Dialogue: 10,0:14:58.25,0:15:00.88,Default,,0,0,0,,Dammit! Don't let them through!
+Comment: 10,0:15:00.34,0:15:00.88,Default,,0,0,0,,{noises of affirmation}
+Dialogue: 10,0:15:01.37,0:15:04.94,Default,,0,0,0,,What do we do? We can't just destroy the store.
+Dialogue: 10,0:15:06.59,0:15:08.14,Default,,0,0,0,,Ta-da!
+Dialogue: 10,0:15:08.71,0:15:10.47,Default,,0,0,0,,Is that a bomb?
+Dialogue: 10,0:15:10.47,0:15:12.89,Default,,0,0,0,,Yeah! But it'll be fine!
+Dialogue: 10,0:15:19.06,0:15:21.75,Default,,0,0,0,,Wow! That's a neat little trick!
+Dialogue: 10,0:15:21.75,0:15:22.78,Default,,0,0,0,,I know, right?
+Dialogue: 10,0:15:23.34,0:15:24.73,Default,,0,0,0,,Leave the rest to me.
+Dialogue: 10,0:15:24.73,0:15:26.37,Default,,0,0,0,,Thank you!
+Dialogue: 10,0:15:27.14,0:15:28.91,Default,,0,0,0,,Break a leg!
+Dialogue: 10,0:15:32.47,0:15:35.00,Default,,0,0,0,,When will you learn that resistance is futile?!
+Dialogue: 10,0:15:40.80,0:15:42.30,Default,,0,0,0,,Just a little more...
+Dialogue: 10,0:15:42.55,0:15:45.42,Default,,0,0,0,,I don't know what it is you're plotting.
+Dialogue: 10,0:15:45.42,0:15:48.18,Default,,0,0,0,,But I've had about enough of this little game.
+Dialogue: 10,0:15:54.51,0:15:56.10,Default,,0,0,0,,So that's where you were hiding!
+Dialogue: 10,0:15:56.73,0:15:57.60,Default,,0,0,0,,Serika!
+Dialogue: 10,0:15:57.60,0:15:58.39,Default,,0,0,0,,Yeah!
+Dialogue: 10,0:15:59.35,0:16:01.61,Default,,0,0,0,,Why you! Hold still!
+Dialogue: 10,0:16:10.06,0:16:12.12,Default,,0,0,0,,It'll be dangerous.
+Dialogue: 10,0:16:12.85,0:16:14.11,Default,,0,0,0,,I know.
+Comment: 10,0:16:14.65,0:16:16.33,Default,,0,0,0,,But I can't always
+Comment: 10,0:16:16.33,0:16:17.62,Default,,0,0,0,,let other people protect me.
+Dialogue: 10,0:16:14.65,0:16:17.62,Default,,0,0,0,,But I can't always let other people protect me.
+Dialogue: 10,0:16:23.16,0:16:23.96,Default,,0,0,0,,Go get him.
+Dialogue: 10,0:16:24.34,0:16:25.21,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:16:25.65,0:16:26.81,Default,,0,0,0,,Be careful.
+Dialogue: 10,0:16:26.81,0:16:28.22,Default,,0,0,0,,I've got your back!
+Dialogue: 10,0:16:35.03,0:16:37.68,Default,,0,0,0,,You're dealing with me, now.
+Dialogue: 10,0:16:38.11,0:16:40.94,Default,,0,0,0,TM,Why, you little... {Not sure if snapping the leadout is best but fuck it we ball}
+Dialogue: 10,0:16:41.81,0:16:43.77,Default,,0,0,0,,It looks like they've started.
+Dialogue: 10,0:16:44.47,0:16:45.82,Default,,0,0,0,,Well, then...
+Dialogue: 10,0:16:46.11,0:16:48.57,Default,,0,0,0,,Shall we get started ourselves, then, Haruka?
+Dialogue: 10,0:16:48.88,0:16:51.57,Default,,0,0,0,,Yes, let's.
+Dialogue: 10,0:16:54.57,0:16:57.33,Default,,0,0,0,,Looks like Mutsuki and Haruka are doing fine.
+Dialogue: 10,0:17:02.01,0:17:03.71,Default,,0,0,0,,Nice try.
+Dialogue: 10,0:17:04.41,0:17:06.96,Default,,0,0,0,,It looks like you're set on getting in our way.
+Comment: 10,0:17:07.47,0:17:11.84,Default,,0,0,0,,You're ruining the atmosphere. Mind cutting that out?
+Dialogue: 10,0:17:07.47,0:17:09.59,Default,,0,0,0,,You're ruining the atmosphere.
+Dialogue: 10,0:17:10.11,0:17:11.84,Default,,0,0,0,,Mind cutting that out?
+Dialogue: 10,0:17:14.26,0:17:15.73,Default,,0,0,0,,Filthy rats!
+Dialogue: 10,0:17:15.73,0:17:17.93,Default,,0,0,0,,Scurrying around in the dirt!
+Dialogue: 10,0:17:17.93,0:17:21.03,Default,,0,0,0,,You should have just buried yourselves in the sand!
+Dialogue: 10,0:17:27.90,0:17:30.11,Default,,0,0,0,,Your entire existence is an eyesore!
+Dialogue: 10,0:17:50.41,0:17:53.09,Default,,0,0,0,,You call this cutting edge?
+Comment: 10,0:17:54.63,0:17:55.60,Default,,0,0,0,,You little shit!
+Dialogue: 10,0:17:54.63,0:17:56.10,Default,,0,0,0,,You little shit!
+Dialogue: 10,0:17:56.10,0:17:58.77,Default,,0,0,0,,Did you really think you had me cornered?
+Dialogue: 10,0:17:58.77,0:18:01.10,Default,,0,0,0,,Your puny form is too weak!
+Dialogue: 10,0:18:01.10,0:18:06.86,Default,,0,0,0,,Just try and stop the 12,860 horsepower of this craft!
+Dialogue: 10,0:18:10.11,0:18:11.28,Default,,0,0,0,TM,What the - {fade?}
+Dialogue: 10,0:18:15.00,0:18:16.87,Default,,0,0,0,,And there you go!
+Dialogue: 10,0:18:17.07,0:18:18.23,Default,,0,0,0,,We did it!
+Dialogue: 10,0:18:21.67,0:18:22.37,Default,,0,0,0,,Shiroko!
+Dialogue: 10,0:18:29.57,0:18:34.89,Default,,0,0,0,,You've got some guts, not running \Naway after witnessing this firepower.
+Dialogue: 10,0:18:35.41,0:18:37.39,Default,,0,0,0,,Save it for someone who cares.
+Dialogue: 10,0:18:37.89,0:18:41.13,Default,,0,0,0,,Now if only you had the brains to match.
+Dialogue: 10,0:18:41.13,0:18:44.27,Default,,0,0,0,,At least as much as that Hoshino, \Nor whatever her name was.
+Dialogue: 10,0:18:44.27,0:18:47.61,Default,,0,0,0,,Why don't you just give up already?
+Dialogue: 10,0:18:47.61,0:18:48.65,Default,,0,0,0,,He's not...
+Dialogue: 10,0:18:49.44,0:18:51.78,Default,,0,0,0,,Shiroko! Five meters behind you!
+Dialogue: 10,0:18:52.01,0:18:54.03,Default,,0,0,0,,Where do you think you're looking?
+Dialogue: 10,0:18:59.71,0:19:02.25,Default,,0,0,0,,It's over!
+Dialogue: 10,0:19:09.17,0:19:10.46,Default,,0,0,0,,Sensei!
+Dialogue: 10,0:19:11.89,0:19:14.22,Default,,0,0,0,,Shiroko!
+Dialogue: 10,0:19:20.76,0:19:22.60,Default,,0,0,0,,Hoshino...
+Dialogue: 10,0:19:23.41,0:19:25.97,Default,,0,0,0,TM,It's not easy up front, huh. {There are so many potential ways to snap this leadout and I'm not sure which is best tbh}
+Dialogue: 10,0:19:31.95,0:19:33.86,Default,,0,0,0,,What? How?
+Dialogue: 10,0:19:33.86,0:19:36.86,Default,,0,0,0,,{\t(1000,2850,\3c&HFFFFFF&\4c&HFFFFFF&)}This can't be happening!
+Dialogue: 10,0:19:45.06,0:19:46.43,Default,,0,0,0,,Shiroko!
+Dialogue: 10,0:19:46.43,0:19:47.64,Default,,0,0,0,,Are you okay?
+Dialogue: 10,0:19:47.64,0:19:49.25,Default,,0,0,0,,Yeah. No problem.
+Dialogue: 10,0:19:50.19,0:19:52.56,Default,,0,0,0,,Thank goodness it worked.
+Dialogue: 10,0:19:52.56,0:19:54.17,Default,,0,0,0,,Thanks, Ayane.
+Dialogue: 10,0:19:54.51,0:19:56.03,Default,,0,0,0,,Nonomi and Serika, too.
+Dialogue: 10,0:19:58.08,0:19:59.43,Default,,0,0,0,,All according to plan.
+Dialogue: 10,0:19:59.82,0:20:02.28,Default,,0,0,0,,Still, cutting it a bit close there.
+Comment: 10,0:20:02.28,0:20:06.44,Default,,0,0,0,,Well, I figured they of all people \Nwould be able to pull off that much.
+Dialogue: 10,0:20:02.28,0:20:06.01,Default,,0,0,0,,Well, I figured they of all people \Nwould be able to pull off that much.
+Dialogue: 10,0:20:06.88,0:20:08.79,Default,,0,0,0,,Mr. Chairman! Are you all right?
+Dialogue: 10,0:20:10.55,0:20:11.94,Default,,0,0,0,,We need to get you to medical!
+Dialogue: 10,0:20:12.20,0:20:14.19,Default,,0,0,0,,Why don't you just give up already?
+Dialogue: 10,0:20:15.64,0:20:16.95,Default,,0,0,0,,I'm not done yet!
+Dialogue: 10,0:20:17.31,0:20:19.41,Default,,0,0,0,,What? You really want to keep going?
+Comment: 0,0:20:19.59,0:20:20.60,Default,,0,0,0,,{Mesugaki noises}
+Dialogue: 10,0:20:20.60,0:20:22.91,Default,,0,0,0,,Honestly, I'm fine with going for round two.
+Comment: 0,0:20:23.15,0:20:24.17,Default,,0,0,0,,{Robot noises}
+Dialogue: 10,0:20:24.17,0:20:26.01,Default,,0,0,0,,We're falling back. For now.
+Dialogue: 10,0:20:26.01,0:20:28.02,Default,,0,0,0,,Regroup our forces!
+Dialogue: 10,0:20:28.02,0:20:28.87,Default,,0,0,0,,Y-Yes, sir!
+Dialogue: 10,0:20:28.87,0:20:29.92,Default,,0,0,0,,Fall back!
+Dialogue: 10,0:20:30.41,0:20:32.13,Default,,0,0,0,,Chairman's orders! Fall back!
+Dialogue: 10,0:20:32.13,0:20:35.11,Default,,0,0,0,,I say again, the chairman is ordering us to fall back!
+Dialogue: 10,0:20:35.11,0:20:37.05,Default,,0,0,0,,Don't think this is over.
+Comment: 10,0:20:35.13,0:20:36.97,Alt,,0,0,0,,{\an8}[Background line 1]
+Dialogue: 10,0:20:37.05,0:20:39.93,Default,,0,0,0,,There'll be hell to pay, mark my words.
+Comment: 10,0:20:36.97,0:20:38.87,Alt,,0,0,0,,{\an8}[Background line 2]
+Dialogue: 10,0:20:41.07,0:20:43.61,Default,,0,0,0,,Hostile forces are retreating.
+Dialogue: 10,0:20:45.43,0:20:47.75,Default,,0,0,0,,L-Looks like it's over.
+Dialogue: 10,0:20:47.75,0:20:52.56,Default,,0,0,0,,Man, that's the first time I've ever heard \Nsomeone say "mark my words" in real life.
+Dialogue: 10,0:20:53.22,0:20:55.11,Default,,0,0,0,,Great work, everyone.
+Dialogue: 10,0:20:55.72,0:20:59.83,Default,,0,0,0,,It was a difficult situation, \Nbut you did very well to get through it.
+Dialogue: 10,0:20:59.83,0:21:00.57,Default,,0,0,0,,Yeah.
+Dialogue: 10,0:21:01.05,0:21:02.29,Default,,0,0,0,,You girls, too.
+Comment: 10,0:21:02.29,0:21:05.24,Default,,0,0,0,,You saved us back there. Thank you, truly.
+Dialogue: 10,0:21:02.29,0:21:04.01,Default,,0,0,0,,You saved us back there.
+Dialogue: 10,0:21:04.01,0:21:05.24,Default,,0,0,0,,Thank you, truly.
+Dialogue: 10,0:21:05.67,0:21:08.57,Default,,0,0,0,,T-That was nothing.
+Dialogue: 10,0:21:08.57,0:21:11.33,Default,,0,0,0,,After all, we're first-class outlaws.
+Dialogue: 10,0:21:11.33,0:21:14.46,Default,,0,0,0,,Yeah, I saw you were all fired up from the beginning.
+Dialogue: 10,0:21:14.46,0:21:16.25,Default,,0,0,0,,You don't have to tell them that!
+Dialogue: 10,0:21:18.20,0:21:19.51,Default,,0,0,0,,Now, for the next part.
+Comment: 10,0:21:23.57,0:21:26.34,Default,,0,0,0,,We're coming, Hoshino.
+Dialogue: 10,0:21:23.57,0:21:24.51,Default,,0,0,0,,We're coming,
+Dialogue: 10,0:21:24.98,0:21:26.34,Default,,0,0,0,,Hoshino.
+Dialogue: 10,0:21:31.93,0:21:33.65,Default,,0,0,0,,What? Why?
+Dialogue: 10,0:21:34.31,0:21:35.71,Default,,0,0,0,,Why did you attack Abydos?
+Dialogue: 10,0:21:35.71,0:21:37.89,Default,,0,0,0,,I'm certain I don't know what you mean.
+Dialogue: 10,0:21:38.35,0:21:41.23,Default,,0,0,0,,What is there to be confused about?
+Dialogue: 10,0:21:41.23,0:21:45.66,Default,,0,0,0,,I will be sure to repay over half of the school's debt.
+Dialogue: 10,0:21:45.66,0:21:50.09,Default,,0,0,0,,This was the promise that we made between us.
+Dialogue: 10,0:21:51.79,0:21:53.53,Default,,0,0,0,,That aside...
+Dialogue: 10,0:21:53.53,0:21:58.42,Default,,0,0,0,,With your withdrawal, there is no longer anyone \Nin the student council at Abydos High School.
+Dialogue: 10,0:21:59.00,0:22:01.55,Default,,0,0,0,,It could hardly be considered a school at that point.
+Dialogue: 10,0:22:02.93,0:22:07.93,Default,,0,0,0,,This whole situation with Abydos is \Na mere preamble to the real event.
+Dialogue: 10,0:22:08.57,0:22:09.94,Default,,0,0,0,,Miss Hoshino.
+Dialogue: 10,0:22:09.94,0:22:13.44,Default,,0,0,0,,Our eyes were set on you from the start.
+Dialogue: 10,0:22:16.26,0:22:22.20,Default,,0,0,0,,We needed you to sign that contract \Nand surrender all of your rights to us.
+Dialogue: 10,0:22:22.66,0:22:26.70,Default,,0,0,0,,And to reach that end, we cooperated \Nwith the Kaiser Corporation.
+Dialogue: 10,0:22:27.42,0:22:29.70,Default,,0,0,0,,It's as simple as that.
+Dialogue: 10,0:22:30.75,0:22:33.56,Default,,0,0,0,,I do apologize for any misunderstanding.
+Dialogue: 10,0:22:33.56,0:22:39.21,Default,,0,0,0,,But I was never a member of that petty corporation.
+Dialogue: 10,0:22:39.51,0:22:43.92,Default,,0,0,0,,You've attained the strongest Mystic in Kivotos.
+Dialogue: 10,0:22:43.92,0:22:49.22,Default,,0,0,0,,I could never waste your potential \Non mere mercenary work.
+Dialogue: 10,0:22:52.47,0:22:58.48,Default,,0,0,0,,This fascinating experiment here \Nis what we've yearned to witness.
+Dialogue: 10,0:22:59.38,0:23:01.48,Default,,0,0,0,,That's all there is to it.
+Dialogue: 10,0:23:03.92,0:23:05.45,Default,,0,0,0,,I see.
+Dialogue: 10,0:23:05.45,0:23:06.93,Default,,0,0,0,,So once again...
+Dialogue: 10,0:23:06.93,0:23:09.24,Default,,0,0,0,,I've been tricked by an adult.
+Dialogue: 10,0:23:10.25,0:23:12.46,Default,,0,0,0,,I'm sorry, everyone.
+Dialogue: 10,0:23:12.46,0:23:14.76,Default,,0,0,0,,It's all my fault.
+Dialogue: 10,0:23:16.14,0:23:17.52,Default,,0,0,0,,Shiroko.
+Dialogue: 10,0:23:17.52,0:23:18.82,Default,,0,0,0,,Nonomi.
+Dialogue: 10,0:23:18.82,0:23:20.11,Default,,0,0,0,,Serika.
+Dialogue: 10,0:23:20.11,0:23:21.40,Default,,0,0,0,,Ayane.
+Dialogue: 10,0:23:21.40,0:23:22.51,Default,,0,0,0,,Sensei.
+Dialogue: 10,0:23:23.64,0:23:24.87,Default,,0,0,0,,Yume.
+Dialogue: 10,0:23:25.49,0:23:26.80,Default,,0,0,0,,{=3}I'm sorry.
 
 [Aegisub Extradata]
 Data: 2,_aegi_folddata,e0;0;1
 Data: 3,_aegi_folddata,e1;0;1
-Data: 4,_aegi_folddata,e0;1;2
-Data: 5,_aegi_folddata,e1;1;2
-Data: 6,_aegi_folddata,e0;0;2
-Data: 7,_aegi_folddata,e1;0;2
 Data: 8,_aegi_folddata,e0;1;3
 Data: 9,_aegi_folddata,e1;1;3
-Data: 10,_aegi_folddata,e0;0;3
-Data: 11,_aegi_folddata,e1;0;3
