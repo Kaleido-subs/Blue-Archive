@@ -44,20 +44,20 @@ Dialogue: 10,0:02:03.13,0:02:09.23,Default,,0,0,0,,For starters, sorry for sayin
 Dialogue: 10,0:02:09.23,0:02:13.24,Default,,0,0,0,,When you're my age,\nyou prefer the more old-fashioned ways.
 Dialogue: 10,0:02:13.74,0:02:18.24,Default,,0,0,0,,I've actually been receiving offers for a while.
 Dialogue: 10,0:02:18.66,0:02:22.00,Default,,0,0,0,,They want me to work as a mercenary for Kaiser PMC.
-Dialogue: 10,0:02:22.00,0:02:26.96,Default,,0,0,0,,In exchange, they'll forgive over half\nof the debt Abydos owes them.
+Dialogue: 10,0:02:22.00,0:02:26.96,Default,,0,0,0,,In exchange, they'll forgive over half\nof the debt Abydos owes them. {TLC: The person providing the contract is actually NOT Kaiser, so the wording would not include the term "forgive" but instead be just them paying the debt instead of Abydos. Hoshino doesn't realize the first part yet, but the second part isn't part of the deception.}
 Dialogue: 10,0:02:27.35,0:02:28.67,Default,,0,0,0,,That's the gist of it.
 Dialogue: 10,0:02:29.59,0:02:34.01,Default,,0,0,0,,I may not look like it,\nbut I've actually got a bit of a reputation.
-Dialogue: 10,0:02:34.69,0:02:39.47,Default,,0,0,0,,I know I got ahead of myself\na little back at the Black Market. {TLC: cross reference with the Black Market episode to see what she means by this}{### I think she's referring to her saying that they shouldn't cross the line of becoming criminals, but since she's going to work for PMC now, she probably assumes she'll become a criminal now?}
-Dialogue: 10,0:02:40.01,0:02:43.50,Default,,0,0,0,,I'm sorry for not keeping that promise.
+Dialogue: 10,0:02:34.69,0:02:39.47,Default,,0,0,0,,I know I got ahead of myself\na little back at the Black Market. {TLC: cross reference with the Black Market episode to see what she means by this}{### I think she's referring to her saying that they shouldn't cross the line of becoming criminals, but since she's going to work for PMC now, she probably assumes she'll become a criminal now?}{In which case, probably change to "I know I got all preachy back at the Black Market." --ik}
+Dialogue: 10,0:02:40.01,0:02:43.50,Default,,0,0,0,,I'm sorry for not keeping that promise. {I'm sorry for going back on my own words. --ik}
 Dialogue: 10,0:02:44.29,0:02:48.47,Default,,0,0,0,,But this should at least give\nthe Task Force some breathing room.
-Dialogue: 10,0:02:49.37,0:02:52.92,Default,,0,0,0,,This is my cross to bear.
-Dialogue: 10,0:02:53.63,0:02:57.78,Default,,0,0,0,,As the final member of the student council,\nI need to step into action now.
+Dialogue: 10,0:02:49.37,0:02:52.92,Default,,0,0,0,,This is my cross to bear. {Kind of want to keep the phrasing a bit more literal to call back to the themes of "responsibility" that pervade Blue Archive (cf. intro scene)}
+Dialogue: 10,0:02:53.63,0:02:57.78,Default,,0,0,0,,As the final member of the student council,\nI need to step into action now. {"I need to step into action now" is a bit wordy and feels odd. Maybe just "I have to do this as the final member..." then? --ik}
 Dialogue: 10,0:02:58.78,0:03:00.47,Default,,0,0,0,,So this is goodbye.
 Dialogue: 10,0:03:05.50,0:03:07.29,Default,,0,0,0,,To {*}our teacher{*Sensei}:
-Dialogue: 10,0:03:07.29,0:03:10.80,Default,,0,0,0,,To tell you the truth, I hate adults.
+Dialogue: 10,0:03:07.29,0:03:10.80,Default,,0,0,0,,To tell you the truth, I hate adults. {TLC: Strictly past tense here. She doesn't anymore. --ik}
 Dialogue: 10,0:03:11.50,0:03:14.93,Default,,0,0,0,,The day Shiroko{**-chan} brought you to our clubroom,
-Dialogue: 10,0:03:14.93,0:03:18.93,Default,,0,0,0,,I had already made up my mind\nabout you as a no-good adult.
-Dialogue: 10,0:03:19.25,0:03:25.23,Default,,0,0,0,,But everyone quickly opened up thanks to you,\nand fully trusts you as a result.
+Dialogue: 10,0:03:14.93,0:03:18.93,Default,,0,0,0,,I had already made up my mind\nabout you as a no-good adult. {"as a no-good adult" feels like it's hanging. Maybe "I immediately assumed you were just another no-good adult" --ik}
+Dialogue: 10,0:03:19.25,0:03:25.23,Default,,0,0,0,,But everyone quickly opened up thanks to you,\nand fully trusts you as a result. {"thanks to you" feels redundant with "as a result", maybe "and now they fully trust you." --ik}{Oh, but "fully trust" is a bit redundant with the following line. Time to get frisky. "But you broke down those walls immediately. You're part of the team now." --ik}
 Dialogue: 10,0:03:26.11,0:03:29.19,Default,,0,0,0,,So I'm leaving them in your care, okay?
 Dialogue: 10,0:03:30.20,0:03:32.78,Default,,0,0,0,,You're their teacher. They trust you.
 Dialogue: 10,0:03:32.78,0:03:34.69,Default,,0,0,0,,I'm sure they'll manage.
@@ -70,7 +70,7 @@ Dialogue: 10,0:03:48.74,0:03:50.21,Default,,0,0,0,,Ayane{**-chan}.
 Dialogue: 10,0:03:50.55,0:03:51.45,Default,,0,0,0,,Do this for me.
 Dialogue: 10,0:03:52.13,0:03:54.46,Default,,0,0,0,,Protect our school.
 Dialogue: 10,0:03:55.35,0:03:57.80,Default,,0,0,0,,Sure, it may be covered in sand and dust,
-Dialogue: 10,0:03:57.80,0:04:01.97,Default,,0,0,0,,but this place means the world to me.
+Dialogue: 10,0:03:57.80,0:04:01.97,Default,,0,0,0,,but this place means the world to me. {TLC: this is also the title card, iirc. The nuance is also "it's the ONLY place that matters," whereas "means the world" is simply "is extremely important" and not strictly "the one and only". Maybe just tack on "It's all I have left." to the end --ik}
 Dialogue: 10,0:04:02.82,0:04:03.94,Default,,0,0,0,,And one last thing.
 Dialogue: 10,0:04:03.94,0:04:09.56,Default,,0,0,0,,We may end up having to fight\neach other as enemies one day.
 Dialogue: 10,0:04:09.56,0:04:11.12,Default,,0,0,0,,The day that happens,
@@ -135,7 +135,7 @@ Dialogue: 10,0:07:21.95,0:07:26.38,Default,,0,0,0,,You've already begged them fo
 Dialogue: 10,0:07:26.81,0:07:31.13,Default,,0,0,0,,Did it ever amount to anything?\nDid they ever lift up a finger to help you?
 Dialogue: 10,0:07:32.50,0:07:34.79,Default,,0,0,0,,Do you finally understand?
 Dialogue: 10,0:07:34.79,0:07:39.27,Default,,0,0,0,,Struggle all you want. Nothing will change.
-Dialogue: 10,0:07:39.69,0:07:45.21,Default,,0,0,0,,And now Takanashi Hoshino, the final cornerstone\nof the student council, has withdrawn.
+Dialogue: 10,0:07:39.69,0:07:45.21,Default,,0,0,0,,And now Takanashi Hoshino, the final cornerstone\nof the student council, has withdrawn. {"final cornerstone" feels off. Maybe "last vestige" --ik}
 Dialogue: 10,0:07:45.21,0:07:49.28,Default,,0,0,0,,Abydos no longer has a student council.
 Dialogue: 10,0:07:49.55,0:07:53.04,Default,,0,0,0,,And you are no longer anybody at all.
 Dialogue: 10,0:07:53.31,0:07:55.19,Default,,0,0,0,,D-Don't be ridiculous!
@@ -157,8 +157,8 @@ Dialogue: 10,0:08:34.55,0:08:37.87,Default,,0,0,0,,But if that happens, what abo
 Dialogue: 10,0:08:37.87,0:08:39.13,Default,,0,0,0,,Oh?
 Dialogue: 10,0:08:39.13,0:08:44.63,Default,,0,0,0,,Were you actually planning on paying back your debt\nover the next couple hundred years?
 Dialogue: 10,0:08:44.63,0:08:46.33,Default,,0,0,0,,What a surprise.
-Dialogue: 10,0:08:46.33,0:08:53.39,Default,,0,0,0,TLC,I was convinced you were simply looking for\na pat on the back all this time {### not 100% sure how to handle this line. I dislike the old direction. TLC thoughts?}
-Dialogue: 10,0:08:53.83,0:08:57.51,Default,,0,0,0,,Why did you all work so hard, then?
+Dialogue: 10,0:08:46.33,0:08:53.39,Default,,0,0,0,TLC,I was convinced you were simply looking for\na pat on the back all this time {### not 100% sure how to handle this line. I dislike the old direction. TLC thoughts?} {TLC: The original is something like "i thought you just wanted an excuse to say 'well, at least we tried' at the end". Maybe "I was convinced you were just putting in a token effort for the sake of looks." --ik}
+Dialogue: 10,0:08:53.83,0:08:57.51,Default,,0,0,0,,Why did you all work so hard, then? {maybe add emphasis on "did" --ik}
 Dialogue: 10,0:08:57.51,0:08:58.89,Default,,0,0,0,,What was it all for?
 Dialogue: 10,0:08:58.89,0:09:01.06,Default,,0,0,0,,Why, you... If you say one more word...
 Dialogue: 10,0:09:01.75,0:09:02.98,Default,,0,0,0,,I'll shoot.
@@ -179,7 +179,7 @@ Dialogue: 10,0:09:45.33,0:09:47.86,Default,,0,0,0,,Why us and nobody else?
 Dialogue: 10,0:09:48.25,0:09:49.66,Default,,0,0,0,,Hoshino{**-senpai}...
 Dialogue: 10,0:09:49.66,0:09:52.28,Default,,0,0,0,,What are we supposed to do?
 Dialogue: 10,0:09:55.87,0:09:58.81,Default,,0,0,0,,A-A large explosion reported north of here!
-Dialogue: 10,0:09:58.81,0:10:01.41,Default,,0,0,0,QC,Bravo Squadron got caught in the blast! {### @petzku what's the way to call these squads?}
+Dialogue: 10,0:09:58.81,0:10:01.41,Default,,0,0,0,QC,Bravo Squadron got caught in the blast! {### @petzku what's the way to call these squads?}{"Team" might work if they're small, but they pretty big afaik --ik}
 Dialogue: 10,0:10:01.41,0:10:02.18,Default,,0,0,0,,What? {NANI}
 Dialogue: 10,0:10:02.18,0:10:04.12,Default,,0,0,0,,Explosions to the east, too!
 Dialogue: 10,0:10:04.12,0:10:07.59,Default,,0,0,0,,Mike Squadron got hit by a massive C4 explosion—
@@ -192,10 +192,10 @@ Dialogue: 10,0:10:20.52,0:10:25.52,Default,,0,0,0,,"We tread a path none may fol
 Dialogue: 10,0:10:26.37,0:10:31.03,Default,,0,0,0,,Wasn't that your motto, Masked Swimsuit Gang?
 Dialogue: 10,0:10:34.46,0:10:36.71,Default,,0,0,0,,Y-You're...
 Dialogue: 10,0:10:38.59,0:10:41.93,Default,,0,0,0,,I didn't fall for a bunch of pushovers.
-Dialogue: 10,0:10:41.93,0:10:43.43,Default,,0,0,0,,Chillax, Aru{**-chan}. {### I WILL DIE ON THIS HILL}
+Dialogue: 10,0:10:41.93,0:10:43.43,Default,,0,0,0,,Chillax, Aru{**-chan}. {### I WILL DIE ON THIS HILL}{Then perish. --ik}
 Dialogue: 10,0:10:43.43,0:10:45.58,Default,,0,0,0,,They get the message.
 Dialogue: 10,0:10:45.58,0:10:47.97,Default,,0,0,0,,Girls with glasses are quite delicate.
-Dialogue: 10,0:10:47.97,0:10:49.81,Default,,0,0,0,,Cracking under pressure is in their blood.
+Dialogue: 10,0:10:47.97,0:10:49.81,Default,,0,0,0,,Cracking under pressure is in their blood. {Mutsuki wouldn't be so mean to a girl with glasses. Maybe say something like "Sometimes the pressure gets to them." --ik}
 Dialogue: 10,0:10:49.81,0:10:52.45,Default,,0,0,0,,Wh-What are you doing here?
 Dialogue: 10,0:10:52.45,0:10:53.84,Default,,0,0,0,,But y'know what?
 Dialogue: 10,0:10:53.84,0:10:57.27,Default,,0,0,0,,You make a girl with glasses cry,\nand there'll be hell to pay.
@@ -219,16 +219,16 @@ Dialogue: 10,0:11:58.27,0:12:00.25,Default,,0,0,0,,That's all there is to it.
 Dialogue: 10,0:12:00.25,0:12:03.79,Default,,0,0,0,,It's only natural for a villain to stab\ntheir employer in the back, no?
 Dialogue: 10,0:12:04.38,0:12:05.50,Default,,0,0,0,,You guys...
 Dialogue: 10,0:12:05.72,0:12:06.92,Default,,0,0,0,,You're right.
-Dialogue: 10,0:12:06.92,0:12:09.33,Default,,0,0,0,,That's the way of the villain. {### more suggestions welcome}
+Dialogue: 10,0:12:06.92,0:12:09.33,Default,,0,0,0,,That's the way of the villain. {### more suggestions welcome}{"That's how villains should be", "That is what a villain would do", "Spoken like a true villain" --ik}
 Dialogue: 10,0:12:09.33,0:12:11.49,Default,,0,0,0,,That was the pep talk we needed.
 Dialogue: 10,0:12:11.49,0:12:14.00,Default,,0,0,0,,We don't have time to doubt ourselves!
 Dialogue: 10,0:12:14.00,0:12:17.01,Default,,0,0,0,,Yeah! Who cares if we're unofficial?
 Dialogue: 10,0:12:17.01,0:12:19.72,Default,,0,0,0,,We've got bigger things to worry about!
 Dialogue: 10,0:12:20.23,0:12:22.14,Default,,0,0,0,,We {\i1}will{\i0} save Hoshino{**-senpai}.
-Dialogue: 10,0:12:22.72,0:12:24.89,Default,,0,0,0,,Whatever else happens, happens.
+Dialogue: 10,0:12:22.72,0:12:24.89,Default,,0,0,0,,Whatever else happens, happens. {Feels maybe a smidge too blase. Maybe "The rest can wait."}
 Dialogue: 10,0:12:24.89,0:12:27.99,Default,,0,0,0,,You still want to waste our time\nwith this pointless resistance?
 Dialogue: 10,0:12:27.99,0:12:28.89,Default,,0,0,0,,How dare you—
-Dialogue: 10,0:12:28.89,0:12:31.52,Default,,0,0,0,,No! How dare {\i1}you{\i0} torment my precious student?
+Dialogue: 10,0:12:28.89,0:12:31.52,Default,,0,0,0,,No! How dare {\i1}you{\i0} torment my precious student? {plural? --ik}
 Dialogue: 10,0:12:32.19,0:12:34.90,Default,,0,0,0,,We'll be taking Hoshino back!
 Dialogue: 10,0:12:35.29,0:12:36.57,Default,,0,0,0,,Don't screw with me!
 Dialogue: 10,0:12:36.57,0:12:40.97,Default,,0,0,0,,You think you can just come out of nowhere\nand start making demands?
@@ -311,9 +311,9 @@ Dialogue: 10,0:16:23.16,0:16:23.96,Default,,0,0,0,,Kick his ass.
 Dialogue: 10,0:16:24.34,0:16:25.21,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:16:25.65,0:16:26.81,Default,,0,0,0,,Be careful.
 Dialogue: 10,0:16:26.81,0:16:28.22,Default,,0,0,0,,I've got your back!
-Dialogue: 10,0:16:35.03,0:16:37.68,Default,,0,0,0,TLC/ED,Eyes on me. {### this phrase is always pain. Tempted to instead go "I'm gonna kick your ass" to follow up on Aru's encouragement. Thoughts? Other ideas?}
+Dialogue: 10,0:16:35.03,0:16:37.68,Default,,0,0,0,TLC/ED,Eyes on me. {### this phrase is always pain. Tempted to instead go "I'm gonna kick your ass" to follow up on Aru's encouragement. Thoughts? Other ideas?}{"Over here." "You're mine." "I'm the one you should be worried about." "Prepare to die, foul beast." "I'll take this dance." --ik}
 Dialogue: 10,0:16:38.11,0:16:40.94,Default,,0,0,0,TM,Why, you little... {Not sure if snapping the leadout is best but fuck it we ball}
-Dialogue: 10,0:16:41.81,0:16:43.77,Default,,0,0,0,,Looks like it started.
+Dialogue: 10,0:16:41.81,0:16:43.77,Default,,0,0,0,,Looks like it started. {"they've started" maybe? --ik}
 Dialogue: 10,0:16:44.47,0:16:45.82,Default,,0,0,0,,Well, then.
 Dialogue: 10,0:16:46.11,0:16:48.57,Default,,0,0,0,,Let's take care of our part, Haruka{**-chan}.
 Dialogue: 10,0:16:48.88,0:16:51.57,Default,,0,0,0,,Yes, let's.
@@ -332,7 +332,7 @@ Dialogue: 10,0:17:56.10,0:17:58.77,Default,,0,0,0,,Did you really think you had 
 Dialogue: 10,0:17:58.77,0:18:01.10,Default,,0,0,0,,Your puny little body means nothing!
 Dialogue: 10,0:18:01.10,0:18:06.86,Default,,0,0,0,,Just try and stop the 12,860 horsepower of this craft!
 Dialogue: 10,0:18:10.11,0:18:11.28,Default,,0,0,0,,What the—
-Dialogue: 10,0:18:15.00,0:18:16.87,Default,,0,0,0,,Off she goes!
+Dialogue: 10,0:18:15.00,0:18:16.87,Default,,0,0,0,,Off she goes! {"she" is a bit confusing here. Maybe "and boom goes the dynamite!" --ik}
 Dialogue: 10,0:18:17.07,0:18:18.23,Default,,0,0,0,,We did it!
 Dialogue: 10,0:18:21.67,0:18:22.37,Default,,0,0,0,,Shiroko!
 Dialogue: 10,0:18:29.57,0:18:34.89,Default,,0,0,0,,You've got guts, standing your ground\nin the face of this firepower.
@@ -397,7 +397,7 @@ Dialogue: 9,0:21:05.67,0:21:08.57,Default,,0,0,0,,{\bord4\shad0\c&H000000&\3a&H5
 Dialogue: 10,0:21:05.67,0:21:08.57,Default,,0,0,0,,Th-That was hardly worth thanking us for.
 Dialogue: 9,0:21:08.57,0:21:11.17,Default,,0,0,0,,{\bord4\shad0\c&H000000&\3a&H50&\blur10\fad(0,300)}All in a day's work for first-class outlaws.
 Dialogue: 10,0:21:08.57,0:21:11.33,Default,,0,0,0,,All in a day's work for first-class outlaws.
-Dialogue: 10,0:21:11.33,0:21:14.46,Default,,0,0,0,,Yeah, I saw you were all fired up from the beginning. {###}
+Dialogue: 10,0:21:11.33,0:21:14.46,Default,,0,0,0,,Yeah, I saw you were all fired up from the beginning. {###}{"Of course it was, with how fired up you were" --ik}
 Dialogue: 10,0:21:14.46,0:21:16.25,Default,,0,0,0,,You don't have to tell them that!
 Dialogue: 10,0:21:18.20,0:21:19.51,Default,,0,0,0,,Now, for the next part.
 Dialogue: 10,0:21:23.57,0:21:24.51,Default,,0,0,0,,We're coming for you,
@@ -406,7 +406,7 @@ Dialogue: 10,0:21:31.93,0:21:33.65,Default,,0,0,0,,What? Why?
 Dialogue: 10,0:21:34.31,0:21:35.71,Default,,0,0,0,,Why did you attack Abydos?
 Dialogue: 10,0:21:35.71,0:21:37.89,Default,,0,0,0,,I'm afraid I don't know what you mean.
 Dialogue: 10,0:21:38.35,0:21:41.23,Default,,0,0,0,,What are you confused about?
-Dialogue: 10,0:21:41.23,0:21:45.66,Default,,0,0,0,,I will be sure to repay over half of the school's debt.
+Dialogue: 10,0:21:41.23,0:21:45.66,Default,,0,0,0,,I will be sure to repay over half of the school's debt. {See note in the letter above. --ik}
 Dialogue: 10,0:21:45.66,0:21:50.09,Default,,0,0,0,,That was what we agreed on, was it not?
 Dialogue: 10,0:21:51.79,0:21:53.53,Default,,0,0,0,,That aside,
 Dialogue: 10,0:21:53.53,0:21:58.42,Default,,0,0,0,,now that you have withdrawn,\nthe student council no longer has any members.
