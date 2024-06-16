@@ -60,7 +60,7 @@ Dialogue: 10,0:03:14.93,0:03:18.93,Default,,0,0,0,,I immediately assumed you wer
 Dialogue: 10,0:03:19.25,0:03:25.23,Default,,0,0,0,,But you broke down those walls immediately.\nYou're part of the team now.
 Dialogue: 10,0:03:26.11,0:03:29.19,Default,,0,0,0,,So I'm leaving them in your care, okay?
 Dialogue: 10,0:03:30.20,0:03:32.78,Default,,0,0,0,,You're their teacher. They trust you.
-Dialogue: 10,0:03:32.78,0:03:34.69,Default,,0,0,0,,I'm sure they'll manage.
+Dialogue: 10,0:03:32.78,0:03:34.69,Default,,0,0,0,,I'm sure they'll be fine.
 Dialogue: 10,0:03:35.83,0:03:39.75,Default,,0,0,0,,I'm glad I got to meet an adult like you before I...
 Dialogue: 10,0:03:40.30,0:03:43.94,Default,,0,0,0,,Nah, that's more than enough sappy stuff for one day.
 Dialogue: 10,0:03:44.87,0:03:46.14,Default,,0,0,0,,Shiroko{**-chan}.
@@ -157,7 +157,7 @@ Dialogue: 10,0:08:34.55,0:08:37.87,Default,,0,0,0,,But if that happens, what abo
 Dialogue: 10,0:08:37.87,0:08:39.13,Default,,0,0,0,,Oh?
 Dialogue: 10,0:08:39.13,0:08:44.63,Default,,0,0,0,,Were you actually planning on paying back your debt\nover the next couple hundred years?
 Dialogue: 10,0:08:44.63,0:08:46.33,Default,,0,0,0,,What a surprise.
-Dialogue: 10,0:08:46.33,0:08:53.39,Default,,0,0,0,TLC,I was convinced you were simply looking to\ngive yourselves a pat on the back all this time. {### not 100% sure how to handle this line. I dislike the old direction. TLC thoughts?}{TLC: The original is something like "i thought you just wanted an excuse to say 'well, at least we tried' at the end". Maybe "I was convinced you were just putting in a token effort for the sake of looks." --ik}{maybe something like "And here I thought you were just waiting to give yourselves empty praises once the inevitable happened."?}{### Not entirely happy with those either. You got any ideas, petz?}
+Dialogue: 10,0:08:46.33,0:08:53.39,Default,,0,0,0,,And here I thought you were simply waiting for\na convenient excuse to end this charade.
 Dialogue: 10,0:08:53.83,0:08:57.51,Default,,0,0,0,,Why {\i1}did{\i0} you all work so hard, then?
 Dialogue: 10,0:08:57.51,0:08:58.89,Default,,0,0,0,,What was it all for?
 Dialogue: 10,0:08:58.89,0:09:01.06,Default,,0,0,0,,Why, you... If you say one more word...
