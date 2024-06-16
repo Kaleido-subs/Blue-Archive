@@ -54,7 +54,7 @@ Dialogue: 10,0:02:49.37,0:02:52.92,Default,,0,0,0,,This is my cross to bear. {Ki
 Dialogue: 10,0:02:53.63,0:02:57.78,Default,,0,0,0,,As the final member of the student council,\nI need to step into action now. {"I need to step into action now" is a bit wordy and feels odd. Maybe just "I have to do this as the final member..." then? --ik}
 Dialogue: 10,0:02:58.78,0:03:00.47,Default,,0,0,0,,So this is goodbye.
 Dialogue: 10,0:03:05.50,0:03:07.29,Default,,0,0,0,,To {*}our teacher{*Sensei}:
-Dialogue: 10,0:03:07.29,0:03:10.80,Default,,0,0,0,,To tell you the truth, I hate adults. {TLC: Strictly past tense here. She doesn't anymore. --ik}
+Dialogue: 10,0:03:07.29,0:03:10.80,Default,,0,0,0,,To tell you the truth, I used to hate adults.
 Dialogue: 10,0:03:11.50,0:03:14.93,Default,,0,0,0,,The day Shiroko{**-chan} brought you to our clubroom,
 Dialogue: 10,0:03:14.93,0:03:18.93,Default,,0,0,0,,I had already made up my mind\nabout you as a no-good adult. {"as a no-good adult" feels like it's hanging. Maybe "I immediately assumed you were just another no-good adult" --ik}
 Dialogue: 10,0:03:19.25,0:03:25.23,Default,,0,0,0,,But everyone quickly opened up thanks to you,\nand fully trusts you as a result. {"thanks to you" feels redundant with "as a result", maybe "and now they fully trust you." --ik}{Oh, but "fully trust" is a bit redundant with the following line. Time to get frisky. "But you broke down those walls immediately. You're part of the team now." --ik}
@@ -83,7 +83,7 @@ Dialogue: 10,0:04:27.01,0:04:27.75,Default,,0,0,0,,Shiroko!
 Dialogue: 10,0:04:28.16,0:04:29.45,Default,,0,0,0,,I'm gonna go find her.
 Dialogue: 10,0:04:29.45,0:04:31.04,Default,,0,0,0,,I have to help her!
 Dialogue: 10,0:04:31.29,0:04:33.50,Default,,0,0,0,,Calm down, Shiroko{**-chan}!
-Dialogue: 10,0:04:33.79,0:04:36.61,Default,,0,0,0,,She's right! We need to confirm the situation first.
+Dialogue: 10,0:04:33.79,0:04:36.61,Default,,0,0,0,,She's right! We need to assess the situation first.
 Dialogue: 10,0:04:36.61,0:04:38.77,Default,,0,0,0,,But Hoshino{**-senpai}'s—
 Dialogue: 10,0:04:44.82,0:04:47.52,Default,,0,0,0,,Keep firing until the area's secure!
 Dialogue: 10,0:04:49.55,0:04:53.52,Default,,0,0,0,,The last remaining student council member\nhas withdrawn from Abydos.
@@ -157,7 +157,7 @@ Dialogue: 10,0:08:34.55,0:08:37.87,Default,,0,0,0,,But if that happens, what abo
 Dialogue: 10,0:08:37.87,0:08:39.13,Default,,0,0,0,,Oh?
 Dialogue: 10,0:08:39.13,0:08:44.63,Default,,0,0,0,,Were you actually planning on paying back your debt\nover the next couple hundred years?
 Dialogue: 10,0:08:44.63,0:08:46.33,Default,,0,0,0,,What a surprise.
-Dialogue: 10,0:08:46.33,0:08:53.39,Default,,0,0,0,TLC,I was convinced you were simply looking for\na pat on the back all this time {### not 100% sure how to handle this line. I dislike the old direction. TLC thoughts?} {TLC: The original is something like "i thought you just wanted an excuse to say 'well, at least we tried' at the end". Maybe "I was convinced you were just putting in a token effort for the sake of looks." --ik}
+Dialogue: 10,0:08:46.33,0:08:53.39,Default,,0,0,0,TLC,I was convinced you were simply looking for\na pat on the back all this time {### not 100% sure how to handle this line. I dislike the old direction. TLC thoughts?}{TLC: The original is something like "i thought you just wanted an excuse to say 'well, at least we tried' at the end". Maybe "I was convinced you were just putting in a token effort for the sake of looks." --ik}{maybe something like "And here I thought you were just waiting to give yourselves empty praises once the inevitable happened."?}
 Dialogue: 10,0:08:53.83,0:08:57.51,Default,,0,0,0,,Why did you all work so hard, then? {maybe add emphasis on "did" --ik}
 Dialogue: 10,0:08:57.51,0:08:58.89,Default,,0,0,0,,What was it all for?
 Dialogue: 10,0:08:58.89,0:09:01.06,Default,,0,0,0,,Why, you... If you say one more word...
@@ -206,7 +206,7 @@ Dialogue: 10,0:11:05.69,0:11:09.61,Default,,0,0,0,,Unable to tell right from lef
 Dialogue: 10,0:11:09.61,0:11:12.45,Default,,0,0,0,,Every path you take leads to failure.
 Dialogue: 10,0:11:12.45,0:11:17.18,Default,,0,0,0,,And even once you stumble down the right one,\nall that awaits you is another dark tunnel.
 Dialogue: 10,0:11:19.55,0:11:20.66,Default,,0,0,0,,Backup is here!
-Dialogue: 10,0:11:21.07,0:11:23.29,Default,,0,0,0,,But so what?!
+Dialogue: 10,0:11:21.07,0:11:23.29,Default,,0,0,0,,So what?!
 Dialogue: 10,0:11:32.93,0:11:35.65,Default,,0,0,0,,Your friend's in danger, isn't she?
 Dialogue: 10,0:11:35.65,0:11:40.79,Default,,0,0,0,,Are you just gonna sit there feeling sorry\nwhile they take everything from you?
 Dialogue: 10,0:11:40.79,0:11:42.35,Default,,0,0,0,,Are you going to take this lying down?
@@ -223,7 +223,7 @@ Dialogue: 10,0:12:06.92,0:12:09.33,Default,,0,0,0,,That's the way of the villain
 Dialogue: 10,0:12:09.33,0:12:11.49,Default,,0,0,0,,That was the pep talk we needed.
 Dialogue: 10,0:12:11.49,0:12:14.00,Default,,0,0,0,,We don't have time to doubt ourselves!
 Dialogue: 10,0:12:14.00,0:12:17.01,Default,,0,0,0,,Yeah! Who cares if we're unofficial?
-Dialogue: 10,0:12:17.01,0:12:19.72,Default,,0,0,0,,We've got bigger things to worry about!
+Dialogue: 10,0:12:17.01,0:12:19.72,Default,,0,0,0,,We've got bigger things to worry about!{could've sworn with the liberalness of this script "bigger fish to fry" would've been used here}{no i'm not suggesting to change to this}
 Dialogue: 10,0:12:20.23,0:12:22.14,Default,,0,0,0,,We {\i1}will{\i0} save Hoshino{**-senpai}.
 Dialogue: 10,0:12:22.72,0:12:24.89,Default,,0,0,0,,Whatever else happens, happens. {Feels maybe a smidge too blase. Maybe "The rest can wait."}
 Dialogue: 10,0:12:24.89,0:12:27.99,Default,,0,0,0,,You still want to waste our time\nwith this pointless resistance?
@@ -311,7 +311,7 @@ Dialogue: 10,0:16:23.16,0:16:23.96,Default,,0,0,0,,Kick his ass.
 Dialogue: 10,0:16:24.34,0:16:25.21,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:16:25.65,0:16:26.81,Default,,0,0,0,,Be careful.
 Dialogue: 10,0:16:26.81,0:16:28.22,Default,,0,0,0,,I've got your back!
-Dialogue: 10,0:16:35.03,0:16:37.68,Default,,0,0,0,TLC/ED,Eyes on me. {### this phrase is always pain. Tempted to instead go "I'm gonna kick your ass" to follow up on Aru's encouragement. Thoughts? Other ideas?}{"Over here." "You're mine." "I'm the one you should be worried about." "Prepare to die, foul beast." "I'll take this dance." --ik}
+Dialogue: 10,0:16:35.03,0:16:37.68,Default,,0,0,0,TLC/ED,Eyes on me. {### this phrase is always pain. Tempted to instead go "I'm gonna kick your ass" to follow up on Aru's encouragement. Thoughts? Other ideas?}{"Over here." "You're mine." "I'm the one you should be worried about." "Prepare to die, foul beast." "I'll take this dance." --ik}{not sure if line was changed after previous comment but I think this line is fine.}
 Dialogue: 10,0:16:38.11,0:16:40.94,Default,,0,0,0,TM,Why, you little... {Not sure if snapping the leadout is best but fuck it we ball}
 Dialogue: 10,0:16:41.81,0:16:43.77,Default,,0,0,0,,Looks like it started. {"they've started" maybe? --ik}
 Dialogue: 10,0:16:44.47,0:16:45.82,Default,,0,0,0,,Well, then.
