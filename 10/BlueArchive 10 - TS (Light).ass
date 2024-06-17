@@ -23,8 +23,8 @@ Style: LightSigns,LTFinnegan Medium,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11509}-- Repeat Signs
-Comment: 0,0:01:58.93,0:01:58.93,LightSigns,,0,0,0,,{=20664}---- Episode Title
-Dialogue: 0,0:01:58.93,0:02:02.48,LightSigns,,0,0,0,,{=20665}{\pos(1430,1042)\fax-0.5\fnRo GSan Serif Std Mod\fs48\fsp-0.3\c&H292927&\blur0.5\fad(518,0)}The Only {\c&HF98B12&}Place {\c&H292927&}I Have Left
+Comment: 0,0:01:58.93,0:01:58.93,LightSigns,,0,0,0,,{=20763}---- Episode Title
+Dialogue: 0,0:01:58.93,0:02:02.48,LightSigns,,0,0,0,,{=20764}{\pos(1430,1042)\fax-0.5\fnRo GSan Serif Std Mod\fs48\fsp-0.3\c&H292927&\blur0.5\fad(518,0)}The Only {\c&HF98B12&}Place {\c&H292927&}I Have Left
 Comment: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11510}-- Repeat Signs
 Comment: 0,0:01:58.47,0:01:58.47,LightSigns,,0,0,0,,{=19528}---- Club sign (repeat)
 Dialogue: 4,0:01:58.47,0:02:02.48,LightSigns,,0,0,0,,{\pos(772,446)\org(154,127)\fscx126\fscy132\frz3.912\fry0.526\frx-0.755\fnMiology\fs96\c&H9A8873&\blur1.3}ABYDOS
@@ -148,7 +148,7 @@ Dialogue: 1,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(1900,190)\frz323\fnMi
 Dialogue: 1,0:00:17.91,0:00:17.96,LightSigns,,0,0,0,,{\pos(1900,190)\frz323\fnMiology\fs64\c&HBDB7BA&\blur7.46}To
 Dialogue: 1,0:00:17.96,0:00:18.00,LightSigns,,0,0,0,,{=20495}{\pos(1900,190)\frz323\fnMiology\fs64\c&HBDB7BA&\blur8}To
 Comment: 0,0:00:09.82,0:00:09.82,LightSigns,,0,0,0,,{=20744}-- Letter
-Comment: 0,0:00:09.82,0:00:09.82,LightSigns,,0,0,0,,{=20670}-- Withdrawal form
+Comment: 0,0:00:09.82,0:00:09.82,LightSigns,,0,0,0,,{=20761}-- Withdrawal form
 Comment: 0,0:00:09.82,0:00:09.82,LightSigns,,0,0,0,,{=20534}---- First instance
 Dialogue: 0,0:00:09.82,0:00:11.82,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HFEFEFE&\blur2\p1}m 15 101 l 73 105 60 120 36 127 -90 125
 Dialogue: 0,0:00:09.82,0:00:11.82,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HEAD6CE&\blur1\p1}m 30 98 l -110 130 -300 126 -284 116 -88 117 -86 114 -83 102
@@ -236,90 +236,231 @@ Dialogue: 1,0:00:09.82,0:00:11.45,LightSigns,,0,0,0,,{=20528}{\pos(731,727)\org(
 Dialogue: 1,0:00:11.45,0:00:11.57,LightSigns,,0,0,0,,{=20528}{\pos(731,727)\org(960,540)\fscx11.19\fscy2.96\frz-0.261\fry0.129\frx20.41\fax-0.323\fnTahoma\c&H000000&\1a&H50&\blur1.5\clip(m 652 740 l 701 740 698 775 654 776)}Principal
 Dialogue: 1,0:00:11.57,0:00:11.82,LightSigns,,0,0,0,,{=20528}{\pos(731,727)\org(960,540)\fscx11.19\fscy2.96\frz-0.261\fry0.129\frx20.41\fax-0.323\fnTahoma\c&H000000&\1a&H50&\blur1.5\clip(m 660 745 l 698 746 700 778 664 779)}Principal
 Dialogue: 2,0:00:11.20,0:00:11.32,LightSigns,,0,0,0,,{=20535}{\an7\pos(948,539)\c&HA67965&\blur2\p1}m -339.95 115.37 l -328.88 196.69 -323.34 252.75 -330.96 253.44 -345.84 117.79
-Comment: 0,0:00:15.58,0:00:15.58,LightSigns,TODO,0,0,0,,{=20751}---- Second instance
-Comment: 1,0:00:15.58,0:00:15.58,LightSigns,,0,0,0,,{\an7\pos(961,538)\c&HF0E3D9&\blur4\p1}m -96 -273 l -320 -254 -308 -284 -75 -307 m -45 -343 l -172 -328 -161 -382 -3 -398
-Comment: 1,0:00:15.58,0:00:15.58,LightSigns,,0,0,0,,{\an7\pos(961,538)\c&HECDFD4&\blur2\p1}m -125 -238 l -142 -209 -142 -208 -329 -192 -330 -192 -331 -193 -331 -218 -126 -239 -125 -239 m -320 -254 l -352 -251 -343 -280 -308 -284
-Comment: 0,0:00:15.58,0:00:15.58,LightSigns,,0,0,0,,{\an7\pos(961,541)\blur2\p1}m -209 312 l -283 321 -285 298 -213 290 m -115 303 l -164 308 -162 285 -116 281 m -208 136 l -305 144 -306 114 -219 103 m 45 112 l -177 133 -174 95 44 76 m 41 -223 l -156 -214 -134 -240 41 -248 m 15 -280 l -96 -274 -68 -315 13 -317 m 5 -347 l -49 -344 2 -408
-Dialogue: 0,0:00:17.37,0:00:17.41,LightSigns,,0,0,0,,{\an7\pos(976,343)\c&HFEFEFE&\blur5\p1}m -284 130 l -200 124 -210 96 -289 98
-Dialogue: 2,0:00:17.37,0:00:17.41,LightSigns,,0,0,0,,{\pos(726.61,641.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur7.33}Teacher
-Dialogue: 2,0:00:17.41,0:00:17.46,LightSigns,,0,0,0,,{\pos(726.61,645.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur7.17}Teacher
-Dialogue: 2,0:00:17.46,0:00:17.50,LightSigns,,0,0,0,,{\pos(726.61,655.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur7}Teacher
-Dialogue: 2,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(724.61,661.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur6.83}Teacher
-Dialogue: 2,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(722.61,669.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur6.67}Teacher
-Dialogue: 2,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(722.61,686.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur6.5}Teacher
-Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(720.61,703.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur6.33}Teacher
-Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(719.61,721.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur6.17}Teacher
-Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(719.61,740.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur6}Teacher
-Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(714.61,759.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur5.83}Teacher
-Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(710.61,782.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur5.67}Teacher
-Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(710.61,803.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur5.5}Teacher
-Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(710.61,818.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur5.33}Teacher
-Dialogue: 2,0:00:17.91,0:00:17.96,LightSigns,,0,0,0,,{\pos(710.61,838.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur5.17}Teacher
-Dialogue: 2,0:00:17.96,0:00:18.00,LightSigns,,0,0,0,,{\pos(710.61,838.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.891\fry-0.132\frx3.727\fnTahoma\c&H000000&\1a&H28&\blur5}Teacher
-Dialogue: 2,0:00:17.37,0:00:17.41,LightSigns,,0,0,0,,{\pos(837.26,641.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur7.33\clip(m 753 633 l 874 653 783 718)}Principal
-Dialogue: 2,0:00:17.41,0:00:17.46,LightSigns,,0,0,0,,{\pos(837.26,645.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur7.17\clip(m 767 633 l 907 659 796 706)}Principal
-Dialogue: 2,0:00:17.46,0:00:17.50,LightSigns,,0,0,0,,{\pos(837.26,655.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur7\clip(m 755 633 l 909 659 774 724)}Principal
-Dialogue: 2,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(835.26,661.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur6.83}Principal
-Dialogue: 2,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(833.26,669.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur6.67}Principal
-Dialogue: 2,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(833.26,686.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur6.5}Principal
-Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(831.26,703.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur6.33}Principal
-Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(830.26,721.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur6.17}Principal
-Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(830.26,740.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur6}Principal
-Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(825.26,759.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur5.83}Principal
-Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(821.26,782.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur5.67}Principal
-Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(821.26,803.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur5.5}Principal
-Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(821.26,818.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur5.33}Principal
-Dialogue: 2,0:00:17.91,0:00:17.96,LightSigns,,0,0,0,,{\pos(821.26,838.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur5.17}Principal
-Dialogue: 2,0:00:17.96,0:00:18.00,LightSigns,,0,0,0,,{\pos(821.26,838.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.897\fry-0.133\frx3.721\fnTahoma\c&H000000&\1a&H28&\blur5}Principal
-Dialogue: 2,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(718.66,481.39)\org(743.05,655.9)\fscx22.21\fscy19.26\frz5.747\fry-0.137\frx3.869\fnTahoma\c&H000000&\1a&H28&\blur7.36\clip(m 677 464 l 674 481 672 492 673 501 676 508 711 517 656 543 613 471)}Student Name
-Dialogue: 2,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(716.66,489.39)\org(743.05,655.9)\fscx22.21\fscy19.26\frz5.747\fry-0.137\frx3.869\fnTahoma\c&H000000&\1a&H28&\blur7.14\clip(m 675 475 l 673 486 673 494 674 499 676 505 678 510 697 515 722 520 665 540 621 526 633 450)}Student Name
-Dialogue: 2,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(716.66,506.39)\org(743.05,655.9)\fscx22.21\fscy19.26\frz5.747\fry-0.137\frx3.869\fnTahoma\c&H000000&\1a&H28&\blur6.93\clip(m 672 489 l 671 497 675 506 683 510 775 532 667 561 613 546 621 478)}Student Name
-Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(714.66,523.39)\org(743.05,655.9)\fscx22.21\fscy19.26\frz5.747\fry-0.137\frx3.869\fnTahoma\c&H000000&\1a&H28&\blur6.71}Student Name
-Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(713.66,541.39)\org(743.05,655.9)\fscx22.21\fscy19.26\frz5.747\fry-0.137\frx3.869\fnTahoma\c&H000000&\1a&H28&\blur6.5}Student Name
-Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(713.66,560.39)\org(743.05,655.9)\fscx22.21\fscy19.26\frz5.747\fry-0.137\frx3.869\fnTahoma\c&H000000&\1a&H28&\blur6.29}Student Name
-Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(708.66,579.39)\org(743.05,655.9)\fscx22.21\fscy19.26\frz5.747\fry-0.137\frx3.869\fnTahoma\c&H000000&\1a&H28&\blur6.07}Student Name
-Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(704.66,602.39)\org(743.05,655.9)\fscx22.21\fscy19.26\frz5.747\fry-0.137\frx3.869\fnTahoma\c&H000000&\1a&H28&\blur5.86}Student Name
-Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(704.66,623.39)\org(743.05,655.9)\fscx22.21\fscy19.26\frz5.747\fry-0.137\frx3.869\fnTahoma\c&H000000&\1a&H28&\blur5.64}Student Name
-Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(704.66,638.39)\org(743.05,655.9)\fscx22.21\fscy19.26\frz5.747\fry-0.137\frx3.869\fnTahoma\c&H000000&\1a&H28&\blur5.43}Student Name
-Dialogue: 2,0:00:17.91,0:00:17.96,LightSigns,,0,0,0,,{\pos(704.66,658.39)\org(743.05,655.9)\fscx22.21\fscy19.26\frz5.747\fry-0.137\frx3.869\fnTahoma\c&H000000&\1a&H28&\blur5.21}Student Name
-Dialogue: 2,0:00:17.96,0:00:18.00,LightSigns,,0,0,0,,{\pos(704.66,658.39)\org(743.05,655.9)\fscx22.21\fscy19.26\frz5.747\fry-0.137\frx3.869\fnTahoma\c&H000000&\1a&H28&\blur5}Student Name
-Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\an4\pos(811.19,525.34)\org(745.43,670.46)\fscx30.9\fscy35.51\frz5.758\fry-0.139\frx3.855\fnMiology\c&H000000&\1a&H28&\blur6.33}3rd year, Takanashi Hoshino
-Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\an4\pos(810.19,543.34)\org(745.43,670.46)\fscx30.9\fscy35.51\frz5.758\fry-0.139\frx3.855\fnMiology\c&H000000&\1a&H28&\blur6.17}3rd year, Takanashi Hoshino
-Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\an4\pos(810.19,562.34)\org(745.43,670.46)\fscx30.9\fscy35.51\frz5.758\fry-0.139\frx3.855\fnMiology\c&H000000&\1a&H28&\blur6}3rd year, Takanashi Hoshino
-Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\an4\pos(805.19,581.34)\org(745.43,670.46)\fscx30.9\fscy35.51\frz5.758\fry-0.139\frx3.855\fnMiology\c&H000000&\1a&H28&\blur5.83}3rd year, Takanashi Hoshino
-Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\an4\pos(801.19,604.34)\org(745.43,670.46)\fscx30.9\fscy35.51\frz5.758\fry-0.139\frx3.855\fnMiology\c&H000000&\1a&H28&\blur5.67}3rd year, Takanashi Hoshino
-Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\an4\pos(801.19,625.34)\org(745.43,670.46)\fscx30.9\fscy35.51\frz5.758\fry-0.139\frx3.855\fnMiology\c&H000000&\1a&H28&\blur5.5}3rd year, Takanashi Hoshino
-Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\an4\pos(801.19,640.34)\org(745.43,670.46)\fscx30.9\fscy35.51\frz5.758\fry-0.139\frx3.855\fnMiology\c&H000000&\1a&H28&\blur5.33}3rd year, Takanashi Hoshino
-Dialogue: 2,0:00:17.91,0:00:17.96,LightSigns,,0,0,0,,{\an4\pos(801.19,660.34)\org(745.43,670.46)\fscx30.9\fscy35.51\frz5.758\fry-0.139\frx3.855\fnMiology\c&H000000&\1a&H28&\blur5.17}3rd year, Takanashi Hoshino
-Dialogue: 2,0:00:17.96,0:00:18.00,LightSigns,,0,0,0,,{\an4\pos(801.19,660.34)\org(745.43,670.46)\fscx30.9\fscy35.51\frz5.758\fry-0.139\frx3.855\fnMiology\c&H000000&\1a&H28&\blur5}3rd year, Takanashi Hoshino
-Dialogue: 2,0:00:15.58,0:00:17.25,LightSigns,,0,0,0,,{\pos(791.01,111.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur8}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.37,0:00:17.41,LightSigns,,0,0,0,,{\pos(807.01,67.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur7.33\clip(m 665 38 l 653 121 572 119 567 36)}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.41,0:00:17.46,LightSigns,,0,0,0,,{\pos(807.01,71.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur7.17\clip(m 665 38 l 653 121 572 119 567 36)}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.46,0:00:17.50,LightSigns,,0,0,0,,{\pos(807.01,81.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur7\clip(m 665 38 l 653 121 572 119 567 36)}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(805.01,87.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur6.83\clip(m 775 51 l 753 149 562 152 562 47)}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(803.01,95.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur6.67\clip(m 775 51 l 753 149 562 152 562 47)}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(803.01,112.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur6.5\clip(m 775 51 l 753 149 562 152 562 47)}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(801.01,129.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur6.33}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(800.01,147.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur6.17}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(800.01,166.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur6}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(795.01,185.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur5.83}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(791.01,208.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur5.67}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(791.01,229.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur5.5}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(791.01,244.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur5.33}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.91,0:00:17.96,LightSigns,,0,0,0,,{\pos(791.01,264.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur5.17}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:17.96,0:00:18.00,LightSigns,,0,0,0,,{\pos(791.01,264.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.437\fry-0.149\frx4.221\fnTahoma\c&H000000&\1a&H28&\blur5}This document officially requests a withdrawal from Abydos High School.
-Dialogue: 2,0:00:15.58,0:00:17.29,LightSigns,,0,0,0,,{\pos(877.39,39.82)\org(671.11,204.93)\fscx32.14\fscy46.16\frz5.383\fry-0.151\frx4.288\fnTahoma\c&H000000&\1a&H28&\blur8}Withdrawal Form
-Dialogue: 2,0:00:17.29,0:00:17.33,LightSigns,,0,0,0,,{\pos(877.39,42.82)\org(671.11,204.93)\fscx32.14\fscy46.16\frz5.383\fry-0.151\frx4.288\fnTahoma\c&H000000&\1a&H28&\blur7.82\clip(m 765 51 l 1047 81 1044 -18 750 -15)}Withdrawal Form
-Dialogue: 2,0:00:17.33,0:00:17.37,LightSigns,,0,0,0,,{\pos(877.39,49.82)\org(671.11,204.93)\fscx32.14\fscy46.16\frz5.383\fry-0.151\frx4.288\fnTahoma\c&H000000&\1a&H28&\blur7.65\clip(m 766 50 l 1002 77 974 -14 712 -18)}Withdrawal Form
-Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(887.39,57.82)\org(671.11,204.93)\fscx32.14\fscy46.16\frz5.383\fry-0.151\frx4.288\fnTahoma\c&H000000&\1a&H28&\blur6.41}Withdrawal Form
-Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(886.39,75.82)\org(671.11,204.93)\fscx32.14\fscy46.16\frz5.383\fry-0.151\frx4.288\fnTahoma\c&H000000&\1a&H28&\blur6.24}Withdrawal Form
-Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(886.39,94.82)\org(671.11,204.93)\fscx32.14\fscy46.16\frz5.383\fry-0.151\frx4.288\fnTahoma\c&H000000&\1a&H28&\blur6.06}Withdrawal Form
-Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(881.39,113.82)\org(671.11,204.93)\fscx32.14\fscy46.16\frz5.383\fry-0.151\frx4.288\fnTahoma\c&H000000&\1a&H28&\blur5.88}Withdrawal Form
-Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(877.39,136.82)\org(671.11,204.93)\fscx32.14\fscy46.16\frz5.383\fry-0.151\frx4.288\fnTahoma\c&H000000&\1a&H28&\blur5.71}Withdrawal Form
-Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(877.39,157.82)\org(671.11,204.93)\fscx32.14\fscy46.16\frz5.383\fry-0.151\frx4.288\fnTahoma\c&H000000&\1a&H28&\blur5.53}Withdrawal Form
-Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(877.39,172.82)\org(671.11,204.93)\fscx32.14\fscy46.16\frz5.383\fry-0.151\frx4.288\fnTahoma\c&H000000&\1a&H28&\blur5.35}Withdrawal Form
-Dialogue: 2,0:00:17.91,0:00:17.96,LightSigns,,0,0,0,,{\pos(877.39,192.82)\org(671.11,204.93)\fscx32.14\fscy46.16\frz5.383\fry-0.151\frx4.288\fnTahoma\c&H000000&\1a&H28&\blur5.18}Withdrawal Form
-Dialogue: 2,0:00:17.96,0:00:18.00,LightSigns,,0,0,0,,{=20752}{\pos(877.39,192.82)\org(671.11,204.93)\fscx32.14\fscy46.16\frz5.383\fry-0.151\frx4.288\fnTahoma\c&H000000&\1a&H28&\blur5}Withdrawal Form
+Comment: 0,0:00:15.58,0:00:15.58,LightSigns,,0,0,0,,{=20759}---- Second instance
+Dialogue: 0,0:00:15.58,0:00:17.25,LightSigns,,0,0,0,,{\pos(911.3,44.3)\c&HFEFEFE&\blur5\p1}m 44 0 l 14 42 149 42 150 3
+Dialogue: 0,0:00:15.58,0:00:17.25,LightSigns,,0,0,0,,{\pos(892,143)\c&HFDFDFC&\blur5\p1}m 73 9 l 0 62 149 64 162 0
+Dialogue: 0,0:00:15.58,0:00:17.25,LightSigns,,0,0,0,,{\pos(912,112)\c&HFDFDFC&\blur5\p1}m 22 28 l 44 27 73 0 220 7 209 62 91 76 45 80 0 67
+Dialogue: 0,0:00:15.58,0:00:17.25,LightSigns,,0,0,0,,{\pos(766,45)\c&HF2E6DB&\blur5\p1}m 302 0 l 228 93 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:15.58,0:00:17.25,LightSigns,,0,0,0,,{\pos(733,124)\c&HF1E3D9&\blur5\p1}m 0 11 l 214 0 176 45 6 53
+Dialogue: 0,0:00:17.25,0:00:17.29,LightSigns,,0,0,0,,{\pos(911.3,44.3)\c&HFDFFFC&\blur5\clip(m 693.47 41.87 l 846.83 58.17 1023.32 78.61 1042.92 -3.2 698.28 -10.74)\p1}m 44 0 l 14 42 149 42 150 3
+Dialogue: 0,0:00:17.25,0:00:17.29,LightSigns,,0,0,0,,{\pos(875.3,-28.7)\c&HF2E7DC&\blur5\p1}m 123.37 68.98 l 174.59 -0.35 138.53 2.17 137.53 9.17 4.53 21.18 2.53 66.18 112.53 59.17 112.53 67.18
+Dialogue: 0,0:00:17.25,0:00:17.29,LightSigns,,0,0,0,,{\pos(766.3,43.3)\c&HEDE2D8&\blur5\clip(m 693.47 41.87 l 846.83 58.17 1023.32 78.61 1042.92 -3.2 698.28 -10.74)\p1}m 302 0 l 241 77 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:17.29,0:00:17.33,LightSigns,,0,0,0,,{\pos(911.53,45.4)\c&HFDFFFC&\blur5\clip(m 693.47 41.87 l 846.83 58.17 1023.32 78.61 1042.92 -3.2 698.28 -10.74)\p1}m 44 0 l 14 42 149 42 150 3
+Dialogue: 0,0:00:17.29,0:00:17.33,LightSigns,,0,0,0,,{\pos(875.53,-27.6)\c&HF2E7DC&\blur5\p1}m 123.37 68.98 l 174.59 -0.35 138.53 2.17 137.53 9.17 4.53 21.18 2.53 66.18 112.53 59.17 112.53 67.18
+Dialogue: 0,0:00:17.29,0:00:17.33,LightSigns,,0,0,0,,{\pos(766.53,44.4)\c&HEDE2D8&\blur5\clip(m 693.47 41.87 l 846.83 58.17 1023.32 78.61 1042.92 -3.2 698.28 -10.74)\p1}m 302 0 l 241 77 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:17.33,0:00:17.37,LightSigns,,0,0,0,,{\pos(926,48)\c&HFDFDFB&\blur5\clip(m 693.47 41.87 l 846.83 58.17 1023.32 78.61 1042.92 -3.2 698.28 -10.74)\p1}m 44 0 l 14 42 149 42 150 3
+Dialogue: 0,0:00:17.33,0:00:17.37,LightSigns,,0,0,0,,{\pos(875.84,-25.16)\c&HF2E7DC&\blur5\p1}m 123.37 68.98 l 174.59 -0.35 138.53 2.17 137.53 9.17 4.53 21.18 2.53 66.18 112.53 59.17 112.53 67.18
+Dialogue: 0,0:00:17.33,0:00:17.37,LightSigns,,0,0,0,,{\pos(766.84,46.84)\c&HEDE2D8&\blur5\clip(m 693.47 41.87 l 846.83 58.17 1023.32 78.61 1042.92 -3.2 698.28 -10.74)\p1}m 302 0 l 241 77 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:17.37,0:00:17.41,LightSigns,,0,0,0,,{\pos(712.16,653.62)\c&HF9F9F9&\blur3\p1}m -1 13 l 104 1 107 33 1 43
+Dialogue: 0,0:00:17.37,0:00:17.41,LightSigns,,0,0,0,,{\pos(816.16,642.62)\c&HF9F9F9&\blur3\iclip(m 769.39 635.21 l 888.49 656.93 894.42 628.09 798.02 625.72)\p1}m 5 11 l 109 1 111 28 4 40
+Dialogue: 0,0:00:17.41,0:00:17.46,LightSigns,,0,0,0,,{\pos(712.4,658.64)\c&HF9F9F9&\blur3\p1}m -1 13 l 104 1 107 33 1 43
+Dialogue: 0,0:00:17.41,0:00:17.46,LightSigns,,0,0,0,,{\pos(816.4,647.64)\c&HF9F9F9&\blur3\iclip(m 769.39 635.21 l 888.49 656.93 894.42 628.09 798.02 625.72)\p1}m 5 11 l 109 1 111 28 4 40
+Dialogue: 0,0:00:17.46,0:00:17.50,LightSigns,,0,0,0,,{\pos(712.7,664.82)\c&HF9F9F9&\blur3\p1}m -1 13 l 104 1 107 33 1 43
+Dialogue: 0,0:00:17.46,0:00:17.50,LightSigns,,0,0,0,,{\pos(816.7,653.82)\c&HF9F9F9&\blur2\iclip(m 769.39 635.21 l 888.49 656.93 894.42 628.09 798.02 625.72)\p1}m 5 11 l 109 1 111 28 4 40
+Dialogue: 0,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(702.78,491.71)\blur2\iclip(m 671.77 485.97 b 669.03 505.63 669.03 509.08 686.2 514.31 l 802.72 544.01 766.16 476.15 676.03 460.71)\p1}m 0 7 l 99 0 103 39 0 46
+Dialogue: 0,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(712.78,673.71)\c&HFBFBFB&\blur3\p1}m -1 13 l 104 1 107 33 1 43
+Dialogue: 0,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(816.78,662.71)\c&HFBFBFB&\blur3\p1}m 5 11 l 109 1 111 28 4 40
+Dialogue: 0,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(767.78,70.71)\c&HF1E6DB&\blur5\iclip(m 786.53 -5.3 l 705.23 340.46 930.78 365.04 986.51 -11.14)\p1}m 302 0 l 241 77 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(734.78,151.71)\c&HEDE2D8&\blur5\iclip(m 786.53 -5.3 l 705.23 340.46 930.78 365.04 986.51 -11.14)\p1}m 0 23 l 212 0 178 44 4 53
+Dialogue: 0,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(702.82,502.55)\c&HFBFBFB&\blur2\iclip(m 671.77 485.97 b 669.03 505.63 669.03 509.08 686.2 514.31 l 802.72 544.01 766.16 476.15 676.03 460.71)\p1}m 0 7 l 99 0 103 39 0 46
+Dialogue: 0,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(712.82,684.56)\c&HFBFBFB&\blur3\p1}m -1 13 l 104 1 107 33 1 43
+Dialogue: 0,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(816.82,673.56)\c&HFBFBFB&\blur2\p1}m 5 11 l 109 1 111 28 4 40
+Dialogue: 0,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(767.82,81.55)\c&HF1E6DB&\blur5\iclip(m 786.53 -5.3 l 705.23 340.46 930.78 365.04 986.51 -11.14)\p1}m 302 0 l 241 77 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(734.82,162.55)\c&HEDE2D8&\blur5\iclip(m 786.53 -5.3 l 705.23 340.46 930.78 365.04 986.51 -11.14)\p1}m 0 23 l 212 0 178 44 4 53
+Dialogue: 0,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(702.85,515.46)\c&HFBFBFB&\blur2\iclip(m 671.77 485.97 b 669.03 505.63 669.03 509.08 686.2 514.31 l 802.72 544.01 766.16 476.15 676.03 460.71)\p1}m 0 7 l 99 0 103 39 0 46
+Dialogue: 0,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(712.85,697.46)\c&HFBFBFB&\blur3\p1}m -1 13 l 104 1 107 33 1 43
+Dialogue: 0,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(816.85,686.46)\c&HFBFBFB&\blur2\p1}m 5 11 l 109 1 111 28 4 40
+Dialogue: 0,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(940.85,21.46)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 38 43 42 56 16
+Dialogue: 0,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(767.85,94.46)\c&HF1E6DB&\blur5\iclip(m 786.53 -5.3 l 705.23 340.46 930.78 365.04 986.51 -11.14)\p1}m 302 0 l 241 77 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(734.85,175.46)\c&HF0E2D8&\blur5\iclip(m 786.53 -5.3 l 705.23 340.46 930.78 365.04 986.51 -11.14)\p1}m 0 23 l 212 0 178 44 4 53
+Dialogue: 0,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(702.58,530.48)\c&HFBFBFB&\blur2\p1}m 0 7 l 99 0 103 39 0 46
+Dialogue: 0,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(893.58,512.48)\c&HFEFEFE&\blur2\p1}m 2 21 l 220 0 217 37 0 61
+Dialogue: 0,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(712.58,712.48)\c&HFCFCFC&\blur3\p1}m -1 13 l 104 1 107 33 1 43
+Dialogue: 0,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(816.58,701.48)\c&HFCFCFC&\blur2\p1}m 5 11 l 109 1 111 28 4 40
+Dialogue: 0,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(940.58,36.48)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 38 43 42 56 16
+Dialogue: 0,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(912.58,110.48)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 42 108 37 108 3
+Dialogue: 0,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(905.58,180.48)\c&HFDFFFC&\blur5\p1}m 22 11 l 203 0 205 29 95 34 59 37 0 50
+Dialogue: 0,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(876.58,37.48)\c&HF2E7DC&\blur5\p1}m 123.37 68.98 l 174.59 -0.35 138.53 2.17 137.53 9.17 4.53 21.18 2.53 66.18 112.53 59.17 112.53 67.18
+Dialogue: 0,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(767.58,109.48)\c&HF1E5DB&\blur5\p1}m 302 0 l 241 77 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(734.58,190.48)\c&HEEE1D7&\blur5\p1}m 0 23 l 212 0 178 44 4 53
+Dialogue: 0,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(703.64,547.37)\c&HFEFEFE&\blur2\p1}m 0 7 l 99 0 103 39 0 46
+Dialogue: 0,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(894.64,529.37)\c&HFCFCFC&\blur2\p1}m 2 21 l 220 0 217 37 0 61
+Dialogue: 0,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(713.64,729.37)\c&HFCFCFC&\blur3\p1}m -1 13 l 104 1 107 33 1 43
+Dialogue: 0,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(817.64,718.37)\c&HFEFEFE&\blur2\p1}m 5 11 l 109 1 111 28 4 40
+Dialogue: 0,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(941.64,53.37)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 38 43 42 56 16
+Dialogue: 0,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(913.64,127.37)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 42 108 37 108 3
+Dialogue: 0,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(906.64,197.37)\c&HFDFFFC&\blur5\p1}m 22 11 l 203 0 205 29 95 34 59 37 0 50
+Dialogue: 0,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(877.64,54.37)\c&HF2E7DC&\blur5\p1}m 123.37 68.98 l 174.59 -0.35 138.53 2.17 137.53 9.17 4.53 21.18 2.53 66.18 112.53 59.17 112.53 67.18
+Dialogue: 0,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(768.64,126.37)\c&HF1E5DB&\blur5\p1}m 302 0 l 241 77 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(735.64,207.37)\c&HEEE1D7&\blur5\p1}m 0 23 l 212 0 178 44 4 53
+Dialogue: 0,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(703.69,565.3)\c&HFEFEFE&\blur2\p1}m 0 7 l 99 0 103 39 0 46
+Dialogue: 0,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(894.69,547.3)\c&HFCFCFC&\blur2\p1}m 2 21 l 220 0 217 37 0 61
+Dialogue: 0,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(713.69,747.3)\c&HFCFCFC&\blur3\p1}m -1 13 l 104 1 107 33 1 43
+Dialogue: 0,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(817.69,736.3)\c&HFEFEFE&\blur2\p1}m 5 11 l 109 1 111 28 4 40
+Dialogue: 0,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(941.69,71.3)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 38 43 42 56 16
+Dialogue: 0,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(913.69,145.3)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 42 108 37 108 3
+Dialogue: 0,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(906.69,215.3)\c&HFDFFFC&\blur5\p1}m 22 11 l 203 0 205 29 95 34 59 37 0 50
+Dialogue: 0,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(877.69,72.3)\c&HF2E7DC&\blur5\p1}m 123.37 68.98 l 174.59 -0.35 138.53 2.17 137.53 9.17 4.53 21.18 2.53 66.18 112.53 59.17 112.53 67.18
+Dialogue: 0,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(768.69,144.3)\c&HEFE3D9&\blur5\p1}m 302 0 l 241 77 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(735.69,225.3)\c&HEEE1D7&\blur5\p1}m 0 23 l 212 0 178 44 4 53
+Dialogue: 0,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(703.73,584.48)\blur2\p1}m 0 7 l 99 0 103 39 0 46
+Dialogue: 0,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(894.73,566.48)\c&HFCFCFC&\blur2\p1}m 2 21 l 220 0 217 37 0 61
+Dialogue: 0,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(713.73,766.48)\c&HFCFCFC&\blur3\p1}m -1 13 l 104 1 107 33 1 43
+Dialogue: 0,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(817.73,755.48)\c&HFEFEFE&\blur2\p1}m 5 11 l 109 1 111 28 4 40
+Dialogue: 0,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(941.73,90.48)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 38 43 42 56 16
+Dialogue: 0,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(913.73,164.48)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 42 108 37 108 3
+Dialogue: 0,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(906.73,234.48)\c&HFDFFFC&\blur5\p1}m 22 11 l 203 0 205 29 95 34 59 37 0 50
+Dialogue: 0,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(877.73,91.48)\c&HF2E7DC&\blur5\p1}m 123.37 68.98 l 174.59 -0.35 138.53 2.17 137.53 9.17 4.53 21.18 2.53 66.18 112.53 59.17 112.53 67.18
+Dialogue: 0,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(768.73,163.48)\c&HF0E4DA&\blur5\p1}m 302 0 l 241 77 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(735.73,244.48)\c&HECE1D7&\blur5\p1}m 0 23 l 212 0 178 44 4 53
+Dialogue: 0,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(703.82,604.28)\blur2\p1}m 0 7 l 99 0 103 39 0 46
+Dialogue: 0,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(894.82,586.28)\c&HFCFCFC&\blur2\p1}m 2 21 l 220 0 217 37 0 61
+Dialogue: 0,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(713.82,786.28)\c&HFCFCFC&\blur3\p1}m -1 13 l 104 1 107 33 1 43
+Dialogue: 0,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(817.82,775.28)\c&HFEFEFE&\blur2\p1}m 5 11 l 109 1 111 28 4 40
+Dialogue: 0,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(941.82,110.28)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 38 43 42 56 16
+Dialogue: 0,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(913.82,184.28)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 42 108 37 108 3
+Dialogue: 0,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(906.82,254.28)\c&HFDFFFC&\blur5\p1}m 22 11 l 203 0 205 29 95 34 59 37 0 50
+Dialogue: 0,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(877.82,111.28)\c&HF2E7DC&\blur5\p1}m 123.37 68.98 l 174.59 -0.35 138.53 2.17 137.53 9.17 4.53 21.18 2.53 66.18 112.53 59.17 112.53 67.18
+Dialogue: 0,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(768.82,183.28)\c&HF0E4DA&\blur5\p1}m 302 0 l 241 77 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(735.82,264.28)\c&HEDE0D5&\blur5\p1}m 0 23 l 212 0 178 44 4 53
+Dialogue: 0,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(703.9,624.37)\blur2\p1}m 0 7 l 99 0 103 39 0 46
+Dialogue: 0,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(894.9,606.37)\c&HFCFCFC&\blur2\p1}m 2 21 l 220 0 217 37 0 61
+Dialogue: 0,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(713.9,806.37)\c&HFCFCFC&\blur3\p1}m -1 13 l 104 1 107 33 1 43
+Dialogue: 0,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(817.9,795.37)\c&HFEFEFE&\blur2\p1}m 5 11 l 109 1 111 28 4 40
+Dialogue: 0,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(941.9,130.37)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 38 43 42 56 16
+Dialogue: 0,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(913.9,204.37)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 42 108 37 108 3
+Dialogue: 0,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(906.9,274.37)\c&HFDFFFC&\blur5\p1}m 22 11 l 203 0 205 29 95 34 59 37 0 50
+Dialogue: 0,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(877.9,131.37)\c&HF2E7DC&\blur5\p1}m 123.37 68.98 l 174.59 -0.35 138.53 2.17 137.53 9.17 4.53 21.18 2.53 66.18 112.53 59.17 112.53 67.18
+Dialogue: 0,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(768.9,203.37)\c&HEDE2D8&\blur5\p1}m 302 0 l 241 77 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(735.9,284.37)\c&HECDED4&\blur5\p1}m 0 23 l 212 0 178 44 4 53
+Dialogue: 0,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(703.96,644.45)\blur2\p1}m 0 7 l 99 0 103 39 0 46
+Dialogue: 0,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(894.96,626.45)\c&HFCFCFC&\blur2\p1}m 2 21 l 220 0 217 37 0 61
+Dialogue: 0,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(713.96,826.45)\c&HFCFCFC&\blur3\p1}m -1 13 l 104 1 107 33 1 43
+Dialogue: 0,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(817.96,815.45)\c&HFEFEFE&\blur2\p1}m 5 11 l 109 1 111 28 4 40
+Dialogue: 0,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(941.96,150.45)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 38 43 42 56 16
+Dialogue: 0,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(913.96,224.45)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 42 108 37 108 3
+Dialogue: 0,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(906.96,294.45)\c&HFDFFFC&\blur5\p1}m 22 11 l 203 0 205 29 95 34 59 37 0 50
+Dialogue: 0,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(877.96,151.45)\c&HF2E7DC&\blur5\p1}m 123.37 68.98 l 174.59 -0.35 138.53 2.17 137.53 9.17 4.53 21.18 2.53 66.18 112.53 59.17 112.53 67.18
+Dialogue: 0,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(768.96,223.45)\c&HEDE2D8&\blur5\p1}m 302 0 l 241 77 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(735.96,304.45)\c&HECDED4&\blur5\p1}m 0 23 l 212 0 178 44 4 53
+Dialogue: 0,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(704,663)\blur2\p1}m 0 7 l 99 0 103 39 0 46
+Dialogue: 0,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(895,645)\c&HFEFEFE&\blur2\p1}m 2 21 l 220 0 217 37 0 61
+Dialogue: 0,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(714,845)\c&HFDFDFD&\blur3\p1}m -1 13 l 104 1 107 33 1 43
+Dialogue: 0,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(818,834)\c&HFEFEFE&\blur2\p1}m 5 11 l 109 1 111 28 4 40
+Dialogue: 0,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(942,169)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 38 43 42 56 16
+Dialogue: 0,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(914,243)\c&HFDFFFC&\blur5\p1}m 30 0 l 0 42 108 37 108 3
+Dialogue: 0,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(907,313)\c&HFDFFFC&\blur5\p1}m 22 11 l 203 0 205 29 95 34 59 37 0 50
+Dialogue: 0,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(878,170)\c&HF2E7DC&\blur5\p1}m 123.37 68.98 l 174.59 -0.35 138.53 2.17 137.53 9.17 4.53 21.18 2.53 66.18 112.53 59.17 112.53 67.18
+Dialogue: 0,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(769,242)\c&HEDE2D8&\blur5\p1}m 302 0 l 241 77 0 89 0 72 3 64 16 54
+Dialogue: 0,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(736,323)\c&HECDED4&\blur5\p1}m 0 23 l 212 0 178 44 4 53
+Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\an4\pos(799.77,527.82)\org(744.01,537.94)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur6.61}3rd year, Takanashi Hoshino
+Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\an4\pos(800.83,544.71)\org(745.07,554.83)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur6.38}3rd year, Takanashi Hoshino
+Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\an4\pos(800.88,562.64)\org(745.12,572.76)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur6.15}3rd year, Takanashi Hoshino
+Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\an4\pos(800.92,581.82)\org(745.16,591.94)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur5.92}3rd year, Takanashi Hoshino
+Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\an4\pos(801.01,601.62)\org(745.25,611.74)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur5.69}3rd year, Takanashi Hoshino
+Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\an4\pos(801.09,621.71)\org(745.33,631.83)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur5.46}3rd year, Takanashi Hoshino
+Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\an4\pos(801.15,641.79)\org(745.39,651.91)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur5.23}3rd year, Takanashi Hoshino
+Dialogue: 2,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\an4\pos(801.19,660.34)\org(745.43,670.46)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur5}3rd year, Takanashi Hoshino
+Dialogue: 2,0:00:15.58,0:00:17.25,LightSigns,,0,0,0,,{=20758}{\an4\pos(672,86)\org(744.01,537.94)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur8}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.37,0:00:17.41,LightSigns,,0,0,0,,{=20758}{\an4\pos(672,102)\org(744.01,537.94)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur7.25\clip(m 652 135 l 643 184 612 188 596 122)}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.41,0:00:17.46,LightSigns,,0,0,0,,{=20758}{\an4\pos(673,110)\org(744.01,537.94)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur7.08\clip(m 652 135 l 643 184 612 188 596 122)}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.46,0:00:17.50,LightSigns,,0,0,0,,{=20758}{\an4\pos(673,116)\org(744.01,537.94)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur6.9\clip(m 652 135 l 643 184 612 188 596 122)}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{=20758}{\an4\pos(674,126)\org(744.01,537.94)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur6.73\clip(m 756 131 l 737 211 583 233 580 97)}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{=20758}{\an4\pos(676,138)\org(744.01,537.94)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur6.56\clip(m 756 131 l 737 211 583 233 580 97)}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{=20758}{\an4\pos(676,152)\org(744.01,537.94)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur6.38\clip(m 756 131 l 737 211 583 233 580 97)}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\an4\pos(675,164)\org(744.01,537.94)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur6.21}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\an4\pos(672,181)\org(745.07,554.83)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur6.04}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\an4\pos(671,199)\org(745.12,572.76)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur5.87}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\an4\pos(671,218)\org(745.16,591.94)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur5.69}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\an4\pos(671,238)\org(745.25,611.74)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur5.52}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\an4\pos(668,259)\org(745.33,631.83)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur5.35}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\an4\pos(671,278)\org(745.39,651.91)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur5.17}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\an4\pos(670,296)\org(745.43,670.46)\fscx30.9\fscy35.51\frz5.76\fry-0.139\frx3.855\fnMiology\c&H989898&\blur5}I want to withdraw from school for personal reasons.
+Dialogue: 2,0:00:17.37,0:00:17.41,LightSigns,,0,0,0,,{\pos(819.42,647.19)\org(772.62,650.34)\fscx25.02\fscy21.89\frz5.9\fry-0.133\frx3.721\fnTahoma\c&H989898&\blur5\iclip(m 783 638 l 864 651 850 609 778 612)}Principal
+Dialogue: 2,0:00:17.41,0:00:17.46,LightSigns,,0,0,0,,{\pos(819.66,652.21)\org(772.86,655.36)\fscx25.02\fscy21.89\frz5.9\fry-0.133\frx3.721\fnTahoma\c&H989898&\blur5\iclip(m 787 638 l 856 651 858 634 796 628)}Principal
+Dialogue: 2,0:00:17.46,0:00:17.50,LightSigns,,0,0,0,,{\pos(819.96,658.39)\org(773.16,661.54)\fscx25.02\fscy21.89\frz5.9\fry-0.133\frx3.721\fnTahoma\c&H989898&\blur5\iclip(m 815 642 l 870 654 861 639 838 631)}Principal
+Dialogue: 2,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(820.04,667.28)\org(773.24,670.43)\fscx25.02\fscy21.89\frz5.9\fry-0.133\frx3.721\fnTahoma\c&H989898&\blur7.25}Principal
+Dialogue: 2,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(820.08,678.13)\org(773.28,681.28)\fscx25.02\fscy21.89\frz5.9\fry-0.133\frx3.721\fnTahoma\c&H989898&\blur7.03}Principal
+Dialogue: 2,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(820.11,691.03)\org(773.31,694.18)\fscx25.02\fscy21.89\frz5.9\fry-0.133\frx3.721\fnTahoma\c&H989898&\blur6.8}Principal
+Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(819.84,706.05)\org(773.04,709.2)\fscx25.02\fscy21.89\frz5.9\fry-0.133\frx3.721\fnTahoma\c&H989898&\blur6.58}Principal
+Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(820.9,722.94)\org(774.1,726.09)\fscx25.02\fscy21.89\frz5.9\fry-0.133\frx3.721\fnTahoma\c&H989898&\blur6.35}Principal
+Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(820.95,740.87)\org(774.15,744.02)\fscx25.02\fscy21.89\frz5.9\fry-0.133\frx3.721\fnTahoma\c&H989898&\blur6.13}Principal
+Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(820.99,760.05)\org(774.19,763.2)\fscx25.02\fscy21.89\frz5.9\fry-0.133\frx3.721\fnTahoma\c&H989898&\blur5.9}Principal
+Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(821.08,779.85)\org(774.28,783)\fscx25.02\fscy21.89\frz5.9\fry-0.133\frx3.721\fnTahoma\c&H989898&\blur5.67}Principal
+Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(821.16,799.94)\org(774.36,803.09)\fscx25.02\fscy21.89\frz5.9\fry-0.133\frx3.721\fnTahoma\c&H989898&\blur5.45}Principal
+Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(821.22,820.02)\org(774.42,823.17)\fscx25.02\fscy21.89\frz5.9\fry-0.133\frx3.721\fnTahoma\c&H989898&\blur5.22}Principal
+Dialogue: 2,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(821.26,838.57)\org(774.46,841.72)\fscx25.02\fscy21.89\frz5.9\fry-0.133\frx3.721\fnTahoma\c&H989898&\blur5}Principal
+Dialogue: 2,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(703.44,487.1)\org(741.83,484.61)\fscx22.21\fscy19.26\frz5.75\fry-0.137\frx3.869\fnTahoma\c&H989898&\blur6.93\clip(m 672 494 b 669 508 673 508 681 512 l 655 509 627 509 675 469)}Student Name
+Dialogue: 2,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(703.48,497.94)\org(741.87,495.45)\fscx22.21\fscy19.26\frz5.75\fry-0.137\frx3.869\fnTahoma\c&H989898&\blur6.74\clip(m 672 494 b 669 508 673 508 681 512 l 741 527 720 547 619 509)}Student Name
+Dialogue: 2,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(703.51,510.85)\org(741.9,508.36)\fscx22.21\fscy19.26\frz5.75\fry-0.137\frx3.869\fnTahoma\c&H989898&\blur6.54\clip(m 672 494 b 669 502 675 510 681 513 l 741 527 720 547 632 524)}Student Name
+Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(703.24,525.87)\org(741.63,523.38)\fscx22.21\fscy19.26\frz5.75\fry-0.137\frx3.869\fnTahoma\c&H989898&\blur6.35}Student Name
+Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(704.3,542.76)\org(742.69,540.27)\fscx22.21\fscy19.26\frz5.75\fry-0.137\frx3.869\fnTahoma\c&H989898&\blur6.16}Student Name
+Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(704.35,560.69)\org(742.74,558.2)\fscx22.21\fscy19.26\frz5.75\fry-0.137\frx3.869\fnTahoma\c&H989898&\blur5.96}Student Name
+Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(704.39,579.87)\org(742.78,577.38)\fscx22.21\fscy19.26\frz5.75\fry-0.137\frx3.869\fnTahoma\c&H989898&\blur5.77}Student Name
+Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(704.48,599.67)\org(742.87,597.18)\fscx22.21\fscy19.26\frz5.75\fry-0.137\frx3.869\fnTahoma\c&H989898&\blur5.58}Student Name
+Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(704.56,619.76)\org(742.95,617.27)\fscx22.21\fscy19.26\frz5.75\fry-0.137\frx3.869\fnTahoma\c&H989898&\blur5.39}Student Name
+Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(704.62,639.84)\org(743.01,637.35)\fscx22.21\fscy19.26\frz5.75\fry-0.137\frx3.869\fnTahoma\c&H989898&\blur5.19}Student Name
+Dialogue: 2,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(704.66,658.39)\org(743.05,655.9)\fscx22.21\fscy19.26\frz5.75\fry-0.137\frx3.869\fnTahoma\c&H989898&\blur5}Student Name
+Dialogue: 2,0:00:17.37,0:00:17.41,LightSigns,,0,0,0,,{\pos(708.77,647.3)\org(771.34,643.08)\fscx24.98\fscy21.82\frz5.89\fry-0.132\frx3.727\fnTahoma\c&H989898&\blur7.25}Teacher
+Dialogue: 2,0:00:17.41,0:00:17.46,LightSigns,,0,0,0,,{\pos(709.01,652.32)\org(771.58,648.1)\fscx24.98\fscy21.82\frz5.89\fry-0.132\frx3.727\fnTahoma\c&H989898&\blur7.08}Teacher
+Dialogue: 2,0:00:17.46,0:00:17.50,LightSigns,,0,0,0,,{\pos(709.31,658.5)\org(771.88,654.28)\fscx24.98\fscy21.82\frz5.89\fry-0.132\frx3.727\fnTahoma\c&H989898&\blur6.9}Teacher
+Dialogue: 2,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(709.39,667.39)\org(771.96,663.17)\fscx24.98\fscy21.82\frz5.89\fry-0.132\frx3.727\fnTahoma\c&H989898&\blur6.73}Teacher
+Dialogue: 2,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(709.43,678.23)\org(772,674.02)\fscx24.98\fscy21.82\frz5.89\fry-0.132\frx3.727\fnTahoma\c&H989898&\blur6.56}Teacher
+Dialogue: 2,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(709.46,691.14)\org(772.03,686.92)\fscx24.98\fscy21.82\frz5.89\fry-0.132\frx3.727\fnTahoma\c&H989898&\blur6.38}Teacher
+Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(709.19,706.16)\org(771.76,701.94)\fscx24.98\fscy21.82\frz5.89\fry-0.132\frx3.727\fnTahoma\c&H989898&\blur6.21}Teacher
+Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(710.25,723.05)\org(772.82,718.83)\fscx24.98\fscy21.82\frz5.89\fry-0.132\frx3.727\fnTahoma\c&H989898&\blur6.04}Teacher
+Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(710.3,740.98)\org(772.87,736.76)\fscx24.98\fscy21.82\frz5.89\fry-0.132\frx3.727\fnTahoma\c&H989898&\blur5.87}Teacher
+Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(710.34,760.16)\org(772.91,755.94)\fscx24.98\fscy21.82\frz5.89\fry-0.132\frx3.727\fnTahoma\c&H989898&\blur5.69}Teacher
+Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(710.43,779.96)\org(773,775.74)\fscx24.98\fscy21.82\frz5.89\fry-0.132\frx3.727\fnTahoma\c&H989898&\blur5.52}Teacher
+Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(710.51,800.05)\org(773.08,795.83)\fscx24.98\fscy21.82\frz5.89\fry-0.132\frx3.727\fnTahoma\c&H989898&\blur5.35}Teacher
+Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(710.57,820.13)\org(773.14,815.91)\fscx24.98\fscy21.82\frz5.89\fry-0.132\frx3.727\fnTahoma\c&H989898&\blur5.17}Teacher
+Dialogue: 2,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(710.61,838.68)\org(773.18,834.46)\fscx24.98\fscy21.82\frz5.89\fry-0.132\frx3.727\fnTahoma\c&H989898&\blur5}Teacher
+Dialogue: 2,0:00:15.58,0:00:17.29,LightSigns,,0,0,0,,{\pos(788.31,65.92)\org(678.56,72.46)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&H989898&\blur8\clip(m 891 32 l 861 71 976 59 972 27)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:15.58,0:00:17.25,LightSigns,,0,0,0,,{\pos(788.31,65.92)\org(678.56,72.46)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur7.89\iclip(m 891 32 l 861 71 976 59 972 27)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.25,0:00:17.29,LightSigns,,0,0,0,,{\pos(788.31,65.92)\org(678.56,72.46)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur7.79\iclip(m 891 35 l 871 62 598 32 593 89 977 63 972 31)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.29,0:00:17.33,LightSigns,,0,0,0,,{\pos(788.54,67.02)\org(678.79,73.56)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&H989898&\blur7.68\clip(m 891 33 l 861 72 977 60 972 28)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.29,0:00:17.33,LightSigns,,0,0,0,,{\pos(788.54,67.02)\org(678.79,73.56)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur7.57\iclip(m 891 35 l 871 62 598 32 593 89 977 63 972 31)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.33,0:00:17.37,LightSigns,,0,0,0,,{\pos(788.85,69.46)\org(679.1,76)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&H989898&\blur7.46\clip(m 891 35 l 861 74 977 63 972 31)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.33,0:00:17.37,LightSigns,,0,0,0,,{\pos(788.85,69.46)\org(679.1,76)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur7.36\iclip(m 891 35 l 871 62 598 32 593 89 977 63 972 31)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.37,0:00:17.41,LightSigns,,0,0,0,,{\pos(789.17,73.24)\org(679.42,79.78)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur7.25\clip(m 654 109 l 563 113 559 -6 670 -3)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.41,0:00:17.46,LightSigns,,0,0,0,,{\pos(789.41,78.26)\org(679.66,84.8)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur7.14\clip(m 654 109 l 563 113 559 -6 670 -3)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.46,0:00:17.50,LightSigns,,0,0,0,,{\pos(789.71,84.44)\org(679.96,90.98)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur7.04\clip(m 654 109 l 563 113 559 -6 670 -3)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(789.79,93.33)\org(680.04,99.87)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur6.93\clip(m 773 54 l 612 70 577 118 756 130)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(789.83,104.17)\org(680.08,110.72)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur6.82\clip(m 768 84 l 607 98 572 146 748 157)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(789.86,117.08)\org(680.11,123.62)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur6.71\clip(m 766 90 l 607 98 572 146 748 157)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(789.59,132.1)\org(679.84,138.64)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&H989898&\blur6.61\clip(m 892 98 l 862 137 978 126 973 93)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(789.59,132.1)\org(679.84,138.64)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur6.5\iclip(m 892 98 l 862 137 978 126 973 93)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(790.65,148.99)\org(680.9,155.53)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&H989898&\blur6.39\clip(m 893 115 l 863 154 979 142 974 110)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(790.65,148.99)\org(680.9,155.53)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur6.29\iclip(m 893 115 l 863 154 979 142 974 110)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(790.7,166.92)\org(680.95,173.46)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&H989898&\blur6.18\clip(m 893 133 l 863 172 979 160 974 128)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(790.7,166.92)\org(680.95,173.46)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur6.07\iclip(m 893 133 l 863 172 979 160 974 128)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(790.74,186.1)\org(680.99,192.64)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&H989898&\blur5.96\clip(m 893 152 l 863 191 979 180 974 147)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(790.74,186.1)\org(680.99,192.64)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur5.86\iclip(m 893 152 l 863 191 979 180 974 147)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(790.83,205.9)\org(681.08,212.44)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&H989898&\blur5.75\clip(m 893 172 l 863 211 979 199 974 167)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(790.83,205.9)\org(681.08,212.44)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur5.64\iclip(m 893 172 l 863 211 979 199 974 167)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(790.91,225.99)\org(681.16,232.53)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&H989898&\blur5.54\clip(m 893 192 l 863 231 979 219 974 187)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(790.91,225.99)\org(681.16,232.53)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur5.43\iclip(m 893 192 l 863 231 979 219 974 187)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(790.97,246.07)\org(681.22,252.61)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&H989898&\blur5.32\clip(m 893 212 l 863 251 979 240 974 207)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(790.97,246.07)\org(681.22,252.61)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur5.21\iclip(m 893 212 l 863 251 979 240 974 207)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(791.01,264.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&H989898&\blur5.11\clip(m 894 230 l 863 269 979 258 974 226)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(791.01,264.62)\org(681.26,271.16)\fscx16.55\fscy14.19\frz5.44\fry-0.149\frx4.221\fnTahoma\c&HAD988E&\blur5\iclip(m 894 230 l 863 269 979 258 974 226)}This document officially requests a withdrawal from Abydos High School.
+Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(875.97,60.3)\org(669.69,72.41)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&H989898&\blur6.61\clip(m 949 25 l 924 61 965 60 975 27)}Withdrawal Form
+Dialogue: 2,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(875.97,60.3)\org(669.69,72.41)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&HAD988E&\blur6.5\iclip(m 949 25 l 924 61 965 60 975 27)}Withdrawal Form
+Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(877.03,77.19)\org(670.75,89.3)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&H989898&\blur6.39\clip(m 950 42 l 925 78 966 77 976 44)}Withdrawal Form
+Dialogue: 2,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(877.03,77.19)\org(670.75,89.3)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&HAD988E&\blur6.29\iclip(m 950 42 l 925 78 966 77 976 44)}Withdrawal Form
+Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(877.08,95.12)\org(670.8,107.23)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&H989898&\blur6.18\clip(m 950 60 l 925 96 966 95 976 62)}Withdrawal Form
+Dialogue: 2,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(877.08,95.12)\org(670.8,107.23)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&HAD988E&\blur6.07\iclip(m 950 60 l 925 96 966 95 976 62)}Withdrawal Form
+Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(877.12,114.3)\org(670.84,126.41)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&H989898&\blur5.96\clip(m 950 79 l 925 115 966 114 976 81)}Withdrawal Form
+Dialogue: 2,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(877.12,114.3)\org(670.84,126.41)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&HAD988E&\blur5.86\iclip(m 950 79 l 925 115 966 114 976 81)}Withdrawal Form
+Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(877.21,134.1)\org(670.93,146.21)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&H989898&\blur5.75\clip(m 951 99 l 925 135 966 134 976 101)}Withdrawal Form
+Dialogue: 2,0:00:17.79,0:00:17.83,LightSigns,,0,0,0,,{\pos(877.21,134.1)\org(670.93,146.21)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&HAD988E&\blur5.64\iclip(m 951 99 l 925 135 966 134 976 101)}Withdrawal Form
+Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(877.29,154.19)\org(671.01,166.3)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&H989898&\blur5.54\clip(m 951 119 l 925 155 966 154 976 121)}Withdrawal Form
+Dialogue: 2,0:00:17.83,0:00:17.87,LightSigns,,0,0,0,,{\pos(877.29,154.19)\org(671.01,166.3)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&HAD988E&\blur5.43\iclip(m 951 119 l 925 155 966 154 976 121)}Withdrawal Form
+Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(877.35,174.27)\org(671.07,186.38)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&H989898&\blur5.32\clip(m 951 139 l 925 175 966 174 976 141)}Withdrawal Form
+Dialogue: 2,0:00:17.87,0:00:17.91,LightSigns,,0,0,0,,{\pos(877.35,174.27)\org(671.07,186.38)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&HAD988E&\blur5.21\iclip(m 951 139 l 925 175 966 174 976 141)}Withdrawal Form
+Dialogue: 2,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{\pos(877.39,192.82)\org(671.11,204.93)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&H989898&\blur5.11\clip(m 951 157 l 925 193 966 193 976 160)}Withdrawal Form
+Dialogue: 2,0:00:17.91,0:00:18.00,LightSigns,,0,0,0,,{=20760}{\pos(877.39,192.82)\org(671.11,204.93)\fscx32.14\fscy46.16\frz5.38\fry-0.151\frx4.288\fnTahoma\c&HAD988E&\blur5\iclip(m 951 157 l 925 193 966 193 976 160)}Withdrawal Form
+Comment: 0,0:00:09.82,0:00:09.82,LightSigns,,0,0,0,,{=20670}-- Withdrawal form
 Comment: 0,0:00:24.05,0:00:24.05,LightSigns,,0,0,0,,{=20662}---- Third instance
 Dialogue: 0,0:00:24.05,0:00:26.38,LightSigns,,0,0,0,,{=20562=20658}{\an7\move(885.01,1098.86,885,987,16,2310)\p1}m -35 28 l 50 -3 37 -28 -50 2
 Dialogue: 0,0:00:24.05,0:00:26.38,LightSigns,,0,0,0,,{=20562=20658}{\an7\move(796,881,795.99,769.14,16,2310)\c&HFDFDFD&\blur1\p1}m -61 4 l 42 -35 61 -3 -50 35
@@ -891,8 +1032,8 @@ Dialogue: 1,0:00:26.38,0:00:28.51,LightSigns,,0,0,0,,{=20576}{\pos(1171,574)\org
 Dialogue: 1,0:00:26.38,0:00:28.51,LightSigns,,0,0,0,,{=20576}{\pos(1171,574)\org(960,540)\fscx195.7\fscy252.81\frz20.288\fry0.925\frx0.886\fax0.019\fnMiology\c&HD1B6A9&\blur7.41\clip(1715,180,1728,887)}3rd year, Takanashi Hoshino
 Dialogue: 1,0:00:26.38,0:00:28.51,LightSigns,,0,0,0,,{=20576}{\pos(1171,574)\org(960,540)\fscx195.7\fscy252.81\frz20.288\fry0.925\frx0.886\fax0.019\fnMiology\c&HD2B6A9&\blur7.71\clip(1728,180,1741,887)}3rd year, Takanashi Hoshino
 Dialogue: 1,0:00:26.38,0:00:28.51,LightSigns,,0,0,0,,{=20576=20581}{\pos(1171,574)\org(960,540)\fscx195.7\fscy252.81\frz20.288\fry0.925\frx0.886\fax0.019\fnMiology\c&HD3B6A9&\blur8\clip(1741,180,1748,887)}3rd year, Takanashi Hoshino
-Comment: 0,0:00:09.82,0:00:09.82,LightSigns,,0,0,0,,{=20671}-- Withdrawal form
-Comment: 0,0:03:50.21,0:03:50.21,LightSigns,,0,0,0,,{=20668}-- Whiteboard goal
+Comment: 0,0:00:09.82,0:00:09.82,LightSigns,,0,0,0,,{=20762}-- Withdrawal form
+Comment: 0,0:03:50.21,0:03:50.21,LightSigns,,0,0,0,,{=20756}-- Whiteboard goal
 Comment: 0,0:03:50.21,0:03:50.21,LightSigns,,0,0,0,,{=20642}---- Zoom out
 Dialogue: 0,0:03:50.21,0:03:54.96,LightSigns,,0,0,0,,{=20641}{\an7\move(746.26,234.88,610,235,20,4733)\c&HFCD27B&\blur2\clip\p1}m 34 -7 l 34 -7 34 -7 35 -7 35 -7 35 -7 35 -7 35 -7 35 -7 35 -7 35 -7 35 -6 35 -6 36 -6 36 -6 36 -6 36 -6 36 -6 36 -6 36 -6 36 -5 36 -5 36 -5 37 5 37 5 37 5 37 5 37 5 37 5 37 5 37 6 37 6 37 6 37 6 37 6 37 6 37 6 37 6 37 6 37 7 37 7 37 7 36 7 36 7 36 7 36 7 36 7 36 7 36 7 36 7 36 7 -34 7 -34 7 -34 7 -34 7 -35 7 -35 7 -35 7 -35 7 -35 7 -35 7 -35 7 -35 7 -35 6 -36 6 -36 6 -36 6 -36 6 -36 6 -36 6 -36 6 -36 6 -36 5 -36 5 -36 5 -36 5 -36 5 -36 5 -36 3 -36 3 -36 3 -36 3 -36 2 -36 2 -36 2 -36 2 -36 2 -36 2 -36 2 -35 2 -35 2 -35 1 -35 1 -35 1 -35 1 -35 1 -35 1 -35 1 -35 1 -34 1 -34 1 -34 1 34 -7 34 -7 34 -7
 Dialogue: 0,0:03:50.21,0:03:54.96,LightSigns,,0,0,0,,{=20640}{\an7\move(747.26,248.88,611,249,20,4733)\c&HFCD17A&\blur2\clip\p1}m 35 -11 l 35 -11 35 -11 35 -11 35 -11 35 -11 35 -11 35 -11 36 -11 36 -11 36 -11 36 -10 36 -10 36 -10 36 -10 36 -10 36 -10 36 -10 36 -10 36 -10 36 -9 36 -9 36 -9 39 8 39 8 39 8 39 8 39 8 39 8 39 8 39 9 39 9 39 9 39 9 39 9 39 9 39 9 38 9 38 9 38 10 38 10 38 10 38 10 38 10 38 10 38 10 38 10 37 10 37 10 31 11 31 11 30 11 30 11 -36 11 -36 11 -36 11 -36 11 -36 11 -36 11 -36 11 -37 11 -37 11 -37 11 -37 11 -37 11 -37 10 -37 10 -37 10 -37 10 -37 10 -37 10 -37 10 -38 10 -38 10 -38 9 -38 9 -38 9 -38 9 -38 9 -38 9 -37 -9 -37 -9 -37 -9 -37 -9 -37 -10 -37 -10 -37 -10 -37 -10 -37 -10 -37 -10 -37 -10 -37 -10 -36 -10 -36 -11 -36 -11 -36 -11 -36 -11 -36 -11 -36 -11 -36 -11 -36 -11 -35 -11 -35 -11 -35 -11 -35 -11 34 -11
@@ -1605,7 +1746,7 @@ Dialogue: 1,0:03:59.97,0:04:02.47,LightSigns,,0,0,0,,{=20616=20740}{\pos(1315.57
 Dialogue: 1,0:03:59.97,0:04:02.47,LightSigns,,0,0,0,,{=20616=20740}{\pos(1315.57,938.36)\org(1096,540)\fscx96.69\fscy149.88\frz25.07\fry3.576\frx-2.731\fax-0.428\fnMarker SD\c&HE8957B&\blur1.1\clip(1524,663,1533,884)}more debt!
 Dialogue: 1,0:03:59.97,0:04:02.47,LightSigns,,0,0,0,,{=20616=20740}{\pos(1315.57,938.36)\org(1096,540)\fscx96.69\fscy149.88\frz25.07\fry3.576\frx-2.731\fax-0.428\fnMarker SD\c&HE9957B&\blur1.1\clip(1533,663,1535,884)}more debt!
 Dialogue: 1,0:03:59.97,0:04:02.47,LightSigns,,0,0,0,,{=20616=20740=20742}{\pos(1315.57,938.36)\org(1096,540)\fscx96.69\fscy149.88\frz25.07\fry3.576\frx-2.731\fax-0.428\fnMarker SD\c&HE9967B&\blur1.1\clip(1535,663,1546,884)}more debt!
-Comment: 0,0:03:50.21,0:03:50.21,LightSigns,,0,0,0,,{=20669}-- Whiteboard goal
+Comment: 0,0:03:50.21,0:03:50.21,LightSigns,,0,0,0,,{=20757}-- Whiteboard goal
 Comment: 0,0:02:37.51,0:02:37.51,LightSigns,,0,0,0,,{=20719}---- Slave contract
 Dialogue: 0,0:02:37.51,0:02:40.01,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HF9F0D9&\blur1.5\clip(443,91,1528,413)\p1}m 561 -201 l 109 513 -39 421 -38 418 -47 413 -39 402 -26 411 -26 410 b -19 403 -14 396 -8 389 -6 385 -4 381 -1 377 3 372 8 368 10 362 11 357 9 351 8 346 7 341 0 338 -4 336 -16 331 -26 322 -37 316 -39 315 -43 314 -45 312 -46 311 -46 310 -48 310 -49 310 -49 311 -50 312 -53 314 -55 318 -58 321 l -263 202 -263 200 -263 186 -264 186 b -276 176 -290 168 -303 160 -306 158 -311 156 -314 153 -315 152 -315 151 -317 151 -319 151 -320 153 -321 154 -324 157 -326 161 -329 164 -335 172 -343 179 -349 187 -351 189 -355 192 -356 195 -358 199 -357 204 -357 208 l -354 211 -366 224 -511 134 16 -443
 Dialogue: 0,0:02:37.51,0:02:40.01,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HF9EFD9&\blur1.5\clip(443,413,1528,575)\p1}m 561 -201 l 109 513 -39 421 -38 418 -47 413 -39 402 -26 411 -26 410 b -19 403 -14 396 -8 389 -6 385 -4 381 -1 377 3 372 8 368 10 362 11 357 9 351 8 346 7 341 0 338 -4 336 -16 331 -26 322 -37 316 -39 315 -43 314 -45 312 -46 311 -46 310 -48 310 -49 310 -49 311 -50 312 -53 314 -55 318 -58 321 l -263 202 -263 200 -263 186 -264 186 b -276 176 -290 168 -303 160 -306 158 -311 156 -314 153 -315 152 -315 151 -317 151 -319 151 -320 153 -321 154 -324 157 -326 161 -329 164 -335 172 -343 179 -349 187 -351 189 -355 192 -356 195 -358 199 -357 204 -357 208 l -354 211 -366 224 -511 134 16 -443
@@ -1638,8 +1779,6 @@ Dialogue: 2,0:02:37.51,0:02:40.01,LightSigns,,0,0,0,,{=20720}{\an7\pos(960,540)\
 [Aegisub Extradata]
 Data: 11509,_aegi_folddata,e0;0;2
 Data: 11510,_aegi_folddata,e1;0;2
-Data: 18670,_aegi_folddata,e0;1;4
-Data: 18671,_aegi_folddata,e1;1;4
 Data: 19528,_aegi_folddata,e0;1;6
 Data: 19529,_aegi_folddata,e1;1;6
 Data: 20494,_aegi_folddata,e0;1;7
@@ -1656,8 +1795,6 @@ Data: 20530,_aegi_perspective_ambient_plane,e637.01;634.98#7C1290.47;637.67#7C11
 Data: 20533,_aegi_perspective_ambient_plane,e636.93;635.00#7C1290.43;637.65#7C1161.59;794.42#7C397.84;791.55
 Data: 20534,_aegi_folddata,e0;1;9
 Data: 20535,_aegi_folddata,e1;1;9
-Data: 20536,_aegi_folddata,e0;1;10
-Data: 20537,_aegi_folddata,e1;1;10
 Data: 20547,_aegi_perspective_ambient_plane,e326.81;238.45#7C1158.33;-68.72#7C1764.79;1032.22#7C840.24;1378.43
 Data: 20552,_aegi_perspective_ambient_plane,e326.79;238.42#7C1158.31;-68.74#7C1764.78;1032.30#7C840.29;1378.50
 Data: 20553,_aegi_perspective_ambient_plane,e326.81;236.20#7C1158.32;-68.73#7C1764.82;1032.28#7C840.27;1378.48
@@ -1712,8 +1849,6 @@ Data: 20658,a-mo,e{"originalText"#3A"{\\an7\\pos(796#2C881)\\p1\\c&HFDFDFD&\\blu
 Data: 20661,_aegi_perspective_ambient_plane,e328.46;232.76#7C1161.55;-73.48#7C1764.17;1032.80#7C839.02;1379.76
 Data: 20662,_aegi_folddata,e0;1;14
 Data: 20663,_aegi_folddata,e1;1;14
-Data: 20668,_aegi_folddata,e0;0;15
-Data: 20669,_aegi_folddata,e1;0;15
 Data: 20670,_aegi_folddata,e0;0;16
 Data: 20671,_aegi_folddata,e1;0;16
 Data: 20688,_aegi_perspective_ambient_plane,e1068.15;1053.60#7C447.80;673.20#7C976.47;96.73#7C1521.33;338.55
@@ -1741,11 +1876,12 @@ Data: 20741,_aegi_folddata,e0;1;18
 Data: 20742,_aegi_folddata,e1;1;18
 Data: 20743,_aegi_folddata,e0;1;19
 Data: 20744,_aegi_folddata,e1;1;19
-Data: 20745,_aegi_folddata,e0;0;17
-Data: 20746,_aegi_folddata,e1;0;17
-Data: 20749,_aegi_folddata,e0;0;10
-Data: 20750,_aegi_folddata,e1;0;10
-Data: 20751,_aegi_folddata,e0;1;20
-Data: 20752,_aegi_folddata,e1;1;20
-Data: 20664,_aegi_folddata,e0;0;4
-Data: 20665,_aegi_folddata,e1;0;4
+Data: 20756,_aegi_folddata,e0;0;22
+Data: 20757,_aegi_folddata,e1;0;22
+Data: 20758,_aegi_folddata,e0;0;23
+Data: 20759,_aegi_folddata,e0;1;24
+Data: 20760,_aegi_folddata,e1;1;24
+Data: 20761,_aegi_folddata,e0;1;16
+Data: 20762,_aegi_folddata,e1;1;16
+Data: 20763,_aegi_folddata,e0;1;25
+Data: 20764,_aegi_folddata,e1;1;25
