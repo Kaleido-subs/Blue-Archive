@@ -40,42 +40,44 @@ Dialogue: 10,0:00:21.54,0:00:23.00,Default,,0,0,0,,Oh, morning, Ayane{**-chan}!
 Dialogue: 10,0:00:23.00,0:00:24.05,Default,,0,0,0,,Why?!
 Dialogue: 10,0:00:24.72,0:00:26.03,Default,,0,0,0,,How could she?!
 Dialogue: 10,0:01:59.64,0:02:02.48,Default,,0,0,0,,To everyone at the Abydos Task Force:
-Dialogue: 10,0:02:03.13,0:02:09.23,Default,,0,0,0,,For starters, sorry for saying goodbye via letter.
-Dialogue: 10,0:02:09.23,0:02:13.24,Default,,0,0,0,,When you're my age,\nyou prefer the more old-fashioned ways.
-Dialogue: 10,0:02:13.74,0:02:18.24,Default,,0,0,0,,I've actually been receiving offers for a while.
-Dialogue: 10,0:02:18.66,0:02:22.00,Default,,0,0,0,,They want me to work as a mercenary for Kaiser PMC.
-Dialogue: 10,0:02:22.00,0:02:26.96,Default,,0,0,0,,In exchange, they'll pay over half\nof the debt Abydos owes them.
-Dialogue: 10,0:02:27.35,0:02:28.67,Default,,0,0,0,,That's the gist of it.
-Dialogue: 10,0:02:29.59,0:02:34.01,Default,,0,0,0,,I may not look like it,\nbut I've actually got a bit of a reputation.
-Dialogue: 10,0:02:34.69,0:02:39.47,Default,,0,0,0,,I know I got all preachy back at the Black Market,
-Dialogue: 10,0:02:40.01,0:02:43.50,Default,,0,0,0,,and I'm sorry for going back on my own words.
-Dialogue: 10,0:02:44.29,0:02:48.47,Default,,0,0,0,,But this should at least give\nthe Task Force some breathing room.
-Dialogue: 10,0:02:49.37,0:02:52.92,Default,,0,0,0,,I have to do this.
-Dialogue: 10,0:02:53.63,0:02:57.78,Default,,0,0,0,,As the final member of the student council,\nthis is my responsibility to bear.
-Dialogue: 10,0:02:58.78,0:03:00.47,Default,,0,0,0,,So this is goodbye.
+Dialogue: 10,0:02:03.13,0:02:05.23,Default,,0,0,0,,For starters, sorry for saying goodbye via letter.
+Dialogue: 10,0:02:05.23,0:02:09.23,Default,,0,0,0,,{\i1}For starters, sorry for saying goodbye via letter.
+Dialogue: 10,0:02:09.23,0:02:13.24,Default,,0,0,0,,{\i1}When you're my age,\nyou prefer the more old-fashioned ways.
+Dialogue: 10,0:02:13.74,0:02:18.24,Default,,0,0,0,,{\i1}I've actually been receiving offers for a while.
+Dialogue: 10,0:02:18.66,0:02:22.00,Default,,0,0,0,,{\i1}They want me to work as a mercenary for Kaiser PMC.
+Dialogue: 10,0:02:22.00,0:02:26.96,Default,,0,0,0,,{\i1}In exchange, they'll pay over half\nof the debt Abydos owes them.
+Dialogue: 10,0:02:27.35,0:02:28.67,Default,,0,0,0,,{\i1}That's the gist of it.
+Dialogue: 10,0:02:29.59,0:02:34.01,Default,,0,0,0,,{\i1}I may not look like it,\nbut I've actually got a bit of a reputation.
+Dialogue: 10,0:02:34.69,0:02:39.47,Default,,0,0,0,,{\i1}I know I got all preachy back at the Black Market,
+Dialogue: 10,0:02:40.01,0:02:43.50,Default,,0,0,0,,{\i1}and I'm sorry for going back on my own words.
+Dialogue: 10,0:02:44.29,0:02:48.47,Default,,0,0,0,,{\i1}But this should at least give\nthe Task Force some breathing room.
+Dialogue: 10,0:02:49.37,0:02:52.92,Default,,0,0,0,,{\i1}I have to do this.
+Dialogue: 10,0:02:53.63,0:02:57.78,Default,,0,0,0,,{\i1}As the final member of the student council,\nthis is my responsibility to bear.
+Dialogue: 10,0:02:58.78,0:03:00.47,Default,,0,0,0,,{\i1}So this is goodbye.
 Dialogue: 10,0:03:05.50,0:03:07.29,Default,,0,0,0,,To {*}our teacher{*Sensei}:
-Dialogue: 10,0:03:07.29,0:03:10.80,Default,,0,0,0,,To tell you the truth, I used to hate adults.
-Dialogue: 10,0:03:11.50,0:03:14.93,Default,,0,0,0,,The day Shiroko{**-chan} brought you to our clubroom,
-Dialogue: 10,0:03:14.93,0:03:18.93,Default,,0,0,0,,I immediately assumed you were\njust another no-good adult.
-Dialogue: 10,0:03:19.25,0:03:25.23,Default,,0,0,0,,But you broke down those walls immediately.\nYou're part of the team now.
-Dialogue: 10,0:03:26.11,0:03:29.19,Default,,0,0,0,,So I'm leaving them in your care, okay?
-Dialogue: 10,0:03:30.20,0:03:32.78,Default,,0,0,0,,You're their teacher. They trust you.
-Dialogue: 10,0:03:32.78,0:03:34.69,Default,,0,0,0,,I'm sure they'll be fine.
-Dialogue: 10,0:03:35.83,0:03:39.75,Default,,0,0,0,,I'm glad I got to meet an adult like you before I...
-Dialogue: 10,0:03:40.30,0:03:43.94,Default,,0,0,0,,Nah, that's more than enough sappy stuff for one day.
-Dialogue: 10,0:03:44.87,0:03:46.14,Default,,0,0,0,,Shiroko{**-chan}.
-Dialogue: 10,0:03:46.14,0:03:47.46,Default,,0,0,0,,Nonomi{**-chan}.
-Dialogue: 10,0:03:47.46,0:03:48.74,Default,,0,0,0,,Serika{**-chan}.
-Dialogue: 10,0:03:48.74,0:03:50.21,Default,,0,0,0,,Ayane{**-chan}.
-Dialogue: 10,0:03:50.55,0:03:51.45,Default,,0,0,0,,Do this for me.
-Dialogue: 10,0:03:52.13,0:03:54.46,Default,,0,0,0,,Protect our school.
-Dialogue: 10,0:03:55.35,0:03:57.80,Default,,0,0,0,,Sure, it may be covered in sand and dust,
-Dialogue: 10,0:03:57.80,0:04:01.97,Default,,0,0,0,,but it's all I have left.
-Dialogue: 10,0:04:02.82,0:04:03.94,Default,,0,0,0,,And one last thing.
-Dialogue: 10,0:04:03.94,0:04:09.56,Default,,0,0,0,,We may end up having to fight\neach other as enemies one day.
-Dialogue: 10,0:04:09.56,0:04:11.12,Default,,0,0,0,,The day that happens,
-Dialogue: 10,0:04:11.12,0:04:14.23,Default,,0,0,0,,I want you to destroy my halo.
-Dialogue: 10,0:04:14.75,0:04:15.78,Default,,0,0,0,,I'm counting on you.
+Dialogue: 10,0:03:07.29,0:03:07.79,Default,,0,0,0,,To tell you the truth, I used to hate adults.
+Dialogue: 10,0:03:07.79,0:03:10.80,Default,,0,0,0,,{\i1}To tell you the truth, I used to hate adults.
+Dialogue: 10,0:03:11.50,0:03:14.93,Default,,0,0,0,,{\i1}The day Shiroko{**-chan} brought you to our clubroom,
+Dialogue: 10,0:03:14.93,0:03:18.93,Default,,0,0,0,,{\i1}I immediately assumed you were\njust another no-good adult.
+Dialogue: 10,0:03:19.25,0:03:25.23,Default,,0,0,0,,{\i1}But you broke down those walls immediately.\nYou're part of the team now.
+Dialogue: 10,0:03:26.11,0:03:29.19,Default,,0,0,0,,{\i1}So I'm leaving them in your care, okay?
+Dialogue: 10,0:03:30.20,0:03:32.78,Default,,0,0,0,,{\i1}You're their teacher. They trust you.
+Dialogue: 10,0:03:32.78,0:03:34.69,Default,,0,0,0,,{\i1}I'm sure they'll be fine.
+Dialogue: 10,0:03:35.83,0:03:39.75,Default,,0,0,0,,{\i1}I'm glad I got to meet an adult like you before I...
+Dialogue: 10,0:03:40.30,0:03:43.94,Default,,0,0,0,,{\i1}Nah, that's more than enough sappy stuff for one day.
+Dialogue: 10,0:03:44.87,0:03:46.14,Default,,0,0,0,,{\i1}Shiroko{**-chan}.
+Dialogue: 10,0:03:46.14,0:03:47.46,Default,,0,0,0,,{\i1}Nonomi{**-chan}.
+Dialogue: 10,0:03:47.46,0:03:48.74,Default,,0,0,0,,{\i1}Serika{**-chan}.
+Dialogue: 10,0:03:48.74,0:03:50.21,Default,,0,0,0,,{\i1}Ayane{**-chan}.
+Dialogue: 10,0:03:50.55,0:03:51.45,Default,,0,0,0,,{\i1}Do this for me.
+Dialogue: 10,0:03:52.13,0:03:54.46,Default,,0,0,0,,{\i1}Protect our school.
+Dialogue: 10,0:03:55.35,0:03:57.80,Default,,0,0,0,,{\i1}Sure, it may be covered in sand and dust,
+Dialogue: 10,0:03:57.80,0:04:01.97,Default,,0,0,0,,{\i1}but it's all I have left.
+Dialogue: 10,0:04:02.82,0:04:03.94,Default,,0,0,0,,{\i1}And one last thing.
+Dialogue: 10,0:04:03.94,0:04:09.56,Default,,0,0,0,,{\i1}We may end up having to fight\neach other as enemies one day.
+Dialogue: 10,0:04:09.56,0:04:11.12,Default,,0,0,0,,{\i1}The day that happens,
+Dialogue: 10,0:04:11.12,0:04:14.23,Default,,0,0,0,,{\i1}I want you to destroy my halo.
+Dialogue: 10,0:04:14.75,0:04:15.78,Default,,0,0,0,,{\i1}I'm counting on you.
 Dialogue: 10,0:04:17.36,0:04:18.79,Default,,0,0,0,,What the hell?!
 Dialogue: 10,0:04:18.79,0:04:22.29,Default,,0,0,0,,She literally {\i1}just{\i0} told us people\nwill do anything when desperate!
 Dialogue: 10,0:04:22.29,0:04:24.89,Default,,0,0,0,,Does she think we'll just accept this?!
