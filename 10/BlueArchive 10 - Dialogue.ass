@@ -14,10 +14,6 @@ Video File: Blue Archive The Animation - S01E10 (Premux) [129CF965].mkv
 Keyframes File: BlueArchive_S01E10_scening.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 273
-Active Line: 289
-Video Position: 24129
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +37,7 @@ Dialogue: 10,0:00:20.79,0:00:21.54,Default,,0,0,0,,No way.
 Dialogue: 10,0:00:21.54,0:00:23.00,Default,,0,0,0,,Oh, morning, Ayane{**-chan}!
 Dialogue: 10,0:00:23.00,0:00:24.05,Default,,0,0,0,,Why?!
 Dialogue: 10,0:00:24.72,0:00:26.03,Default,,0,0,0,,How could she?!
-Dialogue: 10,0:01:59.64,0:02:02.48,Default,,0,0,0,,To everyone at the Abydos Task Force:
+Dialogue: 10,0:01:59.64,0:02:02.48,Default,,0,0,0,,To my friends at the Foreclosure Task Force:
 Dialogue: 10,0:02:03.13,0:02:05.23,Default,,0,0,0,,For starters, sorry for saying goodbye via letter.
 Dialogue: 10,0:02:05.23,0:02:09.23,Default,,0,0,0,,{\i1}For starters, sorry for saying goodbye via letter.
 Dialogue: 10,0:02:09.23,0:02:13.24,Default,,0,0,0,,{\i1}When you're my age,\nyou prefer the more old-fashioned ways.
@@ -93,8 +89,8 @@ Dialogue: 10,0:04:49.55,0:04:53.52,Default,,0,0,0,,The Abydos student council's\
 Dialogue: 10,0:04:53.52,0:04:55.19,Default,,0,0,0,,The time has come.
 Dialogue: 10,0:04:55.19,0:05:00.40,Default,,0,0,0,,We, the Kaiser Corporation,\nwill seize control of Abydos High School!
 Dialogue: 10,0:05:00.87,0:05:03.91,Default,,0,0,0,,Several hundred Kaiser PMC troops on approach!
-Dialogue: 10,0:05:03.91,0:05:06.54,Default,,0,0,0,,They're firing indiscriminately on the city!
-Dialogue: 10,0:05:06.54,0:05:08.74,Default,,0,0,0,,Of all times, why now?
+Dialogue: 10,0:05:03.91,0:05:06.54,Default,,0,0,0,,We have reports of shots fired in the city!
+Dialogue: 10,0:05:06.54,0:05:08.74,Default,,0,0,0,,Why now of all times?!
 Dialogue: 10,0:05:08.75,0:05:10.61,Default,,0,0,0,,We have to engage.
 Dialogue: 10,0:05:10.61,0:05:12.25,Default,,0,0,0,,But what about Hoshino{**-senpai}?
 Dialogue: 10,0:05:12.54,0:05:14.15,Default,,0,0,0,,Everyone, stay calm.
@@ -379,15 +375,15 @@ Dialogue: 9,0:20:32.13,0:20:33.00,Default,,0,0,0,,{\bord4\shad0\c&H000000&\alpha
 Dialogue: 10,0:20:32.13,0:20:35.11,Default,,0,0,0,,I say again, the chairman is ordering us to fall back!
 Dialogue: 10,0:20:35.11,0:20:37.05,Default,,0,0,0,,Don't think this is over.
 Comment: 10,0:20:35.13,0:20:36.97,Alt,,0,0,0,,{\an8}[Background line 1]
-Dialogue: 10,0:20:37.05,0:20:39.93,Default,,0,0,0,,Mark my words. There {\i1}will{\i0} be hell to pay.
+Dialogue: 10,0:20:37.05,0:20:39.93,Default,,0,0,0,,I'll make you rue the day you decided to defy me!
 Comment: 10,0:20:36.97,0:20:38.87,Alt,,0,0,0,,{\an8}[Background line 2]
 Dialogue: 9,0:20:41.07,0:20:43.61,Default,,0,0,0,,{\bord4\shad0\c&H000000&\3a&H50&\blur10}Hostile forces are retreating.
 Dialogue: 10,0:20:41.07,0:20:43.61,Default,,0,0,0,,Hostile forces are retreating.
 Dialogue: 9,0:20:45.43,0:20:47.75,Default,,0,0,0,,{\bord4\shad0\c&H000000&\3a&H50&\blur10}L-Looks like it's over.
 Dialogue: 10,0:20:45.43,0:20:47.75,Default,,0,0,0,,L-Looks like it's over.
-Dialogue: 9,0:20:47.75,0:20:48.73,Default,,0,0,0,,{\bord4\shad0\c&H000000&\3a&H50&\blur10\fad(0,300)}Man, that's the first time I've ever heard\nsomeone say "mark my words" in real life.
-Dialogue: 9,0:20:48.94,0:20:52.23,Default,,0,0,0,,{\bord4\shad0\c&H000000&\3a&H50&\blur10\fad(300,300)}Man, that's the first time I've ever heard\nsomeone say "mark my words" in real life.
-Dialogue: 10,0:20:47.75,0:20:52.56,Default,,0,0,0,ED/QC,Man, that's the first time I've ever heard\nsomeone say "mark my words" in real life. {### in retrospect, we probably want something more "cartoon villain" here.}
+Dialogue: 9,0:20:47.75,0:20:48.73,Default,,0,0,0,,{\bord4\shad0\c&H000000&\3a&H50&\blur10\fad(0,300)}Man, I've never heard anyone say\n"I'll make you rue the day" in real life!
+Dialogue: 9,0:20:48.94,0:20:52.23,Default,,0,0,0,,{\bord4\shad0\c&H000000&\3a&H50&\blur10\fad(300,300)}Man, I've never heard anyone say\n"I'll make you rue the day" in real life!
+Dialogue: 10,0:20:47.75,0:20:52.56,Default,,0,0,0,,Man, I've never heard anyone say\n"I'll make you rue the day" in real life!
 Dialogue: 10,0:20:53.22,0:20:55.11,Default,,0,0,0,,Great work, everyone.
 Dialogue: 10,0:20:55.72,0:20:59.83,Default,,0,0,0,,That was a very difficult situation.\nGood job{! media} getting through it.
 Dialogue: 10,0:20:59.83,0:21:00.57,Default,,0,0,0,,Yeah.

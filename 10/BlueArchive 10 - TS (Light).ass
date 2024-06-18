@@ -117,27 +117,27 @@ Dialogue: 0,0:01:58.47,0:02:02.48,LightSigns,,0,0,0,,{=19529}{\an7\pos(1087,453)
 Comment: 0,0:00:09.82,0:00:09.82,LightSigns,,0,0,0,,{=20743}-- Letter
 Comment: 0,0:00:09.82,0:00:09.82,LightSigns,,0,0,0,,{=20510}---- Front 1
 Dialogue: 0,0:00:09.82,0:00:11.82,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HF9F7FE&\blur2\p1}m -28 194 l 173 161 172 150 101 160 91 150 19 159 22 170 -43 180
-Dialogue: 1,0:00:09.82,0:00:11.82,LightSigns,,0,0,0,,{=20509=20511}{\pos(1020,711)\org(1021,715)\fscx36.99\fscy19.99\frz7.435\fry1.029\frx17.5\fax0.256\fnMiology\fs64\c&HBDB7BA&\blur1}To the Abydos Task Force
+Dialogue: 1,0:00:09.82,0:00:11.82,LightSigns,,0,0,0,,{=20509=20511}{\pos(1020,711)\org(1021,715)\fscx36.99\fscy19.99\frz7.435\fry1.029\frx17.5\fax0.256\fnMiology\fs64\c&HBDB7BA&\blur1}To the Foreclosure Task Force
 Comment: 0,0:00:15.58,0:00:15.58,LightSigns,,0,0,0,,{=20494}---- Front 2
 Dialogue: 0,0:00:15.58,0:00:17.25,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HFAF9FE&\blur1\p1}m -104 -265 l 91 -255 93 -191 -103 -195
 Dialogue: 0,0:00:15.58,0:00:17.25,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HFAF9FE&\blur1\p1}m -277 -184 l -142 -188 -20 -186 117 -183 272 -175 271 -117 -4 -122 -163 -121 -282 -121
-Dialogue: 1,0:00:15.58,0:00:17.25,LightSigns,,0,0,0,,{\pos(952,392)\fnMiology\fs64\c&HBDB7BA&\blur1.5}To the Abydos Task Force
+Dialogue: 1,0:00:15.58,0:00:17.25,LightSigns,,0,0,0,,{\pos(952,392)\fnMiology\fs64\c&HBDB7BA&\blur1.5}To the Foreclosure Task Force
 Dialogue: 0,0:00:17.25,0:00:17.37,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HFAF9FE&\blur1\p1}m 123 -349 l 319 -326 309 -267 122 -291
 Dialogue: 0,0:00:17.25,0:00:17.37,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HFAF9FE&\blur1\p1}m -50 -295 l 69 -286 261 -263 484 -224 473 -179 184 -206 42 -221 -66 -235
-Dialogue: 1,0:00:17.25,0:00:17.37,LightSigns,,0,0,0,,{\pos(1167,309)\frz353.6\fnMiology\fs64\c&HBDB7BA&\blur1.5}To the Abydos Task Force
+Dialogue: 1,0:00:17.25,0:00:17.37,LightSigns,,0,0,0,,{\pos(1167,309)\frz353.6\fnMiology\fs64\c&HBDB7BA&\blur1.5}To the Foreclosure Task Force
 Dialogue: 0,0:00:17.37,0:00:17.50,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HFAF9FE&\blur1\p1}m 245 -383 l 430 -348 422 -300 242 -330
 Dialogue: 0,0:00:17.37,0:00:17.50,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HFAF9FE&\blur1\p1}m 68 -352 l 595 -245 582 -193 53 -289
-Dialogue: 1,0:00:17.37,0:00:17.50,LightSigns,,0,0,0,,{\pos(1279,276)\frz350\fnMiology\fs64\c&HBDB7BA&\blur1.5}To the Abydos Task Force
+Dialogue: 1,0:00:17.37,0:00:17.50,LightSigns,,0,0,0,,{\pos(1279,276)\frz350\fnMiology\fs64\c&HBDB7BA&\blur1.5}To the Foreclosure Task Force
 Dialogue: 0,0:00:17.50,0:00:17.62,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HFAF9FE&\blur1\p1}m 376 -438 l 593 -380 550 -314 359 -372
 Dialogue: 0,0:00:17.50,0:00:17.62,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HFAF9FE&\blur1\p1}m 202 -403 l 720 -260 698 -200 176 -340
-Dialogue: 1,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(1409,238)\frz346\fnMiology\fs64\c&HBDB7BA&\blur2.04}To the Abydos Task Force
-Dialogue: 1,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(1409,238)\frz346\fnMiology\fs64\c&HBDB7BA&\blur2.58}To the Abydos Task Force
-Dialogue: 1,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(1409,238)\frz346\fnMiology\fs64\c&HBDB7BA&\blur3.13}To the Abydos Task Force
+Dialogue: 1,0:00:17.50,0:00:17.54,LightSigns,,0,0,0,,{\pos(1409,238)\frz346\fnMiology\fs64\c&HBDB7BA&\blur2.04}To the Foreclosure Task Force
+Dialogue: 1,0:00:17.54,0:00:17.58,LightSigns,,0,0,0,,{\pos(1409,238)\frz346\fnMiology\fs64\c&HBDB7BA&\blur2.58}To the Foreclosure Task Force
+Dialogue: 1,0:00:17.58,0:00:17.62,LightSigns,,0,0,0,,{\pos(1409,238)\frz346\fnMiology\fs64\c&HBDB7BA&\blur3.13}To the Foreclosure Task Force
 Dialogue: 0,0:00:17.62,0:00:17.75,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HFAF9FE&\blur1\p1}m 705 -426 l 888 -349 864 -286 681 -366
 Dialogue: 0,0:00:17.62,0:00:17.75,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HFAF9FE&\blur1\p1}m 525 -424 l 978 -224 973 -152 490 -366
-Dialogue: 1,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(1713,255)\frz336\fnMiology\fs64\c&HBDB7BA&\blur3.67}To the Abydos Task Force
-Dialogue: 1,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(1713,255)\frz336\fnMiology\fs64\c&HBDB7BA&\blur4.21}To the Abydos Task Force
-Dialogue: 1,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(1713,255)\frz336\fnMiology\fs64\c&HBDB7BA&\blur4.75}To the Abydos Task Force
+Dialogue: 1,0:00:17.62,0:00:17.66,LightSigns,,0,0,0,,{\pos(1713,255)\frz336\fnMiology\fs64\c&HBDB7BA&\blur3.67}To the Foreclosure Task Force
+Dialogue: 1,0:00:17.66,0:00:17.71,LightSigns,,0,0,0,,{\pos(1713,255)\frz336\fnMiology\fs64\c&HBDB7BA&\blur4.21}To the Foreclosure Task Force
+Dialogue: 1,0:00:17.71,0:00:17.75,LightSigns,,0,0,0,,{\pos(1713,255)\frz336\fnMiology\fs64\c&HBDB7BA&\blur4.75}To the Foreclosure Task Force
 Dialogue: 0,0:00:17.75,0:00:17.87,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HFAF9FE&\blur1\p1}m 920 -402 l 996 -358 962 -306 890 -347
 Dialogue: 0,0:00:17.75,0:00:17.87,LightSigns,,0,0,0,,{\an7\pos(960,540)\c&HFAF9FE&\blur1\p1}m 735 -417 l 993 -284 980 -206 701 -357
 Dialogue: 1,0:00:17.75,0:00:17.79,LightSigns,,0,0,0,,{\pos(1824,232)\frz330\fnMiology\fs64\c&HBDB7BA&\blur5.29}To the Abydos
