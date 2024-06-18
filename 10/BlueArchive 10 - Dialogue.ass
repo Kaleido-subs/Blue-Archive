@@ -14,6 +14,10 @@ Video File: Blue Archive The Animation - S01E10 (Premux) [129CF965].mkv
 Keyframes File: BlueArchive_S01E10_scening.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
+Video Zoom Percent: 0.250000
+Scroll Position: 273
+Active Line: 289
+Video Position: 24129
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -80,7 +84,7 @@ Dialogue: 10,0:04:18.79,0:04:22.29,Default,,0,0,0,,She literally {\i1}just{\i0} 
 Dialogue: 10,0:04:22.29,0:04:24.89,Default,,0,0,0,,Does she think we'll accept this?!
 Dialogue: 10,0:04:27.01,0:04:27.75,Default,,0,0,0,,Shiroko!
 Dialogue: 10,0:04:28.16,0:04:29.45,Default,,0,0,0,,I'm gonna go find her.
-Dialogue: 10,0:04:29.45,0:04:31.04,Default,,0,0,0,TM,I have to help her!{@TM fake kf at end? -p}
+Dialogue: 10,0:04:29.45,0:04:31.29,Default,,0,0,0,,I have to help her!
 Dialogue: 10,0:04:31.29,0:04:33.50,Default,,0,0,0,,Calm down, Shiroko{**-chan}!
 Dialogue: 10,0:04:33.79,0:04:36.61,Default,,0,0,0,,She's right! We need to assess the situation first.
 Dialogue: 10,0:04:36.61,0:04:38.77,Default,,0,0,0,,But Hoshino{**-senpai}'s—
@@ -292,7 +296,7 @@ Dialogue: 10,0:15:12.77,0:15:12.89,Default,shenan,0,0,0,,{\pos(960,1020)\1a&H38&
 Dialogue: 10,0:15:12.77,0:15:12.89,Default,shenan,0,0,0,,{\pos(960,1020)\1a&H1C&\2a&H1C&\3a&H1C&\4a&HAA&\clip(m 578 959 b 652 1082 796 989 836 960 873 977 956 940 1015 909 m 1010 910 b 955 939 873 976 836 958 796 988 652 1080 580 960)}Yeah! But watch this!
 Dialogue: 10,0:15:19.06,0:15:21.75,Default,,0,0,0,,Wow! That's a neat little trick!
 Dialogue: 10,0:15:21.75,0:15:22.78,Default,,0,0,0,,I know, right?
-Dialogue: 10,0:15:23.34,0:15:24.73,Default,,0,0,0,,I'll wrap things up here.
+Dialogue: 10,0:15:23.34,0:15:24.73,Default,,0,0,0,,I'll wrap things up here.{heh -p}
 Dialogue: 10,0:15:24.73,0:15:26.37,Default,,0,0,0,,Thank you!
 Dialogue: 10,0:15:27.14,0:15:28.91,Default,,0,0,0,,Break a leg!
 Dialogue: 10,0:15:32.47,0:15:35.00,Default,,0,0,0,,When will you learn that resistance is futile?
@@ -311,7 +315,7 @@ Dialogue: 10,0:16:24.34,0:16:25.21,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:16:25.65,0:16:26.81,Default,,0,0,0,,Be careful.
 Dialogue: 10,0:16:26.81,0:16:28.22,Default,,0,0,0,,I've got your back!
 Dialogue: 10,0:16:35.03,0:16:37.68,Default,,0,0,0,,I'll make you pay.
-Dialogue: 10,0:16:38.11,0:16:40.94,Default,,0,0,0,TM,Why, you little... {Not sure if snapping the leadout is best but fuck it we ball}{@TM slightly long to me but not too much -p}
+Dialogue: 10,0:16:38.11,0:16:40.51,Default,,0,0,0,,Why, you little...
 Dialogue: 10,0:16:41.81,0:16:43.77,Default,,0,0,0,,Looks like they've started.
 Dialogue: 10,0:16:44.47,0:16:45.82,Default,,0,0,0,,Well, then.
 Dialogue: 10,0:16:46.11,0:16:48.57,Default,,0,0,0,,Let's take care of our part, Haruka{**-chan}.
@@ -326,11 +330,11 @@ Dialogue: 10,0:17:15.73,0:17:17.93,Default,,0,0,0,,Scurrying around in the dirt!
 Dialogue: 10,0:17:17.93,0:17:21.03,Default,,0,0,0,,You should have just buried yourselves in the sand!
 Dialogue: 10,0:17:27.90,0:17:30.56,Default,,0,0,0,,You're a thorn in my side!
 Dialogue: 10,0:17:50.41,0:17:53.09,Default,,0,0,0,,You call this cutting edge?
-Dialogue: 10,0:17:54.63,0:17:56.10,Default,,0,0,0,TM,You little shit!{@TM consider snapping to the early kf -p}
+Dialogue: 10,0:17:54.63,0:17:56.10,Default,,0,0,0,,You little shit!
 Dialogue: 10,0:17:56.10,0:17:58.58,Default,,0,0,0,,Did you really think you had me cornered?
-Dialogue: 10,0:17:58.58,0:18:01.10,Default,,0,0,0,TM,Your puny little body means nothing!{@TM started late (fake kfs). adjusted -p}
+Dialogue: 10,0:17:58.58,0:18:01.10,Default,,0,0,0,,Your puny little body means nothing!
 Dialogue: 10,0:18:01.10,0:18:06.86,Default,,0,0,0,,Just try and stop the 12,860 horsepower of this craft!
-Dialogue: 10,0:18:10.11,0:18:11.28,Default,,0,0,0,TM,What the—{@TM consider fade -p}
+Dialogue: 10,0:18:10.11,0:18:11.57,Default,,0,0,0,,{\t(-500,0,\3c&HFFFFFF&\4c&HFFFFFF&)}What the—
 Dialogue: 10,0:18:15.00,0:18:16.87,Default,,0,0,0,,And boom goes the dynamite!
 Dialogue: 10,0:18:17.07,0:18:18.23,Default,,0,0,0,,We did it!
 Dialogue: 10,0:18:21.67,0:18:22.37,Default,,0,0,0,,Shiroko!
@@ -338,7 +342,7 @@ Dialogue: 10,0:18:29.57,0:18:34.89,Default,,0,0,0,,You've got guts, standing you
 Dialogue: 10,0:18:35.41,0:18:37.39,Default,,0,0,0,,Save it for someone who cares.
 Dialogue: 10,0:18:37.89,0:18:41.13,Default,,0,0,0,,Now if only you had the brains to match.
 Dialogue: 10,0:18:41.13,0:18:44.27,Default,,0,0,0,,At least as much as that Hoshino,\nor whatever her name was.
-Dialogue: 10,0:18:44.27,0:18:47.61,Default,,0,0,0,TM,Why don't you just give up already?{@TM very long leadout -p}
+Dialogue: 10,0:18:44.27,0:18:47.61,Default,,0,0,0,,Why don't you just give up already?
 Dialogue: 10,0:18:47.61,0:18:48.65,Default,,0,0,0,,He's not...
 Dialogue: 10,0:18:49.44,0:18:51.78,Default,,0,0,0,,Shiroko! Five meters behind you!
 Dialogue: 10,0:18:52.01,0:18:54.03,Default,,0,0,0,,Where do you think you're looking?
@@ -348,7 +352,7 @@ Dialogue: 10,0:19:11.89,0:19:14.22,Default,,0,0,0,,Shiroko!
 Dialogue: 10,0:19:20.76,0:19:22.60,Default,,0,0,0,,Hoshino{**-senpai}...
 Dialogue: 10,0:19:23.41,0:19:26.03,Default,,0,0,0,,It's not easy up front, huh?
 Dialogue: 10,0:19:31.95,0:19:33.86,Default,,0,0,0,,What? How?
-Dialogue: 10,0:19:33.86,0:19:36.57,Default,,0,0,0,TM,{\t(\3c&HFFFFFF&\4c&HFFFFFF&)}Th-This can't be happening!{@TM fade feels like it starts too early/too fast to me? -p}
+Dialogue: 10,0:19:33.86,0:19:36.57,Default,,0,0,0,,{\t(1.2,\3c&HFFFFFF&\4c&HFFFFFF&)}Th-This can't be happening!
 Dialogue: 10,0:19:45.06,0:19:46.43,Default,,0,0,0,,Shiroko{**-chan}!
 Dialogue: 10,0:19:46.43,0:19:47.64,Default,,0,0,0,,Are you okay?
 Dialogue: 10,0:19:47.64,0:19:49.25,Default,,0,0,0,,Yeah. No problem.
