@@ -93,7 +93,7 @@ Dialogue: 10,0:04:49.55,0:04:53.52,Default,,0,0,0,,The Abydos student council's\
 Dialogue: 10,0:04:53.52,0:04:55.19,Default,,0,0,0,,The time has come.
 Dialogue: 10,0:04:55.19,0:05:00.40,Default,,0,0,0,,We, the Kaiser Corporation,\nwill seize control of Abydos High School!
 Dialogue: 10,0:05:00.87,0:05:03.91,Default,,0,0,0,,Several hundred Kaiser PMC troops on approach!
-Dialogue: 10,0:05:03.91,0:05:06.54,Default,,0,0,0,,They're firing indiscriminately in the city!
+Dialogue: 10,0:05:03.91,0:05:06.54,Default,,0,0,0,ED,They're firing indiscriminately in the city! {"firing on" would work better than "firing in" here I think --ML}
 Dialogue: 10,0:05:06.54,0:05:08.74,Default,,0,0,0,,Of all times, why now?
 Dialogue: 10,0:05:08.75,0:05:10.61,Default,,0,0,0,,We have to engage.
 Dialogue: 10,0:05:10.61,0:05:12.25,Default,,0,0,0,,But what about Hoshino{**-senpai}?
@@ -338,7 +338,7 @@ Dialogue: 10,0:18:10.11,0:18:11.57,Default,,0,0,0,,{\t(-500,0,\3c&HFFFFFF&\4c&HF
 Dialogue: 10,0:18:15.00,0:18:16.87,Default,,0,0,0,,And boom goes the dynamite!
 Dialogue: 10,0:18:17.07,0:18:18.23,Default,,0,0,0,,We did it!
 Dialogue: 10,0:18:21.67,0:18:22.37,Default,,0,0,0,,Shiroko!
-Dialogue: 10,0:18:29.57,0:18:34.89,Default,,0,0,0,,You've got guts, standing your ground\nin the face of this firepower.
+Dialogue: 10,0:18:29.57,0:18:34.89,Default,,0,0,0,ED,You've got guts, standing your ground\nin the face of this firepower. {"This much firepower" would be much more natural}
 Dialogue: 10,0:18:35.41,0:18:37.39,Default,,0,0,0,,Save it for someone who cares.
 Dialogue: 10,0:18:37.89,0:18:41.13,Default,,0,0,0,,Now if only you had the brains to match.
 Dialogue: 10,0:18:41.13,0:18:44.27,Default,,0,0,0,,At least as much as that Hoshino,\nor whatever her name was.
