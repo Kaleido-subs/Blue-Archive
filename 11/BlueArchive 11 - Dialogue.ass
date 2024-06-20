@@ -67,19 +67,19 @@ Dialogue: 10,0:04:35.81,0:04:38.76,Default,,0,0,0,,We are much like you.
 Dialogue: 10,0:04:38.76,0:04:39.82,Default,,0,0,0,,Like me?
 Dialogue: 10,0:04:39.82,0:04:41.30,Default,,0,0,0,,Yes, like you.
 Dialogue: 10,0:04:41.57,0:04:43.87,Default,,0,0,0,,Our origins also lie outside of Kivotos.
-Dialogue: 10,0:04:43.87,0:04:48.31,Default,,0,0,0,,We simply hail from a different place than you.
+Dialogue: 10,0:04:43.87,0:04:48.31,Default,,0,0,0,,We simply hail from a different place than you. {### was realm intentional? It did strike me as odd that they seem more like supernatural beings than humans}
 Dialogue: 10,0:04:49.43,0:04:50.81,Default,,0,0,0,,Gematria.
 Dialogue: 10,0:04:51.57,0:04:53.56,Default,,0,0,0,,That is our name.
-Dialogue: 10,0:04:53.86,0:04:56.94,Default,,0,0,0,,To explain who we are in more familiar terms,
+Dialogue: 10,0:04:53.86,0:04:56.94,Default,,0,0,0,,To explain in more familiar terms,
 Dialogue: 10,0:04:56.94,0:05:01.07,Default,,0,0,0,,it's the organisation to which I belong.
-Dialogue: 10,0:05:01.07,0:05:07.26,Default,,0,0,0,,Our mission lies in advancing knowledge\nthrough observation, exploration, and experimentation. {### too far?}
+Dialogue: 10,0:05:01.07,0:05:07.26,Default,,0,0,0,,Our mission lies in expanding knowledge\nthrough observation, exploration, and experimentation. {### too far?}
 Dialogue: 10,0:05:07.26,0:05:13.08,Default,,0,0,0,,Through that lens, you may view us as enigmatic beings,\nnot too dissimilar from you, yourself.
 Dialogue: 10,0:05:14.07,0:05:17.25,Default,,0,0,0,,But onto the main topic. If I might venture,
 Dialogue: 10,0:05:17.25,0:05:20.16,Default,,0,0,0,,would you be interested\nin entering a partnership with us?
 Dialogue: 10,0:05:20.16,0:05:21.09,Default,,0,0,0,,I refuse.
 Dialogue: 10,0:05:21.77,0:05:23.09,Default,,0,0,0,,Interesting.
 Dialogue: 10,0:05:23.53,0:05:27.49,Default,,0,0,0,,You would promptly lay to rest\nthe opportunity to explore Kivotos' mysteries?
-Dialogue: 10,0:05:27.49,0:05:31.32,Default,,0,0,0,,What, then, {\i1}are{\i0} you pursuing here?
+Dialogue: 10,0:05:27.49,0:05:31.32,Default,,0,0,0,,If not its mysteries, what, then,\n{\i1}are{\i0} you pursuing here?
 Dialogue: 10,0:05:31.32,0:05:34.60,Default,,0,0,0,,All I care about is getting Hoshino back.
 Dialogue: 10,0:05:36.45,0:05:41.11,Default,,0,0,0,,And what, pray tell, grants you\nthe authority to make such a demand?
 Dialogue: 10,0:05:41.67,0:05:45.05,Default,,0,0,0,,{*}Miss Hoshino{*Hoshino-san} is no longer a student at Abydos.
@@ -94,19 +94,19 @@ Dialogue: 10,0:06:02.84,0:06:03.76,Default,,0,0,0,,Because...
 Dialogue: 10,0:06:04.33,0:06:07.17,Default,,0,0,0,,I haven't signed that form yet.
 Dialogue: 10,0:06:08.34,0:06:11.51,Default,,0,0,0,,Hoshino's still part of the Task Force.
 Dialogue: 10,0:06:11.51,0:06:13.77,Default,,0,0,0,,She's still the vice president of Abydos.
-Dialogue: 10,0:06:13.77,0:06:17.02,Default,,0,0,0,,And she's still one of my precious students.
+Dialogue: 10,0:06:13.77,0:06:17.02,Default,,0,0,0,,And she's still my precious student.
 Dialogue: 10,0:06:17.37,0:06:18.93,Default,,0,0,0,,Interesting.
 Dialogue: 10,0:06:18.93,0:06:24.63,Default,,0,0,0,,As their teacher, any significant actions\nnecessitate your signature.
 Dialogue: 10,0:06:25.71,0:06:28.28,Default,,0,0,0,,That's rather inconvenient.
-Dialogue: 10,0:06:28.28,0:06:32.48,Default,,0,0,0,,It was you who deceived my students. \NYou and your organisation.
+Dialogue: 10,0:06:28.28,0:06:32.48,Default,,0,0,0,,You deceived my students. \NYou and your organisation.
 Dialogue: 10,0:06:32.48,0:06:36.22,Default,,0,0,0,,You toyed with their feelings\nand took advantage of their suffering.
 Dialogue: 10,0:06:36.22,0:06:38.92,Default,,0,0,0,,Yes, that's exactly right.
 Dialogue: 10,0:06:38.92,0:06:44.34,Default,,0,0,0,,Were we to label our actions as "good" or "evil"\nthey would unambiguously be classified as "evil".
 Dialogue: 10,0:06:44.34,0:06:46.30,Default,,0,0,0,,Evil, but well within our rights.
-Dialogue: 10,0:06:46.30,0:06:49.31,Default,,0,0,0,,Don't be mistaken.
-Dialogue: 10,0:06:49.67,0:06:54.41,Default,,0,0,0,,The disaster that struck\nAbydos was not our doing.
+Dialogue: 10,0:06:46.30,0:06:49.31,Default,,0,0,0,,But let me make one thing clear.
+Dialogue: 10,0:06:49.67,0:06:54.41,Default,,0,0,0,,The disaster that struck Abydos was not our doing.
 Dialogue: 10,0:06:55.06,0:06:59.57,Default,,0,0,0,,The sandstorms that overtook Abydos were atypical,\nbut evidently far from impossible.
-Dialogue: 10,0:06:59.83,0:07:02.93,Default,,0,0,0,,Random natural disasters are by nature unpredictable.
+Dialogue: 10,0:06:59.83,0:07:02.93,Default,,0,0,0,,Random disasters are by nature unpredictable.
 Dialogue: 10,0:07:03.96,0:07:07.57,Default,,0,0,0,,Should the people suffer thirst as a result,
 Dialogue: 10,0:07:07.87,0:07:11.39,Default,,0,0,0,,opportunists will naturally emerge\nto meet that demand.
 Dialogue: 10,0:07:11.39,0:07:14.49,Default,,0,0,0,,This is simply business as usual.
@@ -114,59 +114,59 @@ Dialogue: 10,0:07:14.49,0:07:18.57,Default,,0,0,0,,Even if that water is sold at
 Dialogue: 10,0:07:20.12,0:07:22.12,Default,,0,0,0,,Hardly a rare occurrence.
 Dialogue: 10,0:07:22.12,0:07:24.84,Default,,0,0,0,,Such scenarios are commonplace in the world.
 Dialogue: 10,0:07:24.84,0:07:28.37,Default,,0,0,0,,Those who possess, exploit those who lack.
-Dialogue: 10,0:07:28.87,0:07:32.10,Default,,0,0,0,,Determining one's future is a luxury\nthe weak cannot afford.
-Dialogue: 10,0:07:32.83,0:07:34.18,Default,,0,0,0,,{*}Teacher{*Sensei}.
+Dialogue: 10,0:07:28.87,0:07:32.10,Default,,0,0,0,,Determining one's future is a luxury\nthe weak aren't afforded.
+Dialogue: 10,0:07:32.83,0:07:34.18,Default,,0,0,0,,{*}Schale's teacher{*Sensei}.
 Dialogue: 10,0:07:34.18,0:07:40.11,Default,,0,0,0,,Abandon {*}Miss Hoshino{*Hoshino-san}, and in return,\nI'll guarantee Abydos's well-being.
 Dialogue: 10,0:07:40.56,0:07:45.86,Default,,0,0,0,,This life can be theirs once more,\none where they attend school without fear. {###}
 Dialogue: 10,0:07:46.13,0:07:49.11,Default,,0,0,0,,It's what {*}Miss Hoshino{*Hoshino-san} would want, I'm sure.
-Dialogue: 10,0:07:49.11,0:07:53.24,Default,,0,0,0,,Even if that were possible,\nthat's not what those girls want.
+Dialogue: 10,0:07:49.11,0:07:53.24,Default,,0,0,0,,Even if that were possible,\nthat's not what they asked for.
 Dialogue: 10,0:07:54.75,0:07:59.35,Default,,0,0,0,,It appears that no matter my efforts,\nyou will continue to oppose us.
 Dialogue: 10,0:07:59.35,0:08:00.88,Default,,0,0,0,,You are powerless.
 Dialogue: 10,0:08:00.88,0:08:03.31,Default,,0,0,0,,You lack any means of fighting us.
 Dialogue: 10,0:08:03.31,0:08:04.71,Default,,0,0,0,,That may be true.
 Dialogue: 10,0:08:04.71,0:08:08.10,Default,,0,0,0,,But if someone needs my help,\nI refuse to idly stand by.
-Dialogue: 10,0:08:08.10,0:08:10.14,Default,,0,0,0,,I don't care what the odds of success are.
+Dialogue: 10,0:08:08.10,0:08:10.14,Default,,0,0,0,,I don't care what the odds of success are. {###}
 Dialogue: 10,0:08:10.53,0:08:15.89,Default,,0,0,0,,I need to prove to them that so long as they\ndon't give up, their voices will reach {\i1}someone{\i0}!
 Dialogue: 10,0:08:16.83,0:08:18.81,Default,,0,0,0,,That's simply absurd.
 Dialogue: 10,0:08:19.33,0:08:23.23,Default,,0,0,0,,Then why are those girls still alone?
-Dialogue: 10,0:08:23.54,0:08:26.74,Default,,0,0,0,,If nothing else, their voices reached me.
+Dialogue: 10,0:08:23.54,0:08:26.74,Default,,0,0,0,,If nothing else, their voices reached {\i1}me{\i0}.
 Dialogue: 10,0:08:27.37,0:08:28.99,Default,,0,0,0,,That's enough for me.
 Dialogue: 10,0:08:28.99,0:08:32.01,Default,,0,0,0,,Why don't you just walk away?
 Dialogue: 10,0:08:32.01,0:08:35.24,Default,,0,0,0,,This is their problem. It doesn't concern you.
 Dialogue: 10,0:08:35.24,0:08:36.75,Default,,0,0,0,,I won't.
 Dialogue: 10,0:08:38.71,0:08:40.81,Default,,0,0,0,,Why? Why?
-Dialogue: 10,0:08:40.81,0:08:42.63,Default,,0,0,0,,Why why why why?
-Dialogue: 10,0:08:43.02,0:08:46.21,Default,,0,0,0,,Why, why, why, why?
+Dialogue: 10,0:08:40.81,0:08:42.63,Default,,0,0,0,,Why, why, why, why?
+Dialogue: 10,0:08:43.02,0:08:46.21,Default,,0,0,0,,Why, why, why, why, {\i1}why{\i0}?
 Dialogue: 10,0:08:46.51,0:08:50.02,Default,,0,0,0,,I can't fathom it. Why do you refuse?
 Dialogue: 10,0:08:50.02,0:08:54.47,Default,,0,0,0,,Those girls were in pain this entire time,\nand not a single adult took responsibility.
-Dialogue: 10,0:08:54.89,0:08:57.69,Default,,0,0,0,,Are you saying {\i1}you{\i0} will take responsibility?
+Dialogue: 10,0:08:54.89,0:08:57.69,Default,,0,0,0,,And you're saying {\i1}you{\i0} will take responsibility?
 Dialogue: 10,0:08:57.69,0:09:00.48,Default,,0,0,0,,You're just a stranger.\nWhy put the onus on yourself?
 Dialogue: 10,0:09:01.59,0:09:02.86,Default,,0,0,0,,You're right.
-Dialogue: 10,0:09:02.86,0:09:04.48,Default,,0,0,0,,I am just a stranger.
-Dialogue: 10,0:09:05.57,0:09:07.36,Default,,0,0,0,,I just happened to be there,
-Dialogue: 10,0:09:07.63,0:09:09.65,Default,,0,0,0,,and I just happened to meet them.
-Dialogue: 10,0:09:10.03,0:09:11.69,Default,,0,0,0,,That's all I am to them.
+Dialogue: 10,0:09:02.86,0:09:04.48,Default,,0,0,0,,I {\i1}am{\i0} just a stranger.
+Dialogue: 10,0:09:05.57,0:09:07.36,Default,,0,0,0,,I just so happened to be there,
+Dialogue: 10,0:09:07.63,0:09:09.65,Default,,0,0,0,,and I just so happened to meet them.
+Dialogue: 10,0:09:10.03,0:09:11.69,Default,,0,0,0,,A stranger is all I am.
 Dialogue: 10,0:09:13.09,0:09:15.24,Default,,0,0,0,,But what does that matter?
-Dialogue: 10,0:09:15.50,0:09:16.71,Default,,0,0,0,,You want a reason?
+Dialogue: 10,0:09:15.50,0:09:16.71,Default,,0,0,0,,Do you {\i1}need{\i0} a reason?
 Dialogue: 10,0:09:16.71,0:09:18.97,Default,,0,0,0,,Children are crying for help!
 Dialogue: 10,0:09:18.97,0:09:20.25,Default,,0,0,0,,What more do you need?!
-Dialogue: 10,0:09:20.51,0:09:24.56,Default,,0,0,0,,And you believe that is how adults take responsibility?
+Dialogue: 10,0:09:20.51,0:09:24.56,Default,,0,0,0,,And you believe that's how adults take responsibility?
 Dialogue: 10,0:09:24.56,0:09:25.63,Default,,0,0,0,,It is!
 Dialogue: 10,0:09:26.16,0:09:28.51,Default,,0,0,0,,If they laugh, you join them.
 Dialogue: 10,0:09:28.51,0:09:30.73,Default,,0,0,0,,If they're sad, you console them.
 Dialogue: 10,0:09:30.73,0:09:32.84,Default,,0,0,0,,If they're lost, you lead the way.
 Dialogue: 10,0:09:33.09,0:09:35.01,Default,,0,0,0,,That's what it means to be an adult!
 Dialogue: 10,0:09:35.01,0:09:36.42,Default,,0,0,0,,That's where you are wrong.
-Dialogue: 10,0:09:36.42,0:09:37.97,Default,,0,0,0,,You couldn't be more mistaken.
-Dialogue: 10,0:09:38.40,0:09:41.75,Default,,0,0,0,,Adults shape society to their own will.
+Dialogue: 10,0:09:36.42,0:09:37.97,Default,,0,0,0,,You are sorely mistaken.
+Dialogue: 10,0:09:38.40,0:09:41.75,Default,,0,0,0,,Adults bend society to their own will.
 Dialogue: 10,0:09:41.75,0:09:45.03,Default,,0,0,0,,They decide what is right, what is proper.
 Dialogue: 10,0:09:45.03,0:09:47.73,Default,,0,0,0,,What is the norm, and what is not.
 Dialogue: 10,0:09:48.11,0:09:50.70,Default,,0,0,0,,Adults rule the aimless with authority,
 Dialogue: 10,0:09:50.70,0:09:52.92,Default,,0,0,0,,the ignorant with knowledge,
 Dialogue: 10,0:09:52.92,0:09:55.80,Default,,0,0,0,,and the weak with power.
 Dialogue: 10,0:09:55.80,0:09:57.74,Default,,0,0,0,,{\i1}That{\i0} is what it means to be an adult.
-Dialogue: 10,0:09:58.36,0:10:00.34,Default,,0,0,0,,I still fail to understand.
-Dialogue: 10,0:10:00.34,0:10:04.00,Default,,0,0,0,,You could have ruled over all of Kivotos.
+Dialogue: 10,0:09:58.36,0:10:00.34,Default,,0,0,0,,I can't comprehend you.
+Dialogue: 10,0:10:00.34,0:10:04.00,Default,,0,0,0,,You could have ruled over Kivotos.
 Dialogue: 10,0:10:04.00,0:10:08.71,Default,,0,0,0,,It could have been yours.\nThe authority, the privileges...
 Dialogue: 10,0:10:08.71,0:10:12.01,Default,,0,0,0,,the Mystics that fill this academy city.
 Dialogue: 10,0:10:12.40,0:10:17.77,Default,,0,0,0,,It may have been brief,\nbut you held it all in the palm of your hand.
@@ -185,12 +185,12 @@ Dialogue: 10,0:11:03.71,0:11:07.19,Default,,0,0,0,,She was intended to serve as\
 Dialogue: 10,0:11:07.80,0:11:09.69,Default,,0,0,0,,Your hypotheses?
 Dialogue: 10,0:11:09.69,0:11:14.53,Default,,0,0,0,,Now that negotiations have broken down,\nmy hands are tied.
 Dialogue: 10,0:11:15.23,0:11:17.70,Default,,0,0,0,,It's unfortunate, but our involvement ends here.
-Dialogue: 10,0:11:18.30,0:11:19.71,Default,,0,0,0,,So then Hoshino...
-Dialogue: 10,0:11:19.71,0:11:21.35,Default,,0,0,0,,Go ahead. She's yours.
-Dialogue: 10,0:11:21.35,0:11:23.58,Default,,0,0,0,,It no longer concerns us.
-Dialogue: 10,0:11:25.12,0:11:31.63,Default,,0,0,0,,Of course, assuming the director\nallows you to reach her in the first place.
+Dialogue: 10,0:11:18.30,0:11:19.71,Default,,0,0,0,,So then Hoshino is...
+Dialogue: 10,0:11:19.71,0:11:21.35,Default,,0,0,0,,Go ahead. She's free.
+Dialogue: 10,0:11:21.35,0:11:23.58,Default,,0,0,0,,What happens to her no longer concerns us.
+Dialogue: 10,0:11:25.12,0:11:31.63,Default,,0,0,0,,Of course, that's assuming the director\nallows you to reach her in the first place.
 Dialogue: 10,0:11:33.13,0:11:35.38,Default,,0,0,0,,This conversation has been valuable to me.
-Dialogue: 10,0:11:35.77,0:11:38.22,Default,,0,0,0,,May we meet again someday.
+Dialogue: 10,0:11:35.77,0:11:38.22,Default,,0,0,0,,May we meet again.
 Dialogue: 10,0:11:40.55,0:11:43.23,Default,,0,0,0,,I wish you the best of luck.
 Dialogue: 10,0:11:48.27,0:11:51.58,Default,,0,0,0,,A laboratory under the Kaiser PMC base...
 Dialogue: 10,0:11:51.58,0:11:53.28,Default,,0,0,0,,There's no mistake.
