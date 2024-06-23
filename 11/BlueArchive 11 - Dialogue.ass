@@ -178,7 +178,7 @@ Dialogue: 10,0:10:31.99,0:10:35.16,Default,,0,0,0,,Even if I told you, you would
 Dialogue: 10,0:10:39.08,0:10:40.33,Default,,0,0,0,,Very well.
 Dialogue: 10,0:10:40.33,0:10:42.66,Default,,0,0,0,,I had high hopes for you,
 Dialogue: 10,0:10:43.25,0:10:48.17,Default,,0,0,0,,so while it pains me to do this,\nwe'll have to cut the negotiations short.
-Dialogue: 10,0:10:49.46,0:10:55.38,Default,,0,0,0,,You'll find {*}Miss Hoshino{*Hoshino-san} in the laboratory\nbeneath Kaiser PMC's base in the desert.
+Dialogue: 10,0:10:49.46,0:10:55.38,Default,,0,0,0,,You'll find {*}Miss Hoshino{*Hoshino-san} in the laboratory\nbeneath a Kaiser PMC base in the desert. {see later comment, different base from last time --ik}
 Dialogue: 10,0:10:55.38,0:10:59.43,Default,,0,0,0,,Mimesis allowed us to observe\na different facet of Mystics: Terror.
 Dialogue: 10,0:10:59.43,0:11:03.18,Default,,0,0,0,,We were interested to explore\nits application on a living student.
 Dialogue: 10,0:11:03.73,0:11:07.19,Default,,0,0,0,,She was intended to serve as\na test bed to confirm our hypotheses.
@@ -382,7 +382,7 @@ Dialogue: 10,0:21:18.17,0:21:20.84,Default,,0,0,0,,I've packed plenty of ammunit
 Dialogue: 10,0:21:20.84,0:21:22.84,Default,,0,0,0,,I got a good night's sleep.
 Dialogue: 10,0:21:23.18,0:21:26.47,Default,,0,0,0,,Kaiser PMC doesn't stand a chance!
 Dialogue: 10,0:21:27.89,0:21:30.35,Default,,0,0,0,,According to the intel {*}Teacher{*Sensei} got us,
-Dialogue: 10,0:21:30.69,0:21:35.36,Default,,0,0,0,,Hoshino is being held in District 51,\ninside the Kaiser PMC base.
+Dialogue: 10,0:21:30.69,0:21:35.36,Default,,0,0,0,,Hoshino is being held in District 51,\ninside a Kaiser PMC base. {they aren't going back to the previous one, this one's a new site --ik}
 Dialogue: 10,0:21:35.36,0:21:36.61,Default,,0,0,0,,Yes.
 Dialogue: 10,0:21:36.61,0:21:38.49,Default,,0,0,0,,Let's get moving.
 Dialogue: 10,0:21:38.74,0:21:39.49,Default,,0,0,0,,All right.
