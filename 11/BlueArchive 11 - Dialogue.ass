@@ -208,7 +208,7 @@ Dialogue: 10,0:12:13.67,0:12:16.51,Default,,0,0,0,,She went back on her word.
 Dialogue: 10,0:12:16.51,0:12:17.97,Default,,0,0,0,,She deserves to be punished.
 Dialogue: 10,0:12:18.30,0:12:19.51,Default,,0,0,0,,So we scold her
 Dialogue: 10,0:12:20.34,0:12:22.10,Default,,0,0,0,,for her own good.
-Dialogue: 10,0:12:27.73,0:12:31.11,Default,,0,0,0,,Let's find her together and say "welcome home".
+Dialogue: 10,0:12:27.73,0:12:31.11,Default,,0,0,0,,Let's find her together and say "welcome home". {So there are two ways of handling this line. One is to wrangle the "tadaima" into a way that makes sense in English, and then use the same phrasing for the finale of Vol1 Chapter2. The other is to rewrite that entire scene to say something a bit different. I might gravitate towards the second bit, just to make my own life easier. --ik}
 Dialogue: 10,0:12:31.11,0:12:33.69,Default,,0,0,0,,What?! Where did {\i1}that{\i0} corny line come from?
 Dialogue: 10,0:12:33.69,0:12:34.90,Default,,0,0,0,,That's way too sappy!
 Dialogue: 10,0:12:34.90,0:12:37.90,Default,,0,0,0,,It just {\i1}screams{\i0} blue skies and happy memories! {Need... blue archive... pun... Tried looking at the OST names for inspiration but idk how well it works --ik}{### sorry dude aint got anything}
