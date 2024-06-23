@@ -32,362 +32,362 @@ Comment: 0,0:21:45.49,0:21:45.49,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:21.40,0:22:21.40,Default,,0,0,0,edsync,{EDSync — First hard cut (Nonomi washing room shot)}
 Comment: 0,0:23:15.46,0:23:15.46,Default,chapter,0,0,0,,{=1}{Outro}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=4}---- Dialogue
-Dialogue: 10,0:00:01.83,0:00:04.40,Default,,0,0,0,,Hoshino's smartphone?
-Dialogue: 10,0:00:04.40,0:00:07.54,Default,,0,0,0,,Yes. I need you to locate her.
-Dialogue: 10,0:00:07.54,0:00:09.07,Default,,0,0,0,,O-Okay!
-Dialogue: 10,0:00:09.48,0:00:11.20,Default,,0,0,0,,Give me one second.
+Dialogue: 10,0:00:01.81,0:00:04.40,Default,,0,0,0,,Hoshino's smartphone?
+Dialogue: 10,0:00:04.40,0:00:07.53,Default,,0,0,0,,Yes. I need you to locate her.
+Dialogue: 10,0:00:07.53,0:00:09.07,Default,,0,0,0,,O-Okay!
+Dialogue: 10,0:00:09.49,0:00:11.20,Default,,0,0,0,,Give me one second.
 Dialogue: 10,0:00:19.21,0:00:20.04,Default,,0,0,0,,How's it looking?
-Dialogue: 10,0:00:21.55,0:00:22.59,Default,,0,0,0,,Not good.
+Dialogue: 10,0:00:21.54,0:00:22.59,Default,,0,0,0,,Not good.
 Dialogue: 10,0:00:23.38,0:00:27.30,Default,,0,0,0,,I tried accessing the GSC's central network,
 Dialogue: 10,0:00:27.30,0:00:29.68,Default,,0,0,0,,but I couldn't identify her location.
-Dialogue: 10,0:00:29.99,0:00:31.27,Default,,0,0,0,,I see.
-Dialogue: 10,0:00:31.27,0:00:33.55,Default,,0,0,0,,I hope we can find some clue.
-Dialogue: 10,0:00:34.98,0:00:35.88,Default,,0,0,0,,In that case...
-Dialogue: 10,0:00:38.63,0:00:39.94,Default,,0,0,0,,Come on in.
-Dialogue: 10,0:00:43.72,0:00:44.60,Default,,0,0,0,,Who is that?
-Dialogue: 10,0:00:45.43,0:00:47.32,Default,,0,0,0,,Wait. Is that you, Hoshino?
-Dialogue: 10,0:01:00.01,0:01:01.01,Default,,0,0,0,,What's this? {uwu?}
-Dialogue: 10,0:02:49.83,0:02:50.85,Default,,0,0,0,,Is this the place?
-Dialogue: 10,0:03:33.39,0:03:36.36,Default,,0,0,0,,This should be the right floor.
-Dialogue: 10,0:03:38.41,0:03:41.17,Default,,0,0,0,,I've been expecting you, {*}Mr. Teacher{*Sensei}.
-Dialogue: 10,0:03:42.35,0:03:47.66,Default,,0,0,0,,I've long been eager to\ndiscuss matters directly with you,
-Dialogue: 10,0:03:47.66,0:03:50.88,Default,,0,0,0,,the individual overseeing\nthe Federal Investigations Club, Schale—
-Dialogue: 10,0:03:51.20,0:03:54.38,Default,,0,0,0,,The organisation spearheaded by\nthe GSC President themselves.
-Dialogue: 10,0:03:57.87,0:03:59.55,Default,,0,0,0,,No need to be alarmed. {BE NOT AFRAID}
+Dialogue: 10,0:00:30.01,0:00:31.26,Default,,0,0,0,,I see.
+Dialogue: 10,0:00:31.26,0:00:33.55,Default,,0,0,0,,I hope we can find some clue.
+Dialogue: 10,0:00:34.97,0:00:35.89,Default,,0,0,0,,In that case...
+Dialogue: 10,0:00:38.64,0:00:39.94,Default,,0,0,0,,Come on in.
+Dialogue: 10,0:00:43.73,0:00:44.61,Default,,0,0,0,,Who is that?
+Dialogue: 10,0:00:45.44,0:00:47.32,Default,,0,0,0,,Wait. Is that you, Hoshino?
+Dialogue: 10,0:01:00.00,0:01:01.00,Default,,0,0,0,,What's this? {uwu?}
+Dialogue: 10,0:02:49.82,0:02:50.86,Default,,0,0,0,,Is this the place?
+Dialogue: 10,0:03:33.40,0:03:36.36,Default,,0,0,0,,This should be the right floor.
+Dialogue: 10,0:03:38.41,0:03:41.16,Default,,0,0,0,,I've been expecting you, {*}Mr. Teacher{*Sensei}.
+Dialogue: 10,0:03:42.37,0:03:47.67,Default,,0,0,0,,I've long been eager to\ndiscuss matters directly with you,
+Dialogue: 10,0:03:47.67,0:03:50.88,Default,,0,0,0,,the individual overseeing\nthe Federal Investigations Club, Schale—
+Dialogue: 10,0:03:51.21,0:03:54.38,Default,,0,0,0,,The organisation spearheaded by\nthe GSC President themselves.
+Dialogue: 10,0:03:57.88,0:03:59.55,Default,,0,0,0,,No need to be alarmed. {BE NOT AFRAID}
 Dialogue: 10,0:03:59.55,0:04:03.43,Default,,0,0,0,,We're not looking to become your enemy.
 Dialogue: 10,0:04:03.43,0:04:05.48,Default,,0,0,0,,In fact, it's quite the opposite.
 Dialogue: 10,0:04:05.48,0:04:11.73,Default,,0,0,0,,We have little regard for the fate\nof a place as trivial as Abydos.
 Dialogue: 10,0:04:11.73,0:04:14.90,Default,,0,0,0,,However, you—you're a different matter entirely.
-Dialogue: 10,0:04:15.37,0:04:18.71,Default,,0,0,0,,I, personally, regard you as\nan exceptionally formidable threat.
-Dialogue: 10,0:04:19.29,0:04:20.98,Default,,0,0,0,,Who are you people?
-Dialogue: 10,0:04:20.98,0:04:25.16,Default,,0,0,0,,Oh, my. Where are my manners?\nI have yet to introduce myself or my peers.
-Dialogue: 10,0:04:26.09,0:04:30.79,Default,,0,0,0,,You can refer to me as Black Suit.
-Dialogue: 10,0:04:31.29,0:04:33.68,Default,,0,0,0,,I've grown quite fond of that name.
-Dialogue: 10,0:04:35.81,0:04:38.76,Default,,0,0,0,,We are much like you.
-Dialogue: 10,0:04:38.76,0:04:39.82,Default,,0,0,0,,Like me?
-Dialogue: 10,0:04:39.82,0:04:41.30,Default,,0,0,0,,Yes, like you.
-Dialogue: 10,0:04:41.57,0:04:43.87,Default,,0,0,0,,Our origins also lie outside of Kivotos.
-Dialogue: 10,0:04:43.87,0:04:48.31,Default,,0,0,0,,We simply hail from a different realm than you.
-Dialogue: 10,0:04:49.43,0:04:50.81,Default,,0,0,0,,Gematria.
-Dialogue: 10,0:04:51.57,0:04:53.56,Default,,0,0,0,,That is our name.
+Dialogue: 10,0:04:15.36,0:04:18.70,Default,,0,0,0,,I, personally, regard you as\nan exceptionally formidable threat.
+Dialogue: 10,0:04:19.28,0:04:20.99,Default,,0,0,0,,Who are you people?
+Dialogue: 10,0:04:20.99,0:04:25.16,Default,,0,0,0,,Oh, my. Where are my manners?\nI have yet to introduce myself or my peers.
+Dialogue: 10,0:04:26.08,0:04:30.79,Default,,0,0,0,,You can refer to me as Black Suit.
+Dialogue: 10,0:04:31.29,0:04:33.67,Default,,0,0,0,,I've grown quite fond of that name.
+Dialogue: 10,0:04:35.80,0:04:38.76,Default,,0,0,0,,We are much like you.
+Dialogue: 10,0:04:38.76,0:04:39.80,Default,,0,0,0,,Like me?
+Dialogue: 10,0:04:39.80,0:04:41.30,Default,,0,0,0,,Yes, like you.
+Dialogue: 10,0:04:41.55,0:04:43.89,Default,,0,0,0,,Our origins also lie outside of Kivotos.
+Dialogue: 10,0:04:43.89,0:04:48.31,Default,,0,0,0,,We simply hail from a different realm than you.
+Dialogue: 10,0:04:49.44,0:04:50.81,Default,,0,0,0,,Gematria.
+Dialogue: 10,0:04:51.56,0:04:53.56,Default,,0,0,0,,That is our name.
 Dialogue: 10,0:04:53.86,0:04:56.94,Default,,0,0,0,,To explain in more familiar terms,
 Dialogue: 10,0:04:56.94,0:05:01.07,Default,,0,0,0,,it's the organisation to which I belong.
-Dialogue: 10,0:05:01.07,0:05:07.26,Default,,0,0,0,,Our mission lies in expanding knowledge\nthrough observation, exploration, and experimentation. {### too far?}
-Dialogue: 10,0:05:07.26,0:05:13.08,Default,,0,0,0,,Through that lens, you may view us as enigmatic beings,\nnot too dissimilar from you, yourself.
-Dialogue: 10,0:05:14.07,0:05:17.25,Default,,0,0,0,,But onto the main topic. If I might venture,
-Dialogue: 10,0:05:17.25,0:05:20.16,Default,,0,0,0,,would you be interested\nin entering a partnership with us?
-Dialogue: 10,0:05:20.16,0:05:21.09,Default,,0,0,0,,I refuse.
-Dialogue: 10,0:05:21.77,0:05:23.09,Default,,0,0,0,,Interesting.
-Dialogue: 10,0:05:23.53,0:05:27.49,Default,,0,0,0,,You would promptly lay to rest\nthe opportunity to explore Kivotos' mysteries?
-Dialogue: 10,0:05:27.49,0:05:31.32,Default,,0,0,0,,If not its mysteries, what, then,\n{\i1}are{\i0} you pursuing here?
-Dialogue: 10,0:05:31.32,0:05:34.60,Default,,0,0,0,,All I care about is getting Hoshino back.
-Dialogue: 10,0:05:36.45,0:05:41.11,Default,,0,0,0,,And what, pray tell, grants you\nthe authority to make such a demand?
-Dialogue: 10,0:05:41.67,0:05:45.05,Default,,0,0,0,,{*}Miss Hoshino{*Hoshino-san} is no longer a student at Abydos.
-Dialogue: 10,0:05:45.05,0:05:46.12,Default,,0,0,0,,Not true.
-Dialogue: 10,0:05:46.12,0:05:49.97,Default,,0,0,0,,Surely, you haven't overlooked\nthe form submitted by your own student?
-Dialogue: 10,0:05:50.43,0:05:53.62,Default,,0,0,0,,Of course not. I saw her withdrawal form.
-Dialogue: 10,0:05:53.97,0:05:56.12,Default,,0,0,0,,Then why claim it's untrue?
-Dialogue: 10,0:05:56.12,0:05:59.91,Default,,0,0,0,,She no longer falls under your purview.
-Dialogue: 10,0:05:59.91,0:06:01.59,Default,,0,0,0,,I wouldn't be so sure about that.
-Dialogue: 10,0:06:01.58,0:06:02.26,Default,,0,0,0,,Oh?
+Dialogue: 10,0:05:01.07,0:05:07.25,Default,,0,0,0,,Our mission lies in expanding knowledge\nthrough observation, exploration, and experimentation. {### too far?}
+Dialogue: 10,0:05:07.25,0:05:13.08,Default,,0,0,0,,Through that lens, you may view us as enigmatic beings,\nnot too dissimilar from you, yourself.
+Dialogue: 10,0:05:14.09,0:05:17.26,Default,,0,0,0,,But onto the main topic. If I might venture,
+Dialogue: 10,0:05:17.26,0:05:20.17,Default,,0,0,0,,would you be interested\nin entering a partnership with us?
+Dialogue: 10,0:05:20.17,0:05:21.09,Default,,0,0,0,,I refuse.
+Dialogue: 10,0:05:21.76,0:05:23.09,Default,,0,0,0,,Interesting.
+Dialogue: 10,0:05:23.51,0:05:27.47,Default,,0,0,0,,You would promptly lay to rest\nthe opportunity to explore Kivotos' mysteries?
+Dialogue: 10,0:05:27.47,0:05:31.31,Default,,0,0,0,,If not its mysteries, what, then,\n{\i1}are{\i0} you pursuing here?
+Dialogue: 10,0:05:31.31,0:05:34.61,Default,,0,0,0,,All I care about is getting Hoshino back.
+Dialogue: 10,0:05:36.44,0:05:41.11,Default,,0,0,0,,And what, pray tell, grants you\nthe authority to make such a demand?
+Dialogue: 10,0:05:41.65,0:05:45.03,Default,,0,0,0,,{*}Miss Hoshino{*Hoshino-san} is no longer a student at Abydos.
+Dialogue: 10,0:05:45.03,0:05:46.12,Default,,0,0,0,,Not true.
+Dialogue: 10,0:05:46.12,0:05:49.95,Default,,0,0,0,,Surely, you haven't overlooked\nthe form submitted by your own student?
+Dialogue: 10,0:05:50.41,0:05:53.62,Default,,0,0,0,,Of course not. I saw her withdrawal form.
+Dialogue: 10,0:05:53.96,0:05:56.13,Default,,0,0,0,,Then why claim it's untrue?
+Dialogue: 10,0:05:56.13,0:05:59.92,Default,,0,0,0,,She no longer falls under your purview.
+Dialogue: 10,0:05:59.92,0:06:01.59,Default,,0,0,0,,I wouldn't be so sure about that.
+Dialogue: 10,0:06:01.59,0:06:02.26,Default,,0,0,0,,Oh?
 Dialogue: 10,0:06:02.84,0:06:03.76,Default,,0,0,0,,Because...
-Dialogue: 10,0:06:04.33,0:06:07.17,Default,,0,0,0,,I haven't signed that form yet.
-Dialogue: 10,0:06:08.34,0:06:11.51,Default,,0,0,0,,Hoshino's still part of the Task Force.
-Dialogue: 10,0:06:11.51,0:06:13.77,Default,,0,0,0,,She's still the vice president of Abydos.
+Dialogue: 10,0:06:04.34,0:06:07.18,Default,,0,0,0,,I haven't signed that form yet.
+Dialogue: 10,0:06:08.35,0:06:11.52,Default,,0,0,0,,Hoshino's still part of the Task Force.
+Dialogue: 10,0:06:11.52,0:06:13.77,Default,,0,0,0,,She's still the vice president of Abydos.
 Dialogue: 10,0:06:13.77,0:06:17.02,Default,,0,0,0,,And she's still my precious student.
-Dialogue: 10,0:06:17.37,0:06:18.93,Default,,0,0,0,,Interesting.
-Dialogue: 10,0:06:18.93,0:06:24.63,Default,,0,0,0,,As their teacher, any significant actions\nnecessitate your signature.
-Dialogue: 10,0:06:25.71,0:06:28.28,Default,,0,0,0,,That's rather inconvenient.
-Dialogue: 10,0:06:28.28,0:06:32.48,Default,,0,0,0,,You deceived my students. \NYou and your organisation.
-Dialogue: 10,0:06:32.48,0:06:36.22,Default,,0,0,0,,You toyed with their feelings\nand took advantage of their suffering.
-Dialogue: 10,0:06:36.22,0:06:38.92,Default,,0,0,0,,Yes, that's exactly right.
+Dialogue: 10,0:06:17.36,0:06:18.94,Default,,0,0,0,,Interesting.
+Dialogue: 10,0:06:18.94,0:06:24.61,Default,,0,0,0,,As their teacher, any significant actions\nnecessitate your signature.
+Dialogue: 10,0:06:25.70,0:06:28.28,Default,,0,0,0,,That's rather inconvenient.
+Dialogue: 10,0:06:28.28,0:06:32.50,Default,,0,0,0,,You deceived my students. \NYou and your organisation.
+Dialogue: 10,0:06:32.50,0:06:36.21,Default,,0,0,0,,You toyed with their feelings\nand took advantage of their suffering.
+Dialogue: 10,0:06:36.21,0:06:38.92,Default,,0,0,0,,Yes, that's exactly right.
 Dialogue: 10,0:06:38.92,0:06:44.34,Default,,0,0,0,,Were we to label our actions as "good" or "evil"\nthey would unambiguously be classified as "evil".
 Dialogue: 10,0:06:44.34,0:06:46.30,Default,,0,0,0,,Evil, but well within our rights.
 Dialogue: 10,0:06:46.30,0:06:49.31,Default,,0,0,0,,But let me make one thing clear.
-Dialogue: 10,0:06:49.67,0:06:54.41,Default,,0,0,0,,The disaster that struck Abydos was not our doing.
+Dialogue: 10,0:06:49.68,0:06:54.39,Default,,0,0,0,,The disaster that struck Abydos was not our doing.
 Dialogue: 10,0:06:55.06,0:06:59.57,Default,,0,0,0,,The sandstorms that overtook Abydos were atypical,\nbut evidently far from impossible.
-Dialogue: 10,0:06:59.83,0:07:02.93,Default,,0,0,0,,Random disasters are by nature unpredictable.
-Dialogue: 10,0:07:03.96,0:07:07.57,Default,,0,0,0,,Should the people suffer thirst as a result,
-Dialogue: 10,0:07:07.87,0:07:11.39,Default,,0,0,0,,opportunists will naturally emerge\nto meet that demand.
-Dialogue: 10,0:07:11.39,0:07:14.49,Default,,0,0,0,,This is simply business as usual.
-Dialogue: 10,0:07:14.49,0:07:18.57,Default,,0,0,0,,Even if that water is sold at an exorbitant price?
-Dialogue: 10,0:07:20.12,0:07:22.12,Default,,0,0,0,,Hardly a rare occurrence.
-Dialogue: 10,0:07:22.12,0:07:24.84,Default,,0,0,0,,Such scenarios are commonplace in the world.
-Dialogue: 10,0:07:24.84,0:07:28.37,Default,,0,0,0,,Those who possess, exploit those who lack.
-Dialogue: 10,0:07:28.87,0:07:32.10,Default,,0,0,0,,Determining one's future is a luxury\nthe weak aren't afforded.
-Dialogue: 10,0:07:32.83,0:07:34.18,Default,,0,0,0,,{*}Schale's teacher{*Sensei}.
+Dialogue: 10,0:06:59.82,0:07:02.94,Default,,0,0,0,,Random disasters are by nature unpredictable.
+Dialogue: 10,0:07:03.94,0:07:07.57,Default,,0,0,0,,Should the people suffer thirst as a result,
+Dialogue: 10,0:07:07.87,0:07:11.41,Default,,0,0,0,,opportunists will naturally emerge\nto meet that demand.
+Dialogue: 10,0:07:11.41,0:07:14.50,Default,,0,0,0,,This is simply business as usual.
+Dialogue: 10,0:07:14.50,0:07:18.58,Default,,0,0,0,,Even if that water is sold at an exorbitant price?
+Dialogue: 10,0:07:20.13,0:07:22.13,Default,,0,0,0,,Hardly a rare occurrence.
+Dialogue: 10,0:07:22.13,0:07:24.84,Default,,0,0,0,,Such scenarios are commonplace in the world.
+Dialogue: 10,0:07:24.84,0:07:28.39,Default,,0,0,0,,Those who possess, exploit those who lack.
+Dialogue: 10,0:07:28.89,0:07:32.10,Default,,0,0,0,,Determining one's future is a luxury\nthe weak aren't afforded.
+Dialogue: 10,0:07:32.85,0:07:34.18,Default,,0,0,0,,{*}Schale's teacher{*Sensei}.
 Dialogue: 10,0:07:34.18,0:07:40.11,Default,,0,0,0,,Abandon {*}Miss Hoshino{*Hoshino-san}, and in return,\nI'll guarantee Abydos's well-being.
 Dialogue: 10,0:07:40.56,0:07:45.86,Default,,0,0,0,,This life can be theirs once more,\none where they attend school without fear. {###}
-Dialogue: 10,0:07:46.13,0:07:49.11,Default,,0,0,0,,It's what {*}Miss Hoshino{*Hoshino-san} would want, I'm sure.
-Dialogue: 10,0:07:49.11,0:07:53.24,Default,,0,0,0,,Even if that were possible,\nthat's not what they asked for.
-Dialogue: 10,0:07:54.75,0:07:59.35,Default,,0,0,0,,It appears that no matter my efforts,\nyou will continue to oppose us.
-Dialogue: 10,0:07:59.35,0:08:00.88,Default,,0,0,0,,You are powerless.
-Dialogue: 10,0:08:00.88,0:08:03.31,Default,,0,0,0,,You lack any means of fighting us.
-Dialogue: 10,0:08:03.31,0:08:04.71,Default,,0,0,0,,That may be true.
-Dialogue: 10,0:08:04.71,0:08:08.10,Default,,0,0,0,,But if someone needs my help,\nI refuse to idly stand by.
-Dialogue: 10,0:08:08.10,0:08:10.14,Default,,0,0,0,,I don't care what the odds of success are. {###}
-Dialogue: 10,0:08:10.53,0:08:15.89,Default,,0,0,0,,I need to prove to them that so long as they\ndon't give up, their voices will reach {\i1}someone{\i0}!
-Dialogue: 10,0:08:16.83,0:08:18.81,Default,,0,0,0,,That's simply absurd.
-Dialogue: 10,0:08:19.33,0:08:23.23,Default,,0,0,0,,Then why are those girls still alone?
-Dialogue: 10,0:08:23.54,0:08:26.74,Default,,0,0,0,,If nothing else, their voices reached {\i1}me{\i0}.
-Dialogue: 10,0:08:27.37,0:08:28.99,Default,,0,0,0,,That's enough for me.
-Dialogue: 10,0:08:28.99,0:08:32.01,Default,,0,0,0,,Why don't you just walk away?
-Dialogue: 10,0:08:32.01,0:08:35.24,Default,,0,0,0,,This is their problem. It doesn't concern you.
+Dialogue: 10,0:07:46.11,0:07:49.12,Default,,0,0,0,,It's what {*}Miss Hoshino{*Hoshino-san} would want, I'm sure.
+Dialogue: 10,0:07:49.12,0:07:53.24,Default,,0,0,0,,Even if that were possible,\nthat's not what they asked for.
+Dialogue: 10,0:07:54.75,0:07:59.33,Default,,0,0,0,,It appears that no matter my efforts,\nyou will continue to oppose us.
+Dialogue: 10,0:07:59.33,0:08:00.88,Default,,0,0,0,,You are powerless.
+Dialogue: 10,0:08:00.88,0:08:03.30,Default,,0,0,0,,You lack any means of fighting us.
+Dialogue: 10,0:08:03.30,0:08:04.71,Default,,0,0,0,,That may be true.
+Dialogue: 10,0:08:04.71,0:08:08.09,Default,,0,0,0,,But if someone needs my help,\nI refuse to idly stand by.
+Dialogue: 10,0:08:08.09,0:08:10.14,Default,,0,0,0,,I don't care what the odds of success are. {###}
+Dialogue: 10,0:08:10.51,0:08:15.89,Default,,0,0,0,,I need to prove to them that so long as they\ndon't give up, their voices will reach {\i1}someone{\i0}!
+Dialogue: 10,0:08:16.81,0:08:18.81,Default,,0,0,0,,That's simply absurd.
+Dialogue: 10,0:08:19.31,0:08:23.23,Default,,0,0,0,,Then why are those girls still alone?
+Dialogue: 10,0:08:23.52,0:08:26.74,Default,,0,0,0,,If nothing else, their voices reached {\i1}me{\i0}.
+Dialogue: 10,0:08:27.36,0:08:28.99,Default,,0,0,0,,That's enough for me.
+Dialogue: 10,0:08:28.99,0:08:31.99,Default,,0,0,0,,Why don't you just walk away?
+Dialogue: 10,0:08:31.99,0:08:35.24,Default,,0,0,0,,This is their problem. It doesn't concern you.
 Dialogue: 10,0:08:35.24,0:08:36.75,Default,,0,0,0,,I won't.
-Dialogue: 10,0:08:38.71,0:08:40.81,Default,,0,0,0,,Why? Why?
-Dialogue: 10,0:08:40.81,0:08:42.63,Default,,0,0,0,,Why, why, why, why?
-Dialogue: 10,0:08:43.02,0:08:46.21,Default,,0,0,0,,Why, why, why, why, {\i1}why{\i0}?
-Dialogue: 10,0:08:46.51,0:08:50.02,Default,,0,0,0,,I can't fathom it. Why do you refuse?
-Dialogue: 10,0:08:50.02,0:08:54.47,Default,,0,0,0,,Those girls were in pain this entire time,\nand not a single adult took responsibility.
-Dialogue: 10,0:08:54.89,0:08:57.69,Default,,0,0,0,,And you're saying {\i1}you{\i0} will take responsibility?
-Dialogue: 10,0:08:57.69,0:09:00.48,Default,,0,0,0,,You're just a stranger.\nWhy put the onus on yourself?
-Dialogue: 10,0:09:01.59,0:09:02.86,Default,,0,0,0,,You're right.
+Dialogue: 10,0:08:38.71,0:08:40.79,Default,,0,0,0,,Why? Why?
+Dialogue: 10,0:08:40.79,0:08:42.63,Default,,0,0,0,,Why, why, why, why?
+Dialogue: 10,0:08:43.00,0:08:46.21,Default,,0,0,0,,Why, why, why, why, {\i1}why{\i0}?
+Dialogue: 10,0:08:46.51,0:08:50.01,Default,,0,0,0,,I can't fathom it. Why do you refuse?
+Dialogue: 10,0:08:50.01,0:08:54.47,Default,,0,0,0,,Those girls were in pain this entire time,\nand not a single adult took responsibility.
+Dialogue: 10,0:08:54.89,0:08:57.68,Default,,0,0,0,,And you're saying {\i1}you{\i0} will take responsibility?
+Dialogue: 10,0:08:57.68,0:09:00.48,Default,,0,0,0,,You're just a stranger.\nWhy put the onus on yourself?
+Dialogue: 10,0:09:01.60,0:09:02.86,Default,,0,0,0,,You're right.
 Dialogue: 10,0:09:02.86,0:09:04.48,Default,,0,0,0,,I {\i1}am{\i0} just a stranger.
 Dialogue: 10,0:09:05.57,0:09:07.36,Default,,0,0,0,,I just so happened to be there,
-Dialogue: 10,0:09:07.63,0:09:09.65,Default,,0,0,0,,and I just so happened to meet them.
-Dialogue: 10,0:09:10.03,0:09:11.69,Default,,0,0,0,,A stranger is all I am.
-Dialogue: 10,0:09:13.09,0:09:15.24,Default,,0,0,0,,But what does that matter?
-Dialogue: 10,0:09:15.50,0:09:16.71,Default,,0,0,0,,Do you {\i1}need{\i0} a reason?
-Dialogue: 10,0:09:16.71,0:09:18.97,Default,,0,0,0,,Children are crying for help!
-Dialogue: 10,0:09:18.97,0:09:20.25,Default,,0,0,0,,What more do you need?!
-Dialogue: 10,0:09:20.51,0:09:24.56,Default,,0,0,0,,And you believe that's how adults take responsibility?
-Dialogue: 10,0:09:24.56,0:09:25.63,Default,,0,0,0,,It is!
-Dialogue: 10,0:09:26.16,0:09:28.51,Default,,0,0,0,,If they laugh, you join them.
-Dialogue: 10,0:09:28.51,0:09:30.73,Default,,0,0,0,,If they're sad, you console them.
-Dialogue: 10,0:09:30.73,0:09:32.84,Default,,0,0,0,,If they're lost, you lead the way.
+Dialogue: 10,0:09:07.61,0:09:09.65,Default,,0,0,0,,and I just so happened to meet them.
+Dialogue: 10,0:09:10.03,0:09:11.70,Default,,0,0,0,,A stranger is all I am.
+Dialogue: 10,0:09:13.07,0:09:15.24,Default,,0,0,0,,But what does that matter?
+Dialogue: 10,0:09:15.49,0:09:16.70,Default,,0,0,0,,Do you {\i1}need{\i0} a reason?
+Dialogue: 10,0:09:16.70,0:09:18.95,Default,,0,0,0,,Children are crying for help!
+Dialogue: 10,0:09:18.95,0:09:20.25,Default,,0,0,0,,What more do you need?!
+Dialogue: 10,0:09:20.50,0:09:24.54,Default,,0,0,0,,And you believe that's how adults take responsibility?
+Dialogue: 10,0:09:24.54,0:09:25.63,Default,,0,0,0,,It is!
+Dialogue: 10,0:09:26.17,0:09:28.51,Default,,0,0,0,,If they laugh, you join them.
+Dialogue: 10,0:09:28.51,0:09:30.72,Default,,0,0,0,,If they're sad, you console them.
+Dialogue: 10,0:09:30.72,0:09:32.84,Default,,0,0,0,,If they're lost, you lead the way.
 Dialogue: 10,0:09:33.09,0:09:35.01,Default,,0,0,0,,That's what it means to be an adult!
-Dialogue: 10,0:09:35.01,0:09:36.42,Default,,0,0,0,,That's where you are wrong.
-Dialogue: 10,0:09:36.42,0:09:37.97,Default,,0,0,0,,You are sorely mistaken.
-Dialogue: 10,0:09:38.40,0:09:41.75,Default,,0,0,0,,Adults bend society to their own will.
-Dialogue: 10,0:09:41.75,0:09:45.03,Default,,0,0,0,,They decide what is right, what is proper.
-Dialogue: 10,0:09:45.03,0:09:47.73,Default,,0,0,0,,What is the norm, and what is not.
-Dialogue: 10,0:09:48.11,0:09:50.70,Default,,0,0,0,,Adults rule the aimless with authority,
-Dialogue: 10,0:09:50.70,0:09:52.92,Default,,0,0,0,,the ignorant with knowledge,
-Dialogue: 10,0:09:52.92,0:09:55.80,Default,,0,0,0,,and the weak with power.
-Dialogue: 10,0:09:55.80,0:09:57.74,Default,,0,0,0,,{\i1}That{\i0} is what it means to be an adult.
-Dialogue: 10,0:09:58.36,0:10:00.34,Default,,0,0,0,,I can't comprehend you.
-Dialogue: 10,0:10:00.34,0:10:04.00,Default,,0,0,0,,You could have ruled over Kivotos.
+Dialogue: 10,0:09:35.01,0:09:36.43,Default,,0,0,0,,That's where you are wrong.
+Dialogue: 10,0:09:36.43,0:09:37.97,Default,,0,0,0,,You are sorely mistaken.
+Dialogue: 10,0:09:38.39,0:09:41.77,Default,,0,0,0,,Adults bend society to their own will.
+Dialogue: 10,0:09:41.77,0:09:45.02,Default,,0,0,0,,They decide what is right, what is proper.
+Dialogue: 10,0:09:45.02,0:09:47.73,Default,,0,0,0,,What is the norm, and what is not.
+Dialogue: 10,0:09:48.11,0:09:50.69,Default,,0,0,0,,Adults rule the aimless with authority,
+Dialogue: 10,0:09:50.69,0:09:52.91,Default,,0,0,0,,the ignorant with knowledge,
+Dialogue: 10,0:09:52.91,0:09:55.78,Default,,0,0,0,,and the weak with power.
+Dialogue: 10,0:09:55.78,0:09:57.74,Default,,0,0,0,,{\i1}That{\i0} is what it means to be an adult.
+Dialogue: 10,0:09:58.37,0:10:00.33,Default,,0,0,0,,I can't comprehend you.
+Dialogue: 10,0:10:00.33,0:10:04.00,Default,,0,0,0,,You could have ruled over Kivotos.
 Dialogue: 10,0:10:04.00,0:10:08.71,Default,,0,0,0,,It could have been yours.\nThe authority, the privileges...
 Dialogue: 10,0:10:08.71,0:10:12.01,Default,,0,0,0,,the Mystics that fill this academy city.
-Dialogue: 10,0:10:12.40,0:10:17.77,Default,,0,0,0,,It may have been brief,\nbut you held it all in the palm of your hand.
-Dialogue: 10,0:10:18.82,0:10:21.48,Default,,0,0,0,,Yet you threw it all away\nwithout a moment's hesitation!
+Dialogue: 10,0:10:12.38,0:10:17.76,Default,,0,0,0,,It may have been brief,\nbut you held it all in the palm of your hand.
+Dialogue: 10,0:10:18.81,0:10:21.48,Default,,0,0,0,,Yet you threw it all away\nwithout a moment's hesitation!
 Dialogue: 10,0:10:22.02,0:10:25.86,Default,,0,0,0,,Truth and mystery. Authority. Riches. {\i1}Power{\i0}.
 Dialogue: 10,0:10:25.86,0:10:28.65,Default,,0,0,0,,Throw that all away and you're left with nothing.
-Dialogue: 10,0:10:29.01,0:10:30.23,Default,,0,0,0,,So why did you?
-Dialogue: 10,0:10:31.98,0:10:35.16,Default,,0,0,0,,Even if I told you, you would never understand.
-Dialogue: 10,0:10:39.09,0:10:40.33,Default,,0,0,0,,Very well.
+Dialogue: 10,0:10:29.02,0:10:30.23,Default,,0,0,0,,So why did you?
+Dialogue: 10,0:10:31.99,0:10:35.16,Default,,0,0,0,,Even if I told you, you would never understand.
+Dialogue: 10,0:10:39.08,0:10:40.33,Default,,0,0,0,,Very well.
 Dialogue: 10,0:10:40.33,0:10:42.66,Default,,0,0,0,,I had high hopes for you,
-Dialogue: 10,0:10:43.23,0:10:48.17,Default,,0,0,0,,so while it pains me to do this,\nwe'll have to cut the negotiations short.
-Dialogue: 10,0:10:49.46,0:10:55.39,Default,,0,0,0,,You'll find {*}Miss Hoshino{*Hoshino-san} in the laboratory\nbeneath Kaiser PMC's base in the desert.
-Dialogue: 10,0:10:55.39,0:10:59.43,Default,,0,0,0,,Mimesis allowed us to observe\na different facet of Mystics: Terror.
+Dialogue: 10,0:10:43.25,0:10:48.17,Default,,0,0,0,,so while it pains me to do this,\nwe'll have to cut the negotiations short.
+Dialogue: 10,0:10:49.46,0:10:55.38,Default,,0,0,0,,You'll find {*}Miss Hoshino{*Hoshino-san} in the laboratory\nbeneath Kaiser PMC's base in the desert.
+Dialogue: 10,0:10:55.38,0:10:59.43,Default,,0,0,0,,Mimesis allowed us to observe\na different facet of Mystics: Terror.
 Dialogue: 10,0:10:59.43,0:11:03.18,Default,,0,0,0,,We were interested to explore\nits application on a living student.
-Dialogue: 10,0:11:03.71,0:11:07.19,Default,,0,0,0,,She was intended to serve as\na test bed to confirm our hypotheses.
-Dialogue: 10,0:11:07.80,0:11:09.69,Default,,0,0,0,,Your hypotheses?
+Dialogue: 10,0:11:03.73,0:11:07.19,Default,,0,0,0,,She was intended to serve as\na test bed to confirm our hypotheses.
+Dialogue: 10,0:11:07.81,0:11:09.69,Default,,0,0,0,,Your hypotheses?
 Dialogue: 10,0:11:09.69,0:11:14.53,Default,,0,0,0,,Now that negotiations have broken down,\nmy hands are tied.
-Dialogue: 10,0:11:15.23,0:11:17.70,Default,,0,0,0,,It's unfortunate, but our involvement ends here.
-Dialogue: 10,0:11:18.30,0:11:19.71,Default,,0,0,0,,So then Hoshino is...
-Dialogue: 10,0:11:19.71,0:11:21.35,Default,,0,0,0,,Go ahead. She's free.
-Dialogue: 10,0:11:21.35,0:11:23.58,Default,,0,0,0,,What happens to her no longer concerns us.
+Dialogue: 10,0:11:15.24,0:11:17.70,Default,,0,0,0,,It's unfortunate, but our involvement ends here.
+Dialogue: 10,0:11:18.28,0:11:19.70,Default,,0,0,0,,So then Hoshino is...
+Dialogue: 10,0:11:19.70,0:11:21.37,Default,,0,0,0,,Go ahead. She's free.
+Dialogue: 10,0:11:21.37,0:11:23.58,Default,,0,0,0,,What happens to her no longer concerns us.
 Dialogue: 10,0:11:25.12,0:11:31.63,Default,,0,0,0,,Of course, that's assuming the director\nallows you to reach her in the first place.
 Dialogue: 10,0:11:33.13,0:11:35.38,Default,,0,0,0,,This conversation has been valuable to me.
-Dialogue: 10,0:11:35.77,0:11:38.22,Default,,0,0,0,,May we meet again.
-Dialogue: 10,0:11:40.55,0:11:43.23,Default,,0,0,0,,I wish you the best of luck.
-Dialogue: 10,0:11:48.27,0:11:51.58,Default,,0,0,0,,A laboratory underneath the Kaiser PMC base...
-Dialogue: 10,0:11:51.58,0:11:53.28,Default,,0,0,0,,There's no mistake.
+Dialogue: 10,0:11:35.76,0:11:38.22,Default,,0,0,0,,May we meet again.
+Dialogue: 10,0:11:40.55,0:11:43.22,Default,,0,0,0,,I wish you the best of luck.
+Dialogue: 10,0:11:48.27,0:11:51.57,Default,,0,0,0,,A laboratory underneath the Kaiser PMC base...
+Dialogue: 10,0:11:51.57,0:11:53.28,Default,,0,0,0,,There's no mistake.
 Dialogue: 10,0:11:53.57,0:11:55.03,Default,,0,0,0,,Hoshino's there.
-Dialogue: 10,0:11:55.53,0:11:58.27,Default,,0,0,0,,That's where they've been holding her captive?
-Dialogue: 10,0:11:58.27,0:12:00.46,Default,,0,0,0,,Then what are we waiting for?
-Dialogue: 10,0:12:00.46,0:12:02.03,Default,,0,0,0,,Let's go save her.
+Dialogue: 10,0:11:55.53,0:11:58.28,Default,,0,0,0,,That's where they've been holding her captive?
+Dialogue: 10,0:11:58.28,0:12:00.45,Default,,0,0,0,,Then what are we waiting for?
+Dialogue: 10,0:12:00.45,0:12:02.03,Default,,0,0,0,,Let's go save her.
 Dialogue: 10,0:12:02.03,0:12:03.54,Default,,0,0,0,,Yes, absolutely.
-Dialogue: 10,0:12:03.54,0:12:05.14,Default,,0,0,0,,But we can't go in without a plan.
-Dialogue: 10,0:12:05.14,0:12:06.21,Default,,0,0,0,,And one more thing.
-Dialogue: 10,0:12:06.21,0:12:09.65,Default,,0,0,0,,What do we even tell her\nonce we find her?
-Dialogue: 10,0:12:09.65,0:12:11.33,Default,,0,0,0,,Well, before that...
-Dialogue: 10,0:12:11.33,0:12:13.34,Default,,0,0,0,,We scold her.
-Dialogue: 10,0:12:13.69,0:12:16.51,Default,,0,0,0,,She went back on her word.
+Dialogue: 10,0:12:03.54,0:12:05.12,Default,,0,0,0,,But we can't go in without a plan.
+Dialogue: 10,0:12:05.12,0:12:06.21,Default,,0,0,0,,And one more thing.
+Dialogue: 10,0:12:06.21,0:12:09.67,Default,,0,0,0,,What do we even tell her\nonce we find her?
+Dialogue: 10,0:12:09.67,0:12:11.34,Default,,0,0,0,,Well, before that...
+Dialogue: 10,0:12:11.34,0:12:13.34,Default,,0,0,0,,We scold her.
+Dialogue: 10,0:12:13.67,0:12:16.51,Default,,0,0,0,,She went back on her word.
 Dialogue: 10,0:12:16.51,0:12:17.97,Default,,0,0,0,,She deserves to be punished.
-Dialogue: 10,0:12:18.31,0:12:19.49,Default,,0,0,0,,So we scold her
+Dialogue: 10,0:12:18.30,0:12:19.51,Default,,0,0,0,,So we scold her
 Dialogue: 10,0:12:20.34,0:12:22.10,Default,,0,0,0,,for her own good.
-Dialogue: 10,0:12:27.71,0:12:31.10,Default,,0,0,0,,Let's find her together and say "welcome home".
-Dialogue: 10,0:12:31.10,0:12:33.69,Default,,0,0,0,,What?! Where did {\i1}that{\i0} corny line come from?
+Dialogue: 10,0:12:27.73,0:12:31.11,Default,,0,0,0,,Let's find her together and say "welcome home".
+Dialogue: 10,0:12:31.11,0:12:33.69,Default,,0,0,0,,What?! Where did {\i1}that{\i0} corny line come from?
 Dialogue: 10,0:12:33.69,0:12:34.90,Default,,0,0,0,,That's way too sappy!
 Dialogue: 10,0:12:34.90,0:12:37.90,Default,,0,0,0,,It just {\i1}screams{\i0} blue skies and happy memories! {Need... blue archive... pun... Tried looking at the OST names for inspiration but idk how well it works --ik}{### sorry dude aint got anything}
 Dialogue: 10,0:12:37.90,0:12:40.32,Default,,0,0,0,,We could never pull that off!
 Dialogue: 10,0:12:40.32,0:12:42.12,Default,,0,0,0,,I'll say it,
-Dialogue: 10,0:12:42.12,0:12:44.19,Default,,0,0,0,,even if you don't wanna.
-Dialogue: 10,0:12:44.19,0:12:45.29,Default,,0,0,0,,No way!
-Dialogue: 10,0:12:45.55,0:12:46.95,Default,,0,0,0,,I-I'll say it, too!
+Dialogue: 10,0:12:42.12,0:12:44.20,Default,,0,0,0,,even if you don't wanna.
+Dialogue: 10,0:12:44.20,0:12:45.29,Default,,0,0,0,,No way!
+Dialogue: 10,0:12:45.54,0:12:46.95,Default,,0,0,0,,I-I'll say it, too!
 Dialogue: 10,0:12:46.95,0:12:48.75,Default,,0,0,0,,But it is a little embarrassing...
 Dialogue: 10,0:12:48.75,0:12:50.12,Default,,0,0,0,,S-Suit yourself!
-Dialogue: 10,0:12:50.47,0:12:54.46,Default,,0,0,0,,But you won't catch me dead saying that!
+Dialogue: 10,0:12:50.46,0:12:54.46,Default,,0,0,0,,But you won't catch me dead saying that!
 Comment: 0,0:12:53.75,0:12:54.46,Default,,0,0,0,,{Nonomi laugh}
-Dialogue: 10,0:12:54.46,0:12:57.69,Default,,0,0,0,,Um, but there's only five of us—
-Dialogue: 10,0:12:57.69,0:12:58.72,Default,,0,0,0,,But...
-Dialogue: 10,0:12:59.06,0:13:01.59,Default,,0,0,0,,We can't win on our own.
-Dialogue: 10,0:13:01.59,0:13:04.06,Default,,0,0,0,,Then we need to find some allies.
-Dialogue: 10,0:13:04.06,0:13:04.89,Default,,0,0,0,,What about PS68?
+Dialogue: 10,0:12:54.46,0:12:57.67,Default,,0,0,0,,Um, but there's only five of us—
+Dialogue: 10,0:12:57.67,0:12:58.72,Default,,0,0,0,,But...
+Dialogue: 10,0:12:59.05,0:13:01.59,Default,,0,0,0,,We can't win on our own.
+Dialogue: 10,0:13:01.59,0:13:04.05,Default,,0,0,0,,Then we need to find some allies.
+Dialogue: 10,0:13:04.05,0:13:04.89,Default,,0,0,0,,What about PS68?
 Dialogue: 10,0:13:04.89,0:13:08.64,Default,,0,0,0,,They did help us before, but...
 Dialogue: 10,0:13:13.90,0:13:15.90,Default,,0,0,0,,About that...
-Dialogue: 10,0:13:19.35,0:13:21.66,Default,,0,0,0,,Hello, everyone. It's been a while!
-Dialogue: 10,0:13:21.97,0:13:24.25,Default,,0,0,0,,I'm glad to see you're doing well, Hifumi{**-san}!
-Dialogue: 10,0:13:24.25,0:13:26.79,Default,,0,0,0,,Thank you! It was all thanks to you.
+Dialogue: 10,0:13:19.36,0:13:21.66,Default,,0,0,0,,Hello, everyone. It's been a while!
+Dialogue: 10,0:13:21.99,0:13:24.24,Default,,0,0,0,,I'm glad to see you're doing well, Hifumi{**-san}!
+Dialogue: 10,0:13:24.24,0:13:26.79,Default,,0,0,0,,Thank you! It was all thanks to you.
 Dialogue: 10,0:13:27.33,0:13:28.54,Default,,0,0,0,,Also, sorry.
 Dialogue: 10,0:13:28.54,0:13:32.12,Default,,0,0,0,,I wanted to visit your school, but...
-Dialogue: 10,0:13:32.12,0:13:33.09,Default,,0,0,0,,Huh?
-Dialogue: 10,0:13:33.09,0:13:35.09,Default,,0,0,0,,Thinking about it, where's Hoshino{**-san}?
-Dialogue: 10,0:13:36.91,0:13:38.34,Default,,0,0,0,,You see, thing is...
+Dialogue: 10,0:13:32.12,0:13:33.08,Default,,0,0,0,,Huh?
+Dialogue: 10,0:13:33.08,0:13:35.09,Default,,0,0,0,,Thinking about it, where's Hoshino{**-san}?
+Dialogue: 10,0:13:36.92,0:13:38.34,Default,,0,0,0,,You see, thing is...
 Dialogue: 10,0:13:39.51,0:13:41.34,Default,,0,0,0,,I see.
-Dialogue: 10,0:13:41.71,0:13:44.41,Default,,0,0,0,,Things have changed a lot\nsince we last saw each other.
-Dialogue: 10,0:13:44.41,0:13:48.01,Default,,0,0,0,,Yes. I wish we'd known sooner\nwhat Hoshino{**-senpai} was going through.
-Dialogue: 10,0:13:48.01,0:13:49.85,Default,,0,0,0,,Maybe we could have stopped her sooner.
-Dialogue: 10,0:13:50.69,0:13:52.98,Default,,0,0,0,,But there was nothing we could do anymore.
-Dialogue: 10,0:13:54.09,0:13:58.60,Default,,0,0,0,,Does that mean you're here about Hoshino{**-san}?
-Dialogue: 10,0:13:58.60,0:14:00.49,Default,,0,0,0,,Yes. And to that end...
-Dialogue: 10,0:14:01.14,0:14:04.83,Default,,0,0,0,,We'd like Trinity's help to save Hoshino.
-Dialogue: 10,0:14:08.25,0:14:10.62,Default,,0,0,0,,I'll try asking the Tea Party.
-Dialogue: 10,0:14:12.42,0:14:16.04,Default,,0,0,0,,Hmm, what to do...
-Dialogue: 10,0:14:16.36,0:14:19.43,Default,,0,0,0,,Could I ask for your help, {*}Miss Nagisa{*Nagisa-sama}?
-Dialogue: 10,0:14:19.43,0:14:21.65,Default,,0,0,0,,Which one should I try first?
+Dialogue: 10,0:13:41.72,0:13:44.43,Default,,0,0,0,,Things have changed a lot\nsince we last saw each other.
+Dialogue: 10,0:13:44.43,0:13:48.02,Default,,0,0,0,,Yes. I wish we'd known sooner\nwhat Hoshino{**-senpai} was going through.
+Dialogue: 10,0:13:48.02,0:13:49.85,Default,,0,0,0,,Maybe we could have stopped her sooner.
+Dialogue: 10,0:13:50.68,0:13:52.98,Default,,0,0,0,,But there was nothing we could do anymore.
+Dialogue: 10,0:13:54.10,0:13:58.61,Default,,0,0,0,,Does that mean you're here about Hoshino{**-san}?
+Dialogue: 10,0:13:58.61,0:14:00.49,Default,,0,0,0,,Yes. And to that end...
+Dialogue: 10,0:14:01.15,0:14:04.82,Default,,0,0,0,,We'd like Trinity's help to save Hoshino.
+Dialogue: 10,0:14:08.24,0:14:10.62,Default,,0,0,0,,I'll try asking the Tea Party.
+Dialogue: 10,0:14:12.41,0:14:16.04,Default,,0,0,0,,Hmm, what to do...
+Dialogue: 10,0:14:16.38,0:14:19.42,Default,,0,0,0,,Could I ask for your help, {*}Miss Nagisa{*Nagisa-sama}?
+Dialogue: 10,0:14:19.42,0:14:21.63,Default,,0,0,0,,Which one should I try first?
 Dialogue: 10,0:14:22.59,0:14:28.10,Default,,0,0,0,,This shortcake is delightfully rich with cream\nand complements the tea exquisitely.
 Dialogue: 10,0:14:28.10,0:14:30.81,Default,,0,0,0,,However, this Mont Blanc is equally irresistible.
-Dialogue: 10,0:14:30.81,0:14:32.83,Default,,0,0,0,,Um, {*}Miss Nagisa{*Nagisa-sama}?
-Dialogue: 10,0:14:32.83,0:14:36.06,Default,,0,0,0,,Those students from Abydos have helped me before.
-Dialogue: 10,0:14:36.40,0:14:37.49,Default,,0,0,0,,So please—
-Dialogue: 10,0:14:39.39,0:14:47.70,Default,,0,0,0,,This company, Kaiser PMC, appears to be\na negative influence on our students.
-Dialogue: 10,0:14:48.75,0:14:50.31,Default,,0,0,0,,So you'll hel—
-Dialogue: 10,0:14:50.31,0:14:51.33,Default,,0,0,0,,However.
-Dialogue: 10,0:14:52.87,0:14:55.85,Default,,0,0,0,,There is also the matter of the Treaty to consider.
-Dialogue: 10,0:14:55.85,0:14:58.84,Default,,0,0,0,,We cannot afford to act hastily.
-Dialogue: 10,0:15:01.64,0:15:04.10,Default,,0,0,0,,May I have some time to think this over?
-Dialogue: 10,0:15:05.11,0:15:07.34,Default,,0,0,0,,So we're put on-hold, huh?
-Dialogue: 10,0:15:07.53,0:15:10.11,Default,,0,0,0,,Sorry, this was my idea.
-Dialogue: 10,0:15:10.11,0:15:12.10,Default,,0,0,0,,Guess it's not that easy.
+Dialogue: 10,0:14:30.81,0:14:32.81,Default,,0,0,0,,Um, {*}Miss Nagisa{*Nagisa-sama}?
+Dialogue: 10,0:14:32.81,0:14:36.06,Default,,0,0,0,,Those students from Abydos have helped me before.
+Dialogue: 10,0:14:36.40,0:14:37.48,Default,,0,0,0,,So please—
+Dialogue: 10,0:14:39.40,0:14:47.70,Default,,0,0,0,,This company, Kaiser PMC, appears to be\na negative influence on our students.
+Dialogue: 10,0:14:48.74,0:14:50.33,Default,,0,0,0,,So you'll hel—
+Dialogue: 10,0:14:50.33,0:14:51.33,Default,,0,0,0,,However.
+Dialogue: 10,0:14:52.87,0:14:55.83,Default,,0,0,0,,There is also the matter of the Treaty to consider.
+Dialogue: 10,0:14:55.83,0:14:58.84,Default,,0,0,0,,We cannot afford to act hastily.
+Dialogue: 10,0:15:01.63,0:15:04.09,Default,,0,0,0,,May I have some time to think this over?
+Dialogue: 10,0:15:05.09,0:15:07.34,Default,,0,0,0,,So we're put on-hold, huh?
+Dialogue: 10,0:15:07.51,0:15:10.10,Default,,0,0,0,,Sorry, this was my idea.
+Dialogue: 10,0:15:10.10,0:15:12.10,Default,,0,0,0,,Guess it's not that easy.
 Dialogue: 10,0:15:12.10,0:15:15.94,Default,,0,0,0,,Finding help is a lot tougher than we thought.
-Dialogue: 10,0:15:15.94,0:15:17.67,Default,,0,0,0,,We can't give up.
-Dialogue: 10,0:15:17.67,0:15:19.36,Default,,0,0,0,,I know, but...
-Dialogue: 10,0:15:19.36,0:15:23.46,Default,,0,0,0,,I can't see the next group helping us either.
-Dialogue: 10,0:15:23.46,0:15:26.18,Default,,0,0,0,,That's still no reason to give up.
-Dialogue: 10,0:15:28.39,0:15:29.85,Default,,0,0,0,,It'll be fine.
-Dialogue: 10,0:15:36.62,0:15:40.37,Default,,0,0,0,,I'm sorry that the others couldn't attend this meeting.
-Dialogue: 10,0:15:40.37,0:15:41.88,Default,,0,0,0,,No, it's no problem.
-Dialogue: 10,0:15:42.15,0:15:44.51,Default,,0,0,0,,I would have liked for Chinatsu{**-san} to attend, at least.
-Dialogue: 10,0:15:44.85,0:15:48.01,Default,,0,0,0,,But this school has a bit of trouble following the rules.
-Dialogue: 10,0:15:51.77,0:15:53.67,Default,,0,0,0,,Welcome back, Chinatsu{**-san}.
-Dialogue: 10,0:15:53.67,0:15:55.57,Default,,0,0,0,,Excuse me for being late.
-Dialogue: 10,0:15:58.65,0:15:59.42,Default,,0,0,0,,Want some?
-Dialogue: 10,0:15:59.42,0:16:00.21,Default,,0,0,0,,Huh?
-Dialogue: 10,0:16:00.21,0:16:02.35,Default,,0,0,0,,Oh, thank you.
+Dialogue: 10,0:15:15.94,0:15:17.69,Default,,0,0,0,,We can't give up.
+Dialogue: 10,0:15:17.69,0:15:19.36,Default,,0,0,0,,I know, but...
+Dialogue: 10,0:15:19.36,0:15:23.44,Default,,0,0,0,,I can't see the next group helping us either.
+Dialogue: 10,0:15:23.44,0:15:26.20,Default,,0,0,0,,That's still no reason to give up.
+Dialogue: 10,0:15:28.41,0:15:29.87,Default,,0,0,0,,It'll be fine.
+Dialogue: 10,0:15:36.62,0:15:40.38,Default,,0,0,0,,I'm sorry that the others couldn't attend this meeting.
+Dialogue: 10,0:15:40.38,0:15:41.88,Default,,0,0,0,,No, it's no problem.
+Dialogue: 10,0:15:42.13,0:15:44.51,Default,,0,0,0,,I would have liked for Chinatsu{**-san} to attend, at least.
+Dialogue: 10,0:15:44.84,0:15:48.01,Default,,0,0,0,,But this school has a bit of trouble following the rules.
+Dialogue: 10,0:15:51.76,0:15:53.68,Default,,0,0,0,,Welcome back, Chinatsu{**-san}.
+Dialogue: 10,0:15:53.68,0:15:55.56,Default,,0,0,0,,Excuse me for being late.
+Dialogue: 10,0:15:58.65,0:15:59.44,Default,,0,0,0,,Want some?
+Dialogue: 10,0:15:59.44,0:16:00.23,Default,,0,0,0,,Huh?
+Dialogue: 10,0:16:00.23,0:16:02.36,Default,,0,0,0,,Oh, thank you.
 Dialogue: 10,0:16:04.03,0:16:06.78,Default,,0,0,0,,But that was mine...
-Dialogue: 10,0:16:08.51,0:16:10.78,Default,,0,0,0,,I'm sorry for keeping you waiting.
-Dialogue: 10,0:16:11.17,0:16:12.65,Default,,0,0,0,,We just managed to finish up—
-Dialogue: 10,0:16:12.65,0:16:13.83,Default,,0,0,0,,Excuse me!
+Dialogue: 10,0:16:08.53,0:16:10.78,Default,,0,0,0,,I'm sorry for keeping you waiting.
+Dialogue: 10,0:16:11.16,0:16:12.66,Default,,0,0,0,,We just managed to finish up—
+Dialogue: 10,0:16:12.66,0:16:13.83,Default,,0,0,0,,Excuse me!
 Dialogue: 10,0:16:14.54,0:16:16.29,Default,,0,0,0,,I'm sorry to interrupt your break!
-Dialogue: 10,0:16:16.29,0:16:18.27,Default,,0,0,0,,There's trouble in the cafeteria!
-Dialogue: 10,0:16:18.27,0:16:19.29,Default,,0,0,0,,Understood!
+Dialogue: 10,0:16:16.29,0:16:18.29,Default,,0,0,0,,There's trouble in the cafeteria!
+Dialogue: 10,0:16:18.29,0:16:19.29,Default,,0,0,0,,Understood!
 Dialogue: 10,0:16:19.29,0:16:21.17,Default,,0,0,0,,Thank you.
 Dialogue: 10,0:16:22.13,0:16:24.05,Default,,0,0,0,,I'm sorry for all the confusion!
-Dialogue: 10,0:16:24.05,0:16:25.54,Default,,0,0,0,,Please take your time!
-Dialogue: 10,0:16:27.12,0:16:29.78,Default,,0,0,0,,A-Are things always hectic around here?
-Dialogue: 10,0:16:29.78,0:16:31.80,Default,,0,0,0,,Today's actually been on the quiet side.
-Dialogue: 10,0:16:34.99,0:16:39.49,Default,,0,0,0,,Which reminds me, I wonder how\nthe negotiations are going on their end?
-Dialogue: 10,0:16:40.33,0:16:42.98,Default,,0,0,0,,The Head Prefect is busy at the moment.
+Dialogue: 10,0:16:24.05,0:16:25.55,Default,,0,0,0,,Please take your time!
+Dialogue: 10,0:16:27.13,0:16:29.76,Default,,0,0,0,,A-Are things always hectic around here?
+Dialogue: 10,0:16:29.76,0:16:31.80,Default,,0,0,0,,Today's actually been on the quiet side.
+Dialogue: 10,0:16:34.97,0:16:39.48,Default,,0,0,0,,Which reminds me, I wonder how\nthe negotiations are going on their end?
+Dialogue: 10,0:16:40.31,0:16:42.98,Default,,0,0,0,,The Head Prefect is busy at the moment.
 Dialogue: 10,0:16:42.98,0:16:44.94,Default,,0,0,0,,She's not available to meet right now.
 Dialogue: 10,0:16:44.94,0:16:45.86,Default,,0,0,0,,There has to be a way!
-Dialogue: 10,0:16:47.23,0:16:48.57,Default,,0,0,0,,Well, if you insist.
+Dialogue: 10,0:16:47.24,0:16:48.57,Default,,0,0,0,,Well, if you insist.
 Dialogue: 10,0:16:48.57,0:16:51.74,Default,,0,0,0,,If you get on your knees and lick my feet, I may—
 Dialogue: 10,0:16:52.95,0:16:54.33,Default,,0,0,0,,Wait, what are you doing?!
 Dialogue: 10,0:16:54.33,0:16:59.21,Default,,0,0,0,,D-Do you have zero pride as an adult?\nCouldn't you at least hesitate?!
 Dialogue: 10,0:16:59.21,0:17:00.58,Default,,0,0,0,,This is an emergency!
-Dialogue: 10,0:17:01.87,0:17:03.59,Default,,0,0,0,,{\i1}I've never seen such clear eyes. {### what the hecc does htis mean}
+Dialogue: 10,0:17:01.88,0:17:03.59,Default,,0,0,0,,{\i1}I've never seen such clear eyes. {### what the hecc does htis mean}
 Dialogue: 10,0:17:07.09,0:17:08.97,Default,,0,0,0,,Hey! Enough! Get off me already!
-Dialogue: 10,0:17:08.97,0:17:10.94,Default,,0,0,0,,You look like you're having fun.
+Dialogue: 10,0:17:08.97,0:17:10.93,Default,,0,0,0,,You look like you're having fun.
 Dialogue: 10,0:17:11.59,0:17:14.10,Default,,0,0,0,,P-President Hina!
 Dialogue: 10,0:17:14.10,0:17:16.60,Default,,0,0,0,,Look at him. He's on his knees.
-Dialogue: 10,0:17:16.87,0:17:19.31,Default,,0,0,0,,The situation must be quite serious.
+Dialogue: 10,0:17:16.89,0:17:19.31,Default,,0,0,0,,The situation must be quite serious.
 Dialogue: 10,0:17:19.31,0:17:21.35,Default,,0,0,0,,Well, actually, President Hina...
-Dialogue: 10,0:17:21.67,0:17:25.23,Default,,0,0,0,,He's not actually kneeling, he's... um...
-Dialogue: 10,0:17:25.23,0:17:27.49,Default,,0,0,0,,Licking... my feet...
-Dialogue: 10,0:17:27.49,0:17:28.11,Default,,0,0,0,,Hina!
-Dialogue: 10,0:17:36.63,0:17:39.55,Default,,0,0,0,,So the Prefect Team didn't give us an answer, either...
-Dialogue: 10,0:17:39.55,0:17:42.46,Default,,0,0,0,,Don't worry! We did what we could! {Well, HE did what he could... the glorious bastard...}
-Dialogue: 10,0:17:42.78,0:17:46.10,Default,,0,0,0,,The only ones left are Problem Solver 68!
-Dialogue: 10,0:17:46.10,0:17:49.47,Default,,0,0,0,,But will they agree to help us?
-Dialogue: 10,0:17:49.47,0:17:52.22,Default,,0,0,0,,It's okay. This one's the one.
-Dialogue: 10,0:17:53.95,0:17:56.73,Default,,0,0,0,,Hey, what gives?
-Dialogue: 10,0:17:56.73,0:17:58.36,Default,,0,0,0,,That's weird...
-Dialogue: 10,0:17:58.36,0:18:02.06,Default,,0,0,0,,This is definitely the address they gave me.
+Dialogue: 10,0:17:21.69,0:17:25.23,Default,,0,0,0,,He's not actually kneeling, he's... um...
+Dialogue: 10,0:17:25.23,0:17:27.48,Default,,0,0,0,,Licking... my feet...
+Dialogue: 10,0:17:27.48,0:17:28.11,Default,,0,0,0,,Hina!
+Dialogue: 10,0:17:36.62,0:17:39.54,Default,,0,0,0,,So the Prefect Team didn't give us an answer, either...
+Dialogue: 10,0:17:39.54,0:17:42.46,Default,,0,0,0,,Don't worry! We did what we could! {Well, HE did what he could... the glorious bastard...}
+Dialogue: 10,0:17:42.79,0:17:46.09,Default,,0,0,0,,The only ones left are Problem Solver 68!
+Dialogue: 10,0:17:46.09,0:17:49.46,Default,,0,0,0,,But will they agree to help us?
+Dialogue: 10,0:17:49.46,0:17:52.22,Default,,0,0,0,,It's okay. This one's the one.
+Dialogue: 10,0:17:53.97,0:17:56.72,Default,,0,0,0,,Hey, what gives?
+Dialogue: 10,0:17:56.72,0:17:58.35,Default,,0,0,0,,That's weird...
+Dialogue: 10,0:17:58.35,0:18:02.06,Default,,0,0,0,,This is definitely the address they gave me.
 Dialogue: 10,0:18:02.06,0:18:06.06,Default,,0,0,0,,So what? You're telling me this is the PS68 office?
-Dialogue: 10,0:18:06.06,0:18:08.49,Default,,0,0,0,,Maybe there was a miscommunication?
-Dialogue: 10,0:18:08.49,0:18:13.32,Default,,0,0,0,,This is the only lead we have on them.
-Dialogue: 10,0:18:13.32,0:18:16.22,Default,,0,0,0,,Great, we came all this way for nothing.
-Dialogue: 10,0:18:16.22,0:18:18.32,Default,,0,0,0,,Come on, let's get out of here.
+Dialogue: 10,0:18:06.06,0:18:08.48,Default,,0,0,0,,Maybe there was a miscommunication?
+Dialogue: 10,0:18:08.48,0:18:13.32,Default,,0,0,0,,This is the only lead we have on them.
+Dialogue: 10,0:18:13.32,0:18:16.20,Default,,0,0,0,,Great, we came all this way for nothing.
+Dialogue: 10,0:18:16.20,0:18:18.33,Default,,0,0,0,,Come on, let's get out of here.
 Dialogue: 10,0:18:19.70,0:18:23.79,Default,,0,0,0,,Geez, where did they run off to?
-Dialogue: 10,0:18:28.12,0:18:29.88,Default,,0,0,0,,Hey, Boss, been a while!
-Dialogue: 10,0:18:30.61,0:18:32.13,Default,,0,0,0,,Oh, welcome in!
+Dialogue: 10,0:18:28.13,0:18:29.88,Default,,0,0,0,,Hey, Boss, been a while!
+Dialogue: 10,0:18:30.63,0:18:32.13,Default,,0,0,0,,Oh, welcome in!
 Dialogue: 10,0:18:32.13,0:18:33.97,Default,,0,0,0,,What a beautiful stall!
 Dialogue: 10,0:18:33.97,0:18:36.72,Default,,0,0,0,,It has a nostalgic vibe!
 Dialogue: 10,0:18:36.72,0:18:37.60,Default,,0,0,0,,That so?
-Dialogue: 10,0:18:37.95,0:18:41.10,Default,,0,0,0,,Y'know, Shiba Seki Ramen started out as just a little stall.
+Dialogue: 10,0:18:37.93,0:18:41.10,Default,,0,0,0,,Y'know, Shiba Seki Ramen started out as just a little stall.
 Dialogue: 10,0:18:41.35,0:18:43.85,Default,,0,0,0,,Feels like I'm back in those days, almost.
-Dialogue: 10,0:18:44.27,0:18:46.34,Default,,0,0,0,,I'm glad to see you're doing well.
-Dialogue: 10,0:18:46.34,0:18:49.52,Default,,0,0,0,,Now we can have your ramen again.
+Dialogue: 10,0:18:44.27,0:18:46.36,Default,,0,0,0,,I'm glad to see you're doing well.
+Dialogue: 10,0:18:46.36,0:18:49.52,Default,,0,0,0,,Now we can have your ramen again.
 Dialogue: 10,0:18:49.52,0:18:53.53,Default,,0,0,0,,Gosh, I don't know what woulda happened\nif it weren't for that cash.
-Dialogue: 10,0:18:53.53,0:18:55.69,Default,,0,0,0,,I'm sure you would've figured something out.
-Dialogue: 10,0:18:55.69,0:18:58.45,Default,,0,0,0,,Well, not like quittin' was an option anyway.
+Dialogue: 10,0:18:53.53,0:18:55.70,Default,,0,0,0,,I'm sure you would've figured something out.
+Dialogue: 10,0:18:55.70,0:18:58.45,Default,,0,0,0,,Well, not like quittin' was an option anyway.
 Dialogue: 10,0:18:58.78,0:19:03.46,Default,,0,0,0,,There's still plenty o' folk\nwaiting to taste my ramen.
 Dialogue: 10,0:19:03.83,0:19:06.83,Default,,0,0,0,,Earlier, these two darling girls stopped by.
-Dialogue: 10,0:19:06.83,0:19:10.97,Default,,0,0,0,,Looked right pleased eatin',\nsaid my ramen hit the spot after a long day.
-Dialogue: 10,0:19:10.97,0:19:12.58,Default,,0,0,0,,Can't ask for more than that.
-Dialogue: 10,0:19:13.85,0:19:15.10,Default,,0,0,0,,How're things for you?
-Dialogue: 10,0:19:15.10,0:19:17.34,Default,,0,0,0,,Well, could be better.
+Dialogue: 10,0:19:06.83,0:19:10.96,Default,,0,0,0,,Looked right pleased eatin',\nsaid my ramen hit the spot after a long day.
+Dialogue: 10,0:19:10.96,0:19:12.59,Default,,0,0,0,,Can't ask for more than that.
+Dialogue: 10,0:19:13.84,0:19:15.09,Default,,0,0,0,,How're things for you?
+Dialogue: 10,0:19:15.09,0:19:17.34,Default,,0,0,0,,Well, could be better.
 Dialogue: 10,0:19:17.34,0:19:20.51,Default,,0,0,0,,We tryied reaching out to\na lot of people to ask for help.
-Dialogue: 10,0:19:20.51,0:19:25.29,Default,,0,0,0,,And we have trouble finding\nthe last group we can turn to.
-Dialogue: 10,0:19:25.29,0:19:28.52,Default,,0,0,0,,If we can't find them soon,\nwe may have to give up.
-Dialogue: 10,0:19:29.95,0:19:32.51,Default,,0,0,0,,Boss, can we get the cheque?
+Dialogue: 10,0:19:20.51,0:19:25.31,Default,,0,0,0,,And we have trouble finding\nthe last group we can turn to.
+Dialogue: 10,0:19:25.31,0:19:28.52,Default,,0,0,0,,If we can't find them soon,\nwe may have to give up.
+Dialogue: 10,0:19:29.94,0:19:32.53,Default,,0,0,0,,Boss, can we get the cheque?
 Dialogue: 10,0:19:34.95,0:19:36.41,Default,,0,0,0,,It's them!
 Dialogue: 10,0:19:39.57,0:19:44.16,Default,,0,0,0,,You want us to fight Kaiser PMC for free?
-Dialogue: 10,0:19:44.16,0:19:48.09,Default,,0,0,0,,I don't see what's in it for us.
-Dialogue: 10,0:19:49.09,0:19:51.89,Default,,0,0,0,,I know, and I'm really sorry.
-Dialogue: 10,0:19:51.89,0:19:54.37,Default,,0,0,0,,Come on, Kayoko{**-chan}. Take a close look.
-Dialogue: 10,0:19:54.37,0:19:55.05,Default,,0,0,0,,Huh?
+Dialogue: 10,0:19:44.16,0:19:48.08,Default,,0,0,0,,I don't see what's in it for us.
+Dialogue: 10,0:19:49.08,0:19:51.88,Default,,0,0,0,,I know, and I'm really sorry.
+Dialogue: 10,0:19:51.88,0:19:54.38,Default,,0,0,0,,Come on, Kayoko{**-chan}. Take a close look.
+Dialogue: 10,0:19:54.38,0:19:55.05,Default,,0,0,0,,Huh?
 Dialogue: 10,0:19:55.05,0:19:59.47,Default,,0,0,0,,"We don't need your money.\nThis super tasty ramen is all we need!"
-Dialogue: 10,0:19:59.47,0:20:01.74,Default,,0,0,0,,Look, it's written all over her face!
-Dialogue: 10,0:20:01.74,0:20:02.89,Default,,0,0,0,,You're right!
+Dialogue: 10,0:19:59.47,0:20:01.72,Default,,0,0,0,,Look, it's written all over her face!
+Dialogue: 10,0:20:01.72,0:20:02.89,Default,,0,0,0,,You're right!
 Dialogue: 10,0:20:02.89,0:20:04.43,Default,,0,0,0,,{*}Miss Aru{*Aru-sama} is so brave!
-Dialogue: 10,0:20:04.75,0:20:09.44,Default,,0,0,0,,She doesn't waste time with words\nas she marches into hell for a bowl of ramen.
-Dialogue: 10,0:20:09.44,0:20:11.81,Default,,0,0,0,,She's the picture of a hard-boiled outlaw!
+Dialogue: 10,0:20:04.77,0:20:09.44,Default,,0,0,0,,She doesn't waste time with words\nas she marches into hell for a bowl of ramen.
+Dialogue: 10,0:20:09.44,0:20:11.82,Default,,0,0,0,,She's the picture of a hard-boiled outlaw!
 Dialogue: 10,0:20:14.32,0:20:15.86,Default,,0,0,0,,Sorry.
-Dialogue: 10,0:20:16.56,0:20:18.11,Default,,0,0,0,,But can I think it over first?
-Dialogue: 10,0:20:18.55,0:20:19.07,Default,,0,0,0,,What?!
+Dialogue: 10,0:20:16.57,0:20:18.11,Default,,0,0,0,,But can I think it over first?
+Dialogue: 10,0:20:18.53,0:20:19.07,Default,,0,0,0,,What?!
 Dialogue: 10,0:20:19.07,0:20:19.99,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}?
 Dialogue: 10,0:20:19.99,0:20:22.16,Default,,0,0,0,,Are you for real, Boss?
 Dialogue: 10,0:20:22.16,0:20:23.37,Default,,0,0,0,,I see.
-Dialogue: 10,0:20:23.61,0:20:24.63,Default,,0,0,0,,I understand.
+Dialogue: 10,0:20:23.62,0:20:24.62,Default,,0,0,0,,I understand.
 Dialogue: 10,0:20:25.75,0:20:27.21,Default,,0,0,0,,Come on, let's go.
-Dialogue: 10,0:20:27.21,0:20:29.99,Default,,0,0,0,,Hey, wait! Hold on, Aru{**-chan}!
-Dialogue: 10,0:20:30.55,0:20:32.91,Default,,0,0,0,,Don't beat yourself up over it, {*}Teacher{*Sensei}.
-Dialogue: 10,0:20:32.91,0:20:34.13,Default,,0,0,0,,It's okay.
+Dialogue: 10,0:20:27.21,0:20:30.00,Default,,0,0,0,,Hey, wait! Hold on, Aru{**-chan}!
+Dialogue: 10,0:20:30.54,0:20:32.92,Default,,0,0,0,,Don't beat yourself up over it, {*}Teacher{*Sensei}.
+Dialogue: 10,0:20:32.92,0:20:34.13,Default,,0,0,0,,It's okay.
 Dialogue: 10,0:20:34.63,0:20:38.01,Default,,0,0,0,,I have faith that they'll help us.
-Dialogue: 10,0:20:43.03,0:20:45.27,Default,,0,0,0,,{\i1}Faith, huh.
-Dialogue: 10,0:20:46.69,0:20:51.52,Default,,0,0,0,,{\i1}Come to think of it, my restaurant'll always be there\nso long as my customers believe in it.
+Dialogue: 10,0:20:43.01,0:20:45.27,Default,,0,0,0,,{\i1}Faith, huh.
+Dialogue: 10,0:20:46.68,0:20:51.52,Default,,0,0,0,,{\i1}Come to think of it, my restaurant'll always be there\nso long as my customers believe in it.
 Dialogue: 10,0:20:52.11,0:20:53.77,Default,,0,0,0,,{\i1}It's the same thing 'ere.
-Dialogue: 10,0:20:54.33,0:20:57.65,Default,,0,0,0,,{\i1}If everything goes wrong,\njust start over and try again.
-Dialogue: 10,0:20:58.59,0:21:01.78,Default,,0,0,0,,{\i1}There'll always be a path forward,\nas long as you believe.
-Dialogue: 10,0:21:02.81,0:21:05.34,Default,,0,0,0,,{\i1}Go get 'em, Task Force.
-Dialogue: 10,0:21:05.34,0:21:06.79,Default,,0,0,0,,{\i1}And once you're done,
-Dialogue: 10,0:21:07.46,0:21:10.33,Default,,0,0,0,,{\i1}come back for a steamy bowl o' ramen!
-Dialogue: 10,0:21:13.48,0:21:15.75,Default,,0,0,0,,Is everyone ready?
+Dialogue: 10,0:20:54.32,0:20:57.65,Default,,0,0,0,,{\i1}If everything goes wrong,\njust start over and try again.
+Dialogue: 10,0:20:58.57,0:21:01.78,Default,,0,0,0,,{\i1}There'll always be a path forward,\nas long as you believe.
+Dialogue: 10,0:21:02.82,0:21:05.33,Default,,0,0,0,,{\i1}Go get 'em, Task Force.
+Dialogue: 10,0:21:05.33,0:21:06.79,Default,,0,0,0,,{\i1}And once you're done,
+Dialogue: 10,0:21:07.45,0:21:10.33,Default,,0,0,0,,{\i1}come back for a steamy bowl o' ramen!
+Dialogue: 10,0:21:13.46,0:21:15.75,Default,,0,0,0,,Is everyone ready?
 Dialogue: 10,0:21:16.80,0:21:18.17,Default,,0,0,0,,I'm ready to go whenever.
 Dialogue: 10,0:21:18.17,0:21:20.84,Default,,0,0,0,,I've packed plenty of ammunition.
 Dialogue: 10,0:21:20.84,0:21:22.84,Default,,0,0,0,,I got a good night's sleep.
 Dialogue: 10,0:21:23.18,0:21:26.47,Default,,0,0,0,,Kaiser PMC doesn't stand a chance!
 Dialogue: 10,0:21:27.89,0:21:30.35,Default,,0,0,0,,According to the intel {*}Teacher{*Sensei} got us,
-Dialogue: 10,0:21:30.67,0:21:35.36,Default,,0,0,0,,Hoshino is being held in District 51,\ninside the Kaiser PMC base.
-Dialogue: 10,0:21:35.36,0:21:36.59,Default,,0,0,0,,Yes.
-Dialogue: 10,0:21:36.59,0:21:38.49,Default,,0,0,0,,Let's get moving.
-Dialogue: 10,0:21:38.75,0:21:39.49,Default,,0,0,0,,All right.
+Dialogue: 10,0:21:30.69,0:21:35.36,Default,,0,0,0,,Hoshino is being held in District 51,\ninside the Kaiser PMC base.
+Dialogue: 10,0:21:35.36,0:21:36.61,Default,,0,0,0,,Yes.
+Dialogue: 10,0:21:36.61,0:21:38.49,Default,,0,0,0,,Let's get moving.
+Dialogue: 10,0:21:38.74,0:21:39.49,Default,,0,0,0,,All right.
 Dialogue: 10,0:21:39.49,0:21:41.49,Default,,0,0,0,,Our objective is to rescue Hoshino{**-senpai}.
-Dialogue: 10,0:21:43.55,0:21:44.53,Default,,0,0,0,,{=5}Let's do this.
+Dialogue: 10,0:21:43.53,0:21:44.53,Default,,0,0,0,,{=5}Let's do this.
 
 [Aegisub Extradata]
 Data: 0,_aegi_folddata,e0;1;1
