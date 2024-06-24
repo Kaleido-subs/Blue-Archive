@@ -96,18 +96,18 @@ Dialogue: 10,0:06:08.35,0:06:11.52,Default,,0,0,0,,Hoshino's still part of the T
 Dialogue: 10,0:06:11.52,0:06:13.77,Default,,0,0,0,,She's still the vice president of Abydos.
 Dialogue: 10,0:06:13.77,0:06:17.02,Default,,0,0,0,,And she's still my precious student.
 Dialogue: 10,0:06:17.37,0:06:18.93,Default,,0,0,0,,Interesting.
-Dialogue: 10,0:06:18.93,0:06:24.63,Default,,0,0,0,,because you're their teacher,\nany significant{### /drastic?} actions necessitate your signature.
+Dialogue: 10,0:06:18.93,0:06:24.63,Default,,0,0,0,,Because you're their teacher,\nany significant{### /drastic?} actions necessitate your signature.
 Dialogue: 10,0:06:25.71,0:06:28.28,Default,,0,0,0,,That's rather inconvenient.
 Dialogue: 10,0:06:28.28,0:06:32.48,Default,,0,0,0,,You deceived my students. \NYou and your organisation.
 Dialogue: 10,0:06:32.48,0:06:36.22,Default,,0,0,0,,You toyed with their feelings\nand took advantage of their suffering.
 Dialogue: 10,0:06:36.22,0:06:38.92,Default,,0,0,0,,Yes, that's exactly right.
 Dialogue: 10,0:06:38.92,0:06:44.34,Default,,0,0,0,,In terms of "good" or "evil", our actions\nwould unambiguously fall under "evil".
 Dialogue: 10,0:06:44.34,0:06:46.30,Default,,0,0,0,,Evil, yes, but well within our rights.
-Dialogue: 10,0:06:46.30,0:06:49.31,Default,,0,0,0,ED,But let me make one thing clear. {This is referring to the previous statement. He doesn't need to stress the sandstorms weren't his responsibility, as he is not Storm from the X-Men. So something like "."}{"You mustn't suggest otherwise." or smth like that. It is referring to the last line.}{### I still want to think of a better way to phrase this}
+Dialogue: 10,0:06:46.30,0:06:49.31,Default,,0,0,0,,And it would do ill to suggest otherwise.
 Dialogue: 10,0:06:49.67,0:06:54.41,Default,,0,0,0,ED,The disaster that struck Abydos was not our doing. {Transition with "And" here, I think --ik}
 Dialogue: 10,0:06:55.06,0:06:59.57,Default,,0,0,0,,The sandstorms that besieged Abydos were atypical,\nbut not outside the realm of possibility.
 Dialogue: 10,0:06:59.83,0:07:02.93,Default,,0,0,0,,Natural disasters are always unpredictable.
-Dialogue: 10,0:07:03.96,0:07:07.57,Default,,0,0,0,,Should some people suffer thirst as a result,
+Dialogue: 10,0:07:03.96,0:07:07.57,Default,,0,0,0,,Should some people suffer of thirst as a result,
 Dialogue: 10,0:07:07.87,0:07:11.39,Default,,0,0,0,,opportunists will naturally emerge to sell them water.
 Dialogue: 10,0:07:11.39,0:07:14.49,Default,,0,0,0,,This is simply business as usual.
 Dialogue: 10,0:07:14.49,0:07:18.57,Default,,0,0,0,,Even if that water is sold at an exorbitant price?
@@ -125,8 +125,8 @@ Dialogue: 10,0:07:59.35,0:08:00.88,Default,,0,0,0,,You are powerless.
 Dialogue: 10,0:08:00.88,0:08:03.31,Default,,0,0,0,,You lack any means of fighting us.
 Dialogue: 10,0:08:03.31,0:08:04.71,Default,,0,0,0,,That may be true.
 Dialogue: 10,0:08:04.71,0:08:08.10,Default,,0,0,0,,But if someone needs my help,\nI refuse to idly stand by.
-Dialogue: 10,0:08:08.10,0:08:10.14,Default,,0,0,0,,No matter the odds,
-Dialogue: 10,0:08:10.53,0:08:15.89,Default,,0,0,0,,I need to prove to them that so long as they\ndon't give up, their voices will reach {\i1}someone{\i0}!
+Dialogue: 10,0:08:08.10,0:08:10.14,Default,,0,0,0,,I need to prove to them
+Dialogue: 10,0:08:10.53,0:08:15.89,Default,,0,0,0,,that no matter how bad things get, as long as they\ndon't give up, their voices will reach {\i1}someone{\i0}!
 Dialogue: 10,0:08:16.83,0:08:18.81,Default,,0,0,0,,That's simply absurd.
 Dialogue: 10,0:08:19.33,0:08:23.23,Default,,0,0,0,,Why are those girls still alone then?
 Dialogue: 10,0:08:23.54,0:08:26.74,Default,,0,0,0,,If nothing else, their voices reached {\i1}me{\i0}.
@@ -140,7 +140,7 @@ Dialogue: 10,0:08:43.02,0:08:46.21,Default,,0,0,0,,Why, why, why, why, {\i1}why{
 Dialogue: 10,0:08:46.51,0:08:50.02,Default,,0,0,0,,I don't understand. Why do you refuse?
 Dialogue: 10,0:08:50.02,0:08:54.47,Default,,0,0,0,,Those girls were in pain this entire time,\nand not a single adult took responsibility.
 Dialogue: 10,0:08:54.89,0:08:57.69,Default,,0,0,0,,And you're saying {\i1}you{\i0} will take responsibility?
-Dialogue: 10,0:08:57.69,0:09:00.48,Default,,0,0,0,,They're not your children.\nWhy go so far for them?
+Dialogue: 10,0:08:57.69,0:09:00.48,Default,,0,0,0,,They're not your children.\nWhy put the onus on yourself?
 Dialogue: 10,0:09:01.59,0:09:02.86,Default,,0,0,0,,You're right.
 Dialogue: 10,0:09:02.86,0:09:04.48,Default,,0,0,0,,They're not my children.
 Dialogue: 10,0:09:05.57,0:09:07.36,Default,,0,0,0,,One day, a letter brought me to Abydos
@@ -177,19 +177,19 @@ Dialogue: 10,0:10:29.01,0:10:30.23,Default,,0,0,0,,So why did you?
 Dialogue: 10,0:10:31.98,0:10:35.16,Default,,0,0,0,,Even if I told you, you would never understand.
 Dialogue: 10,0:10:39.09,0:10:40.33,Default,,0,0,0,,Very well.
 Dialogue: 10,0:10:40.33,0:10:42.66,Default,,0,0,0,,It appears we've reached an impasse.
-Dialogue: 10,0:10:43.23,0:10:48.17,Default,,0,0,0,ED,I had high hopes for you,\nbut I'll have to cut the negotiations short. {"so" makes no sense here. Maybe "It appears we are at an impasse. I had such high hopes, but clearly I was mistaken." --ik}
+Dialogue: 10,0:10:43.23,0:10:48.17,Default,,0,0,0,,I had high hopes for you, but I'm afraid\nI'll have to cut our negotiations short.
 Dialogue: 10,0:10:49.46,0:10:55.39,Default,,0,0,0,,You'll find {*}Miss Hoshino{*Hoshino-san} in the laboratory\nbeneath one of Kaiser PMC's desert bases.
-Dialogue: 10,0:10:55.39,0:10:59.43,Default,,0,0,0,,Mimesis allowed us to observe\na different facet of Mystics: Terror.
-Dialogue: 10,0:10:59.43,0:11:03.18,Default,,0,0,0,,We were interested to explore\nits application on a living student.
-Dialogue: 10,0:11:03.71,0:11:07.19,Default,,0,0,0,,She was meant to serve as\na test bed to confirm our hypotheses.
+Dialogue: 10,0:10:55.39,0:10:59.43,Default,,0,0,0,,Via Mimesis we were able to observe\na different facet of Mystics: Terror.
+Dialogue: 10,0:10:59.43,0:11:03.18,Default,,0,0,0,,Our goal was to to explore\nits application on a living student.
+Dialogue: 10,0:11:03.71,0:11:07.19,Default,,0,0,0,,The girl was meant to serve\nas a test bed to confirm our hypotheses.
 Dialogue: 10,0:11:07.80,0:11:09.69,Default,,0,0,0,,Your hypotheses?
 Dialogue: 10,0:11:09.69,0:11:14.53,Default,,0,0,0,,Now that negotiations have broken down,\nmy hands are tied.
 Dialogue: 10,0:11:15.23,0:11:17.70,Default,,0,0,0,,It's unfortunate, but our involvement ends here.
 Dialogue: 10,0:11:18.30,0:11:19.71,Default,,0,0,0,,So then Hoshino is...
 Dialogue: 10,0:11:19.71,0:11:21.35,Default,,0,0,0,,Go ahead. Do what you will.
-Dialogue: 10,0:11:21.35,0:11:23.58,Default,,0,0,0,,You are free to take her back, if you so like.
-Dialogue: 10,0:11:25.12,0:11:31.63,Default,,0,0,0,,Of course, that's assuming the director\nallows you to reach her in the first place.
-Dialogue: 10,0:11:33.13,0:11:35.38,Default,,0,0,0,,I'm glad we could have this conversation.
+Dialogue: 10,0:11:21.35,0:11:23.58,Default,,0,0,0,,You are free to take her, if you'd so like.
+Dialogue: 10,0:11:25.12,0:11:31.63,Default,,0,0,0,,Of course, assuming the director\nallows you to see her in the first place.
+Dialogue: 10,0:11:33.13,0:11:35.38,Default,,0,0,0,,I'm glad we had this conversation.
 Dialogue: 10,0:11:35.77,0:11:38.22,Default,,0,0,0,,May we meet again.
 Dialogue: 10,0:11:40.55,0:11:43.23,Default,,0,0,0,,I wish you the best of luck.
 Dialogue: 10,0:11:48.27,0:11:51.58,Default,,0,0,0,,A laboratory underneath the Kaiser PMC base...
