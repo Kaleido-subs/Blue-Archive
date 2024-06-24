@@ -7,10 +7,14 @@ WrapStyle: 0
 PlayResX: 1920
 PlayResY: 1080
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: BA
-Video Zoom Percent: 1.000000
+Audio File: ../../../../../Volumes/Games_SSD/Temp/[Ioroid] Blue Archive the Animation - 12 [AMZN WEB-DL 1080p AVC E-AC3].mkv
+Video File: ../../../../../Volumes/Games_SSD/Temp/[Ioroid] Blue Archive the Animation - 12 [AMZN WEB-DL 1080p AVC E-AC3].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
