@@ -46,7 +46,7 @@ Dialogue: 10,0:00:34.98,0:00:35.88,Default,,0,0,0,,In that case...
 Dialogue: 10,0:00:38.63,0:00:39.94,Default,,0,0,0,,Come on in.
 Dialogue: 10,0:00:43.72,0:00:44.60,Default,,0,0,0,,Who is that?
 Dialogue: 10,0:00:45.43,0:00:47.32,Default,,0,0,0,,Wait. Is that you, Hoshino?
-Dialogue: 10,0:01:00.01,0:01:01.01,Default,,0,0,0,,What's this? {uwu?}
+Dialogue: 10,0:01:00.01,0:01:01.01,Default,,0,0,0,,What's this? 
 Dialogue: 10,0:02:49.83,0:02:50.85,Default,,0,0,0,,Is this the place?
 Dialogue: 10,0:03:33.39,0:03:36.36,Default,,0,0,0,,This should be the right floor.
 Dialogue: 10,0:03:38.41,0:03:41.17,Default,,0,0,0,,I've been expecting you, {*}Mr. Teacher{*Sensei}.
@@ -104,8 +104,8 @@ Dialogue: 10,0:06:36.22,0:06:38.92,Default,,0,0,0,,Yes, that's exactly right.
 Dialogue: 10,0:06:38.92,0:06:44.34,Default,,0,0,0,,In terms of "good" or "evil", our actions\nwould unambiguously fall under "evil".
 Dialogue: 10,0:06:44.34,0:06:46.30,Default,,0,0,0,,Evil, yes, but well within our rights.
 Dialogue: 10,0:06:46.30,0:06:49.31,Default,,0,0,0,,And it would do ill to suggest otherwise.
-Dialogue: 10,0:06:49.67,0:06:54.41,Default,,0,0,0,ED,The disaster that struck Abydos was not our doing. {Transition with "And" here, I think --ik}
-Dialogue: 10,0:06:55.06,0:06:59.57,Default,,0,0,0,,The sandstorms that besieged Abydos were atypical,\nbut not outside the realm of possibility.
+Dialogue: 10,0:06:49.67,0:06:54.41,Default,,0,0,0,QC,On the topic of evil, the disaster\nthat struck Abydos was not our doing. {### still not 100% sure what to do here. He's basically transitioning into saying they were not the ones behind those sandstorms, they just took advantage of it. But it's too random of a switch without a connection to the previous lines. Petz, got any ideas?}
+Dialogue: 10,0:06:55.06,0:06:59.57,Default,,0,0,0,,Those sandstorms were atypical,\nbut not outside the realm of possibility.
 Dialogue: 10,0:06:59.83,0:07:02.93,Default,,0,0,0,,Natural disasters are always unpredictable.
 Dialogue: 10,0:07:03.96,0:07:07.57,Default,,0,0,0,,Should some people suffer of thirst as a result,
 Dialogue: 10,0:07:07.87,0:07:11.39,Default,,0,0,0,,opportunists will naturally emerge to sell them water.
@@ -161,14 +161,14 @@ Dialogue: 10,0:09:36.42,0:09:37.97,Default,,0,0,0,,In fact, you couldn't be more
 Dialogue: 10,0:09:38.40,0:09:41.75,Default,,0,0,0,,Adults bend society to their own will.
 Dialogue: 10,0:09:41.75,0:09:45.03,Default,,0,0,0,,They decide what is right, what is proper.
 Dialogue: 10,0:09:45.03,0:09:47.73,Default,,0,0,0,,What is the norm, and what is not.
-Dialogue: 10,0:09:48.11,0:09:50.70,Default,,0,0,0,,Adults rule the aimless with authority, {"aimless" feels off. The original is "they use authority to rule those without authority", so there should be a clear parallel between the ideas. Maybe "The masses kneel before their authority, the ignorant bow before their knowledge, and the weak cower before their strength." --ik}
+Dialogue: 10,0:09:48.11,0:09:50.70,Default,,0,0,0,QC,Adults rule the aimless with authority, {"aimless" feels off. The original is "they use authority to rule those without authority", so there should be a clear parallel between the ideas. Maybe "The masses kneel before their authority, the ignorant bow before their knowledge, and the weak cower before their strength." --ik}
 Dialogue: 10,0:09:50.70,0:09:52.92,Default,,0,0,0,,the ignorant with knowledge,
 Dialogue: 10,0:09:52.92,0:09:55.80,Default,,0,0,0,,and the weak with power.
 Dialogue: 10,0:09:55.80,0:09:57.74,Default,,0,0,0,,{\i1}That{\i0} is what it means to be an adult.
 Dialogue: 10,0:09:58.36,0:10:00.34,Default,,0,0,0,,I simply don't understand.
 Dialogue: 10,0:10:00.34,0:10:04.00,Default,,0,0,0,,You could have ruled over Kivotos.
 Dialogue: 10,0:10:04.00,0:10:08.71,Default,,0,0,0,,It could have been yours.\nThe authority, the privileges...
-Dialogue: 10,0:10:08.71,0:10:12.01,Default,,0,0,0,,the Mystics that fill this academy city. {### petz, does this sentence fragment need to be capitalised?}
+Dialogue: 10,0:10:08.71,0:10:12.01,Default,,0,0,0,QC,the Mystics that fill this academy city. {### petz, does this sentence fragment need to be capitalised?}
 Dialogue: 10,0:10:12.38,0:10:17.76,Default,,0,0,0,,It may have been brief,\nbut you held it all in the palm of your hand.
 Dialogue: 10,0:10:18.81,0:10:21.48,Default,,0,0,0,,Yet you threw it all away\nwithout a moment's hesitation!
 Dialogue: 10,0:10:22.02,0:10:25.86,Default,,0,0,0,,Truth and mystery. Authority. Riches. {\i1}Power{\i0}.
@@ -284,7 +284,7 @@ Dialogue: 10,0:16:12.66,0:16:13.83,Default,,0,0,0,,Excuse me!
 Dialogue: 10,0:16:14.54,0:16:16.29,Default,,0,0,0,,I'm sorry to interrupt your break!
 Dialogue: 10,0:16:16.29,0:16:18.29,Default,,0,0,0,,There's trouble in the cafeteria! {## FUUKA IS BEING KIDNAPPED AGAIN (눈‸눈 )}
 Dialogue: 10,0:16:18.29,0:16:19.29,Default,,0,0,0,,Understood!
-Dialogue: 10,0:16:19.29,0:16:21.17,Default,,0,0,0,TLC,Thank you. {specifically, thank you for the tea. Just "thank you" feels a bit out of the blue. Thank you for coming? Thank you for waiting? Thank you for letting me leave? --ik}{### obvious enough from just looking at the video imo}
+Dialogue: 10,0:16:19.29,0:16:21.17,Default,,0,0,0,TLC/QC,Thank you. {specifically, thank you for the tea. Just "thank you" feels a bit out of the blue. Thank you for coming? Thank you for waiting? Thank you for letting me leave? --ik}{### obvious enough from just looking at the video imo}
 Dialogue: 10,0:16:22.13,0:16:24.05,Default,,0,0,0,,I'm sorry for all the confusion!
 Dialogue: 10,0:16:24.05,0:16:25.55,Default,,0,0,0,,Please take your time!
 Dialogue: 10,0:16:27.13,0:16:29.76,Default,,0,0,0,,A-Are things always this hectic around here?
@@ -335,7 +335,7 @@ Dialogue: 10,0:18:49.52,0:18:53.53,Default,,0,0,0,,Gosh, I don't know what would
 Dialogue: 10,0:18:53.53,0:18:55.70,Default,,0,0,0,,I'm sure you would've figured something out.
 Dialogue: 10,0:18:55.70,0:18:58.45,Default,,0,0,0,,Well, not like quittin' was an option anyway.
 Dialogue: 10,0:18:58.78,0:19:03.46,Default,,0,0,0,,There's still plenty o' folk\nwaiting to taste my ramen.
-Dialogue: 10,0:19:03.83,0:19:06.83,Default,,0,0,0,ED,Earlier, these two darlings stopped by. {two bonny lasses. Make him Scottish now and confuse EVERYONE --ik}{### lol I am awful at accents}
+Dialogue: 10,0:19:03.83,0:19:06.83,Default,,0,0,0,ED/QC,Earlier, these two darlings stopped by. {two bonny lasses. Make him Scottish now and confuse EVERYONE --ik}{### lol I am awful at accents}
 Dialogue: 10,0:19:06.83,0:19:10.96,Default,,0,0,0,,Tucked right in, said my ramen\nhit just the spot after a long day.
 Dialogue: 10,0:19:10.96,0:19:12.59,Default,,0,0,0,,Can't ask for more than that.
 Dialogue: 10,0:19:13.84,0:19:15.09,Default,,0,0,0,,How're things for you?
