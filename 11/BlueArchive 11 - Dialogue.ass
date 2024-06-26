@@ -51,7 +51,7 @@ Dialogue: 10,0:02:49.83,0:02:50.85,Default,,0,0,0,,Is this the place?
 Dialogue: 10,0:03:33.39,0:03:36.36,Default,,0,0,0,,This should be the right floor.
 Dialogue: 10,0:03:38.41,0:03:41.17,Default,,0,0,0,,I've been expecting you, {*}Mr. Teacher{*Sensei}.
 Dialogue: 10,0:03:42.35,0:03:47.66,Default,,0,0,0,,I've long been eager to\ndiscuss matters directly with you.
-Dialogue: 10,0:03:47.66,0:03:50.88,Default,,0,0,0,,As the GSC President's enigmatic guest,\nyour reputation precedes you,
+Dialogue: 10,0:03:47.66,0:03:50.88,Default,,0,0,0,,Your reputation as the GSC President's\nenigmatic guest precedes you,
 Dialogue: 10,0:03:51.20,0:03:54.38,Default,,0,0,0,,teacher of the Federal Investigations Club Schale.
 Dialogue: 10,0:03:57.87,0:03:59.55,Default,,0,0,0,,There's no need to be so on guard. {BE NOT AFRAID}
 Dialogue: 10,0:03:59.55,0:04:03.43,Default,,0,0,0,,We're not looking to become your enemy.
@@ -62,7 +62,7 @@ Dialogue: 10,0:04:15.37,0:04:18.71,Default,,0,0,0,,You hold the potential to bec
 Dialogue: 10,0:04:19.29,0:04:20.98,Default,,0,0,0,,Who are you people?
 Dialogue: 10,0:04:20.98,0:04:25.16,Default,,0,0,0,,Oh, my. Where are my manners?\nAllow me to introduce myself.
 Dialogue: 10,0:04:26.09,0:04:30.79,Default,,0,0,0,,You can call me Black Suit. I won't mind.
-Dialogue: 10,0:04:31.29,0:04:33.68,Default,,0,0,0,,I've grown rather fond of this name, you see?
+Dialogue: 10,0:04:31.29,0:04:33.68,Default,,0,0,0,,I've grown rather fond of this name, you see.
 Dialogue: 10,0:04:35.81,0:04:38.76,Default,,0,0,0,,We are much like you.
 Dialogue: 10,0:04:38.76,0:04:39.82,Default,,0,0,0,,Like me?
 Dialogue: 10,0:04:39.82,0:04:41.30,Default,,0,0,0,,Yes, like you.
@@ -96,7 +96,7 @@ Dialogue: 10,0:06:08.35,0:06:11.52,Default,,0,0,0,,Hoshino's still part of the T
 Dialogue: 10,0:06:11.52,0:06:13.77,Default,,0,0,0,,She's still the vice president of Abydos.
 Dialogue: 10,0:06:13.77,0:06:17.02,Default,,0,0,0,,And she's still my precious student.
 Dialogue: 10,0:06:17.37,0:06:18.93,Default,,0,0,0,,Interesting.
-Dialogue: 10,0:06:18.93,0:06:24.63,Default,,0,0,0,,Because you're their teacher,\nany significant{### /drastic?} actions necessitate your signature.
+Dialogue: 10,0:06:18.93,0:06:24.63,Default,,0,0,0,,Because you're their teacher,\nany desperate actions necessitate your signature.
 Dialogue: 10,0:06:25.71,0:06:28.28,Default,,0,0,0,,That's rather inconvenient.
 Dialogue: 10,0:06:28.28,0:06:32.48,Default,,0,0,0,,You deceived my students. \NYou and your organisation.
 Dialogue: 10,0:06:32.48,0:06:36.22,Default,,0,0,0,,You toyed with their feelings\nand took advantage of their suffering.
@@ -117,7 +117,7 @@ Dialogue: 10,0:07:24.84,0:07:28.37,Default,,0,0,0,,Those who possess exploit tho
 Dialogue: 10,0:07:28.87,0:07:32.10,Default,,0,0,0,,Determining one's future is a luxury\nthe weak aren't afforded.
 Dialogue: 10,0:07:32.83,0:07:34.18,Default,,0,0,0,,{*}Schale's teacher{*Sensei}.
 Dialogue: 10,0:07:34.18,0:07:40.11,Default,,0,0,0,,Abandon {*}Miss Hoshino{*Hoshino-san}, and in return,\nI'll guarantee Abydos's well-being.
-Dialogue: 10,0:07:40.56,0:07:45.86,Default,,0,0,0,,Picture a world where they\ncan attend school without fear.
+Dialogue: 10,0:07:40.56,0:07:45.86,Default,,0,0,0,,They can live in a world where they\ncan attend school without fear.
 Dialogue: 10,0:07:46.13,0:07:49.11,Default,,0,0,0,,It's what {*}Miss Hoshino{*Hoshino-san} would want, I'm sure.
 Dialogue: 10,0:07:49.11,0:07:53.24,Default,,0,0,0,,Even if that were possible,\nthey wouldn't want this.
 Dialogue: 10,0:07:54.75,0:07:59.35,Default,,0,0,0,,It appears that no matter my efforts,\nyou will continue to oppose us.
@@ -152,11 +152,11 @@ Dialogue: 10,0:09:16.71,0:09:18.97,Default,,0,0,0,,Children are crying for help!
 Dialogue: 10,0:09:18.97,0:09:20.25,Default,,0,0,0,,What more do you need?!
 Dialogue: 10,0:09:20.51,0:09:24.56,Default,,0,0,0,,And you believe that's how adults take responsibility? {Oooooof, the intro sequence is back to haunt us. I'm not in love with this, but }
 Dialogue: 10,0:09:24.56,0:09:25.63,Default,,0,0,0,,It is!
-Dialogue: 10,0:09:26.16,0:09:28.51,Default,,0,0,0,ED/QC,If they laugh, you join them. {"join" feels like it's missing too much context here. Maybe "you share their joy".}{### still kinda prefer what we have now, but I want petzku's opinion for these few lines}
-Dialogue: 10,0:09:28.51,0:09:30.73,Default,,0,0,0,ED/QC,If they're sad, you console them. {"If they're sad, you dry their tears."}
+Dialogue: 10,0:09:26.16,0:09:28.51,Default,,0,0,0,ED/QC,If they laugh, you laugh with them. {"join" feels like it's missing too much context here. Maybe "you share their joy".}{### still kinda prefer what we have now, but I want petzku's opinion for these few lines}
+Dialogue: 10,0:09:28.51,0:09:30.73,Default,,0,0,0,ED/QC,If they're sad, you comfort them.
 Dialogue: 10,0:09:30.73,0:09:32.84,Default,,0,0,0,ED/QC,If they're lost, you guide them{ home --ik}.
 Dialogue: 10,0:09:33.09,0:09:35.01,Default,,0,0,0,,That's what it means to be an adult!
-Dialogue: 10,0:09:35.01,0:09:36.42,Default,,0,0,0,,I'm afraid not.
+Dialogue: 10,0:09:35.01,0:09:36.42,Default,,0,0,0,,No, it is not.
 Dialogue: 10,0:09:36.42,0:09:37.97,Default,,0,0,0,,In fact, you couldn't be more wrong.
 Dialogue: 10,0:09:38.40,0:09:41.75,Default,,0,0,0,,Adults bend society to their own will.
 Dialogue: 10,0:09:41.75,0:09:45.03,Default,,0,0,0,,They decide what is right, what is proper.
@@ -179,7 +179,7 @@ Dialogue: 10,0:10:39.09,0:10:40.33,Default,,0,0,0,,Very well.
 Dialogue: 10,0:10:40.33,0:10:42.66,Default,,0,0,0,,It appears we've reached an impasse.
 Dialogue: 10,0:10:43.23,0:10:48.17,Default,,0,0,0,,I had high hopes for you, but I'm afraid\nI'll have to cut our negotiations short.
 Dialogue: 10,0:10:49.46,0:10:55.39,Default,,0,0,0,,You'll find {*}Miss Hoshino{*Hoshino-san} in the laboratory\nbeneath one of Kaiser PMC's desert bases.
-Dialogue: 10,0:10:55.39,0:10:59.43,Default,,0,0,0,,Via Mimesis we were able to observe\na different facet of Mystics: Terror.
+Dialogue: 10,0:10:55.39,0:10:59.43,Default,,0,0,0,,Mimesis allowed us to observe\na different facet of Mystics: Terror.
 Dialogue: 10,0:10:59.43,0:11:03.18,Default,,0,0,0,,Our goal was to to explore\nits application on a living student.
 Dialogue: 10,0:11:03.71,0:11:07.19,Default,,0,0,0,,The girl was meant to serve\nas a test bed to confirm our hypotheses.
 Dialogue: 10,0:11:07.80,0:11:09.69,Default,,0,0,0,,Your hypotheses?
@@ -336,7 +336,7 @@ Dialogue: 10,0:18:53.53,0:18:55.70,Default,,0,0,0,,I'm sure you would've figured
 Dialogue: 10,0:18:55.70,0:18:58.45,Default,,0,0,0,,Well, not like quittin' was an option anyway.
 Dialogue: 10,0:18:58.78,0:19:03.46,Default,,0,0,0,,There's still plenty o' folk\nwaiting to taste my ramen.
 Dialogue: 10,0:19:03.83,0:19:06.83,Default,,0,0,0,ED,Earlier, these two darlings stopped by. {two bonny lasses. Make him Scottish now and confuse EVERYONE --ik}{### lol I am awful at accents}
-Dialogue: 10,0:19:06.83,0:19:10.96,Default,,0,0,0,,Looked tucked right in, said my ramen\nhit just the spot after a long day.
+Dialogue: 10,0:19:06.83,0:19:10.96,Default,,0,0,0,,Tucked right in, said my ramen\nhit just the spot after a long day.
 Dialogue: 10,0:19:10.96,0:19:12.59,Default,,0,0,0,,Can't ask for more than that.
 Dialogue: 10,0:19:13.84,0:19:15.09,Default,,0,0,0,,How're things for you?
 Dialogue: 10,0:19:15.09,0:19:17.34,Default,,0,0,0,,Well, could be better.
