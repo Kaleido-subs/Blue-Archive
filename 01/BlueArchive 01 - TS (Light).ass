@@ -161,12 +161,12 @@ Dialogue: 0,0:03:24.81,0:03:27.31,LightSigns,,0,0,0,,{\an7\pos(1777,167)\c&HFDFD
 Dialogue: 0,0:03:24.81,0:03:27.31,LightSigns,,0,0,0,,{\an7\pos(1634,174)\c&HFEFDFB&\p1}m 7 0 l 8 0 15 1 16 1 14 2 b 12 3 14 7 11 7 7 9 6 5 4 4 1 2 0 3 0 0 l 7 0
 Dialogue: 0,0:03:24.81,0:03:27.31,LightSigns,,0,0,0,,{=13}{\an7\pos(1607,173)\c&HFEFDFD&\p1}m 8 1 l 9 4 8 5 8 8 4 9 3 9 3 9 3 8 2 7 2 5 5 2 5 1 8 1 m 17 2 l 18 3 18 4 18 4 18 5 19 7 19 7 14 8 12 5 12 4 b 13 3 15 2 17 2 m 28 2 l 29 3 34 3 35 4 34 5 34 6 31 7 30 6 29 6 29 7 24 8 23 7 22 7 21 5 22 4 b 24 3 25 2 28 2
 Comment: 0,0:03:50.50,0:03:50.50,LightSigns,,0,0,0,,{=18}---- Club sign
-Dialogue: 4,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\pos(772,446)\org(154,127)\fscx126\fscy132\frz3.912\fry0.526\frx-0.755\fnMiology\fs96\c&H9A8873&\blur1.3}ABYDOS
-Dialogue: 3,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\pos(771,445)\org(154,127)\fscx126\fscy132\frz3.912\fry0.526\frx-0.755\fnMiology\fs96\c&H21C504&\alpha&H40&\1a&HA0&\blur1.3}ABYDOS
-Dialogue: 3,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\pos(774,448)\org(154,127)\fscx126\fscy132\frz3.912\fry0.526\frx-0.755\fnMiology\fs96\c&H071CE6&\alpha&H40&\1a&HA0&\blur1.3}ABYDOS
-Dialogue: 4,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\pos(782,623)\org(154,127)\fscx100.02\fscy110.14\frz4.5\fry0.526\frx-0.755\fnMiology\fs72\c&H9A8873&\blur1.3}FORECLOSURE TASK FORCE
-Dialogue: 3,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\pos(781,622)\org(154,127)\fscx100.02\fscy110.14\frz4.5\fry0.526\frx-0.755\fnMiology\fs72\c&H21C504&\alpha&H40&\1a&HA0&\blur1.3}FORECLOSURE TASK FORCE
-Dialogue: 3,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\pos(784,625)\org(154,127)\fscx100.02\fscy110.14\frz4.5\fry0.526\frx-0.755\fnMiology\fs72\c&H071CE6&\alpha&H40&\1a&HA0&\blur1.3}FORECLOSURE TASK FORCE
+Dialogue: 4,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\pos(772,446)\org(154,127)\fscx126\fscy132\frz3.912\fry0.526\frx-0.755\fnMiology\fs96\ko0\4c&H9A8873&\blur1.3\alpha&HFF&\xshad0.01\bord1\4a&H00&}ABYDOS
+Dialogue: 3,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\pos(771,445)\org(154,127)\fscx126\fscy132\frz3.912\fry0.526\frx-0.755\fnMiology\fs96\bord1\xshad0.01\4c&H21C504&\alpha&HFF&\4a&HB4&\blur1.3\ko0}ABYDOS
+Dialogue: 3,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\pos(774,448)\org(154,127)\fscx126\fscy132\frz3.912\fry0.526\frx-0.755\fnMiology\fs96\bord1\xshad0.01\4c&H071CE6&\alpha&HFF&\4a&HB4&\blur1.3\ko0}ABYDOS
+Dialogue: 4,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\pos(782,623)\org(154,127)\fscx100.02\fscy110.14\frz4.5\fry0.526\frx-0.755\fnMiology\fs72\ko0\4c&H9A8873&\blur1.3\alpha&HFF&\xshad0.01\bord1\4a&H00&}FORECLOSURE TASK FORCE
+Dialogue: 3,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\pos(781,622)\org(154,127)\fscx100.02\fscy110.14\frz4.5\fry0.526\frx-0.755\fnMiology\fs72\bord1\xshad0.01\4c&H21C504&\alpha&HFF&\4a&HB4&\blur1.3\ko0}FORECLOSURE TASK FORCE
+Dialogue: 3,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\pos(784,625)\org(154,127)\fscx100.02\fscy110.14\frz4.5\fry0.526\frx-0.755\fnMiology\fs72\bord1\xshad0.01\4c&H071CE6&\alpha&HFF&\4a&HB4&\blur1.3\ko0}FORECLOSURE TASK FORCE
 Dialogue: 1,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\an7\pos(1,0)\fnMiology\c&HE9E8D9&\blur1.5\p1}m 530 399 l 508 390 506 370 555 360 620 358 630 369 632 396 611 424 586 427 595 462 569 468 554 455 556 390
 Dialogue: 1,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\an7\pos(1,0)\fnMiology\c&HE8E8D8&\blur1.5\p1}m 661 368 l 665 350 690 348 690 386 716 379 720 374 715 348 740 333 761 335 772 372 747 386 737 391 738 403 700 412 702 418 741 405 751 429 726 447 689 451 673 438 662 410 660 385
 Dialogue: 1,0:03:50.50,0:03:52.75,LightSigns,,0,0,0,,{=17}{\an7\pos(1,0)\fnMiology\c&HEBE9DC&\blur1.5\p1}m 793 328 l 805 401 818 441 844 438 846 416 831 396 833 388 885 394 878 371 869 362 882 351 889 338 879 307 843 315 842 338 849 361 827 361 821 320
@@ -4880,3 +4880,5 @@ Data: 3972,_aegi_folddata,e0;0;99
 Data: 3973,_aegi_folddata,e1;0;99
 Data: 3974,_aegi_folddata,e0;0;23
 Data: 3975,_aegi_folddata,e1;0;23
+Data: 3976,_aegi_folddata,e0;0;4
+Data: 3977,_aegi_folddata,e1;0;4

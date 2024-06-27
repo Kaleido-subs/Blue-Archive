@@ -85,7 +85,7 @@ Dialogue: 2,0:03:45.20,0:03:47.50,LightSigns,,0,0,0,,{=19522}{\pos(996,348)\org(
 Dialogue: 3,0:03:45.20,0:03:47.50,LightSigns,,0,0,0,,{=19522}{\pos(999,348)\org(960,540)\frz17.122\fry0.495\frx1.502\fax0.047\fnNoto Sans Med\fs72\c&HE9D6E5&\1a&H28&\blur4\iclip(m 837 338 l 1300 198 1281 243 1262 287 1247 322 843 435 838 409 837 397 837 374 837 355)}Proprietor and Other Stakeholders
 Dialogue: 4,0:03:45.20,0:03:47.50,LightSigns,,0,0,0,,{=19522=19529}{\pos(1003,348)\org(960,540)\frz17.122\fry0.495\frx1.502\fax0.047\fnNoto Sans Med\fs72\c&H9A6862&\blur2\iclip(m 837 338 l 1300 198 1281 243 1262 287 1247 322 843 435 838 409 837 397 837 374 837 355)}Proprietor and Other Stakeholders
 Comment: 0,0:03:39.37,0:03:39.37,LightSigns,,0,0,0,,{=20389}-- Stakeholders
-Comment: 0,0:05:36.36,0:05:36.36,LightSigns,,0,0,0,,{=20392}-- Books
+Comment: 0,0:05:36.36,0:05:36.36,LightSigns,,0,0,0,,{=20522}-- Books
 Comment: 0,0:05:36.36,0:05:36.36,LightSigns,,0,0,0,,{=20396}---- Right side book
 Dialogue: 0,0:05:36.36,0:05:38.86,LightSigns,cover art,0,0,0,,{\an7\pos(960,540)\blur1\p1}m 91 105 l 394 250 384 271 350 302 247 511 -79 341
 Dialogue: 1,0:05:36.36,0:05:38.86,LightSigns,cover art,0,0,0,,{\an7\pos(1464.18,515.2)\c&H9FC5DF&\blur1\p1}m 27 6 b 30 6 35 12 31 15 29 18 19 18 18 14 17 12 19 12 20 10 21 9 21 8 22 6 l 22 6 24 6 25 6 26 6 27 6 m -26 -17 b -23 -17 -23 -14 -20 -13 -18 -12 -17 -14 -15 -12 l -14 -10 -14 -9 -14 -8 -14 -4 -15 -3 b -17 -1 -20 1 -23 -1 l -23 -3 b -25 -8 -30 -7 -32 -11 -35 -14 -28 -17 -26 -17
@@ -125,7 +125,7 @@ Dialogue: 0,0:05:36.36,0:05:38.86,LightSigns,top book,0,0,0,,{\an7\pos(960,541)\
 Dialogue: 1,0:05:36.36,0:05:38.86,LightSigns,top book,0,0,0,,{=19562}{\pos(541.09,210.13)\org(960,540)\fscx25.37\fscy39.23\frz43.719\fry8.647\frx1.674\fax0.36\fnLucida Bright\fs64\c&H5B8D6A&\blur1.8}I{\blur1.82}n{\blur1.84}s{\blur1.85}t{\blur1.87}i{\blur1.89}t{\blur1.91}u{\blur1.93}t{\blur1.95}e {\blur1.98}f{\blur2}o{\blur2.02}r {\blur2.06}E{\blur2.07}c{\blur2.09}o{\blur2.11}l{\blur2.13}o{\blur2.15}g{\blur2.16}i{\blur2.18}c{\blur2.2}a{\blur2.22}l {\blur2.25}R{\blur2.27}e{\blur2.29}s{\blur2.31}e{\blur2.33}a{\blur2.35}r{\blur2.36}c{\blur2.38}h{\blur2.4}
 Dialogue: 0,0:05:36.36,0:05:38.86,LightSigns,middle book spline,0,0,0,,{\an7\pos(960,541)\c&H73CBD1&\blur4\p1}m -661 344 l -635 418 -813 579 -881 544
 Dialogue: 1,0:05:36.36,0:05:38.86,LightSigns,middle book spline,0,0,0,,{=19579=19581}{\pos(405.24,380.2)\org(960,540)\fscx40.95\fscy45.51\frz47.7\fry12.743\frx1.731\fax-0.847\fnOxford\b1\c&H668350&\blur2}... Ecology
-Comment: 0,0:05:36.36,0:05:36.36,LightSigns,,0,0,0,,{=20393}-- Books
+Comment: 0,0:05:36.36,0:05:36.36,LightSigns,,0,0,0,,{=20523}-- Books
 Comment: 0,0:10:45.42,0:10:45.42,LightSigns,,0,0,0,,{=19696=19697}---- Bikini wolves make me go awoo
 Dialogue: 0,0:10:45.42,0:10:48.79,LightSigns,,0,0,0,,{=19695}{\an7\move(1413.78,1005.3,1372,1005,16,3353)\c&HB7DEF1&\blur3\clip(0,940,1920,943)\clip\p1}m -39 -59 l 40 -52 40 60 -38 53
 Dialogue: 0,0:10:45.42,0:10:48.79,LightSigns,,0,0,0,,{=19694}{\an7\move(1413.78,1005.3,1372,1005,16,3353)\c&HB7DDF1&\blur3\clip(0,943,1920,945)\clip\p1}m -39 -59 l 40 -52 40 60 -38 53
@@ -441,7 +441,7 @@ Dialogue: 0,0:11:12.69,0:11:14.45,LightSigns,,0,0,0,,{\an7\pos(960,541)\c&HCBEBF
 Dialogue: 1,0:11:12.69,0:11:14.45,LightSigns,,0,0,0,,{=19723}{\pos(896.13,706.95)\org(960,540)\fscx52.55\fscy72.42\frz-1.368\fry2.472\frx-1.081\fax0.378\fnFlunkies BB\blur1.6}DESERT
 Dialogue: 0,0:11:12.69,0:11:14.45,LightSigns,,0,0,0,,{=19724}{\an7\pos(960,539)\blur2\p1}m -348 455 l -281 443 -211 436 -185 431 -154 439 -140 472 -166 484 -197 485 -289 491 -342 495 -354 478
 Dialogue: 1,0:11:12.69,0:11:14.45,LightSigns,,0,0,0,,{=19725=19727}{\pos(716.47,998.17)\org(960,540)\fscx56.14\fscy73.79\frz-1.369\fry2.472\frx-1.08\fax0.36\fnFlunkies BB\c&H70D6FC&\blur1.6}By Yume
-Comment: 0,0:13:28.41,0:13:28.41,LightSigns,,0,0,0,,{=19742=20402}-- iPad
+Comment: 0,0:13:28.41,0:13:28.41,LightSigns,,0,0,0,,{=19742=20524}-- iPad
 Comment: 0,0:13:28.41,0:13:28.41,LightSigns,,0,0,0,,{=19742=19743}---- First instance
 Dialogue: 0,0:13:28.41,0:13:29.91,LightSigns,,0,0,0,,{=19742}{\an7\move(954,540,952,568,23,1482)\c&HFEFEFE&\blur1\t(\fscx97)\p1}m 444 -479 l 444 -479 444 -479 -50 -379 -50 -379 -50 -379 -50 -379 -51 -379 -51 -379 -51 -379 -51 -379 -51 -379 -51 -379 -51 -378 -51 -378 -51 -378 -51 -378 -51 -378 -51 -378 -51 -378 -51 -378 -51 -378 -51 -378 -35 -325 -35 -325 -35 -325 -35 -324 -35 -324 -35 -324 -35 -324 -35 -324 -35 -324 -34 -324 -34 -324 -34 -324 -34 -324 -34 -324 -34 -324 -34 -324 -34 -324 -34 -324 459 -422 459 -422 459 -422 459 -422 460 -422 460 -422 460 -422 460 -422 460 -422 460 -422 460 -423 460 -423 460 -423 460 -423 460 -423 460 -423 460 -423 460 -423 460 -423 460 -423 445 -478 445 -478 445 -478 445 -479 445 -479 445 -479 445 -479 445 -479 445 -479 444 -479 444 -479 444 -479 444 -479 444 -479 444 -479
 Dialogue: 1,0:13:28.41,0:13:28.45,LightSigns,,0,0,0,,{=19740=19741}{\pos(1255.04,183.68)\org(960,540)\fscx74\fscy55.44\frz13.1\fry1.168\frx0.429\fax0.056\fnPT Sans Pro Narrow Extra Bold\c&H191919&\blur1.5}Director of Kaiser Corporation
@@ -496,8 +496,8 @@ Dialogue: 2,0:15:10.68,0:15:13.18,LightSigns,,0,0,0,,{=19741=20470}{\an7\pos(691
 Dialogue: 2,0:15:10.68,0:15:13.18,LightSigns,,0,0,0,,{=19741=20470}{\an7\pos(694,572)\org(960,540)\fscx84.05\fscy84.16\frz12.505\fry1.295\frx0.5\fax0.074\fnNoto Sans Med\fs28\c&H32332D&\blur1.5}next month is 91,300,000 yen.
 Dialogue: 2,0:15:10.68,0:15:13.18,LightSigns,,0,0,0,,{=19741=20470}{\an7\pos(699,637)\org(960,540)\fscx84.05\fscy84.16\frz12.505\fry1.295\frx0.5\fax0.074\fnNoto Sans Med\fs28\c&H32332D&\blur1.5}Please pay the amount due by the payment deadline.
 Dialogue: 2,0:15:10.68,0:15:13.18,LightSigns,,0,0,0,,{=19741=20458=20477}{\pos(1180,708)\org(960,540)\fscx83.89\fscy85.76\frz12.466\fry1.297\frx0.464\fax0.078\fnNoto Sans Med\fs32\c&HECB04E&\blur1.5}close
-Comment: 0,0:13:28.41,0:13:28.41,LightSigns,,0,0,0,,{=19742=20403}-- iPad
-Comment: 0,0:06:54.27,0:06:54.27,LightSigns,,0,0,0,,{=20374}-- Documents
+Comment: 0,0:13:28.41,0:13:28.41,LightSigns,,0,0,0,,{=19742=20525}-- iPad
+Comment: 0,0:06:54.27,0:06:54.27,LightSigns,,0,0,0,,{=20526}-- Documents
 Comment: 0,0:06:54.27,0:06:54.27,LightSigns,,0,0,0,,{=20516}---- Clipboard
 Dialogue: 0,0:06:54.27,0:06:59.52,LightSigns,,0,0,0,,{=19822}{\an7\move(960,540,840.87,539.99,19,5232)\c&HFEFFFF&\blur1\p1}m -570 -201 l -380 -231 -368 -198 -559 -169
 Dialogue: 0,0:06:54.27,0:06:59.52,LightSigns,,0,0,0,,{=19821}{\an7\move(960,539,840.87,538.99,19,5232)\blur1\p1}m -671 -64 l -637 -70 -632 -51 -667 -46
@@ -2530,7 +2530,7 @@ Dialogue: 1,0:06:59.35,0:06:59.39,LightSigns,,0,0,0,,{=19864=19865}{\pos(1974.85
 Dialogue: 1,0:06:59.39,0:06:59.44,LightSigns,,0,0,0,,{=19864=19865}{\pos(1973.91,741)\org(961.91,540)\fscx68.5\fscy29.56\frz22.97\fry-0.029\frx15.533\fax0.314\fnGaramond\b1\c&H766B64&\blur1.4}Kaiser Construction
 Dialogue: 1,0:06:59.44,0:06:59.48,LightSigns,,0,0,0,,{=19864=19865}{\pos(1972.97,741)\org(960.97,540)\fscx68.5\fscy29.56\frz22.97\fry-0.029\frx15.533\fax0.314\fnGaramond\b1\c&H766B64&\blur1.4}Kaiser Construction
 Dialogue: 1,0:06:59.48,0:06:59.52,LightSigns,,0,0,0,,{=19864=19865=19870}{\pos(1972,741)\org(960,540)\fscx68.5\fscy29.56\frz22.97\fry-0.029\frx15.533\fax0.314\fnGaramond\b1\c&H766B64&\blur1.4}Kaiser Construction
-Comment: 0,0:06:54.27,0:06:54.27,LightSigns,,0,0,0,,{=20375}-- Documents
+Comment: 0,0:06:54.27,0:06:54.27,LightSigns,,0,0,0,,{=20527}-- Documents
 Comment: 0,0:20:00.64,0:20:00.64,LightSigns,,0,0,0,,{=20480}---- Debt-free
 Dialogue: 0,0:20:00.64,0:20:03.43,LightSigns,,0,0,0,,{=20159}{\an7\move(960,539,874.06,539.17,18,2771)\c&HFCD287&\blur4\clip(0,215,711,222)\p1}m -268 -313 l -267 -313 -267 -312 -266 -312 -261 -284 -261 -282 -261 -281 -262 -281 -263 -280 -332 -270 -333 -270 -334 -270 -335 -271 -339 -299 -339 -300 -339 -301 -337 -303 -270 -313 -268 -313
 Dialogue: 0,0:20:00.64,0:20:03.43,LightSigns,,0,0,0,,{=20159}{\an7\move(960,539,874.06,539.17,18,2771)\c&HFCD187&\blur4\clip(0,222,711,229)\p1}m -268 -313 l -267 -313 -267 -312 -266 -312 -261 -284 -261 -282 -261 -281 -262 -281 -263 -280 -332 -270 -333 -270 -334 -270 -335 -271 -339 -299 -339 -300 -339 -301 -337 -303 -270 -313 -268 -313
@@ -6408,7 +6408,7 @@ Dialogue: 1,0:20:09.81,0:20:09.85,LightSigns,,0,0,0,,{=20170=20171}{\pos(583.82,
 Dialogue: 1,0:20:09.85,0:20:09.89,LightSigns,,0,0,0,,{=20170=20171}{\pos(585.64,633.07)\org(585.96,633.08)\fscx46.22\fscy49.32\frz-1.61\fry-6.571\frx-0.217\fax0.047\fnFOT Seurat ProN Strp ExtraBold\fs24\c&H201107&\blur1.5}Math
 Dialogue: 1,0:20:09.89,0:20:09.93,LightSigns,,0,0,0,,{=20170=20171}{\pos(587.52,633.05)\org(587.84,633.06)\fscx46.22\fscy49.32\frz-1.61\fry-6.571\frx-0.217\fax0.047\fnFOT Seurat ProN Strp ExtraBold\fs24\c&H201107&\blur1.5}Math
 Dialogue: 1,0:20:09.93,0:20:09.98,LightSigns,,0,0,0,,{=20170=20171=20228}{\pos(589.41,633.07)\org(589.73,633.08)\fscx46.22\fscy49.32\frz-1.61\fry-6.571\frx-0.217\fax0.047\fnFOT Seurat ProN Strp ExtraBold\fs24\c&H201107&\blur1.5}Math
-Comment: 0,0:19:44.20,0:19:44.20,LightSigns,,0,0,0,,{=20360}-- Withdrawal Form
+Comment: 0,0:19:44.20,0:19:44.20,LightSigns,,0,0,0,,{=20528}-- Withdrawal Form
 Comment: 0,0:19:44.20,0:19:44.20,LightSigns,,0,0,0,,{=20486}---- Front
 Dialogue: 0,0:19:44.20,0:19:46.96,LightSigns,1,0,0,0,,{\an7\pos(737.5,608.5)\c&H9CC8E8&\blur2\clip(714,590,761,596)\p1}m -14 -11 l 15 -11 15 12 -14 12
 Dialogue: 0,0:19:44.20,0:19:46.96,LightSigns,1,0,0,0,,{\an7\pos(737.5,608.5)\c&H9CC7E8&\blur2\clip(714,596,761,597)\p1}m -14 -11 l 15 -11 15 12 -14 12
@@ -6866,7 +6866,7 @@ Dialogue: 1,0:19:53.13,0:19:56.13,LightSigns,,0,0,0,,{=20316=20353}{\pos(828.66,
 Dialogue: 1,0:19:53.13,0:19:56.13,LightSigns,,0,0,0,,{=20316=20353}{\pos(849.98,1014.21)\org(862.91,896.96)\fscx31.83\fscy39.82\frz11.721\fry-5.02\frx1.802\fax-0.141\fnMiology\fs54\c&H5B7196&\blur1\clip(m 800.06 1018.98 l 948.51 992.8 954.2 1013.55 797.59 1037.26)}from school for personal reasons.
 Dialogue: 2,0:19:53.13,0:19:56.13,LightSigns,,0,0,0,,{=20316=20353}{\an7\pos(859,913)\c&H7388AE&\blur1\p1}m -2 -12 l 0 11 2 12 -1 -12
 Dialogue: 2,0:19:53.13,0:19:56.13,LightSigns,,0,0,0,,{=20316=20353=20491}{\an7\pos(867,971)\c&H7388AE&\blur1\p1}m -3 -10 l -1 9 3 10 -1 -9
-Comment: 0,0:19:44.20,0:19:44.20,LightSigns,,0,0,0,,{=20361}-- Withdrawal Form
+Comment: 0,0:19:44.20,0:19:44.20,LightSigns,,0,0,0,,{=20529}-- Withdrawal Form
 Dialogue: 0,0:00:00.00,0:00:02.98,LightSigns,,0,0,0,,
 
 [Aegisub Extradata]
@@ -7108,3 +7108,11 @@ Data: 20516,_aegi_folddata,e0;1;27
 Data: 20517,_aegi_folddata,e1;1;27
 Data: 20518,_aegi_folddata,e0;0;14
 Data: 20519,_aegi_folddata,e1;0;14
+Data: 20522,_aegi_folddata,e0;1;10
+Data: 20523,_aegi_folddata,e1;1;10
+Data: 20524,_aegi_folddata,e0;1;15
+Data: 20525,_aegi_folddata,e1;1;15
+Data: 20526,_aegi_folddata,e0;1;20
+Data: 20527,_aegi_folddata,e1;1;20
+Data: 20528,_aegi_folddata,e0;1;26
+Data: 20529,_aegi_folddata,e1;1;26
