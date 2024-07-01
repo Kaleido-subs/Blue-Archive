@@ -58,7 +58,7 @@ Dialogue: 10,0:03:05.50,0:03:07.29,Default,,0,0,0,,To {*}our teacher{*Sensei}:
 Dialogue: 10,0:03:07.29,0:03:10.80,Default,,0,0,0,,{\i1}I know it's not exactly a secret,\nbut I used to hate adults.
 Dialogue: 10,0:03:11.50,0:03:14.93,Default,,0,0,0,,{\i1}The day Shiroko{**-chan} brought you to our clubroom,
 Dialogue: 10,0:03:14.93,0:03:18.93,Default,,0,0,0,,{\i1}I immediately assumed you were\njust another good-for-nothing adult.
-Dialogue: 10,0:03:19.25,0:03:25.23,Default,,0,0,0,,{\i1}But you were quick to prove me wrong.\nYou're part of the team now. {uh i don't love the part of the team part but its already out so wtv -rapid}
+Dialogue: 10,0:03:19.25,0:03:25.23,Default,,0,0,0,,{\i1}But you were quick to prove me wrong.\nYou're part of the team now. {uh i don't love the part of the team part but its already out so wtv -rapid}{### we can look at other options for batch}
 Dialogue: 10,0:03:26.11,0:03:29.19,Default,,0,0,0,,{\i1}So I'm leaving them in your care, okay?
 Dialogue: 10,0:03:30.20,0:03:32.78,Default,,0,0,0,,{\i1}You're their teacher. They trust you.
 Dialogue: 10,0:03:32.78,0:03:34.69,Default,,0,0,0,,{\i1}I'm sure they'll be fine.
@@ -111,7 +111,7 @@ Dialogue: 10,0:05:55.29,0:05:57.13,Default,,0,0,0,,I've got you now!
 Dialogue: 10,0:05:57.80,0:05:59.05,Default,,0,0,0,,Come on, get a grip!
 Dialogue: 10,0:06:04.81,0:06:06.12,Default,,0,0,0,,You get that side!
 Dialogue: 10,0:06:06.12,0:06:06.85,Default,,0,0,0,,Got it!
-Dialogue: 10,0:06:07.22,0:06:09.85,Default,,0,0,0,,Damn! These girls are tough! 
+Dialogue: 10,0:06:07.22,0:06:09.85,Default,,0,0,0,,Damn! These girls are tough!
 Dialogue: 10,0:06:11.85,0:06:12.56,Default,,0,0,0,,Nonomi!
 Dialogue: 10,0:06:12.56,0:06:13.52,Default,,0,0,0,,I've got it!
 Dialogue: 10,0:06:24.45,0:06:25.74,Default,,0,0,0,,Is everyone okay?
@@ -279,7 +279,7 @@ Dialogue: 10,0:15:00.34,0:15:00.88,Default,,0,0,0,,I know!
 Dialogue: 10,0:15:01.37,0:15:04.94,Default,,0,0,0,,What do we do? We can't just destroy the store.
 Dialogue: 10,0:15:06.59,0:15:08.14,Default,,0,0,0,,Ta-dah!
 Dialogue: 10,0:15:08.71,0:15:10.47,Default,,0,0,0,,Is that a grenade?
-Dialogue: 10,0:15:10.47,0:15:12.77,Default,,0,0,0,,Yeah! But watch this! {a bit off the mark, this is more refering to the fact that its ok for her to use the weapon in the store, maybe like "But thats not a problem" would be better --rapid}
+Dialogue: 10,0:15:10.47,0:15:12.77,Default,,0,0,0,,Yeah! But watch this!
 Dialogue: 9,0:15:12.77,0:15:12.89,Default,shenan,0,0,0,,{\alpha&HFF&}Yeah! But watch this!
 Comment: 10,0:15:12.77,0:15:12.89,Default,shenan,0,0,0,,{\iclip(m 585 962 b 653 1076 794 986 836 955 873 973 954 936 994 915)}Yeah! But watch this!
 Dialogue: 10,0:15:12.77,0:15:12.89,Default,shenan,0,0,0,,{\pos(960,1020)\iclip(m 578 959 b 652 1082 796 989 836 960 873 977 956 940 1015 909)}Yeah! But watch this!
