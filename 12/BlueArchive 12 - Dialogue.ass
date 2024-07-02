@@ -89,7 +89,7 @@ Dialogue: 10,0:03:15.88,0:03:18.26,Default,,0,0,0,,Intruders have broken though 
 Dialogue: 10,0:03:18.26,0:03:20.60,Default,,0,0,0,,They're advancing into the base.
 Dialogue: 10,0:03:20.93,0:03:25.77,Default,,0,0,0,,Those damn brats, still clinging stubbornly\nto the name of Abydos High School!
 Dialogue: 10,0:03:25.77,0:03:26.98,Default,,0,0,0,,Your orders, sir?
-Dialogue: 10,0:03:27.35,0:03:29.73,Default,,0,0,0,,Which forces are on standby for deployment?
+Dialogue: 10,0:03:27.35,0:03:29.73,Default,,0,0,0,,Which forces are on standby for deployment? {"on standby" feels a bit weird, like they were already ready to deploy and just waiting for the word, which maybe would happen if they were already on high alert, but this was a surprise attack. Maybe just "available". --ik}
 Dialogue: 10,0:03:29.73,0:03:32.15,Default,,0,0,0,,Platoons 3 through 5 can sortie immediately, sir.
 Dialogue: 10,0:03:32.15,0:03:33.82,Default,,0,0,0,,What about the rest?
 Dialogue: 10,0:03:33.82,0:03:36.36,Default,,0,0,0,,They're still recovering from the previous battle.
@@ -113,7 +113,7 @@ Dialogue: 10,0:04:11.90,0:04:12.73,Default,,0,0,0,,Are you sure?
 Dialogue: 10,0:04:12.73,0:04:13.48,Default,,0,0,0,,I don't care!
 Dialogue: 10,0:04:14.03,0:04:16.24,Default,,0,0,0,,Just stop those intruders!
 Dialogue: 10,0:04:18.74,0:04:21.41,Default,,0,0,0,,Where could Hoshino{**-senpai} be?
-Dialogue: 10,0:04:27.00,0:04:28.16,Default,,0,0,0,,This is the Third Platoon!
+Dialogue: 10,0:04:27.00,0:04:28.16,Default,,0,0,0,,This is the Third Platoon! {could probably drop "the" here --ik}
 Dialogue: 10,0:04:28.16,0:04:29.75,Default,,0,0,0,,Deploying drones!
 Dialogue: 10,0:04:29.75,0:04:31.38,Default,,0,0,0,,What about the other ones?
 Dialogue: 10,0:04:31.38,0:04:33.00,Default,,0,0,0,,They're still calibrating!
@@ -229,7 +229,7 @@ Dialogue: 10,0:09:42.23,0:09:45.90,Default,,0,0,0,,I've exhausted every trick in
 Dialogue: 10,0:09:47.36,0:09:52.28,Default,,0,0,0,,Yet you insist on clinging to this dying school,
 Dialogue: 10,0:09:52.28,0:09:55.78,Default,,0,0,0,,desperately trying again and again\nto repay that debt.
 Dialogue: 10,0:09:56.24,0:10:01.04,Default,,0,0,0,,I drove you into the dirt,\ncrushed every ounce of hope you had!
-Dialogue: 10,0:10:01.33,0:10:03.96,Default,,0,0,0,,And you kept smiling like it was nothing!
+Dialogue: 10,0:10:01.33,0:10:03.96,Default,,0,0,0,,And you kept smiling like it was nothing! {TLC: His wording suggests he's also just pissed that they seem to be having so much fun just vibing, but idk how to convey that pettiness here --ik}
 Dialogue: 10,0:10:03.96,0:10:06.46,Default,,0,0,0,,You've completely ruined my plan!
 Dialogue: 10,0:10:06.75,0:10:09.46,Default,,0,0,0,,The plan I've worked so hard on!
 Dialogue: 10,0:10:09.46,0:10:14.30,Default,,0,0,0,,We'd never bow down and let a despicable lowlife\nlike you get what you wanted!
@@ -246,7 +246,7 @@ Dialogue: 10,0:10:47.29,0:10:48.67,Default,,0,0,0,,Yoo-hoo!
 Dialogue: 10,0:10:48.67,0:10:50.17,Default,,0,0,0,,S-Sorry to interrupt.
 Dialogue: 10,0:10:50.17,0:10:52.67,Default,,0,0,0,,P-Problem Solver 68?!
 Dialogue: 10,0:10:53.13,0:10:58.35,Default,,0,0,0,,Showing up just in the nick of time...\nNow this is how a first-class outlaw should be.
-Dialogue: 10,0:11:01.56,0:11:04.35,Default,,0,0,0,,Whoopsie. Guess we're dropping in early!
+Dialogue: 10,0:11:01.56,0:11:04.35,Default,,0,0,0,,Whoopsie. Guess we're dropping in early! {we got a number one victory royale}
 Dialogue: 10,0:11:04.73,0:11:07.35,Default,,0,0,0,,What do you mean?!
 Dialogue: 10,0:11:15.32,0:11:16.86,Default,,0,0,0,,Um...
 Dialogue: 10,0:11:17.99,0:11:19.37,Default,,0,0,0,,You again!
@@ -322,7 +322,7 @@ Dialogue: 10,0:15:29.87,0:15:32.95,Default,,0,0,0,,But now, even that's going to
 Dialogue: 10,0:15:33.66,0:15:36.33,Default,,0,0,0,,All because I made the wrong choice.
 Dialogue: 10,0:15:37.54,0:15:41.30,Default,,0,0,0,,Maybe if I had just talked with them,\nthings would have been different.
 Dialogue: 10,0:15:42.05,0:15:46.38,Default,,0,0,0,,If we had come up with another solution\nbefore I was deceived by those adults,
-Dialogue: 10,0:15:46.38,0:15:49.97,Default,,0,0,0,,perhaps none of this would have happened to Abydos.
+Dialogue: 10,0:15:46.38,0:15:49.97,Default,,0,0,0,,perhaps none of this would have happened to Abydos. {"perhaps" feels a bit too formal, recommend sticking with "maybe" since it's common to spam "maybe" when doing the "could have should have" thing --ik}
 Dialogue: 10,0:15:50.89,0:15:55.23,Default,,0,0,0,,I was helpless. I couldn't think of anything. {maybe "just so helpless" for emphasis --ik}
 Dialogue: 10,0:15:55.23,0:15:58.98,Default,,0,0,0,,In the end, I couldn't fix a single thing.
 Dialogue: 10,0:15:59.44,0:16:03.36,Default,,0,0,0,,If only I had made a better choice.
