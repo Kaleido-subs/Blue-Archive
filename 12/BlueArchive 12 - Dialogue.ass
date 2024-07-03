@@ -102,7 +102,7 @@ Dialogue: 10,0:03:47.62,0:03:49.17,Default,,0,0,0,,Hey, shut it! He'll hear us!
 Dialogue: 10,0:03:49.63,0:03:50.84,Default,,0,0,0,,Dammit!
 Dialogue: 10,0:03:50.84,0:03:53.67,Default,,0,0,0,,I can't just withdraw our northern forces, either.
 Dialogue: 10,0:03:54.09,0:03:55.38,Default,,0,0,0,,Should we consult with HQ?
-Dialogue: 10,0:03:55.67,0:03:57.72,Default,,0,0,0,,Belay that! I'll handle this.
+Dialogue: 10,0:03:55.67,0:03:57.72,Default,,0,0,0,,Belay that! I'll handle this. {what why "belay" maybe i just don't watch military stuff that often but i never hear that and hes just basically yelling "no need" which I know means the same thing in practice but still belay seems overly formal --rapid}
 Dialogue: 10,0:03:57.72,0:03:59.14,Default,,0,0,0,,S-Sir, yes, sir!
 Dialogue: 10,0:03:59.59,0:04:00.85,Default,,0,0,0,,Sir, an update!
 Dialogue: 10,0:04:00.85,0:04:04.89,Default,,0,0,0,,It's not ideal, but the mass-produced models\ncould technically be fielded as well.
@@ -235,7 +235,7 @@ Dialogue: 10,0:10:06.75,0:10:09.46,Default,,0,0,0,,The plan I've worked so hard 
 Dialogue: 10,0:10:09.46,0:10:14.30,Default,,0,0,0,,We'd never bow down and let a despicable lowlife\nlike you get what you wanted!
 Dialogue: 10,0:10:14.30,0:10:16.60,Default,,0,0,0,,We're taking Hoshino{**-senpai} back.
 Dialogue: 10,0:10:16.60,0:10:18.01,Default,,0,0,0,,We won't lose!
-Dialogue: 10,0:10:18.01,0:10:21.60,Default,,0,0,0,,Not to a sorry excuse for an adult like you!
+Dialogue: 10,0:10:18.01,0:10:21.60,Default,,0,0,0,,{Definitly (i can't spell) --rapid}Not to a sorry excuse for an adult like you!
 Dialogue: 10,0:10:22.14,0:10:24.98,Default,,0,0,0,,You've been a thorn in my side for long enough.
 Dialogue: 10,0:10:24.98,0:10:28.23,Default,,0,0,0,,I need to find that treasure.\nI don't have time for you!
 Dialogue: 10,0:10:28.86,0:10:31.99,Default,,0,0,0,,I don't know what you're talking about,\nbut you're not stopping us!
@@ -313,7 +313,7 @@ Dialogue: 10,0:14:59.29,0:15:02.21,Default,,0,0,0,,{\i1}I thought I was the one 
 Dialogue: 10,0:15:02.21,0:15:05.18,Default,,0,0,0,,{\i1}but before I knew it, our roles were reversed.
 Dialogue: 10,0:15:05.55,0:15:07.76,Default,,0,0,0,,{\i1}What you said back at the aquarium...
 Dialogue: 10,0:15:07.76,0:15:09.72,Default,,0,0,0,,{\i1}It really meant a lot to me.
-Dialogue: 10,0:15:11.10,0:15:15.94,Default,,0,0,0,,{\i1}I enjoyed my life at school\nbecause I was with you guys.
+Dialogue: 10,0:15:11.10,0:15:15.94,Default,,0,0,0,,{\i1}I enjoyed my life at school\nbecause I was with you guys. {more accuratly: thanks to you guys, i could live my life at school *without worry* " or "I could live my school life peacefully." not about enjoyment, but more about being at peace and not having to worry. the other lines about about the happiness she felt, but this one is emphasizing the relaxation --rapid}
 Dialogue: 10,0:15:16.56,0:15:19.31,Default,,0,0,0,,{\i1}I was able to look forward to tomorrow.
 Dialogue: 10,0:15:19.94,0:15:22.03,Default,,0,0,0,,{\i1}Because you were with me,
 Dialogue: 10,0:15:22.03,0:15:23.94,Default,,0,0,0,,{\i1}I was able to keep smiling.
@@ -402,7 +402,7 @@ Dialogue: 10,0:20:59.82,0:21:00.95,Default,,0,0,0,,Welcome home.
 Dialogue: 10,0:21:00.95,0:21:03.28,Default,,0,0,0,,Hoshino{**-chan}, welcome home!
 Dialogue: 10,0:21:03.28,0:21:04.91,Default,,0,0,0,,Welcome home!
 Dialogue: 10,0:21:05.87,0:21:08.16,Default,,0,0,0,,Welcome home, Hoshino{**-senpai}.
-Dialogue: 10,0:21:14.13,0:21:19.59,Default,,0,0,0,,I never realised just how heartwarming\nthose words could make you feel, Yume{**-senpai}.
+Dialogue: 10,0:21:14.13,0:21:19.59,Default,,0,0,0,,I never realised just how heartwarming\nthose words could make you feel, Yume{**-senpai}. {this is in her head shouldn't it be in italics --rapid}
 Dialogue: 10,0:21:25.01,0:21:28.10,Default,,0,0,0,,Well, you all seem to be waiting\nfor me to say something in return,
 Dialogue: 10,0:21:28.35,0:21:30.94,Default,,0,0,0,,but sorry to say, I'm drawing a blank.
 Dialogue: 10,0:21:30.94,0:21:34.44,Default,,0,0,0,,Oh, come on! Don't be like that!\nYou know what we mean!
