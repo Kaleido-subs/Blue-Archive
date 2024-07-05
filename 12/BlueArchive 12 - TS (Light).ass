@@ -24,8 +24,9 @@ Style: LightSigns,LTFinnegan Medium,80,&H00FFFFFF,&H00FFFFFF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11509}-- Repeat Signs
-Comment: 0,0:00:52.53,0:00:52.53,LightSigns,,0,0,0,,{=21351}---- Episode Title
-Dialogue: 0,0:00:52.57,0:00:56.04,LightSigns,,0,0,0,,{=21352}{\pos(1520,1042)\fax-0.5\fnRo GSan Serif Std Mod\fs48\fsp-0.3\c&H2B2B2B&\blur0.5\fad(1025,526)}Because She's My {\c&HFA8A12&}Precious Student
+Comment: 0,0:00:52.53,0:00:52.53,LightSigns,,0,0,0,,{=21831}---- Episode Title
+Dialogue: 0,0:00:52.53,0:00:56.04,LightSigns,,0,0,0,***,{=21352}{\pos(1421,1042)\fax-0.5\fnRo GSan Serif Std Mod\fs48\fsp-0.3\c&H2B2B2B&\blur0.5\fad(1065,526)}Welcome {\c&HFA8B12&}Home
+Comment: 0,0:00:52.53,0:00:56.04,LightSigns,,0,0,0,***,{=21832}{\pos(1421,1042)\fax-0.5\fnRo GSan Serif Std Mod\fs48\fsp-0.3\c&H2B2B2B&\blur0.5\fad(1065,526)}I'm {\c&HFA8B12&}Home
 Comment: 0,0:00:00.00,0:00:00.00,LightSigns,,0,0,0,,{=11510}-- Repeat Signs
 Comment: 0,0:23:25.59,0:23:25.59,LightSigns,,0,0,0,,{=21355}---- Club sign
 Dialogue: 1,0:23:25.59,0:23:27.09,LightSigns,,0,0,0,,{\pos(754,370)\org(154,127)\fscx151\fscy158\frz3.912\fry0.526\frx359.245\fnMiology\fs96\4c&H9C8173&\blur1.3\clip(533,251,544,395)\alpha&HFF&\xshad0.01\bord1\4a&H00&\ko0}ABYDOS
@@ -5674,5 +5675,6 @@ Data: 21820,a-mo,e{"originalText"#3A"{\\an7\\pos(530.34#2C379.11)\\org(-145#2C48
 Data: 21821,a-mo,e{"originalText"#3A"{\\pos(793.16#2C323.15)\\org(-159.98#2C421.32)\\fscx104.92\\fscy72.324\\frz9.089\\fry-0.694\\frx12.486\\fnGaramond\\fs40\\b1\\c&H000000&\\1a&H28&\\blur1.4}Grant Agreement"#2C"uuid"#3A"a1d19588-4926-4e33-9e3f-398d2e85434f"}
 Data: 21822,_aegi_folddata,e0;1;28
 Data: 21823,_aegi_folddata,e1;1;28
-Data: 21826,_aegi_folddata,e0;0;28
-Data: 21827,_aegi_folddata,e1;0;28
+Data: 21828,_aegi_folddata,e1;0;29
+Data: 21831,_aegi_folddata,e0;1;30
+Data: 21832,_aegi_folddata,e1;1;30
