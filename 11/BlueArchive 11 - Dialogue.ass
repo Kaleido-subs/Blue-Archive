@@ -32,7 +32,7 @@ Comment: 0,0:21:45.49,0:21:45.49,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:21.40,0:22:21.40,Default,,0,0,0,edsync,{EDSync — First hard cut (Nonomi washing room shot)}
 Comment: 0,0:23:15.46,0:23:15.46,Default,chapter,0,0,0,,{=1}{Outro}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=4}---- Dialogue
-Dialogue: 10,0:00:01.83,0:00:04.40,Default,,0,0,0,,Hoshino's smartphone?
+Dialogue: 10,0:00:01.83,0:00:04.40,Default,,0,0,0,,Hoshino{**-san}'s smartphone?
 Dialogue: 10,0:00:04.40,0:00:07.54,Default,,0,0,0,,Yes. I need you to locate her. {Hey, Arona. Find my Hoshino}
 Dialogue: 10,0:00:07.54,0:00:09.07,Default,,0,0,0,,O-Okay!
 Dialogue: 10,0:00:09.48,0:00:11.20,Default,,0,0,0,,Give me one second.
@@ -49,10 +49,10 @@ Dialogue: 10,0:00:45.43,0:00:47.32,Default,,0,0,0,,Wait. Is that you, Hoshino?
 Dialogue: 10,0:01:00.01,0:01:01.01,Default,,0,0,0,,What's this?
 Dialogue: 10,0:02:49.83,0:02:50.85,Default,,0,0,0,,Is this the place?
 Dialogue: 10,0:03:33.39,0:03:36.36,Default,,0,0,0,,This should be the right floor.
-Dialogue: 10,0:03:38.41,0:03:41.17,Default,,0,0,0,,I've been expecting you, {*}Mr. Teacher{*Sensei}.
+Dialogue: 10,0:03:38.41,0:03:41.17,Default,,0,0,0,,I've been expecting you{**, Sensei}.
 Dialogue: 10,0:03:42.35,0:03:47.66,Default,,0,0,0,,I've long been eager to\ndiscuss matters directly with you.
-Dialogue: 10,0:03:47.66,0:03:50.88,Default,,0,0,0,,Your reputation as the GSC President's\nenigmatic guest precedes you,
-Dialogue: 10,0:03:51.20,0:03:54.38,Default,,0,0,0,,teacher of the Federal Investigations Club Schale.
+Dialogue: 10,0:03:47.66,0:03:50.88,Default,,0,0,0,,I've heard stories of the GSC's President's enigmatic guest.
+Dialogue: 10,0:03:51.20,0:03:54.38,Default,,0,0,0,,Of the teacher at the Federal Investigations Club Schale.
 Dialogue: 10,0:03:57.87,0:03:59.55,Default,,0,0,0,,Please, rest assured. {BE NOT AFRAID}
 Dialogue: 10,0:03:59.55,0:04:03.43,Default,,0,0,0,,We're not looking to become your enemy.
 Dialogue: 10,0:04:03.43,0:04:05.48,Default,,0,0,0,,In fact, we'd prefer the opposite.
@@ -70,7 +70,7 @@ Dialogue: 10,0:04:41.57,0:04:43.87,Default,,0,0,0,,We, too, originate from outsi
 Dialogue: 10,0:04:43.87,0:04:48.31,Default,,0,0,0,,We simply hail from a different realm than you.
 Dialogue: 10,0:04:49.43,0:04:50.81,Default,,0,0,0,,Gematria.
 Dialogue: 10,0:04:51.57,0:04:53.56,Default,,0,0,0,,That is our name.
-Dialogue: 10,0:04:53.86,0:04:56.94,Default,,0,0,0,,To put it into your terms,
+Dialogue: 10,0:04:53.86,0:04:56.94,Default,,0,0,0,,To put it into your terms, {###}
 Dialogue: 10,0:04:56.94,0:05:01.07,Default,,0,0,0,,it's the organisation to which I belong.
 Dialogue: 10,0:05:01.07,0:05:07.26,Default,,0,0,0,,Our mission lies in expanding knowledge\nthrough observation, exploration, and experimentation.
 Dialogue: 10,0:05:07.26,0:05:13.08,Default,,0,0,0,QC,Through that lens, one may view us as alien beings,\nnot too dissimilar from yourself. {### nazaki plshelp I don't even know what this line means}{its more like "otherworldly being" then enigmatic beings. more like hes saying "From that point of view, we are mysterious beings just as you are" --rapid}{### Is the vibe kinda like a scientist looking into a mouse cage while they experiment on them or similar?}
@@ -93,7 +93,7 @@ Dialogue: 10,0:06:01.58,0:06:02.26,Default,,0,0,0,,Oh?
 Dialogue: 10,0:06:02.84,0:06:03.76,Default,,0,0,0,,Because...
 Dialogue: 10,0:06:04.34,0:06:07.18,Default,,0,0,0,,I haven't signed that form yet.
 Dialogue: 10,0:06:08.35,0:06:11.52,Default,,0,0,0,,Hoshino's still part of the Task Force.
-Dialogue: 10,0:06:11.52,0:06:13.77,Default,,0,0,0,,She's still the vice president of Abydos.
+Dialogue: 10,0:06:11.52,0:06:13.77,Default,,0,0,0,,She's still the vice president of the student council.
 Dialogue: 10,0:06:13.77,0:06:17.02,Default,,0,0,0,,And she's still my precious student.
 Dialogue: 10,0:06:17.37,0:06:18.93,Default,,0,0,0,,Interesting.
 Dialogue: 10,0:06:18.93,0:06:24.63,Default,,0,0,0,,Because you're their teacher,\nany official actions necessitate your signature.
@@ -101,12 +101,12 @@ Dialogue: 10,0:06:25.71,0:06:28.28,Default,,0,0,0,,That's rather inconvenient.
 Dialogue: 10,0:06:28.28,0:06:32.48,Default,,0,0,0,,You deceived my students. \NYou and your organisation.
 Dialogue: 10,0:06:32.48,0:06:36.22,Default,,0,0,0,,You toyed with their feelings\nand took advantage of their suffering.
 Dialogue: 10,0:06:36.22,0:06:38.92,Default,,0,0,0,,Yes, that's exactly right.
-Dialogue: 10,0:06:38.92,0:06:44.34,Default,,0,0,0,,In terms of "good" or "evil", our actions\nwould unambiguously fall under "evil".
+Dialogue: 10,0:06:38.92,0:06:44.34,Default,,0,0,0,,On the spectrum of "good" and "evil",\nour actions would unambiguously be considered evil.
 Dialogue: 10,0:06:44.34,0:06:46.30,Default,,0,0,0,,Evil, yes, but well within our rights.
-Dialogue: 10,0:06:46.30,0:06:49.31,Default,,0,0,0,QC,But it would do ill to attribute all evils to us. {### Needs rephrasing, but this is the kinda direction I wanna take this into to better connect to the next line} {"But please do not misunderstand" hes basically just saying "don't overgeneralize what i just said about us being evil into us being fully chaotic evil" --rapid}
-Dialogue: 10,0:06:49.67,0:06:54.41,Default,,0,0,0,QC,For example, the disaster that struck Abydos was not our doing. {### still not 100% sure what to do here. He's basically transitioning into saying they were not the ones behind those sandstorms, they just took advantage of it. But it's too random of a switch without a connection to the previous lines. Petz, got any ideas?} {"Things like the disaster that struck abydos wasn't us" (hes saying something like "its not *our* fault that the disaster happened" with heavy implication on the fact that they did you know what --rpid}
+Dialogue: 10,0:06:46.30,0:06:49.31,Default,,0,0,0,,I feel that particular point needed to be made clear.
+Dialogue: 10,0:06:49.67,0:06:54.41,Default,,0,0,0,,With that said, I must stress this:\nThe disaster that struck Abydos was not our doing.
 Dialogue: 10,0:06:55.06,0:06:59.57,Default,,0,0,0,,Those sandstorms were atypical,\nbut not outside the realm of possibility.
-Dialogue: 10,0:06:59.83,0:07:02.93,Default,,0,0,0,,Natural disasters are always unpredictable.
+Dialogue: 10,0:06:59.83,0:07:02.93,Default,,0,0,0,,You can't predict every natural disaster.
 Dialogue: 10,0:07:03.96,0:07:07.57,Default,,0,0,0,,Should some people suffer of thirst as a result,
 Dialogue: 10,0:07:07.87,0:07:11.39,Default,,0,0,0,,opportunists will naturally emerge to sell them water.
 Dialogue: 10,0:07:11.39,0:07:14.49,Default,,0,0,0,,This is simply business as usual.
@@ -117,7 +117,7 @@ Dialogue: 10,0:07:24.84,0:07:28.37,Default,,0,0,0,,Those who possess exploit tho
 Dialogue: 10,0:07:28.87,0:07:32.10,Default,,0,0,0,,Determining one's future is a luxury\nthe weak aren't afforded.
 Dialogue: 10,0:07:32.83,0:07:34.18,Default,,0,0,0,,{*}Schale's teacher{*Sensei}.
 Dialogue: 10,0:07:34.18,0:07:40.11,Default,,0,0,0,,Abandon {*}Miss Hoshino{*Hoshino-san}, and in return,\nI will guarantee Abydos's well-being.
-Dialogue: 10,0:07:40.56,0:07:45.86,Default,,0,0,0,,I can ensure that they can attend\nschool without fear again.
+Dialogue: 10,0:07:40.56,0:07:45.86,Default,,0,0,0,,I can ensure that your students\ncan attend school without fear again.
 Dialogue: 10,0:07:46.13,0:07:49.11,Default,,0,0,0,,It's what {*}Miss Hoshino{*Hoshino-san} would want, I'm sure.
 Dialogue: 10,0:07:49.11,0:07:53.24,Default,,0,0,0,,Even if that were possible,\nthat's not what they would want.
 Dialogue: 10,0:07:54.75,0:07:59.35,Default,,0,0,0,,It would seem no matter my efforts,\nyou shall continue to oppose us.
@@ -145,19 +145,19 @@ Dialogue: 10,0:09:01.59,0:09:02.86,Default,,0,0,0,,You're right.
 Dialogue: 10,0:09:02.86,0:09:04.48,Default,,0,0,0,,They're not my children.
 Dialogue: 10,0:09:05.57,0:09:07.36,Default,,0,0,0,,One day, a letter brought me to Abydos
 Dialogue: 10,0:09:07.63,0:09:09.65,Default,,0,0,0,,and I just so happened to meet them.
-Dialogue: 10,0:09:10.03,0:09:11.69,Default,,0,0,0,,I'm just a stranger to them.
+Dialogue: 10,0:09:10.03,0:09:11.69,Default,,0,0,0,,I was just a stranger to them.
 Dialogue: 10,0:09:13.09,0:09:15.24,Default,,0,0,0,,But what does that matter?
 Dialogue: 10,0:09:15.50,0:09:16.71,Default,,0,0,0,,You want a reason?
 Dialogue: 10,0:09:16.71,0:09:18.97,Default,,0,0,0,,Children are crying for help!
 Dialogue: 10,0:09:18.97,0:09:20.25,Default,,0,0,0,,What more do you need?!
-Dialogue: 10,0:09:20.51,0:09:24.56,Default,,0,0,0,,And you believe {\i1}that's{\i0}\nhow adults bear responsibility? {Oooooof, the intro sequence is back to haunt us. I'm not in love with this, but }
+Dialogue: 10,0:09:20.51,0:09:24.56,Default,,0,0,0,,And you believe {\i1}this{\i0}\nis how adults bear responsibility? {Oooooof, the intro sequence is back to haunt us. I'm not in love with this, but }
 Dialogue: 10,0:09:24.56,0:09:25.63,Default,,0,0,0,,It is!
-Dialogue: 10,0:09:26.16,0:09:28.51,Default,,0,0,0,ED/QC,If they laugh, you laugh with them. {"join" feels like it's missing too much context here. Maybe "you share their joy".}{### still kinda prefer what we have now, but I want petzku's opinion for these few lines} {i think the current one is better bc it just sounds better in english to have the parrallel structure and "with them" pairs a lot better with the other two lines even if its supposed to be a little more like "you laugh together" or "you join them laughing" --rapid}
-Dialogue: 10,0:09:28.51,0:09:30.73,Default,,0,0,0,ED/QC,If they're sad, you comfort them.
-Dialogue: 10,0:09:30.73,0:09:32.84,Default,,0,0,0,ED/QC,If they're lost, you guide them{ home --ik}. {dissagree with ik not important enough to break the parrallel structure --rapid}
+Dialogue: 10,0:09:26.16,0:09:28.51,Default,,0,0,0,,If they laugh, you laugh with them.
+Dialogue: 10,0:09:28.51,0:09:30.73,Default,,0,0,0,,If they're sad, you comfort them.
+Dialogue: 10,0:09:30.73,0:09:32.84,Default,,0,0,0,,If they're lost, you guide them.
 Dialogue: 10,0:09:33.09,0:09:35.01,Default,,0,0,0,,That's what it means to be an adult!
 Dialogue: 10,0:09:35.01,0:09:36.42,Default,,0,0,0,,Wrong.
-Dialogue: 10,0:09:36.42,0:09:37.97,Default,,0,0,0,,In fact, you couldn't be any more wrong.
+Dialogue: 10,0:09:36.42,0:09:37.97,Default,,0,0,0,,So very wrong.
 Dialogue: 10,0:09:38.40,0:09:41.75,Default,,0,0,0,,Adults bend society to their own will.
 Dialogue: 10,0:09:41.75,0:09:45.03,Default,,0,0,0,,They decide what is right, what is proper.
 Dialogue: 10,0:09:45.03,0:09:47.73,Default,,0,0,0,,What is the norm, and what is not.
@@ -165,20 +165,20 @@ Dialogue: 10,0:09:48.11,0:09:50.70,Default,,0,0,0,QC,Adults rule the aimless wit
 Dialogue: 10,0:09:50.70,0:09:52.92,Default,,0,0,0,,the ignorant with knowledge,
 Dialogue: 10,0:09:52.92,0:09:55.80,Default,,0,0,0,,and the weak with power.
 Dialogue: 10,0:09:55.80,0:09:57.74,Default,,0,0,0,,{\i1}That{\i0} is what it means to be an adult.
-Dialogue: 10,0:09:58.36,0:10:00.34,Default,,0,0,0,,I simply don't understand.
+Dialogue: 10,0:09:58.36,0:10:00.34,Default,,0,0,0,,I simply don't understand. {###}
 Dialogue: 10,0:10:00.34,0:10:04.00,Default,,0,0,0,,You could have ruled over Kivotos.
 Dialogue: 10,0:10:04.00,0:10:08.71,Default,,0,0,0,,It could have been yours.\nThe authority, the privileges...
-Dialogue: 10,0:10:08.71,0:10:12.01,Default,,0,0,0,QC,{and }the Mystics that fill this academy city. {### petz, does this sentence fragment need to be capitalised?} {maybe add "and" to the begining of the sentance --rapid}{### leaving that to petzku. I left it without initially because it sounded better to me, but I'm not sure anymore while also kinda having hit a point where I'm stuck on lines lmao}
+Dialogue: 10,0:10:08.71,0:10:12.01,Default,,0,0,0,,the Mystics that fill this academy city.
 Dialogue: 10,0:10:12.38,0:10:17.76,Default,,0,0,0,,It may have been brief,\nbut you held it all in the palm of your hand.
 Dialogue: 10,0:10:18.81,0:10:21.48,Default,,0,0,0,,Yet you threw it all away\nwithout a moment's hesitation!
 Dialogue: 10,0:10:22.02,0:10:25.86,Default,,0,0,0,,Truth and mystery. Authority. Riches. {\i1}Power{\i0}.
 Dialogue: 10,0:10:25.86,0:10:28.65,Default,,0,0,0,,To throw that all away is madness.
 Dialogue: 10,0:10:29.01,0:10:30.23,Default,,0,0,0,,So why {\i1}did{\i0} you?
 Dialogue: 10,0:10:31.98,0:10:35.16,Default,,0,0,0,,Even if I told you, you would never understand.
-Dialogue: 10,0:10:39.09,0:10:40.33,Default,,0,0,0,,Very well.
+Dialogue: 10,0:10:39.09,0:10:40.33,Default,,0,0,0,,I see.
 Dialogue: 10,0:10:40.33,0:10:42.66,Default,,0,0,0,,It appears we've reached an impasse.
-Dialogue: 10,0:10:43.23,0:10:48.17,Default,,0,0,0,,I had high hopes for you, but I'm afraid\nI will have to cut our negotiations short.
-Dialogue: 10,0:10:49.46,0:10:55.39,Default,,0,0,0,,You'll find {*}Miss Hoshino{*Hoshino-san} in the laboratory\nbeneath one of Kaiser PMC's desert bases.
+Dialogue: 10,0:10:43.23,0:10:48.17,Default,,0,0,0,,I had high hopes for you, but I'm afraid\na partnership between us is currently out of reach.
+Dialogue: 10,0:10:49.46,0:10:55.39,Default,,0,0,0,,You'll find {*}Miss Hoshino{*Hoshino-san} in a laboratory\nbeneath one of Kaiser PMC's desert bases.
 Dialogue: 10,0:10:55.39,0:10:59.43,Default,,0,0,0,,Mimesis allowed us to observe\na different facet of Mystics: Terror.
 Dialogue: 10,0:10:59.43,0:11:03.18,Default,,0,0,0,,Our goal was to to explore\nits application on a living student.
 Dialogue: 10,0:11:03.71,0:11:07.19,Default,,0,0,0,,The girl was meant to serve\nas a test bed to confirm our hypotheses.
@@ -188,7 +188,7 @@ Dialogue: 10,0:11:15.23,0:11:17.70,Default,,0,0,0,,It's regrettable, but our inv
 Dialogue: 10,0:11:18.30,0:11:19.71,Default,,0,0,0,,So then Hoshino is...
 Dialogue: 10,0:11:19.71,0:11:21.35,Default,,0,0,0,,Go ahead. Do what you will.
 Dialogue: 10,0:11:21.35,0:11:23.58,Default,,0,0,0,,You are free to have her, if you'd like.
-Dialogue: 10,0:11:25.12,0:11:31.63,Default,,0,0,0,,Of course, assuming the director\nallows you to see her in the first place.
+Dialogue: 10,0:11:25.12,0:11:31.63,Default,,0,0,0,,That is, assuming the director\nwill allow you to see her in the first place.
 Dialogue: 10,0:11:33.13,0:11:35.38,Default,,0,0,0,,I'm glad we had this conversation.
 Dialogue: 10,0:11:35.77,0:11:38.22,Default,,0,0,0,,May we meet again.
 Dialogue: 10,0:11:40.55,0:11:43.23,Default,,0,0,0,,I wish you the best of luck.
@@ -208,10 +208,10 @@ Dialogue: 10,0:12:13.67,0:12:16.51,Default,,0,0,0,,She went back on her word.
 Dialogue: 10,0:12:16.51,0:12:17.97,Default,,0,0,0,,She deserves to be punished.
 Dialogue: 10,0:12:18.30,0:12:19.51,Default,,0,0,0,,So we scold her
 Dialogue: 10,0:12:20.34,0:12:22.10,Default,,0,0,0,,for her own good.
-Dialogue: 10,0:12:27.73,0:12:31.11,Default,,0,0,0,TL,Let's find her together and say "welcome home". {So there are two ways of handling this line. One is to wrangle the "tadaima" into a way that makes sense in English, and then use the same phrasing for the finale of Vol1 Chapter2. The other is to rewrite that entire scene to say something a bit different. I might gravitate towards the second bit, just to make my own life easier. --ik}{### wfm, will leave it to you} {heres a corny ass line that could fit: "Lets bring her home, girls" --rapid} {### I like the line in a vacuum, but it doesn't quite seem to fit the scene and the discussion after well enough. We could also make changes there to better reflect it, though. Thoughts, iks?}
+Dialogue: 10,0:12:27.73,0:12:31.11,Default,,0,0,0,,Let's find her together and say "welcome home".
 Dialogue: 10,0:12:31.11,0:12:33.69,Default,,0,0,0,,What?! Where did {\i1}that{\i0} corny line come from?
 Dialogue: 10,0:12:33.69,0:12:34.90,Default,,0,0,0,,That's way too sappy!
-Dialogue: 10,0:12:34.90,0:12:37.90,Default,,0,0,0,,It just {\i1}screams{\i0} blue skies and happy memories! {Need... blue archive... pun... Tried looking at the OST names for inspiration but idk how well it works --ik}{### sorry dude aint got anything} {idk i don't love this in the first place (i think something thats more like "It feels like its out of a high school movie" fits better) but --rapid} {### "It feels like something out of High School Musical!" but yeah, in retrospect I agree. I'll ponder on this a bit.}
+Dialogue: 10,0:12:34.90,0:12:37.90,Default,,0,0,0,,It just {\i1}screams{\i0} blue skies and happy memories!
 Dialogue: 10,0:12:37.90,0:12:40.32,Default,,0,0,0,,We could never pull that off!
 Dialogue: 10,0:12:40.32,0:12:42.12,Default,,0,0,0,,I'll say it,
 Dialogue: 10,0:12:42.12,0:12:44.20,Default,,0,0,0,,even if you don't want to.
@@ -259,7 +259,7 @@ Dialogue: 10,0:14:50.33,0:14:51.33,Default,,0,0,0,,However.
 Dialogue: 10,0:14:52.87,0:14:55.83,Default,,0,0,0,,There is also the matter of the Treaty to consider.
 Dialogue: 10,0:14:55.83,0:14:58.84,Default,,0,0,0,,We cannot afford to act hastily.
 Dialogue: 10,0:15:01.63,0:15:04.09,Default,,0,0,0,,May I have some time to think this over?
-Dialogue: 10,0:15:05.09,0:15:07.34,Default,,0,0,0,QC,So we're put on hold, huh? {no hyphen here, but I also don't know if this call center metaphor works. Maybe "couldn't even get an answer, huh" --ik} {### petz, thoughts?}
+Dialogue: 10,0:15:05.09,0:15:07.34,Default,,0,0,0,,So we're put on hold, huh?
 Dialogue: 10,0:15:07.51,0:15:10.10,Default,,0,0,0,,Sorry, this was my idea.
 Dialogue: 10,0:15:10.10,0:15:12.10,Default,,0,0,0,,Guess it's not that easy.
 Dialogue: 10,0:15:12.10,0:15:15.94,Default,,0,0,0,,Finding help is a lot tougher than we thought.
@@ -316,7 +316,7 @@ Dialogue: 10,0:17:49.46,0:17:52.22,Default,,0,0,0,,It's okay. This one's the one
 Dialogue: 10,0:17:53.97,0:17:56.72,Default,,0,0,0,,Hey, what gives?
 Dialogue: 10,0:17:56.72,0:17:58.35,Default,,0,0,0,,That's weird...
 Dialogue: 10,0:17:58.35,0:18:02.06,Default,,0,0,0,,This is definitely the address they gave me.
-Dialogue: 10,0:18:02.06,0:18:06.06,Default,,0,0,0,,So what? You're telling me this is the PS68 office?
+Dialogue: 10,0:18:02.06,0:18:06.06,Default,,0,0,0,,So, what? You're telling me this is Problem Solver's office?
 Dialogue: 10,0:18:06.06,0:18:08.48,Default,,0,0,0,,Maybe there was a miscommunication?
 Dialogue: 10,0:18:08.48,0:18:13.32,Default,,0,0,0,,This is the only lead we have on them.
 Dialogue: 10,0:18:13.32,0:18:16.20,Default,,0,0,0,,Great, we came all this way for nothing.
@@ -335,15 +335,15 @@ Dialogue: 10,0:18:49.52,0:18:53.53,Default,,0,0,0,,Gosh, I don't know what would
 Dialogue: 10,0:18:53.53,0:18:55.70,Default,,0,0,0,,I'm sure you would've figured something out.
 Dialogue: 10,0:18:55.70,0:18:58.45,Default,,0,0,0,,Well, not like quittin' was an option anyway.
 Dialogue: 10,0:18:58.78,0:19:03.46,Default,,0,0,0,,There's still plenty o' folk\nwaiting to taste my ramen.
-Dialogue: 10,0:19:03.83,0:19:06.83,Default,,0,0,0,ED/QC,Earlier, these two darlings stopped by. {two bonny lasses. Make him Scottish now and confuse EVERYONE --ik}{### lol I am awful at accents} {momoi}
+Dialogue: 10,0:19:03.83,0:19:06.83,Default,,0,0,0,,Earlier, these two darlings stopped by.
 Dialogue: 10,0:19:06.83,0:19:10.96,Default,,0,0,0,,Tucked right in, said my ramen\nhit just the spot after a long day.
 Dialogue: 10,0:19:10.96,0:19:12.59,Default,,0,0,0,,Can't ask for more than that.
 Dialogue: 10,0:19:13.84,0:19:15.09,Default,,0,0,0,,How're things for you?
 Dialogue: 10,0:19:15.09,0:19:17.34,Default,,0,0,0,,Well, could be better.
-Dialogue: 10,0:19:17.34,0:19:20.51,Default,,0,0,0,,We tryied reaching out to\na lot of people to ask for help.
+Dialogue: 10,0:19:17.34,0:19:20.51,Default,,0,0,0,,We tried reaching out to\na lot of people to ask for help.
 Dialogue: 10,0:19:20.51,0:19:25.31,Default,,0,0,0,,And we're having some trouble\nlocating the last group.
 Dialogue: 10,0:19:25.31,0:19:28.52,Default,,0,0,0,,If we can't find them soon,\nwe may have to give up.
-Dialogue: 10,0:19:29.94,0:19:32.53,Default,,0,0,0,,Boss, can we get the cheque?
+Dialogue: 10,0:19:29.94,0:19:32.53,Default,,0,0,0,,Boss, can we get the bill?
 Dialogue: 10,0:19:34.95,0:19:36.41,Default,,0,0,0,,It's them!
 Dialogue: 10,0:19:39.57,0:19:44.16,Default,,0,0,0,,You want us to fight Kaiser PMC for free?
 Dialogue: 10,0:19:44.16,0:19:48.08,Default,,0,0,0,,I don't see what's in it for us.
@@ -365,7 +365,7 @@ Dialogue: 10,0:20:22.16,0:20:23.37,Default,,0,0,0,,I see.
 Dialogue: 10,0:20:23.62,0:20:24.62,Default,,0,0,0,,I understand.
 Dialogue: 10,0:20:25.75,0:20:27.21,Default,,0,0,0,,Come on, let's go.
 Dialogue: 10,0:20:27.21,0:20:30.00,Default,,0,0,0,,Hey, wait! Hold on, Aru{**-chan}!
-Dialogue: 10,0:20:30.54,0:20:32.92,Default,,0,0,0,,Don't beat yourself up over it, {*}Teacher{*Sensei}.
+Dialogue: 10,0:20:30.54,0:20:32.92,Default,,0,0,0,,Don't beat yerself up over it, {*}Teach{*Sensei}.
 Dialogue: 10,0:20:32.92,0:20:34.13,Default,,0,0,0,,It's okay.
 Dialogue: 10,0:20:34.63,0:20:38.01,Default,,0,0,0,,I have faith that they'll help us.
 Dialogue: 10,0:20:43.01,0:20:45.27,Default,,0,0,0,,{\i1}Faith, huh.
@@ -382,7 +382,7 @@ Dialogue: 10,0:21:18.17,0:21:20.84,Default,,0,0,0,,I've packed plenty of ammunit
 Dialogue: 10,0:21:20.84,0:21:22.84,Default,,0,0,0,,I got a good night's sleep.
 Dialogue: 10,0:21:23.18,0:21:26.47,Default,,0,0,0,,Kaiser PMC doesn't stand a chance!
 Dialogue: 10,0:21:27.89,0:21:30.35,Default,,0,0,0,,According to the intel {*}Teacher{*Sensei} got us,
-Dialogue: 10,0:21:30.69,0:21:35.36,Default,,0,0,0,,Hoshino is being held in District 51,\nin one of Kaiser PMC bases.
+Dialogue: 10,0:21:30.69,0:21:35.36,Default,,0,0,0,,Hoshino is being held in District 51,\nin one of Kaiser PMC's bases.
 Dialogue: 10,0:21:35.36,0:21:36.61,Default,,0,0,0,,Yes.
 Dialogue: 10,0:21:36.61,0:21:38.49,Default,,0,0,0,,Let's get moving.
 Dialogue: 10,0:21:38.74,0:21:39.49,Default,,0,0,0,,All right.
