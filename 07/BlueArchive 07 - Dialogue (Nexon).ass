@@ -1,0 +1,420 @@
+﻿[Script Info]
+Title: [Erai-raws] en-US
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.00,0:00:07.90,Default,,0,0,0,,Well, well
+Dialogue: 0,0:00:07.90,0:00:09.93,Default,,0,0,0,,I have been waiting for you,
+Dialogue: 0,0:00:09.93,0:00:11.36,Default,,0,0,0,,Horus of Dawn—
+Dialogue: 0,0:00:11.90,0:00:12.90,Default,,0,0,0,,Or rather,
+Dialogue: 0,0:00:13.43,0:00:15.90,Default,,0,0,0,,Miss Takanashi Hoshino
+Dialogue: 0,0:00:17.70,0:00:19.36,Default,,0,0,0,,What do you want this time?
+Dialogue: 0,0:00:20.86,0:00:23.20,Default,,0,0,0,,The situation's changed a bit
+Dialogue: 0,0:00:23.20,0:00:25.00,Default,,0,0,0,,Once more,
+Dialogue: 0,0:00:25.00,0:00:28.26,Default,,0,0,0,,I have a proposal for you, Hoshino—
+Dialogue: 0,0:00:28.26,0:00:30.40,Default,,0,0,0,,or should I call you\N"Abydos' Greatest Mystery?"
+Dialogue: 0,0:00:30.40,0:00:32.50,Default,,0,0,0,,- Don't be ridiculous!\N- Oh my…
+Dialogue: 0,0:00:32.50,0:00:34.26,Default,,0,0,0,,Please calm down
+Dialogue: 0,0:00:34.26,0:00:38.50,Default,,0,0,0,,I think you'll find my\Noffer difficult to refuse
+Dialogue: 0,0:00:38.67,0:00:40.07,Default,,0,0,0,,(Contract)
+Dialogue: 0,0:00:40.73,0:00:43.76,Default,,0,0,0,,It should be rather enticing, in fact
+Dialogue: 0,0:00:57.60,0:01:00.49,Default,,0,0,0,,(The 177th Abydos Oasis Festival)
+Dialogue: 0,0:01:00.83,0:01:04.56,Default,,0,0,0,,The sky blue archive!
+Dialogue: 0,0:01:13.30,0:01:17.73,Default,,0,0,0,,I pedal on my bike seeking new sights
+Dialogue: 0,0:01:17.73,0:01:21.96,Default,,0,0,0,,We'll break the monotony,\Nno longer trapped in place
+Dialogue: 0,0:01:21.96,0:01:26.20,Default,,0,0,0,,Daydreaming on the rooftop,\Ngazing at a sky so blue
+Dialogue: 0,0:01:26.20,0:01:30.03,Default,,0,0,0,,Those clouds like whales are always changing
+Dialogue: 0,0:01:30.03,0:01:34.16,Default,,0,0,0,,We'll embrace a past that can't be altered
+Dialogue: 0,0:01:34.16,0:01:39.63,Default,,0,0,0,,Sharing juice in this world made of sand\Nis a taste so divine
+Dialogue: 0,0:01:39.63,0:01:43.60,Default,,0,0,0,,If I were here alone, here without all of you
+Dialogue: 0,0:01:43.60,0:01:47.53,Default,,0,0,0,,I couldn't laugh, I couldn't cry
+Dialogue: 0,0:01:47.53,0:01:49.63,Default,,0,0,0,,A fateful coterie
+Dialogue: 0,0:01:49.63,0:01:57.80,Default,,0,0,0,,Even if the world's memories blow away\Nlike grains of sand one day
+Dialogue: 0,0:01:57.80,0:02:06.66,Default,,0,0,0,,The sky, sea, wind, and you,\Nour youth will never end
+Dialogue: 0,0:02:06.66,0:02:12.53,Default,,0,0,0,,It's easy to see why we protect what we do
+Dialogue: 0,0:02:12.53,0:02:23.66,Default,,0,0,0,,Because this is the only place where we belong
+Dialogue: 0,0:02:31.50,0:02:32.83,Default,,0,0,0,,We'll wrap up
+Dialogue: 0,0:02:32.83,0:02:35.93,Default,,0,0,0,,with some recent events\Nfrom the Abydos District
+Dialogue: 0,0:02:36.83,0:02:39.33,Default,,0,0,0,,While there were reports of explosions,
+Dialogue: 0,0:02:39.33,0:02:42.30,Default,,0,0,0,,(Clear skies!\NExpect clouds next week!)\Nit's been business as usual\Nfor the desert district
+Dialogue: 0,0:02:42.83,0:02:45.63,Default,,0,0,0,,And that's the news for the day!
+Dialogue: 0,0:02:46.23,0:02:47.63,Default,,0,0,0,,We'll see you tomorrow!
+Dialogue: 0,0:02:53.73,0:02:57.76,Default,,0,0,0,,(Shiba Seki Ramen)\N(Keep Out)
+Dialogue: 0,0:03:01.05,0:03:02.10,Default,,0,0,0,,(Keep Out)\N(Danger!)
+Dialogue: 0,0:03:09.60,0:03:11.46,Default,,0,0,0,,How did I end up here?
+Dialogue: 0,0:03:11.46,0:03:12.80,Default,,0,0,0,,Did you just say something?
+Dialogue: 0,0:03:13.76,0:03:15.60,Default,,0,0,0,,Um, Head Prefect…
+Dialogue: 0,0:03:15.60,0:03:18.43,Default,,0,0,0,,How much longer do\NI have to do this for?
+Dialogue: 0,0:03:18.43,0:03:20.50,Default,,0,0,0,,You're at around 200, yes?
+Dialogue: 0,0:03:20.50,0:03:23.20,Default,,0,0,0,,Didn't you tell me you\Nwould complete 1,000 pages?
+Dialogue: 0,0:03:23.20,0:03:24.50,Default,,0,0,0,,Well, that was…
+Dialogue: 0,0:03:24.50,0:03:27.76,Default,,0,0,0,,It was a metaphor for my deep remorse…!
+Dialogue: 0,0:03:27.76,0:03:30.03,Default,,0,0,0,,Use your hands, not your mouth
+Dialogue: 0,0:03:30.03,0:03:31.66,Default,,0,0,0,,I-I'll do my best
+Dialogue: 0,0:03:35.26,0:03:36.50,Default,,0,0,0,,So, um,
+Dialogue: 0,0:03:36.50,0:03:40.50,Default,,0,0,0,,are you well-acquainted\Nwith Abydos' Hoshino?
+Dialogue: 0,0:03:40.50,0:03:44.10,Default,,0,0,0,,No, I just investigated her when\NI was on the Intelligence Committee
+Dialogue: 0,0:03:44.10,0:03:46.50,Default,,0,0,0,,That was my first time\Nmeeting her in person
+Dialogue: 0,0:03:46.50,0:03:47.93,Default,,0,0,0,,I see
+Dialogue: 0,0:03:47.93,0:03:51.93,Default,,0,0,0,,It's just, you spoke as if you knew her well
+Dialogue: 0,0:03:51.93,0:03:53.83,Default,,0,0,0,,Takanashi Hoshino
+Dialogue: 0,0:03:53.83,0:03:56.10,Default,,0,0,0,,She was hailed as a genius, An elite
+Dialogue: 0,0:03:56.76,0:04:00.56,Default,,0,0,0,,The Intelligence Committee's\Nanalysis two years ago identified
+Dialogue: 0,0:04:00.56,0:04:03.83,Default,,0,0,0,,her as a potential threat\Nto Gehenna's security
+Dialogue: 0,0:04:04.56,0:04:08.00,Default,,0,0,0,,She didn't give me that impression
+Dialogue: 0,0:04:08.00,0:04:08.93,Default,,0,0,0,,Ako
+Dialogue: 0,0:04:08.93,0:04:11.36,Default,,0,0,0,,Don't judge a book by its cover
+Dialogue: 0,0:04:13.00,0:04:17.20,Default,,0,0,0,,But…she does seems a bit\Ndifferent from two years ago
+Dialogue: 0,0:04:18.30,0:04:21.23,Default,,0,0,0,,She's an aggressive frontliner,
+Dialogue: 0,0:04:21.23,0:04:23.76,Default,,0,0,0,,so she was inherently combative in nature,
+Dialogue: 0,0:04:23.76,0:04:28.03,Default,,0,0,0,,She had a vicious, cutthroat aura
+Dialogue: 0,0:04:29.93,0:04:31.50,Default,,0,0,0,,Well, regardless,
+Dialogue: 0,0:04:32.00,0:04:33.83,Default,,0,0,0,,if we hadn't retreated then,
+Dialogue: 0,0:04:33.83,0:04:37.06,Default,,0,0,0,,most of the Prefect Team\Nwould've been incapacitated
+Dialogue: 0,0:04:37.66,0:04:40.43,Default,,0,0,0,,Ako, your lack of\Npreparation is to blame here
+Dialogue: 0,0:04:40.43,0:04:44.00,Default,,0,0,0,,I thought my analysis of\Ntheir capabilities was flawless,
+Dialogue: 0,0:04:44.00,0:04:45.50,Default,,0,0,0,,but I just didn't know…
+Dialogue: 0,0:04:45.50,0:04:49.53,Default,,0,0,0,,Well, her name did stop appearing\Nin activity reports out of the blue
+Dialogue: 0,0:04:49.53,0:04:53.26,Default,,0,0,0,,The Intelligence Committee\Ndeemed her negligible after that
+Dialogue: 0,0:04:53.86,0:04:58.10,Default,,0,0,0,,If you're curious, dig\Nthrough some old records
+Dialogue: 0,0:05:00.20,0:05:02.16,Default,,0,0,0,,Ako, you've stopped writing
+Dialogue: 0,0:05:02.16,0:05:03.23,Default,,0,0,0,,Oh, sorry!
+Dialogue: 0,0:05:03.76,0:05:05.53,Default,,0,0,0,,Takanashi Hoshino
+Dialogue: 0,0:05:05.53,0:05:08.66,Default,,0,0,0,,I didn't think she'd\Nstill be in Abydos
+Dialogue: 0,0:05:15.43,0:05:16.43,Default,,0,0,0,,Um…
+Dialogue: 0,0:05:17.03,0:05:19.13,Default,,0,0,0,,(An Evil a Day)\NWhere should I put this?
+Dialogue: 0,0:05:22.00,0:05:26.53,Default,,0,0,0,,Aru made that with her\Nesteemed calligraphy talents
+Dialogue: 0,0:05:26.53,0:05:28.26,Default,,0,0,0,,Throw it in the trash pile
+Dialogue: 0,0:05:28.26,0:05:30.20,Default,,0,0,0,,Are you sure?
+Dialogue: 0,0:05:30.20,0:05:32.70,Default,,0,0,0,,It's just something she made\Nduring calligraphy class
+Dialogue: 0,0:05:33.23,0:05:36.50,Default,,0,0,0,,Well, knowing her, Boss might want it
+Dialogue: 0,0:05:39.56,0:05:40.70,Default,,0,0,0,,Aru…
+Dialogue: 0,0:05:40.70,0:05:43.53,Default,,0,0,0,,She's bummed about having to move
+Dialogue: 0,0:05:43.53,0:05:45.20,Default,,0,0,0,,I get how she feels,
+Dialogue: 0,0:05:45.20,0:05:47.60,Default,,0,0,0,,but the Prefect Team\Nfound out about this place,
+Dialogue: 0,0:05:47.60,0:05:50.76,Default,,0,0,0,,and our client might come after\Nus since we failed the job
+Dialogue: 0,0:05:50.76,0:05:52.10,Default,,0,0,0,,There's no other choice
+Dialogue: 0,0:05:53.60,0:05:54.83,Default,,0,0,0,,Now that you say it,
+Dialogue: 0,0:05:54.83,0:05:58.20,Default,,0,0,0,,the way things ended with\NAbydos was kinda awkward
+Dialogue: 0,0:05:58.20,0:06:00.90,Default,,0,0,0,,W-Well, that situation is out of our hands
+Dialogue: 0,0:06:01.66,0:06:04.40,Default,,0,0,0,,I can hardly attack them after
+Dialogue: 0,0:06:04.40,0:06:06.90,Default,,0,0,0,,we fought together, side-by-side!
+Dialogue: 0,0:06:07.93,0:06:09.36,Default,,0,0,0,,I see
+Dialogue: 0,0:06:09.36,0:06:12.26,Default,,0,0,0,,We may be outlaws,\Nbut that's just the proper way…
+Dialogue: 0,0:06:12.26,0:06:16.03,Default,,0,0,0,,I agree! So let's get moved\Nout right and proper too!
+Dialogue: 0,0:06:18.73,0:06:21.03,Default,,0,0,0,,Kayoko, what should\NI do with this?
+Dialogue: 0,0:06:21.03,0:06:22.03,Default,,0,0,0,,Do you need it?
+Dialogue: 0,0:06:23.16,0:06:24.73,Default,,0,0,0,,Of course I do
+Dialogue: 0,0:06:24.73,0:06:26.43,Default,,0,0,0,,Just use your cellphone
+Dialogue: 0,0:06:26.43,0:06:28.83,Default,,0,0,0,,Convenience is nice, but\Nthis has sentimental value!
+Dialogue: 0,0:06:28.83,0:06:31.70,Default,,0,0,0,,- What even is that?\N- Look at its antique design!
+Dialogue: 0,0:06:31.70,0:06:33.60,Default,,0,0,0,,It fits an outlaw's\Naesthetic perfectly!
+Dialogue: 0,0:06:33.60,0:06:35.10,Default,,0,0,0,,I-I agree!
+Dialogue: 0,0:06:37.23,0:06:38.20,Default,,0,0,0,,Because…
+Dialogue: 0,0:06:39.16,0:06:40.76,Default,,0,0,0,,it's cool
+Dialogue: 0,0:06:43.26,0:06:45.40,Default,,0,0,0,,As expected of Haruka
+Dialogue: 0,0:06:45.40,0:06:47.03,Default,,0,0,0,,This isn't a retreat
+Dialogue: 0,0:06:47.03,0:06:49.03,Default,,0,0,0,,We're taking a step back to spring forward
+Dialogue: 0,0:06:49.56,0:06:52.10,Default,,0,0,0,,We'll overcome all adversity
+Dialogue: 0,0:06:52.10,0:06:54.70,Default,,0,0,0,,and return to this office!
+Dialogue: 0,0:06:55.20,0:06:56.50,Default,,0,0,0,,Because
+Dialogue: 0,0:06:56.50,0:06:59.20,Default,,0,0,0,,we are true hardboiled outlaws,
+Dialogue: 0,0:07:00.00,0:07:02.26,Default,,0,0,0,,Problem Solver 68!
+Dialogue: 0,0:07:04.66,0:07:07.36,Default,,0,0,0,,Tomorrow, we say\Ngoodbye to this place
+Dialogue: 0,0:07:13.90,0:07:15.00,Default,,0,0,0,,Boss,
+Dialogue: 0,0:07:15.00,0:07:17.20,Default,,0,0,0,,the landlord says to leave by today
+Dialogue: 0,0:07:17.20,0:07:19.40,Default,,0,0,0,,since we couldn't pay\Nlast month's rent
+Dialogue: 0,0:07:20.26,0:07:21.73,Default,,0,0,0,,Aru
+Dialogue: 0,0:07:21.73,0:07:23.53,Default,,0,0,0,,Then we're homeless now
+Dialogue: 0,0:07:23.53,0:07:25.36,Default,,0,0,0,,Wh-Wh-What…
+Dialogue: 0,0:07:26.03,0:07:28.90,Default,,0,0,0,,What did you say?!
+Dialogue: 0,0:07:37.00,0:07:39.23,Default,,0,0,0,,I've loaded everything
+Dialogue: 0,0:07:39.23,0:07:40.10,Default,,0,0,0,,Okay
+Dialogue: 0,0:07:41.40,0:07:43.70,Default,,0,0,0,,Cheer up, Aru
+Dialogue: 0,0:07:43.70,0:07:46.56,Default,,0,0,0,,It's not our first time\Nbeing homeless
+Dialogue: 0,0:07:46.56,0:07:49.00,Default,,0,0,0,,It's just going back to\Nour roots for a little bit
+Dialogue: 0,0:07:49.00,0:07:50.23,Default,,0,0,0,,Going back…
+Dialogue: 0,0:07:51.43,0:07:54.10,Default,,0,0,0,,No, no! We're moving forward!
+Dialogue: 0,0:07:54.90,0:07:55.93,Default,,0,0,0,,Exactly
+Dialogue: 0,0:07:55.93,0:07:57.86,Default,,0,0,0,,Where to now?
+Dialogue: 0,0:07:59.26,0:08:01.83,Default,,0,0,0,,I mean, there's nowhere else to go,
+Dialogue: 0,0:08:01.83,0:08:03.26,Default,,0,0,0,,so back to Gehenna?
+Dialogue: 0,0:08:05.70,0:08:06.90,Default,,0,0,0,,Are you leaving?
+Dialogue: 0,0:08:09.03,0:08:10.16,Default,,0,0,0,,Um…
+Dialogue: 0,0:08:10.16,0:08:13.53,Default,,0,0,0,,Sunaookami Shiroko, right?
+Dialogue: 0,0:08:13.53,0:08:14.50,Default,,0,0,0,,Yeah
+Dialogue: 0,0:08:14.50,0:08:16.76,Default,,0,0,0,,Wh-What are you doing here?
+Dialogue: 0,0:08:16.76,0:08:19.20,Default,,0,0,0,,You can't be looking for another fight!
+Dialogue: 0,0:08:19.20,0:08:20.26,Default,,0,0,0,,No
+Dialogue: 0,0:08:20.26,0:08:23.26,Default,,0,0,0,,I was just riding my bike\Nin the area and spotted you
+Dialogue: 0,0:08:32.56,0:08:33.70,Default,,0,0,0,,U-Um
+Dialogue: 0,0:08:34.86,0:08:36.40,Default,,0,0,0,,About yesterday…
+Dialogue: 0,0:08:38.76,0:08:40.70,Default,,0,0,0,,We really owe you
+Dialogue: 0,0:08:55.43,0:08:57.53,Default,,0,0,0,,And about the ramen shop…
+Dialogue: 0,0:08:57.53,0:08:58.86,Default,,0,0,0,,I can't forgive you for that
+Dialogue: 0,0:09:00.56,0:09:03.03,Default,,0,0,0,,But you seem remorseful,
+Dialogue: 0,0:09:04.56,0:09:05.76,Default,,0,0,0,,so I'll consider it a debt
+Dialogue: 0,0:09:06.73,0:09:10.06,Default,,0,0,0,,And you're the ones who\Nleft the bag there, right?
+Dialogue: 0,0:09:10.90,0:09:13.30,Default,,0,0,0,,I-I don't know what\Nyou're talking about
+Dialogue: 0,0:09:13.30,0:09:16.10,Default,,0,0,0,,We don't know anything\Nabout any bag of money
+Dialogue: 0,0:09:16.10,0:09:18.43,Default,,0,0,0,,Never heard of it, never seen it
+Dialogue: 0,0:09:19.26,0:09:22.83,Default,,0,0,0,,Aru, the way you said "bag of money"
+Dialogue: 0,0:09:22.83,0:09:24.83,Default,,0,0,0,,makes it super obvious
+Dialogue: 0,0:09:26.56,0:09:27.90,Default,,0,0,0,,Th-That's…
+Dialogue: 0,0:09:27.90,0:09:30.76,Default,,0,0,0,,You're the ones who stole that\Nmoney by robbing the bank
+Dialogue: 0,0:09:30.76,0:09:34.73,Default,,0,0,0,,We're not so corrupt as\Nto keep someone else's spoils
+Dialogue: 0,0:09:34.73,0:09:37.36,Default,,0,0,0,,Even hardboiled outlaws\Nhave their principles
+Dialogue: 0,0:09:37.36,0:09:39.26,Default,,0,0,0,,Ah, Aru's back
+Dialogue: 0,0:09:39.26,0:09:42.26,Default,,0,0,0,,I gave the bag to the master
+Dialogue: 0,0:09:42.26,0:09:44.06,Default,,0,0,0,,I see, Thanks
+Dialogue: 0,0:09:46.86,0:09:47.90,Default,,0,0,0,,Where will you go?
+Dialogue: 0,0:09:50.26,0:09:54.00,Default,,0,0,0,,To meet a client who needs\NProblem Solver 68's services
+Dialogue: 0,0:09:56.53,0:09:58.56,Default,,0,0,0,,Aru, shall we go?
+Dialogue: 0,0:09:59.16,0:10:00.93,Default,,0,0,0,,Y-Yeah
+Dialogue: 0,0:10:00.93,0:10:03.83,Default,,0,0,0,,We need to find somewhere\Nto sleep tonight
+Dialogue: 0,0:10:03.83,0:10:06.26,Default,,0,0,0,,O-Okay
+Dialogue: 0,0:10:09.93,0:10:10.90,Default,,0,0,0,,No handshake?
+Dialogue: 0,0:10:11.76,0:10:14.76,Default,,0,0,0,,I-I don't do goodbyes
+Dialogue: 0,0:10:16.00,0:10:17.70,Default,,0,0,0,,- Because—\N- You're an outlaw
+Dialogue: 0,0:10:19.23,0:10:20.36,Default,,0,0,0,,Will we meet again?
+Dialogue: 0,0:10:20.36,0:10:24.26,Default,,0,0,0,,Well, if that ramen shop reopens,
+Dialogue: 0,0:10:24.26,0:10:25.90,Default,,0,0,0,,maybe we'll see you there
+Dialogue: 0,0:10:27.43,0:10:28.86,Default,,0,0,0,,I'll be waiting
+Dialogue: 0,0:10:28.86,0:10:31.50,Default,,0,0,0,,Then, it's time to head out!
+Dialogue: 0,0:10:31.50,0:10:33.73,Default,,0,0,0,,- Where to?\N- We're riding off into the sunset!
+Dialogue: 0,0:10:33.73,0:10:35.66,Default,,0,0,0,,It's the afternoon…
+Dialogue: 0,0:10:35.66,0:10:37.66,Default,,0,0,0,,Anyway, let's go!
+Dialogue: 0,0:10:49.26,0:10:50.40,Default,,0,0,0,,Hello
+Dialogue: 0,0:10:51.60,0:10:53.66,Default,,0,0,0,,We've come to visit, Master!
+Dialogue: 0,0:10:53.66,0:10:56.10,Default,,0,0,0,,How are you feeling?
+Dialogue: 0,0:10:56.10,0:10:58.86,Default,,0,0,0,,What're you worrying about?\NIt's just a few scratches
+Dialogue: 0,0:10:58.86,0:11:01.56,Default,,0,0,0,,More importantly, considering\Nthe size of the explosion,
+Dialogue: 0,0:11:01.56,0:11:05.00,Default,,0,0,0,,I'm relieved no one else was hurt
+Dialogue: 0,0:11:05.00,0:11:06.60,Default,,0,0,0,,Yes, but…
+Dialogue: 0,0:11:07.10,0:11:10.03,Default,,0,0,0,,- The Shiba Seki Ramen shop…\N- I know
+Dialogue: 0,0:11:10.03,0:11:12.90,Default,,0,0,0,,I'm sorry I can't offer you\Na job anymore, Serika
+Dialogue: 0,0:11:12.90,0:11:15.03,Default,,0,0,0,,That's hardly the issue here, Master
+Dialogue: 0,0:11:15.03,0:11:16.36,Default,,0,0,0,,I'm fine
+Dialogue: 0,0:11:16.36,0:11:19.70,Default,,0,0,0,,I've been thinking about\Nclosing up shop anyway
+Dialogue: 0,0:11:20.76,0:11:24.00,Default,,0,0,0,,It's just happening a little\Nearlier than expected
+Dialogue: 0,0:11:24.86,0:11:26.23,Default,,0,0,0,,Closing up?
+Dialogue: 0,0:11:26.23,0:11:29.73,Default,,0,0,0,,Yes, I got an eviction notice recently
+Dialogue: 0,0:11:29.73,0:11:32.53,Default,,0,0,0,,What do you mean\Nan eviction notice?
+Dialogue: 0,0:11:32.53,0:11:34.90,Default,,0,0,0,,Abydos High School owns\Nthe land and buildings
+Dialogue: 0,0:11:34.90,0:11:36.36,Default,,0,0,0,,within the Abydos District
+Dialogue: 0,0:11:37.20,0:11:40.43,Default,,0,0,0,,Ah, you didn't know
+Dialogue: 0,0:11:41.56,0:11:43.96,Default,,0,0,0,,A few years ago, the student council
+Dialogue: 0,0:11:43.96,0:11:46.86,Default,,0,0,0,,transferred ownership of\Nthe land to another entity
+Dialogue: 0,0:11:46.86,0:11:49.43,Default,,0,0,0,,Even though it's the Abydos District?
+Dialogue: 0,0:11:49.43,0:11:51.70,Default,,0,0,0,,Serika, did you know about this?
+Dialogue: 0,0:11:51.70,0:11:54.66,Default,,0,0,0,,No, it's the first\NI've heard of it
+Dialogue: 0,0:11:54.66,0:11:58.23,Default,,0,0,0,,Does that mean there's some other debt\Nbesides the one we're paying off?
+Dialogue: 0,0:11:58.23,0:12:00.20,Default,,0,0,0,,I didn't know about this either
+Dialogue: 0,0:12:00.20,0:12:02.26,Default,,0,0,0,,Then who owns the buildings now?!
+Dialogue: 0,0:12:04.06,0:12:05.10,Default,,0,0,0,,Could it be…
+Dialogue: 0,0:12:05.86,0:12:07.83,Default,,0,0,0,,Kaiser Corporation?
+Dialogue: 0,0:12:09.40,0:12:12.30,Default,,0,0,0,,Something like that…
+Dialogue: 0,0:12:12.30,0:12:15.06,Default,,0,0,0,,Sorry, I can't remember the details
+Dialogue: 0,0:12:17.36,0:12:20.90,Default,,0,0,0,,We need to dig into this more
+Dialogue: 0,0:12:20.90,0:12:23.26,Default,,0,0,0,,Ayane, let me help
+Dialogue: 0,0:12:23.26,0:12:26.00,Default,,0,0,0,,Me too!\NJust say the word
+Dialogue: 0,0:12:26.00,0:12:29.06,Default,,0,0,0,,I'm really sorry about this\NIt's a weird situation
+Dialogue: 0,0:12:29.06,0:12:32.60,Default,,0,0,0,,No, it's our problem too
+Dialogue: 0,0:12:32.60,0:12:34.06,Default,,0,0,0,,Besides, Master,
+Dialogue: 0,0:12:34.06,0:12:36.06,Default,,0,0,0,,don't think about retiring just yet
+Dialogue: 0,0:12:36.06,0:12:38.10,Default,,0,0,0,,- Got it?\N- Ah, okay
+Dialogue: 0,0:12:38.66,0:12:40.26,Default,,0,0,0,,Oh, right
+Dialogue: 0,0:12:40.26,0:12:43.60,Default,,0,0,0,,Could you pull out the thing\Nunder the bed for me?
+Dialogue: 0,0:12:48.53,0:12:50.36,Default,,0,0,0,,Do you recognize this?
+Dialogue: 0,0:12:50.36,0:12:53.26,Default,,0,0,0,,- No, well…\N- I wouldn't say that…
+Dialogue: 0,0:12:53.26,0:12:54.53,Default,,0,0,0,,This is…
+Dialogue: 0,0:12:54.53,0:12:58.00,Default,,0,0,0,,Really? Shiroko\Ndropped it off earlier
+Dialogue: 0,0:12:58.00,0:13:01.20,Default,,0,0,0,,She said she found it\Nin front of the exploded shop
+Dialogue: 0,0:13:01.20,0:13:04.10,Default,,0,0,0,,So I opened it to see what it was…
+Dialogue: 0,0:13:04.10,0:13:06.70,Default,,0,0,0,,and there was an astonishing\Namount of money inside
+Dialogue: 0,0:13:07.53,0:13:09.86,Default,,0,0,0,,There must be a story\Nbehind it, right?
+Dialogue: 0,0:13:09.86,0:13:11.76,Default,,0,0,0,,I don't think so
+Dialogue: 0,0:13:11.76,0:13:14.36,Default,,0,0,0,,Someone with good intentions\Nmust have sent it
+Dialogue: 0,0:13:14.36,0:13:15.43,Default,,0,0,0,,Right
+Dialogue: 0,0:13:15.43,0:13:19.60,Default,,0,0,0,,They probably wanted you to\Nuse it to repair Shiba Seki Ramen
+Dialogue: 0,0:13:19.60,0:13:22.03,Default,,0,0,0,,Yeah! The people\Nwho left this money
+Dialogue: 0,0:13:22.03,0:13:25.06,Default,,0,0,0,,must have been moved\Nby the taste of your ramen!
+Dialogue: 0,0:13:25.60,0:13:27.40,Default,,0,0,0,,Is this real life?
+Dialogue: 0,0:13:27.40,0:13:31.50,Default,,0,0,0,,If that's the case, I'll have\Nto repay them with a hot meal
+Dialogue: 0,0:13:31.50,0:13:33.76,Default,,0,0,0,,I've kept the shop running all this time
+Dialogue: 0,0:13:33.76,0:13:36.50,Default,,0,0,0,,because I wanted to\Nserve delicious ramen
+Dialogue: 0,0:13:36.50,0:13:38.90,Default,,0,0,0,,to hungry customers
+Dialogue: 0,0:13:39.73,0:13:42.50,Default,,0,0,0,,Everyone's waiting for\Nyour ramen, Master
+Dialogue: 0,0:13:42.50,0:13:45.83,Default,,0,0,0,,Get well and reopen\Nthe shop soon, please
+Dialogue: 0,0:13:45.83,0:13:49.40,Default,,0,0,0,,And I want my old job\Nback again, Master
+Dialogue: 0,0:13:49.40,0:13:51.53,Default,,0,0,0,,Okay! Don't you worry!
+Dialogue: 0,0:13:51.53,0:13:55.20,Default,,0,0,0,,When the shop reopens,\Nyou'll be my first customers!
+Dialogue: 0,0:13:55.20,0:13:57.26,Default,,0,0,0,,I'll be looking\Nforward to it!
+Dialogue: 0,0:14:04.03,0:14:05.26,Default,,0,0,0,,Hi, Hoshino
+Dialogue: 0,0:14:06.10,0:14:08.66,Default,,0,0,0,,Nice weather today\NTaking a rooftop nap?
+Dialogue: 0,0:14:09.86,0:14:10.86,Default,,0,0,0,,Yeah
+Dialogue: 0,0:14:11.73,0:14:13.70,Default,,0,0,0,,Something like that
+Dialogue: 0,0:14:13.70,0:14:15.10,Default,,0,0,0,,What about you, Sensei?
+Dialogue: 0,0:14:15.60,0:14:18.43,Default,,0,0,0,,I was looking for\Nsomewhere to take a break
+Dialogue: 0,0:14:20.66,0:14:24.43,Default,,0,0,0,,It's been a while since\Nyou first came here, huh?
+Dialogue: 0,0:14:24.43,0:14:25.36,Default,,0,0,0,,Huh?
+Dialogue: 0,0:14:25.36,0:14:28.26,Default,,0,0,0,,It has, now that you mention it
+Dialogue: 0,0:14:28.26,0:14:31.60,Default,,0,0,0,,At first, I thought you\Nwere some weird adult
+Dialogue: 0,0:14:31.60,0:14:33.43,Default,,0,0,0,,But I'm pretty reliable, right?
+Dialogue: 0,0:14:33.43,0:14:34.50,Default,,0,0,0,,No way
+Dialogue: 0,0:14:34.50,0:14:36.83,Default,,0,0,0,,You're clumsy and a bit naive
+Dialogue: 0,0:14:38.56,0:14:39.70,Default,,0,0,0,,- But…\N- Huh?
+Dialogue: 0,0:14:39.70,0:14:43.99,Default,,0,0,0,,The Foreclosure Task Force kids\Nseem more lively these days
+Dialogue: 0,0:14:44.00,0:14:45.56,Default,,0,0,0,,That's not anything I did,
+Dialogue: 0,0:14:45.56,0:14:48.86,Default,,0,0,0,,but rather you all chasing\Nafter the goals that matter to you
+Dialogue: 0,0:14:50.36,0:14:52.43,Default,,0,0,0,,You're probably right
+Dialogue: 0,0:14:52.43,0:14:55.36,Default,,0,0,0,,Serika's started to rely on others,
+Dialogue: 0,0:14:55.90,0:14:59.26,Default,,0,0,0,,Ayane's been looking up\Nmore than down lately,
+Dialogue: 0,0:15:00.10,0:15:02.06,Default,,0,0,0,,Nonomi has had this big smile
+Dialogue: 0,0:15:02.06,0:15:04.20,Default,,0,0,0,,meant for herself rather than others,
+Dialogue: 0,0:15:04.76,0:15:06.06,Default,,0,0,0,,and Shiroko…
+Dialogue: 0,0:15:07.36,0:15:09.10,Default,,0,0,0,,It's like she can breathe again
+Dialogue: 0,0:15:10.43,0:15:13.50,Default,,0,0,0,,You're working hard too, Hoshino\NEveryone depends on you
+Dialogue: 0,0:15:14.10,0:15:18.06,Default,,0,0,0,,This old-timer just wants\Nto protect their youth
+Dialogue: 0,0:15:19.36,0:15:20.36,Default,,0,0,0,,That's right
+Dialogue: 0,0:15:28.60,0:15:31.40,Default,,0,0,0,,So those kids can keep on smiling
+Dialogue: 0,0:15:35.76,0:15:39.00,Default,,0,0,0,,To do that, we have to\Nkeep moving forward…
+Dialogue: 0,0:15:39.00,0:15:39.73,Default,,0,0,0,,Huh?
+Dialogue: 0,0:15:39.73,0:15:42.23,Default,,0,0,0,,Nothing, Hearing you\Nsay that makes me
+Dialogue: 0,0:15:42.23,0:15:44.70,Default,,0,0,0,,feel free to nap all I want!
+Dialogue: 0,0:15:45.36,0:15:48.30,Default,,0,0,0,,Just when I thought we were\Nhaving a serious conversation!
+Dialogue: 0,0:15:48.30,0:15:49.26,Default,,0,0,0,,How like you!
+Dialogue: 0,0:15:56.50,0:15:58.20,Default,,0,0,0,,Good morning, Arona
+Dialogue: 0,0:16:00.76,0:16:01.83,Default,,0,0,0,,Eh?
+Dialogue: 0,0:16:01.83,0:16:03.50,Default,,0,0,0,,Where's my strawberry bread?
+Dialogue: 0,0:16:03.50,0:16:04.76,Default,,0,0,0,,Banana bread?
+Dialogue: 0,0:16:04.76,0:16:08.73,Default,,0,0,0,,Am I being punished\Nfor trying to eat both?
+Dialogue: 0,0:16:08.73,0:16:11.53,Default,,0,0,0,,- Arona?\N- Just one bite, please…
+Dialogue: 0,0:16:11.53,0:16:13.00,Default,,0,0,0,,Huh, Sensei?!
+Dialogue: 0,0:16:13.00,0:16:15.03,Default,,0,0,0,,I'll bring you bread next time
+Dialogue: 0,0:16:15.03,0:16:16.50,Default,,0,0,0,,Strawberry and banana
+Dialogue: 0,0:16:17.30,0:16:19.00,Default,,0,0,0,,I'm so embarrassed
+Dialogue: 0,0:16:19.50,0:16:21.43,Default,,0,0,0,,But thank you!
+Dialogue: 0,0:16:21.43,0:16:22.66,Default,,0,0,0,,I'll look forward to it!
+Dialogue: 0,0:16:23.36,0:16:26.20,Default,,0,0,0,,Anyway, didja need something?
+Dialogue: 0,0:16:26.93,0:16:29.39,Default,,0,0,0,,There's something\Nthat's been bothering me
+Dialogue: 0,0:16:29.40,0:16:31.90,Default,,0,0,0,,Could you look into\NKaiser Corporation for me?
+Dialogue: 0,0:16:32.40,0:16:34.43,Default,,0,0,0,,Kaiser Corporation?
+Dialogue: 0,0:16:34.93,0:16:38.20,Default,,0,0,0,,They seem to be up to something\Nin the Abydos Desert
+Dialogue: 0,0:16:38.83,0:16:40.26,Default,,0,0,0,,Understood!
+Dialogue: 0,0:16:40.26,0:16:44.26,Default,,0,0,0,,Anything else to\Ninvestigate while I'm at it?
+Dialogue: 0,0:16:44.76,0:16:46.83,Default,,0,0,0,,- About Hoshino's…\N- Huh?
+Dialogue: 0,0:16:48.06,0:16:50.16,Default,,0,0,0,,No, it's nothing
+Dialogue: 0,0:16:50.16,0:16:52.56,Default,,0,0,0,,I think that's something\NI need to do myself
+Dialogue: 0,0:16:54.83,0:16:57.36,Default,,0,0,0,,Because I'm her teacher
+Dialogue: 0,0:16:59.26,0:17:00.60,Default,,0,0,0,,Is that so?
+Dialogue: 0,0:17:00.60,0:17:02.66,Default,,0,0,0,,Whatever you say, Sensei…
+Dialogue: 0,0:17:02.66,0:17:04.90,Default,,0,0,0,,Thank you\NYou're a great help
+Dialogue: 0,0:17:05.40,0:17:06.56,Default,,0,0,0,,You can count on me!
+Dialogue: 0,0:17:07.60,0:17:08.93,Default,,0,0,0,,After all,
+Dialogue: 0,0:17:08.93,0:17:12.66,Default,,0,0,0,,I'm the Shittim Chest's system manager,
+Dialogue: 0,0:17:12.66,0:17:14.66,Default,,0,0,0,,main OS,
+Dialogue: 0,0:17:15.36,0:17:17.60,Default,,0,0,0,,and, of course, your trusty secretary!
+Dialogue: 0,0:17:21.66,0:17:24.20,Default,,0,0,0,,Now then, is everyone here?
+Dialogue: 0,0:17:24.20,0:17:25.70,Default,,0,0,0,,Hello, Sensei
+Dialogue: 0,0:17:27.83,0:17:31.20,Default,,0,0,0,,Welcome back, everyone!\NHow is the master?
+Dialogue: 0,0:17:31.20,0:17:33.93,Default,,0,0,0,,He's doing well in body and spirit!
+Dialogue: 0,0:17:33.93,0:17:37.10,Default,,0,0,0,,He plans to reopen\NShiba Seki Ramen soon!
+Dialogue: 0,0:17:37.10,0:17:39.60,Default,,0,0,0,,Really? That's great news
+Dialogue: 0,0:17:39.60,0:17:40.60,Default,,0,0,0,,Yes
+Dialogue: 0,0:17:41.86,0:17:42.86,Default,,0,0,0,,Is something wrong?
+Dialogue: 0,0:17:43.43,0:17:46.56,Default,,0,0,0,,There's a new problem actually…
+Dialogue: 0,0:17:46.56,0:17:49.70,Default,,0,0,0,,We were just about\Nto discuss it
+Dialogue: 0,0:17:49.70,0:17:51.66,Default,,0,0,0,,To cut to the point,
+Dialogue: 0,0:17:51.66,0:17:53.70,Default,,0,0,0,,it seems the ownership\Nof this district
+Dialogue: 0,0:17:53.70,0:17:55.86,Default,,0,0,0,,doesn't belong\Nto Abydos High School
+Dialogue: 0,0:17:57.06,0:17:58.00,Default,,0,0,0,,How?!
+Dialogue: 0,0:17:58.00,0:18:01.06,Default,,0,0,0,,I thought the school owned\Nall the land in the district
+Dialogue: 0,0:18:01.06,0:18:04.73,Default,,0,0,0,,The master told us that the building\NShiba Seki Ramen was in
+Dialogue: 0,0:18:04.73,0:18:07.20,Default,,0,0,0,,isn't owned by Abydos
+Dialogue: 0,0:18:09.50,0:18:11.03,Default,,0,0,0,,Since when?
+Dialogue: 0,0:18:11.03,0:18:12.26,Default,,0,0,0,,We don't know exactly
+Dialogue: 0,0:18:12.86,0:18:16.03,Default,,0,0,0,,According to the master,\Nit's been that way for a few years
+Dialogue: 0,0:18:16.03,0:18:17.90,Default,,0,0,0,,Then who owns it now?
+Dialogue: 0,0:18:18.56,0:18:20.26,Default,,0,0,0,,Kaiser Corporation
+Dialogue: 0,0:18:23.83,0:18:26.40,Default,,0,0,0,,This isn't a recent development
+Dialogue: 0,0:18:26.40,0:18:28.73,Default,,0,0,0,,From Problem Solver 68\Nto the Helmet Gang,
+Dialogue: 0,0:18:28.73,0:18:30.30,Default,,0,0,0,,since the beginning, really,
+Dialogue: 0,0:18:30.30,0:18:33.66,Default,,0,0,0,,we've been trapped under\NKaiser Corporation's thumb
+Dialogue: 0,0:18:33.66,0:18:35.86,Default,,0,0,0,,Ugh, this is so frustrating!
+Dialogue: 0,0:18:35.86,0:18:38.73,Default,,0,0,0,,W-We haven't confirmed anything,
+Dialogue: 0,0:18:38.73,0:18:40.43,Default,,0,0,0,,so we don't know for certain yet…
+Dialogue: 0,0:18:45.03,0:18:46.23,Default,,0,0,0,,Lately,
+Dialogue: 0,0:18:46.23,0:18:49.06,Default,,0,0,0,,no matter how much I sleep,\Nit never feels like enough
+Dialogue: 0,0:18:50.66,0:18:52.56,Default,,0,0,0,,I really am an old-timer now
+Dialogue: 0,0:18:54.30,0:18:57.93,Default,,0,0,0,,Hey! Look, look, Doesn't\Nthat cloud look like a whale?
+Dialogue: 0,0:18:57.93,0:18:59.90,Default,,0,0,0,,Uh, Hoshino?
+Dialogue: 0,0:18:59.90,0:19:02.73,Default,,0,0,0,,C'mon! Look at that big ol' cloud!
+Dialogue: 0,0:19:02.73,0:19:05.53,Default,,0,0,0,,Ayane, you can't see well\Nfrom where you're sitting!
+Dialogue: 0,0:19:05.53,0:19:08.70,Default,,0,0,0,,Come over here\NI won't bite
+Dialogue: 0,0:19:08.70,0:19:10.73,Default,,0,0,0,,- Come on!\N- Don't pull me!
+Dialogue: 0,0:19:10.73,0:19:13.06,Default,,0,0,0,,Wait, this is a serious matter!
+Dialogue: 0,0:19:13.06,0:19:15.93,Default,,0,0,0,,- Now's not the time for…\N- Come on
+Dialogue: 0,0:19:15.93,0:19:17.83,Default,,0,0,0,,Serika, you take a look too
+Dialogue: 0,0:19:17.83,0:19:20.73,Default,,0,0,0,,Why are you joining in, Nonomi?
+Dialogue: 0,0:19:20.73,0:19:22.53,Default,,0,0,0,,That cloud, right?
+Dialogue: 0,0:19:22.53,0:19:25.16,Default,,0,0,0,,Doesn't it look more like\Na dolphin than a whale?
+Dialogue: 0,0:19:25.16,0:19:26.86,Default,,0,0,0,,Hm? Maybe?
+Dialogue: 0,0:19:26.86,0:19:29.10,Default,,0,0,0,,Hoshino, are you referring
+Dialogue: 0,0:19:29.10,0:19:31.23,Default,,0,0,0,,to the one above that?
+Dialogue: 0,0:19:31.23,0:19:32.40,Default,,0,0,0,,Oh, I see
+Dialogue: 0,0:19:32.40,0:19:35.53,Default,,0,0,0,,The one right under does\Nlook like a dolphin
+Dialogue: 0,0:19:35.53,0:19:36.86,Default,,0,0,0,,Then,
+Dialogue: 0,0:19:36.86,0:19:39.53,Default,,0,0,0,,what about the one under\Nthat? Is that a jellyfish?
+Dialogue: 0,0:19:39.53,0:19:41.93,Default,,0,0,0,,What kind of jellyfish\Nhave you seen before?
+Dialogue: 0,0:19:41.93,0:19:44.76,Default,,0,0,0,,I guess there might be\Nsome that look like that!
+Dialogue: 0,0:19:45.43,0:19:46.90,Default,,0,0,0,,Since we're talking about it,
+Dialogue: 0,0:19:47.73,0:19:49.93,Default,,0,0,0,,should we all go to the aquarium?
+Dialogue: 0,0:19:49.93,0:19:51.26,Default,,0,0,0,,B-But…
+Dialogue: 0,0:19:51.26,0:19:53.83,Default,,0,0,0,,Nothing's certain right now
+Dialogue: 0,0:19:55.43,0:19:58.83,Default,,0,0,0,,Sitting around moping\Nwon't change that!
+Dialogue: 0,0:20:00.16,0:20:01.20,Default,,0,0,0,,And so,
+Dialogue: 0,0:20:01.90,0:20:05.43,Default,,0,0,0,,at the very least, I'd like to\Nkeep smiling while I can
+Dialogue: 0,0:20:10.23,0:20:12.30,Default,,0,0,0,,Besides, Serika,
+Dialogue: 0,0:20:12.30,0:20:15.83,Default,,0,0,0,,the aquarium has lots of jellyfish
+Dialogue: 0,0:20:15.83,0:20:18.40,Default,,0,0,0,,They're so beautiful,\Ngracefully floating around!
+Dialogue: 0,0:20:18.40,0:20:21.36,Default,,0,0,0,,Let's go together, just this once!
+Dialogue: 0,0:20:21.36,0:20:23.83,Default,,0,0,0,,Fine, I'll go!
+Dialogue: 0,0:20:23.83,0:20:26.86,Default,,0,0,0,,That's right, Taking breaks is important too!
+Dialogue: 0,0:20:26.86,0:20:29.50,Default,,0,0,0,,Of course! We need to keep our spirits up!
+Dialogue: 0,0:20:29.50,0:20:31.03,Default,,0,0,0,,Sensei, you'll come too, right?
+Dialogue: 0,0:20:32.23,0:20:34.66,Default,,0,0,0,,What? You're gonna\Njust abandon us?!
+Dialogue: 0,0:20:34.66,0:20:37.60,Default,,0,0,0,,We're students, so Sensei\Nhas to chaperone us
+Dialogue: 0,0:20:37.60,0:20:38.83,Default,,0,0,0,,That's true
+Dialogue: 0,0:20:38.83,0:20:40.70,Default,,0,0,0,,All right! Let's all go
+Dialogue: 0,0:20:41.30,0:20:42.76,Default,,0,0,0,,We're counting on you!
+Dialogue: 0,0:20:44.66,0:20:46.20,Default,,0,0,0,,This will be fun!
+Dialogue: 0,0:21:02.06,0:21:08.46,Default,,0,0,0,,I'll take a window seat on this journey\Nto find the place where my heart belongs
+Dialogue: 0,0:21:10.30,0:21:14.33,Default,,0,0,0,,So I can see beyond this sorrow chasing me
+Dialogue: 0,0:21:16.60,0:21:20.00,Default,,0,0,0,,We were losing track of time\Nwithout ever knowing why
+Dialogue: 0,0:21:20.00,0:21:23.06,Default,,0,0,0,,With all those laughs we shared…
+Dialogue: 0,0:21:23.06,0:21:29.50,Default,,0,0,0,,Even if… those moments were just ordinary
+Dialogue: 0,0:21:29.50,0:21:31.30,Default,,0,0,0,,Those days…
+Dialogue: 0,0:21:31.30,0:21:35.00,Default,,0,0,0,,One more time, one time more,
+Dialogue: 0,0:21:35.00,0:21:38.33,Default,,0,0,0,,Knowing they won't come around again!
+Dialogue: 0,0:21:38.33,0:21:42.13,Default,,0,0,0,,If only I could stay as resolute and beautiful
+Dialogue: 0,0:21:42.13,0:21:45.66,Default,,0,0,0,,As the moon hanging in the bright noon sky
+Dialogue: 0,0:21:45.66,0:21:49.33,Default,,0,0,0,,Would that let me finally forgive
+Dialogue: 0,0:21:49.33,0:21:52.56,Default,,0,0,0,,All those regrets we made so willfully?
+Dialogue: 0,0:21:53.20,0:21:56.60,Default,,0,0,0,,We only recognize the important things
+Dialogue: 0,0:21:56.60,0:22:00.20,Default,,0,0,0,,Once they're gone and lost out of sight
+Dialogue: 0,0:22:00.20,0:22:03.86,Default,,0,0,0,,We stretch up to the moon\Nin the bright noon sky
+Dialogue: 0,0:22:03.86,0:22:08.13,Default,,0,0,0,,Even though it will always be\Nbeyond our reach
+Dialogue: 0,0:22:08.13,0:22:13.10,Default,,0,0,0,,Oh, those unforgettable, beautiful days…
