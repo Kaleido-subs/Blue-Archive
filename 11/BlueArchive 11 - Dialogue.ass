@@ -75,7 +75,7 @@ Dialogue: 10,0:04:56.94,0:05:01.07,Default,,0,0,0,,it's the organisation to whic
 Dialogue: 10,0:05:01.07,0:05:07.26,Default,,0,0,0,,Our mission lies in expanding knowledge\nthrough observation, exploration, and experimentation.
 Dialogue: 10,0:05:07.26,0:05:13.08,Default,,0,0,0,QC,Through that lens, one may view us as alien beings,\nnot too dissimilar from yourself. {### nazaki plshelp I don't even know what this line means}{its more like "otherworldly being" then enigmatic beings. more like hes saying "From that point of view, we are mysterious beings just as you are" --rapid}{### Is the vibe kinda like a scientist looking into a mouse cage while they experiment on them or similar?}
 Dialogue: 10,0:05:14.07,0:05:17.25,Default,,0,0,0,,But onto the main topic.\nMight I venture to ask,
-Dialogue: 10,0:05:17.25,0:05:20.16,Default,,0,0,0,ED,what would you say of entering\ninto a partnership with us? {is "what would you say of" proper grammar here? Part of me feels it should be "what would you say to" but I could be wrong. --ML}
+Dialogue: 10,0:05:17.25,0:05:20.16,Default,,0,0,0,,what would you say to entering\ninto a partnership with us?
 Dialogue: 10,0:05:20.16,0:05:21.09,Default,,0,0,0,,I refuse.
 Dialogue: 10,0:05:21.77,0:05:23.09,Default,,0,0,0,,Interesting.
 Dialogue: 10,0:05:23.53,0:05:27.49,Default,,0,0,0,,You would so readily reject an opportunity\nto unearth the truth behind the mystical?
@@ -103,7 +103,7 @@ Dialogue: 10,0:06:32.48,0:06:36.22,Default,,0,0,0,,You toyed with their feelings
 Dialogue: 10,0:06:36.22,0:06:38.92,Default,,0,0,0,,Yes, that's exactly right.
 Dialogue: 10,0:06:38.92,0:06:44.34,Default,,0,0,0,,On the spectrum of "good" and "evil",\nour actions would unambiguously be considered evil.
 Dialogue: 10,0:06:44.34,0:06:46.30,Default,,0,0,0,,Evil, yes, but well within our rights.
-Dialogue: 10,0:06:46.30,0:06:49.31,Default,,0,0,0,ED,I feel that particular point needed to be made clear. {consider needs, I feel like present tense could read better here --ML}
+Dialogue: 10,0:06:46.30,0:06:49.31,Default,,0,0,0,,I feel that particular point needs to be made clear.
 Dialogue: 10,0:06:49.67,0:06:54.41,Default,,0,0,0,,With that said, I must stress this:\nThe disaster that struck Abydos was not our doing.
 Dialogue: 10,0:06:55.06,0:06:59.57,Default,,0,0,0,,Those sandstorms were atypical,\nbut not outside the realm of possibility.
 Dialogue: 10,0:06:59.83,0:07:02.93,Default,,0,0,0,,You can't predict every natural disaster.
@@ -114,10 +114,10 @@ Dialogue: 10,0:07:14.49,0:07:18.57,Default,,0,0,0,,Even if that water is sold at
 Dialogue: 10,0:07:20.12,0:07:22.12,Default,,0,0,0,,Hardly a rare occurrence.
 Dialogue: 10,0:07:22.12,0:07:24.84,Default,,0,0,0,,Such scenarios are commonplace in the world.
 Dialogue: 10,0:07:24.84,0:07:28.37,Default,,0,0,0,,Those who possess exploit those who lack.
-Dialogue: 10,0:07:28.87,0:07:32.10,Default,,0,0,0,ED,Determining one's future is a luxury\nthe weak aren't afforded. {consider "not afforded to the weak" --ML}
+Dialogue: 10,0:07:28.87,0:07:32.10,Default,,0,0,0,,Determining one's future is a luxury\nthe weak aren't afforded.
 Dialogue: 10,0:07:32.83,0:07:34.18,Default,,0,0,0,,{*}Schale's teacher{*Sensei}.
 Dialogue: 10,0:07:34.18,0:07:40.11,Default,,0,0,0,,Abandon {*}Miss Hoshino{*Hoshino-san}, and in return,\nI will guarantee Abydos's well-being.
-Dialogue: 10,0:07:40.56,0:07:45.86,Default,,0,0,0,ED,I can ensure that your students\ncan attend school without fear again. {double "can" here might read kinda weird --ML}
+Dialogue: 10,0:07:40.56,0:07:45.86,Default,,0,0,0,,I will ensure that your students\ncan attend school without fear again.
 Dialogue: 10,0:07:46.13,0:07:49.11,Default,,0,0,0,,It's what {*}Miss Hoshino{*Hoshino-san} would want, I'm sure.
 Dialogue: 10,0:07:49.11,0:07:53.24,Default,,0,0,0,,Even if that were possible,\nthat's not what they would want.
 Dialogue: 10,0:07:54.75,0:07:59.35,Default,,0,0,0,,It would seem no matter my efforts,\nyou shall continue to oppose us.
@@ -128,7 +128,7 @@ Dialogue: 10,0:08:04.71,0:08:08.10,Default,,0,0,0,,But if someone needs my help,
 Dialogue: 10,0:08:08.10,0:08:10.14,Default,,0,0,0,,I need to prove to them
 Dialogue: 10,0:08:10.53,0:08:15.89,Default,,0,0,0,,that no matter how bad things get, as long as they\ndon't give up, their voices will reach {\i1}someone{\i0}!
 Dialogue: 10,0:08:16.83,0:08:18.81,Default,,0,0,0,,That's simply absurd.
-Dialogue: 10,0:08:19.33,0:08:23.23,Default,,0,0,0,ED,Why are those girls still alone then? {Should there be a comma before the "then"? --ML}
+Dialogue: 10,0:08:19.33,0:08:23.23,Default,,0,0,0,,Why are those girls still alone then?
 Dialogue: 10,0:08:23.54,0:08:26.74,Default,,0,0,0,,If nothing else, their voices reached {\i1}me{\i0}.
 Dialogue: 10,0:08:27.37,0:08:28.99,Default,,0,0,0,,That's enough for me.
 Dialogue: 10,0:08:28.99,0:08:32.01,Default,,0,0,0,,Why don't you just walk away?
@@ -348,7 +348,7 @@ Dialogue: 10,0:19:34.95,0:19:36.41,Default,,0,0,0,,It's them!
 Dialogue: 10,0:19:39.57,0:19:44.16,Default,,0,0,0,,You want us to fight Kaiser PMC for free?
 Dialogue: 10,0:19:44.16,0:19:48.08,Default,,0,0,0,,I don't see what's in it for us.
 Dialogue: 10,0:19:49.08,0:19:51.88,Default,,0,0,0,,I know, and I'm really sorry.
-Dialogue: 10,0:19:51.88,0:19:54.38,Default,,0,0,0,ED,Come on, Kayoko{**-chan}. Take a close look. {just "close", or "closer"? --ML}
+Dialogue: 10,0:19:51.88,0:19:54.38,Default,,0,0,0,,Come on, Kayoko{**-chan}. Take a closer look.
 Dialogue: 10,0:19:54.38,0:19:55.05,Default,,0,0,0,,Huh?
 Dialogue: 10,0:19:55.05,0:19:59.47,Default,,0,0,0,,"We don't need your money.\nThis super tasty ramen is all we need!"
 Dialogue: 10,0:19:59.47,0:20:01.72,Default,,0,0,0,,Look, it's written all over her face!
