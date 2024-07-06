@@ -51,8 +51,8 @@ Dialogue: 10,0:02:49.83,0:02:50.85,Default,,0,0,0,,Is this the place?
 Dialogue: 10,0:03:33.39,0:03:36.36,Default,,0,0,0,,This should be the right floor.
 Dialogue: 10,0:03:38.41,0:03:41.17,Default,,0,0,0,,I've been expecting you{**, Sensei}.
 Dialogue: 10,0:03:42.35,0:03:47.66,Default,,0,0,0,,I've long been eager to\ndiscuss matters directly with you.
-Dialogue: 10,0:03:47.66,0:03:50.88,Default,,0,0,0,,I've heard the stories of\nthe GSC's President's enigmatic guest.
-Dialogue: 10,0:03:51.20,0:03:54.38,Default,,0,0,0,,Of the teacher at the Federal Investigations Club Schale.
+Dialogue: 10,0:03:47.66,0:03:50.88,Default,,0,0,0,,I've heard the stories of\nthe GSC's President's enigmatic guest—
+Dialogue: 10,0:03:51.20,0:03:54.38,Default,,0,0,0,,The teacher at the Federal Investigations Club Schale.
 Dialogue: 10,0:03:57.87,0:03:59.55,Default,,0,0,0,,Please, rest assured. {BE NOT AFRAID}
 Dialogue: 10,0:03:59.55,0:04:03.43,Default,,0,0,0,,We're not looking to become your enemy.
 Dialogue: 10,0:04:03.43,0:04:05.48,Default,,0,0,0,,In fact, we'd prefer the opposite.
@@ -92,7 +92,7 @@ Dialogue: 10,0:05:59.91,0:06:01.59,Default,,0,0,0,,I wouldn't be so sure about t
 Dialogue: 10,0:06:01.58,0:06:02.26,Default,,0,0,0,,Oh?
 Dialogue: 10,0:06:02.84,0:06:03.76,Default,,0,0,0,,Because...
 Dialogue: 10,0:06:04.34,0:06:07.18,Default,,0,0,0,,I haven't signed that form yet.
-Dialogue: 10,0:06:08.35,0:06:11.52,Default,,0,0,0,,Hoshino's still part of the Task Force.
+Dialogue: 10,0:06:08.35,0:06:11.52,Default,,0,0,0,,She's still part of the Task Force.
 Dialogue: 10,0:06:11.52,0:06:13.77,Default,,0,0,0,,She's still the vice president of the student council.
 Dialogue: 10,0:06:13.77,0:06:17.02,Default,,0,0,0,,And she's still my precious student.
 Dialogue: 10,0:06:17.37,0:06:18.93,Default,,0,0,0,,Interesting.
@@ -161,9 +161,9 @@ Dialogue: 10,0:09:36.42,0:09:37.97,Default,,0,0,0,,So very wrong.
 Dialogue: 10,0:09:38.40,0:09:41.75,Default,,0,0,0,,Adults bend society to their own will.
 Dialogue: 10,0:09:41.75,0:09:45.03,Default,,0,0,0,,They decide what is right, what is proper.
 Dialogue: 10,0:09:45.03,0:09:47.73,Default,,0,0,0,,What is the norm, and what is not.
-Dialogue: 10,0:09:48.11,0:09:50.70,Default,,0,0,0,QC,They rule the aimless with authority, {"aimless" feels off. The original is "they use authority to rule those without authority", so there should be a clear parallel between the ideas. Maybe "The masses kneel before their authority, the ignorant bow before their knowledge, and the weak cower before their strength." --ik} {i also agree that this is off, nothing about aimless in the original. maybe "They use their authority to rule the powerless, their knowlege to rule the ignorant, and their strength to rule the weak" --rapid}{### I like those word choices a bit more, but it suffers a bit from passive voice imo. Especially when juxtaposed to Teach's earlier lines. The "powerless" is also kinda weird, since it in many ways feels too similar to "the weak" imo}{### To fix for batch/BDs}
-Dialogue: 10,0:09:50.70,0:09:52.92,Default,,0,0,0,,the ignorant with knowledge,
-Dialogue: 10,0:09:52.92,0:09:55.80,Default,,0,0,0,,and the weak with power.
+Dialogue: 10,0:09:48.11,0:09:50.70,Default,,0,0,0,,They wield authority to steer the aimless,
+Dialogue: 10,0:09:50.70,0:09:52.92,Default,,0,0,0,,knowledge to control the ignorant,
+Dialogue: 10,0:09:52.92,0:09:55.80,Default,,0,0,0,,and power to dominate the weak.
 Dialogue: 10,0:09:55.80,0:09:57.74,Default,,0,0,0,,{\i1}That{\i0} is what it means to be an adult.
 Dialogue: 10,0:09:58.36,0:10:00.34,Default,,0,0,0,,I simply don't understand. {###}
 Dialogue: 10,0:10:00.34,0:10:04.00,Default,,0,0,0,,You could have ruled over Kivotos.
