@@ -37,10 +37,10 @@ Dialogue: 10,0:00:08.28,0:00:10.03,Default,,0,0,0,,It was my mistake.
 Dialogue: 10,0:00:10.70,0:00:16.75,Default,,0,0,0,,It was my decision,\nand it led to this entire state of affairs.
 Dialogue: 10,0:00:21.21,0:00:25.38,Default,,0,0,0,,In retrospect, it had to reach this point {### fwiw there's a rather big deviation from the the nexon subs here. Ours has a more "it was inevitable, this was the only way I could've realised" tone to it, whereas the nexon subs are more a retrospective "I only realised after I looked at the results".}
 Dialogue: 10,0:00:25.38,0:00:28.76,Default,,0,0,0,,for me to realise you were right all along.
-Dialogue: 10,0:00:42.98,0:00:47.44,Default,,0,0,0,,You once mentioned responsibility,\nand who should be the ones to bear it.
-Dialogue: 10,0:00:48.15,0:00:53.45,Default,,0,0,0,,I didn't understand it back then,\nbut I now realise what you meant.
-Dialogue: 10,0:00:53.95,0:00:57.70,Default,,0,0,0,,It's not experiences that matter,\nbut the choices made.
-Dialogue: 10,0:00:58.50,0:01:01.50,Default,,0,0,0,,Choices only {\i1}you{\i0} can make.
+Dialogue: 10,0:00:42.98,0:00:47.44,Default,,0,0,0,,You mentioned responsibility before,\nand who should be the ones to bear it.
+Dialogue: 10,0:00:48.15,0:00:53.45,Default,,0,0,0,,I didn't understand it back then,\nbut I finally get what you mean now.
+Dialogue: 10,0:00:53.95,0:00:57.70,Default,,0,0,0,,It's not experiences that matter, but choices.
+Dialogue: 10,0:00:58.50,0:01:01.50,Default,,0,0,0,,Choices only you can make.
 Dialogue: 10,0:01:01.50,0:01:04.21,Default,,0,0,0,,That's your duty, your responsibility, as an adult.
 Dialogue: 10,0:01:04.79,0:01:08.59,Default,,0,0,0,,I know you're an adult I can trust.
 Dialogue: 10,0:01:08.59,0:01:13.18,Default,,0,0,0,,I have faith you'll find a choice\nthat will lead to a different outcome.
