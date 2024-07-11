@@ -41,7 +41,7 @@ Dialogue: 10,0:00:30.97,0:00:35.64,Default,,0,0,0,,{\i1\3c&HFFFFFF&\4c&HFFFFFF&\
 Dialogue: 10,0:00:36.10,0:00:39.02,Default,,0,0,0,,{\i1}Now it's my turn to help her.
 Dialogue: 10,0:00:43.40,0:00:44.97,Default,,0,0,0,,{\i1}I'm coming,
 Dialogue: 10,0:00:44.97,0:00:46.38,Default,,0,0,0,,{\i1}Hoshino{**-senpai}.
-Dialogue: 10,0:00:56.04,0:00:57.37,Default,,0,0,0,,You're in our way!
+Dialogue: 10,0:00:56.04,0:00:57.34,Default,,0,0,0,,You're in our way!
 Dialogue: 10,0:00:58.04,0:00:59.29,Default,,0,0,0,,That's right, scram!
 Dialogue: 10,0:01:01.79,0:01:03.25,Default,,0,0,0,,What the hell is this?
 Dialogue: 10,0:01:03.25,0:01:06.46,Default,,0,0,0,,Damn kids! Do you have any idea\nwho you're messing with?!
@@ -49,7 +49,7 @@ Dialogue: 10,0:01:11.34,0:01:12.34,Default,,0,0,0,,Of course.
 Dialogue: 10,0:01:16.43,0:01:20.81,Default,,0,0,0,,The front gate seems to be\nthe only feasible infiltration route.
 Dialogue: 10,0:01:20.81,0:01:23.86,Default,,0,0,0,,But we're not making any progress.
 Dialogue: 10,0:01:26.65,0:01:27.53,Default,,0,0,0,,Shiroko{**-senpai}!
-Dialogue: 10,0:01:29.49,0:01:30.95,Default,,0,0,0,,Hold the line! {###}
+Dialogue: 10,0:01:29.49,0:01:30.95,Default,,0,0,0,,Hold the line!
 Dialogue: 10,0:01:35.87,0:01:37.87,Default,,0,0,0,,Nice shot, Nonomi{**-senpai}!
 Dialogue: 10,0:01:37.87,0:01:38.75,Default,,0,0,0,,It was nothing!
 Dialogue: 10,0:01:41.29,0:01:43.79,Default,,0,0,0,,We've lost half of our intercept unit.
@@ -106,24 +106,24 @@ Dialogue: 10,0:03:54.09,0:03:55.38,Default,,0,0,0,,Should we consult with HQ?
 Dialogue: 10,0:03:55.67,0:03:57.72,Default,,0,0,0,,No! I'll handle this.
 Dialogue: 10,0:03:57.72,0:03:59.14,Default,,0,0,0,,S-Sir, yes, sir!
 Dialogue: 10,0:03:59.59,0:04:00.85,Default,,0,0,0,,Sir, an update!
-Dialogue: 10,0:04:00.85,0:04:04.89,Default,,0,0,0,,We're still being pushed back, but the mass-produced\nunits could technically be fielded as well.
-Dialogue: 10,0:04:04.89,0:04:07.69,Default,,0,0,0,,Whatever! Just deploy them already!
+Dialogue: 10,0:04:00.85,0:04:04.89,Default,,0,0,0,,We're still being pushed back,but we could deploy\nthe mass-produced units at any time.
+Dialogue: 10,0:04:04.89,0:04:07.69,Default,,0,0,0,,What are you waiting for?! Deploy them already!
 Dialogue: 10,0:04:07.69,0:04:09.27,Default,,0,0,0,,And send out all available platoons!
 Dialogue: 10,0:04:09.56,0:04:11.90,Default,,0,0,0,,We'd be leaving this facility undefended.
 Dialogue: 10,0:04:11.90,0:04:12.73,Default,,0,0,0,,Are you sure?
 Dialogue: 10,0:04:12.73,0:04:13.48,Default,,0,0,0,,I don't care!
-Dialogue: 10,0:04:14.03,0:04:16.24,Default,,0,0,0,,Just stop those intruders!
+Dialogue: 10,0:04:14.03,0:04:16.24,Default,,0,0,0,,Stop those intruders at all costs!
 Dialogue: 10,0:04:18.74,0:04:21.41,Default,,0,0,0,,Where could Hoshino{**-senpai} be?
 Dialogue: 10,0:04:27.00,0:04:28.16,Default,,0,0,0,,This is Third Platoon!
 Dialogue: 10,0:04:28.16,0:04:29.75,Default,,0,0,0,,Deploying drones!
-Dialogue: 10,0:04:29.75,0:04:31.38,Default,,0,0,0,,What about the other ones?
+Dialogue: 10,0:04:29.75,0:04:31.38,Default,,0,0,0,,Where's our backup?!
 Dialogue: 10,0:04:31.38,0:04:33.00,Default,,0,0,0,,They're still calibrating!
 Dialogue: 10,0:04:33.00,0:04:35.34,Default,,0,0,0,,Hurry it up! We're taking heavy losses!
 Dialogue: 10,0:04:44.72,0:04:46.35,Default,,0,0,0,,How's that calibration looking?
-Dialogue: 10,0:04:46.77,0:04:49.52,Default,,0,0,0,,Permission granted! Deploying them now!
+Dialogue: 10,0:04:46.77,0:04:49.52,Default,,0,0,0,,All green! Deploying them now!
 Dialogue: 10,0:04:58.19,0:05:00.07,Default,,0,0,0,,They have more of those?
 Dialogue: 10,0:05:00.07,0:05:02.16,Default,,0,0,0,,There's so many of them!
-Dialogue: 10,0:05:02.16,0:05:05.95,Default,,0,0,0,,Let's see how long you last\nwith just the three of you!
+Dialogue: 10,0:05:02.16,0:05:05.95,Default,,0,0,0,,Let's see how long you'll last against these!
 Dialogue: 10,0:05:11.29,0:05:12.67,Default,,0,0,0,,What was that?
 Dialogue: 10,0:05:14.25,0:05:16.17,Default,,0,0,0,,Th-That was me!
 Dialogue: 10,0:05:16.17,0:05:17.05,Default,,0,0,0,,Oh, Hifumi—
@@ -138,10 +138,10 @@ Dialogue: 10,0:05:36.23,0:05:39.74,Default,,0,0,0,,These people over here had ab
 Dialogue: 10,0:05:40.07,0:05:41.45,Default,,0,0,0,,Uh, gotcha.
 Dialogue: 10,0:05:41.45,0:05:43.91,Default,,0,0,0,,Thank you so much, Faust{**-chan}!
 Dialogue: 10,0:05:44.78,0:05:45.83,Default,,0,0,0,,Of course!
-Dialogue: 10,0:05:45.83,0:05:48.62,Default,,0,0,0,,All right, then. Fire for effect!
+Dialogue: 10,0:05:45.83,0:05:48.62,Default,,0,0,0,,All right, then. If you would!
 Dialogue: 10,0:05:53.08,0:05:54.29,Default,,0,0,0,,How dare you!
 Dialogue: 10,0:05:54.29,0:05:56.04,Default,,0,0,0,,Move up! Get out of artillery range!
-Dialogue: 10,0:05:56.04,0:05:57.92,Default,,0,0,0,,Nice plan, but it won't help you.
+Dialogue: 10,0:05:56.04,0:05:57.92,Default,,0,0,0,,Nice plan, but it won't save you.
 Dialogue: 10,0:05:59.92,0:06:01.34,Default,,0,0,0,,It's Gehenna's Prefects!
 Dialogue: 10,0:06:01.92,0:06:03.76,Default,,0,0,0,,What a letdown.
 Dialogue: 10,0:06:03.76,0:06:06.26,Default,,0,0,0,,Turns out you're all bark and no bite.
@@ -155,7 +155,7 @@ Dialogue: 10,0:06:20.57,0:06:23.90,Default,,0,0,0,,Crush them under the might\no
 Dialogue: 10,0:06:23.90,0:06:27.78,Default,,0,0,0,,Make them rue the day they thought they could defy us! {Combustible lemons!}
 Dialogue: 10,0:06:27.78,0:06:30.79,Default,,0,0,0,,Iori, you're on two o'clock, the drone battalion.
 Dialogue: 10,0:06:30.79,0:06:32.25,Default,,0,0,0,,You got it, Ako{**-chan}!
-Dialogue: 10,0:06:32.83,0:06:35.08,Default,,0,0,0,,Looks like we made it just in time.
+Dialogue: 10,0:06:32.83,0:06:35.08,Default,,0,0,0,,Looks like we made it in the nick of time.
 Dialogue: 10,0:06:35.08,0:06:36.83,Default,,0,0,0,,You're...
 Dialogue: 10,0:06:36.83,0:06:40.21,Default,,0,0,0,,The enemy must be planning an all-out push.
 Dialogue: 10,0:06:40.21,0:06:42.21,Default,,0,0,0,,Hmph. Bring it on! {how very glib.} {wasn't that line removed in the rework like a year ago?}
@@ -180,10 +180,10 @@ Dialogue: 10,0:07:53.04,0:07:54.33,Default,,0,0,0,,Right.
 Dialogue: 10,0:07:54.87,0:07:57.21,Default,,0,0,0,,We've lost over half of our remaining forces!
 Dialogue: 10,0:07:57.67,0:07:59.38,Default,,0,0,0,,So what do we do now?
 Dialogue: 10,0:07:59.38,0:08:00.71,Default,,0,0,0,,We're screwed.
-Dialogue: 10,0:08:00.71,0:08:02.46,Default,,0,0,0,,There's nothing we can do anymore. {Game over, man. Game over! --ik}{### I don't know if this is a meme, but fuck I'm tempted}
+Dialogue: 10,0:08:00.71,0:08:02.46,Default,,0,0,0,,There's nothing we can do anymore. {Game over, man. Game over! --ik}{## I don't know if this is a meme, but fuck I'm tempted}
 Dialogue: 10,0:08:05.05,0:08:06.59,Default,,0,0,0,,Y-Yes, of course.
 Dialogue: 10,0:08:06.59,0:08:08.47,Default,,0,0,0,,Director, we're receiving a call from HQ.
-Dialogue: 10,0:08:08.47,0:08:10.72,Default,,0,0,0,,J-Just ignore it! Don't open that channel!
+Dialogue: 10,0:08:08.47,0:08:10.72,Default,,0,0,0,,I-Ignore it! Don't open that channel!
 Dialogue: 10,0:08:10.72,0:08:12.60,Default,,0,0,0,,Wh-What should I tell them?
 Dialogue: 10,0:08:12.60,0:08:15.02,Default,,0,0,0,,Director! We've got more requests for backup!
 Dialogue: 10,0:08:15.02,0:08:15.89,Default,,0,0,0,,What?! {NANI}
@@ -237,7 +237,7 @@ Dialogue: 10,0:10:09.46,0:10:14.30,Default,,0,0,0,,We'd never bow down and let a
 Dialogue: 10,0:10:14.30,0:10:16.60,Default,,0,0,0,,We're taking Hoshino{**-senpai} back.
 Dialogue: 10,0:10:16.60,0:10:18.01,Default,,0,0,0,,We won't lose!
 Dialogue: 10,0:10:18.01,0:10:21.60,Default,,0,0,0,,Definitely not to a sorry excuse of an adult like you!
-Dialogue: 10,0:10:22.14,0:10:24.98,Default,,0,0,0,,You've been a pain in my ass for long enough! {###} {## I've come to make an announcement: The Abydos Foreclosure Task Force's a bunch of bitch-ass motherfuckers, they pissed on my fucking wife. That's right, they took their little-fuckin' quilly dicks out and they pissed on my fucking wife, and they said their dicks were "THIS BIG," and I said "that's disgusting," so I'm making a callout post on my X.com: Abydos Foreclosure Task Force, you've got small dicks. They're the size of this walnut except WAY smaller. And guess what? Here's what my dong looks like.}
+Dialogue: 10,0:10:22.14,0:10:24.98,Default,,0,0,0,,You've been a pain in my ass for long enough! {## I've come to make an announcement: The Abydos Foreclosure Task Force's a bunch of bitch-ass motherfuckers, they pissed on my fucking wife. That's right, they took their little-fuckin' quilly dicks out and they pissed on my fucking wife, and they said their dicks were "THIS BIG," and I said "that's disgusting," so I'm making a callout post on my X.com: Abydos Foreclosure Task Force, you've got small dicks. They're the size of this walnut except WAY smaller. And guess what? Here's what my dong looks like.}
 Dialogue: 10,0:10:24.98,0:10:28.23,Default,,0,0,0,,I need to find that treasure.\nI don't have time for you!
 Dialogue: 10,0:10:28.86,0:10:31.99,Default,,0,0,0,,I don't know what you're talking about,\nbut you're not stopping us!
 Dialogue: 10,0:10:34.45,0:10:37.20,Default,,0,0,0,,Just you try and get past me, then!
@@ -298,14 +298,14 @@ Dialogue: 10,0:13:51.27,0:13:52.94,Default,,0,0,0,,{\i1}Nonomi{**-chan}...
 Dialogue: 10,0:13:52.94,0:13:55.40,Default,,0,0,0,,{\i1}I wonder if you're still smiling?
 Dialogue: 10,0:13:56.48,0:14:00.90,Default,,0,0,0,,{\i1}You kept inviting me to go shopping with you.
 Dialogue: 10,0:14:01.20,0:14:06.45,Default,,0,0,0,,{\i1}I would always say no, but you never gave up\ntrying to get me out of my shell.
-Dialogue: 10,0:14:07.62,0:14:11.50,Default,,0,0,0,,{\i1}It may have seemed small to you,\nbut it meant the world to me.
+Dialogue: 10,0:14:07.62,0:14:11.50,Default,,0,0,0,,{\i1}It may have seemed like a small gesture to you,\nbut it meant the world to me.
 Dialogue: 10,0:14:14.04,0:14:15.50,Default,,0,0,0,,{\i1}Serika{**-chan}...
 Dialogue: 10,0:14:16.21,0:14:17.96,Default,,0,0,0,,{\i1}You're always so uptight.
 Dialogue: 10,0:14:18.67,0:14:22.72,Default,,0,0,0,,{\i1}But whenever I fell asleep at school,\nyou'd always come back to wake me up.
 Dialogue: 10,0:14:23.05,0:14:28.10,Default,,0,0,0,,{\i1}And on days you didn't have work,\nI remember you staying at school until I woke up.
 Dialogue: 10,0:14:29.26,0:14:34.10,Default,,0,0,0,,{\i1}You always hid your kindness,\nbut it's what kept me going all this time.
 Dialogue: 10,0:14:35.60,0:14:37.44,Default,,0,0,0,,{\i1}Ayane{**-chan}...
-Dialogue: 10,0:14:37.44,0:14:40.40,Default,,0,0,0,,{\i1}While I was lazing about,\nyou gave everyone direction.{I'm not sure if "wasting time" fits. iks what's your opinion on this? - sikha}{### how's this instead?}
+Dialogue: 10,0:14:37.44,0:14:40.40,Default,,0,0,0,,{\i1}While I was lazing about,\nyou gave everyone direction.
 Dialogue: 10,0:14:41.15,0:14:44.66,Default,,0,0,0,,{\i1}You even took the debt seriously,\nno matter how hopeless it was.
 Dialogue: 10,0:14:45.11,0:14:49.91,Default,,0,0,0,,{\i1}Without you, the Task Force wouldn't be what it is today.
 Dialogue: 10,0:14:51.45,0:14:53.41,Default,,0,0,0,,{\i1}And finally, Shiroko{**-chan}...
@@ -371,7 +371,7 @@ Dialogue: 10,0:18:39.56,0:18:41.02,Default,,0,0,0,,{\i1}Yume{**-senpai}.
 Dialogue: 10,0:18:42.06,0:18:43.94,Default,,0,0,0,,{\i1}I'm so stupid.
 Dialogue: 10,0:18:44.52,0:18:48.19,Default,,0,0,0,,{\i1}It took me this long to finally realize what you meant.
 Dialogue: 10,0:18:49.36,0:18:52.69,Default,,0,0,0,,{\i1}I'll never make that mistake again.
-Dialogue: 10,0:18:54.74,0:18:57.28,Default,,0,0,0,,{\i1}I never want to make that mistake again.
+Dialogue: 10,0:18:54.74,0:18:57.28,Default,,0,0,0,,{\i1}I {\i0}never{\i1} want to make that mistake again.
 Dialogue: 10,0:18:59.08,0:19:01.16,Default,,0,0,0,,{\i1}The biggest miracle to happen to me...
 Dialogue: 10,0:19:02.04,0:19:04.46,Default,,0,0,0,,...was meeting all my friends at the Task Force!
 Dialogue: 10,0:19:15.26,0:19:16.55,Default,,0,0,0,,{\i1}Nonomi{**-chan}...
