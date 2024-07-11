@@ -70,7 +70,7 @@ Dialogue: 10,0:02:16.62,0:02:19.08,Default,,0,0,0,,I can't believe you, Shiroko{
 Dialogue: 10,0:02:19.54,0:02:22.00,Default,,0,0,0,,Just one wild idea after another with you.
 Dialogue: 10,0:02:23.04,0:02:24.75,Default,,0,0,0,,It's quiet.
 Dialogue: 10,0:02:24.75,0:02:26.42,Default,,0,0,0,,Did they retreat?
-Dialogue: 10,0:02:26.42,0:02:29.38,Default,,0,0,0,TM,No, I doubt they'd do that at this point.{@TM consider snapping end to nonomi's gunfire (0:02:29.63) -p}
+Dialogue: 10,0:02:26.42,0:02:29.63,Default,,0,0,0,,No, I doubt they'd do that at this point.
 Dialogue: 10,0:02:33.17,0:02:33.81,Default,,0,0,0,,Go!
 Dialogue: 10,0:02:33.81,0:02:34.80,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:02:34.80,0:02:36.30,Default,,0,0,0,,Stop her!
@@ -342,7 +342,7 @@ Dialogue: 10,0:16:41.61,0:16:42.73,Default,,0,0,0,,Hey, rude!
 Dialogue: 10,0:16:42.73,0:16:44.57,Default,,0,0,0,,Quit making more problems for us!
 Dialogue: 10,0:16:44.57,0:16:46.61,Default,,0,0,0,,D-Do you think they're okay?
 Dialogue: 10,0:16:46.61,0:16:48.20,Default,,0,0,0,,Oh, for crying out loud.
-Dialogue: 10,0:16:48.20,0:16:48.78,Default,,0,0,0,TM,Please be okay...{@TM consider extending past kf (though i'd probably leave as is) -p}
+Dialogue: 10,0:16:48.20,0:16:48.78,Default,,0,0,0,,Please be okay...
 Dialogue: 10,0:16:51.37,0:16:54.33,Default,,0,0,0,,Hurry, Task Force.
 Dialogue: 10,0:16:55.70,0:16:58.21,Default,,0,0,0,,What was that? The whole place just shook.
 Dialogue: 10,0:16:58.21,0:17:00.75,Default,,0,0,0,,We can worry about that later. We gotta hurry.
@@ -388,7 +388,7 @@ Dialogue: 10,0:20:22.03,0:20:24.12,Default,,0,0,0,,I swear I was...
 Dialogue: 10,0:20:24.12,0:20:25.54,Default,,0,0,0,,It was close.
 Dialogue: 10,0:20:32.42,0:20:34.00,Default,,0,0,0,,I see.
 Dialogue: 10,0:20:34.00,0:20:35.13,Default,,0,0,0,,You came for me.
-Dialogue: 10,0:20:35.63,0:20:36.84,Default,,0,0,0,TM,{\t(688,1189,\3c&HFFFFFF&\4c&HFFFFFF&)}Even our teacher,{@TM would drop the fade here methinks? it's a bit too early IMO -p}
+Dialogue: 10,0:20:35.63,0:20:36.84,Default,,0,0,0,,{\t(688,1189,\3c&HFFFFFF&\4c&HFFFFFF&)}Even our teacher,
 Dialogue: 10,0:20:37.26,0:20:38.88,Default,,0,0,0,,an adult.
 Dialogue: 10,0:20:38.88,0:20:40.34,Default,,0,0,0,,For the love of...
 Dialogue: 10,0:20:40.34,0:20:43.05,Default,,0,0,0,,Do you have any idea how worried we were?
