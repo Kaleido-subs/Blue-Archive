@@ -59,7 +59,7 @@ Dialogue: 10,0:01:47.50,0:01:48.92,Default,,0,0,0,,Send backup!
 Dialogue: 10,0:01:48.92,0:01:51.97,Default,,0,0,0,,Hold them back at all costs!
 Dialogue: 10,0:01:52.38,0:01:53.97,Default,,0,0,0,,They opened the gate!
 Dialogue: 10,0:01:53.97,0:01:56.05,Default,,0,0,0,,They're sending reinforcements.
-Dialogue: 10,0:01:58.64,0:02:00.02,Default,,0,0,0,ED,Let's force our way though.{@ED consider "we should/need to/", possibly "we'll have to". but this is also getting quite long so maybe not -p}
+Dialogue: 10,0:01:58.64,0:02:00.02,Default,,0,0,0,,We have to push.
 Dialogue: 10,0:02:00.31,0:02:01.10,Default,,0,0,0,,Huh?
 Dialogue: 10,0:02:01.10,0:02:04.81,Default,,0,0,0,,I agree we won't get anywhere by staying here, but...
 Dialogue: 10,0:02:04.81,0:02:06.65,Default,,0,0,0,,It's too dangerous!
@@ -77,7 +77,7 @@ Dialogue: 10,0:02:34.80,0:02:36.30,Default,,0,0,0,,Stop her!
 Dialogue: 10,0:02:42.10,0:02:43.85,Default,,0,0,0,,She's going for the gate! Close it!
 Dialogue: 10,0:02:43.85,0:02:45.06,Default,,0,0,0,,Not happening.
 Dialogue: 10,0:02:48.94,0:02:49.61,Default,,0,0,0,,What?! {NANI}
-Dialogue: 10,0:02:59.95,0:03:01.20,Default,,0,0,0,ED,Dammit.{@ED entirely fine, but "Damn it" is a fair bit commoner in ngrams -p}
+Dialogue: 10,0:02:59.95,0:03:01.20,Default,,0,0,0,,Dammit.
 Dialogue: 10,0:03:01.54,0:03:03.58,Default,,0,0,0,,Come in! Code Red!
 Dialogue: 10,0:03:03.58,0:03:05.33,Default,,0,0,0,,They've breached the perimeter!
 Dialogue: 10,0:03:05.33,0:03:07.50,Default,,0,0,0,,I say again, Code Red!
@@ -90,8 +90,8 @@ Dialogue: 10,0:03:15.88,0:03:18.26,Default,,0,0,0,,Intruders have broken though 
 Dialogue: 10,0:03:18.26,0:03:20.60,Default,,0,0,0,,They're advancing into the base.
 Dialogue: 10,0:03:20.93,0:03:25.77,Default,,0,0,0,ED,Those damn brats, still stubbornly clinging\nto the name of Abydos High School!
 Dialogue: 10,0:03:25.77,0:03:26.98,Default,,0,0,0,,Your orders, sir?
-Dialogue: 10,0:03:27.35,0:03:29.73,Default,,0,0,0,ED,Which forces are on standby for deployment?{@ED "on standby" + "for deployment" sounds off to me. just "ready for deployment"? -p}
-Dialogue: 10,0:03:29.73,0:03:32.15,Default,,0,0,0,ED,Platoons 3 through 5 can sortie immediately, sir.{@ED possibly "Third, Fourth, and Fifth can sortie immediately", or maybe "Third through Fifth" (leaving 'platoon' implied) -p}
+Dialogue: 10,0:03:27.35,0:03:29.73,Default,,0,0,0,,Which forces are ready for deployment?
+Dialogue: 10,0:03:29.73,0:03:32.15,Default,,0,0,0,,The third through fifth platoons can sortie immediately!
 Dialogue: 10,0:03:32.15,0:03:33.82,Default,,0,0,0,,What about the rest?
 Dialogue: 10,0:03:33.82,0:03:36.36,Default,,0,0,0,,They're still recovering from the previous battle.
 Comment: 0,0:03:36.11,0:03:36.86,Default,,0,0,0,,{Annoyed robot noises}
@@ -106,19 +106,19 @@ Dialogue: 10,0:03:54.09,0:03:55.38,Default,,0,0,0,,Should we consult with HQ?
 Dialogue: 10,0:03:55.67,0:03:57.72,Default,,0,0,0,,No! I'll handle this.
 Dialogue: 10,0:03:57.72,0:03:59.14,Default,,0,0,0,,S-Sir, yes, sir!
 Dialogue: 10,0:03:59.59,0:04:00.85,Default,,0,0,0,,Sir, an update!
-Dialogue: 10,0:04:00.85,0:04:04.89,Default,,0,0,0,ED,We're still being pushed back, but the mass-produced\nmodels could technically be fielded as well.{@ED "models" doesn't feel right here. "the unmanned units" or "combat drones", maybe? could do with some CPS cutting (very much not critical) -p}
+Dialogue: 10,0:04:00.85,0:04:04.89,Default,,0,0,0,,We're still being pushed back, but the mass-produced\nunits could technically be fielded as well.
 Dialogue: 10,0:04:04.89,0:04:07.69,Default,,0,0,0,,Whatever! Just deploy them already!
-Dialogue: 10,0:04:07.69,0:04:09.27,Default,,0,0,0,ED,And send platoons 3 through 5, too!{@ED possibly "all available platoons" or "all available units" -p}
+Dialogue: 10,0:04:07.69,0:04:09.27,Default,,0,0,0,,And send out all available platoons!
 Dialogue: 10,0:04:09.56,0:04:11.90,Default,,0,0,0,,We'd be leaving this facility undefended.
 Dialogue: 10,0:04:11.90,0:04:12.73,Default,,0,0,0,,Are you sure?
 Dialogue: 10,0:04:12.73,0:04:13.48,Default,,0,0,0,,I don't care!
 Dialogue: 10,0:04:14.03,0:04:16.24,Default,,0,0,0,,Just stop those intruders!
 Dialogue: 10,0:04:18.74,0:04:21.41,Default,,0,0,0,,Where could Hoshino{**-senpai} be?
-Dialogue: 10,0:04:27.00,0:04:28.16,Default,,0,0,0,QC/ED,This is the Third Platoon! {could probably drop "the" here --ik}{### Military-esque speech. iirc for Sora no Woto we kept "the", but I'll defer to the military nuts on the team}{@ED keep "the" (or possibly "platoon three", but not really; kinda refer to previous note) -p}
+Dialogue: 10,0:04:27.00,0:04:28.16,Default,,0,0,0,,This is Third Platoon!
 Dialogue: 10,0:04:28.16,0:04:29.75,Default,,0,0,0,,Deploying drones!
 Dialogue: 10,0:04:29.75,0:04:31.38,Default,,0,0,0,,What about the other ones?
 Dialogue: 10,0:04:31.38,0:04:33.00,Default,,0,0,0,,They're still calibrating!
-Dialogue: 10,0:04:33.00,0:04:35.34,Default,,0,0,0,ED,Hurry it up! We can't take much more of this!{@ED "we're getting torn up out here" :^) -p}{there's an actually good phrase similar to this but i can't put my finger on it -p}
+Dialogue: 10,0:04:33.00,0:04:35.34,Default,,0,0,0,,Hurry it up! We're taking heavy losses!
 Dialogue: 10,0:04:44.72,0:04:46.35,Default,,0,0,0,,How's that calibration looking?
 Dialogue: 10,0:04:46.77,0:04:49.52,Default,,0,0,0,,Permission granted! Deploying them now!
 Dialogue: 10,0:04:58.19,0:05:00.07,Default,,0,0,0,,They have more of those?
@@ -138,11 +138,11 @@ Dialogue: 10,0:05:36.23,0:05:39.74,Default,,0,0,0,,These people over here had ab
 Dialogue: 10,0:05:40.07,0:05:41.45,Default,,0,0,0,,Uh, gotcha.
 Dialogue: 10,0:05:41.45,0:05:43.91,Default,,0,0,0,,Thank you so much, Faust{**-chan}!
 Dialogue: 10,0:05:44.78,0:05:45.83,Default,,0,0,0,,Of course!
-Dialogue: 10,0:05:45.83,0:05:48.62,Default,,0,0,0,ED,All right, then. Repeat volley on target!{damn, accurate use of "repeat" -p}{@ED though this might actually be "Fire for effect" -p}
+Dialogue: 10,0:05:45.83,0:05:48.62,Default,,0,0,0,,All right, then. Fire for effect!
 Dialogue: 10,0:05:53.08,0:05:54.29,Default,,0,0,0,,How dare you!
 Dialogue: 10,0:05:54.29,0:05:56.04,Default,,0,0,0,,Move up! Get out of artillery range!
 Dialogue: 10,0:05:56.04,0:05:57.92,Default,,0,0,0,,Nice plan, but it won't help you.
-Dialogue: 10,0:05:59.92,0:06:01.34,Default,,0,0,0,ED,You're Gehenna's Prefects!{@ED "you're" feels a tad off to me. drop or "it's" (possibly stutter?) -p}
+Dialogue: 10,0:05:59.92,0:06:01.34,Default,,0,0,0,,It's Gehenna's Prefects!
 Dialogue: 10,0:06:01.92,0:06:03.76,Default,,0,0,0,,What a letdown.
 Dialogue: 10,0:06:03.76,0:06:06.26,Default,,0,0,0,,Turns out you're all bark and no bite.
 Dialogue: 10,0:06:06.26,0:06:07.43,Default,,0,0,0,,Sorry for the wait.
@@ -157,11 +157,11 @@ Dialogue: 10,0:06:27.78,0:06:30.79,Default,,0,0,0,,Iori, you're on two o'clock, 
 Dialogue: 10,0:06:30.79,0:06:32.25,Default,,0,0,0,,You got it, Ako{**-chan}!
 Dialogue: 10,0:06:32.83,0:06:35.08,Default,,0,0,0,,Looks like we made it just in time.
 Dialogue: 10,0:06:35.08,0:06:36.83,Default,,0,0,0,,You're...
-Dialogue: 10,0:06:36.83,0:06:40.21,Default,,0,0,0,ED,The enemy must be planning on one final push.{@ED "all-out"? -p}
+Dialogue: 10,0:06:36.83,0:06:40.21,Default,,0,0,0,,The enemy must be planning an all-out push.
 Dialogue: 10,0:06:40.21,0:06:42.21,Default,,0,0,0,,Hmph. Bring it on! {how very glib.} {wasn't that line removed in the rework like a year ago?}
 Dialogue: 10,0:06:42.21,0:06:44.47,Default,,0,0,0,,All right. Let's go, everyone!
-Dialogue: 10,0:06:44.47,0:06:45.97,Default,,0,0,0,,Yeah!
-Dialogue: 10,0:06:44.47,0:06:45.97,Alt,,0,0,0,ST,Gotcha!{@ST maybe make this default and the other one alt -p}
+Dialogue: 10,0:06:44.47,0:06:45.97,Default,,0,0,0,,Gotcha!
+Dialogue: 10,0:06:44.47,0:06:45.97,Alt,,0,0,0,,Yeah!
 Dialogue: 10,0:06:46.26,0:06:48.30,Default,,0,0,0,,Get out of our way!
 Dialogue: 10,0:06:54.85,0:06:56.73,Default,,0,0,0,,Don't get back up.
 Dialogue: 10,0:07:00.48,0:07:02.40,Default,,0,0,0,,I'm still in this fight, too!
@@ -182,12 +182,12 @@ Dialogue: 10,0:07:57.67,0:07:59.38,Default,,0,0,0,,So what do we do now?
 Dialogue: 10,0:07:59.38,0:08:00.71,Default,,0,0,0,,We're screwed.
 Dialogue: 10,0:08:00.71,0:08:02.46,Default,,0,0,0,,There's nothing we can do anymore. {Game over, man. Game over! --ik}{### I don't know if this is a meme, but fuck I'm tempted}
 Dialogue: 10,0:08:05.05,0:08:06.59,Default,,0,0,0,,Y-Yes, of course.
-Dialogue: 10,0:08:06.59,0:08:08.47,Default,,0,0,0,ED,Director, we received a call from HQ.{@ED maybe "we're receiving"? -p}
+Dialogue: 10,0:08:06.59,0:08:08.47,Default,,0,0,0,,Director, we're receiving a call from HQ.
 Dialogue: 10,0:08:08.47,0:08:10.72,Default,,0,0,0,,J-Just ignore it! Don't open that channel!
 Dialogue: 10,0:08:10.72,0:08:12.60,Default,,0,0,0,,Wh-What should I tell them?
 Dialogue: 10,0:08:12.60,0:08:15.02,Default,,0,0,0,,Director! We've got more requests for backup!
 Dialogue: 10,0:08:15.02,0:08:15.89,Default,,0,0,0,,What?! {NANI}
-Dialogue: 10,0:08:15.89,0:08:18.39,Default,,0,0,0,ED,Platoons 3 and 5 have been wiped out!{@ED "The third and fifth have been" -p}
+Dialogue: 10,0:08:15.89,0:08:18.39,Default,,0,0,0,,The third and fifth platoons have been wiped out!
 Dialogue: 10,0:08:18.39,0:08:20.40,Default,,0,0,0,,Remaining forces are down to thirty percent!
 Dialogue: 10,0:08:20.40,0:08:21.69,Default,,0,0,0,,What do we do, Director?
 Dialogue: 10,0:08:21.19,0:08:22.19,Default,,0,0,0,,{\an8}What is it {\i1}now{\i0}?!
@@ -215,18 +215,18 @@ Dialogue: 10,0:08:57.39,0:08:59.02,Default,,0,0,0,,Y-Yeah, it is.
 Dialogue: 10,0:08:59.02,0:09:02.90,Default,,0,0,0,,And not just that, everything else\nlooks awfully familiar, too.
 Dialogue: 10,0:09:03.31,0:09:05.52,Default,,0,0,0,,It's a school?
 Dialogue: 10,0:09:05.52,0:09:07.65,Default,,0,0,0,,Out here, in the heart of the desert?
-Dialogue: 10,0:09:10.82,0:09:13.24,Default,,0,0,0,ED,Hold on, the heart?{@ED i don't really get what this line is referring to. "heart" meaning in the (former) central building? -p}
+Dialogue: 10,0:09:10.82,0:09:13.24,Default,,0,0,0,,Hold on, the {\i1}heart{\i0}?
 Dialogue: 10,0:09:13.49,0:09:16.37,Default,,0,0,0,,Indeed, a rather apt description for this place.
 Dialogue: 10,0:09:16.37,0:09:21.50,Default,,0,0,0,,As you may have guessed, here lies what remains\nof the main Abydos High School building.
 Dialogue: 10,0:09:21.87,0:09:23.00,Default,,0,0,0,,You!
 Dialogue: 10,0:09:23.50,0:09:26.38,Default,,0,0,0,,You just don't know when to quit, do you,
 Dialogue: 10,0:09:26.38,0:09:28.51,Default,,0,0,0,,Abydos Foreclosure Task Force?
-Dialogue: 10,0:09:28.88,0:09:31.38,Default,,0,0,0,ED,We're here to take Hoshino{**-senpai} back!{@ED possibly "take back Hoshino"? -p}
+Dialogue: 10,0:09:28.88,0:09:31.38,Default,,0,0,0,,We're here to take back Hoshino{**-senpai}!
 Dialogue: 10,0:09:31.38,0:09:34.05,Default,,0,0,0,,I've just about had it up to here with you!
 Dialogue: 10,0:09:34.05,0:09:36.14,Default,,0,0,0,,Get out of our way! Or else...
 Dialogue: 10,0:09:36.51,0:09:38.85,Default,,0,0,0,,It's always been you Task Force kids.
 Dialogue: 10,0:09:38.85,0:09:41.89,Default,,0,0,0,,Always getting in the way, always being a nuisance.
-Dialogue: 10,0:09:42.23,0:09:45.90,Default,,0,0,0,ED,I've exhausted every trick in the book\njust to try to be rid of you.{@ED maybe "just trying to be"? i think this line misses the meaning -p}
+Dialogue: 10,0:09:42.23,0:09:45.90,Default,,0,0,0,,I've exhausted every trick in the book\njust {\i1}trying{\i0} to get rid of you.
 Dialogue: 10,0:09:47.36,0:09:52.28,Default,,0,0,0,,Yet you insist on clinging to this dying school,
 Dialogue: 10,0:09:52.28,0:09:55.78,Default,,0,0,0,,desperately trying again and again\nto repay that debt.
 Dialogue: 10,0:09:56.24,0:10:01.04,Default,,0,0,0,,I drove you into the dirt,\ncrushed every ounce of hope you had!
@@ -237,7 +237,7 @@ Dialogue: 10,0:10:09.46,0:10:14.30,Default,,0,0,0,,We'd never bow down and let a
 Dialogue: 10,0:10:14.30,0:10:16.60,Default,,0,0,0,,We're taking Hoshino{**-senpai} back.
 Dialogue: 10,0:10:16.60,0:10:18.01,Default,,0,0,0,,We won't lose!
 Dialogue: 10,0:10:18.01,0:10:21.60,Default,,0,0,0,,Definitely not to a sorry excuse of an adult like you!
-Dialogue: 10,0:10:22.14,0:10:24.98,Default,,0,0,0,,You've been a thorn in my side for long enough. {### I actually want an alternative for this if possible because it was also used last episode. Any ideas, petz?}
+Dialogue: 10,0:10:22.14,0:10:24.98,Default,,0,0,0,,You've been a pain in my ass for too long! {###} {## I've come to make an announcement: The Abydos Foreclosure Task Force's a bunch of bitch-ass motherfuckers, they pissed on my fucking wife. That's right, they took their little-fuckin' quilly dicks out and they pissed on my fucking wife, and they said their dicks were "THIS BIG," and I said "that's disgusting," so I'm making a callout post on my X.com: Abydos Foreclosure Task Force, you've got small dicks. They're the size of this walnut except WAY smaller. And guess what? Here's what my dong looks like.}
 Dialogue: 10,0:10:24.98,0:10:28.23,Default,,0,0,0,,I need to find that treasure.\nI don't have time for you!
 Dialogue: 10,0:10:28.86,0:10:31.99,Default,,0,0,0,,I don't know what you're talking about,\nbut you're not stopping us!
 Dialogue: 10,0:10:34.45,0:10:37.20,Default,,0,0,0,,Just you try and get past me, then!
@@ -246,13 +246,13 @@ Dialogue: 10,0:10:41.54,0:10:43.71,Default,,0,0,0,,Sounds like you could use a h
 Dialogue: 10,0:10:47.29,0:10:48.67,Default,,0,0,0,,Yoo-hoo!
 Dialogue: 10,0:10:48.67,0:10:50.17,Default,,0,0,0,,S-Sorry to interrupt.
 Dialogue: 10,0:10:50.17,0:10:52.67,Default,,0,0,0,,P-Problem Solver 68?!
-Dialogue: 10,0:10:53.13,0:10:58.35,Default,,0,0,0,ST,Showing up just in the nick of time...\nNow this{@ST italicize? -p} is how a first-class outlaw should be.
+Dialogue: 10,0:10:53.13,0:10:58.35,Default,,0,0,0,,Showing up just in the nick of time...\nNow {\i1}this{\i0} is how a first-class outlaw should be.
 Dialogue: 10,0:11:01.56,0:11:04.35,Default,,0,0,0,,Whoopsie. Guess we're dropping in early! {we got a number one victory royale}
-Dialogue: 10,0:11:04.73,0:11:07.35,Default,,0,0,0,ED,What do you mean?!{@ED consider elongating -p}
+Dialogue: 10,0:11:04.73,0:11:07.35,Default,,0,0,0,,What do you meeeaaan?!
 Dialogue: 10,0:11:15.32,0:11:16.86,Default,,0,0,0,,Um...
 Dialogue: 10,0:11:17.99,0:11:19.37,Default,,0,0,0,,You again!
 Dialogue: 10,0:11:19.87,0:11:21.33,Default,,0,0,0,,Still hungry for more?
-Dialogue: 10,0:11:22.95,0:11:27.04,Default,,0,0,0,ED,We took time out of our busy schedule{s? @ED -p}\nto come all the way out here, you know?{ily aru}
+Dialogue: 10,0:11:22.95,0:11:27.04,Default,,0,0,0,,We took time out of our busy schedules\nto come all the way out here, you know?{ily aru}
 Dialogue: 10,0:11:27.04,0:11:29.67,Default,,0,0,0,,Though you did play it cool and say no first.
 Dialogue: 10,0:11:29.67,0:11:31.30,Default,,0,0,0,,You don't have to bring that up!
 Dialogue: 10,0:11:32.76,0:11:34.67,Default,,0,0,0,,You're a big softie at heart, after all.
@@ -264,7 +264,7 @@ Dialogue: 10,0:11:47.06,0:11:50.44,Default,,0,0,0,,Oh my, Aru, are you {\i1}tryi
 Dialogue: 10,0:11:50.44,0:11:51.98,Default,,0,0,0,,Th-That's our Boss!
 Dialogue: 10,0:11:51.98,0:11:54.61,Default,,0,0,0,,I'll follow you for as long as I live, {*}Miss Aru{*Aru-sama}! {This mirrors the catchphrase(?) of the Shiba Seki VA whenever he signs off on stream, iirc. Kind of cute, regardless of if it's intentional.}
 Dialogue: 10,0:11:55.61,0:11:56.65,Default,,0,0,0,,Let's go.
-Dialogue: 10,0:11:58.61,0:12:01.12,Default,,0,0,0,ED,D-Don't expect me to thank you for this.{@ED me? us? either's fine -p}
+Dialogue: 10,0:11:58.61,0:12:01.12,Default,,0,0,0,,D-Don't expect us to thank you for this.
 Dialogue: 10,0:12:01.41,0:12:05.50,Default,,0,0,0,,But once this is over,\nwe're all getting ramen together, got it?
 Dialogue: 10,0:12:06.12,0:12:07.92,Default,,0,0,0,,We'll return the favour someday!
 Dialogue: 10,0:12:07.92,0:12:09.46,Default,,0,0,0,,Thank you all!
@@ -275,7 +275,7 @@ Dialogue: 10,0:12:27.94,0:12:31.19,Default,,0,0,0,,Oh, come now, Kayoko{**-san}.
 Dialogue: 10,0:12:31.19,0:12:32.40,Default,,0,0,0,,Nothing.
 Dialogue: 10,0:12:32.40,0:12:34.02,Default,,0,0,0,,We're here to help.
 Dialogue: 10,0:12:34.02,0:12:36.24,Default,,0,0,0,,I'm glad nobody's hurt.
-Dialogue: 10,0:12:36.24,0:12:38.28,Default,,0,0,0,ED,We just have to beat that thing, right?{@ED this line is ehhhh but i'm not sure why. feels kinda stock-y i guess? -p}{TODO -p}
+Dialogue: 10,0:12:36.24,0:12:38.28,Default,,0,0,0,,We just gotta scrap this thing, right?
 Dialogue: 10,0:12:38.53,0:12:40.20,Default,,0,0,0,,H-Hold on a second!
 Dialogue: 10,0:12:40.66,0:12:43.16,Default,,0,0,0,,I-I'll help, too!
 Dialogue: 10,0:12:43.16,0:12:44.66,Default,,0,0,0,,Damn you all!
@@ -290,7 +290,7 @@ Dialogue: 10,0:13:14.48,0:13:17.11,Default,,0,0,0,,{\i1}I just disappeared witho
 Dialogue: 10,0:13:17.86,0:13:18.61,Default,,0,0,0,,{\i1}Do they hate me?
 Dialogue: 10,0:13:20.61,0:13:25.37,Default,,0,0,0,,{\i1}In the end, that contract\nwith Kaiser Corporation meant nothing.
 Dialogue: 10,0:13:25.91,0:13:27.87,Default,,0,0,0,,{\i1}They attacked Abydos anyway.
-Dialogue: 10,0:13:28.79,0:13:32.37,Default,,0,0,0,ED,{\i1}Everything I did was meaningless.{@ED mayhaps "for nothing/naught" or "in vain"? -p}{after all, all is in vain -p}
+Dialogue: 10,0:13:28.79,0:13:32.37,Default,,0,0,0,,{\i1}Everything I did was for nothing.{after all, all is in vain -p}
 Dialogue: 10,0:13:37.50,0:13:40.84,Default,,0,0,0,,{\i1}Maybe... Maybe there was another way.
 Dialogue: 10,0:13:41.43,0:13:45.14,Default,,0,0,0,,{\i1}Things turned out this way\nbecause of my poor choices.
 Dialogue: 10,0:13:45.55,0:13:47.85,Default,,0,0,0,,{\i1}And now it's all gone. The city... the school...
@@ -316,12 +316,11 @@ Dialogue: 10,0:15:05.55,0:15:07.76,Default,,0,0,0,,{\i1}What you said back at th
 Dialogue: 10,0:15:07.76,0:15:09.72,Default,,0,0,0,,{\i1}It really meant a lot to me.
 Dialogue: 10,0:15:11.10,0:15:15.94,Default,,0,0,0,,{\i1}Thanks to you guys, I was able to relax\nand enjoy a peaceful school life.
 Dialogue: 10,0:15:16.56,0:15:19.31,Default,,0,0,0,,{\i1}I was able to look forward to tomorrow.
-Dialogue: 10,0:15:19.94,0:15:22.03,Default,,0,0,0,ED,{\i1}Because you were with me,
-Dialogue: 10,0:15:22.03,0:15:23.94,Default,,0,0,0,ED,{\i1}I was able to keep smiling.{@ED consider reversing? -p}
+Dialogue: 10,0:15:19.94,0:15:23.94,Default,,0,0,0,,{\i1}I could smile and laugh again, thanks to you guys.
 Dialogue: 10,0:15:25.07,0:15:28.70,Default,,0,0,0,,{\i1}There, in the place Yume{**-senpai} had left us.
 Dialogue: 10,0:15:29.87,0:15:32.95,Default,,0,0,0,,But now, even that's going to be gone soon.
 Dialogue: 10,0:15:33.66,0:15:36.33,Default,,0,0,0,,All because I made the wrong choice.
-Dialogue: 10,0:15:37.54,0:15:41.30,Default,,0,0,0,QC,Maybe if I had just talked with them,\nthings would have been different. {### not sure if internal or not}{probably not -p}
+Dialogue: 10,0:15:37.54,0:15:41.30,Default,,0,0,0,,Maybe if I had just talked with them,\nthings would have been different.
 Dialogue: 10,0:15:42.05,0:15:46.38,Default,,0,0,0,,If we had come up with another solution\nbefore I was deceived by those adults,
 Dialogue: 10,0:15:46.38,0:15:49.97,Default,,0,0,0,,maybe none of this would have happened to Abydos.
 Dialogue: 10,0:15:50.89,0:15:55.23,Default,,0,0,0,,I was just so helpless.\nI couldn't think of anything.
@@ -331,7 +330,7 @@ Dialogue: 10,0:16:03.36,0:16:07.57,Default,,0,0,0,,none of us would have had to 
 Dialogue: 10,0:16:08.24,0:16:09.45,Default,,0,0,0,,The school...
 Dialogue: 10,0:16:10.07,0:16:11.33,Default,,0,0,0,,My friends...
 Dialogue: 10,0:16:11.87,0:16:13.41,Default,,0,0,0,,Yume{**-senpai}...
-Dialogue: 10,0:16:14.95,0:16:18.83,Default,,0,0,0,ED,They're all gone because of me.{@ED to me this sounds more like they're gone _from existence_ rather than just from her life, i'm not sure if that's the vibe you want to go for. i'm thinking a bit more "because I was so stubborn"? -p}
+Dialogue: 10,0:16:14.95,0:16:18.83,Default,,0,0,0,,They're all gone because of me.
 Dialogue: 10,0:16:18.83,0:16:21.71,Default,,0,0,0,,Why did I have to be so stupid?
 Dialogue: 10,0:16:21.71,0:16:24.76,Default,,0,0,0,,Why couldn't I have just asked for help?
 Dialogue: 10,0:16:24.76,0:16:27.34,Default,,0,0,0,,Even though you were always looking out for me.
@@ -347,7 +346,7 @@ Dialogue: 10,0:16:51.37,0:16:54.33,Default,,0,0,0,,Hurry, Task Force.
 Dialogue: 10,0:16:55.70,0:16:58.21,Default,,0,0,0,,What was that? The whole place just shook.
 Dialogue: 10,0:16:58.21,0:17:00.75,Default,,0,0,0,,We can worry about that later. We gotta hurry.
 Dialogue: 10,0:17:23.23,0:17:24.31,Default,,0,0,0,,You guys...
-Dialogue: 10,0:17:30.78,0:17:33.12,Default,,0,0,0,ST,Hey, Hoshino{**-chan}.{@ST italics? (just this line) -p}
+Dialogue: 10,0:17:30.78,0:17:33.12,Default,,0,0,0,,Hey, Hoshino{**-chan}.
 Dialogue: 10,0:17:33.12,0:17:36.49,Default,,0,0,0,,You know, back when I first met you,
 Dialogue: 10,0:17:36.91,0:17:39.71,Default,,0,0,0,,I kept wondering if I was dreaming.
 Dialogue: 10,0:17:39.71,0:17:41.50,Default,,0,0,0,,I would pinch my cheek to make sure.
@@ -366,15 +365,15 @@ Dialogue: 10,0:18:22.08,0:18:24.04,Default,,0,0,0,,Not at all, Hoshino{**-chan}.
 Dialogue: 10,0:18:24.04,0:18:26.84,Default,,0,0,0,,I don't see it that way.
 Dialogue: 10,0:18:26.84,0:18:28.55,Default,,0,0,0,,Where'd this come from anyway?
 Dialogue: 10,0:18:29.13,0:18:30.92,Default,,0,0,0,,Hey, Hoshino{**-chan}.
-Dialogue: 10,0:18:30.92,0:18:34.30,Default,,0,0,0,ED,One day, you'll have younger students following you.{@ED "your own juniors"/"juniors of your own"? possibly throw in 'adorable' or w/e if you think that fits -p}
+Dialogue: 10,0:18:30.92,0:18:34.30,Default,,0,0,0,,One day, you'll have your own\ncute little juniors following you.
 Dialogue: 10,0:18:34.68,0:18:37.05,Default,,0,0,0,,{\t(851,2394,\3c&HFFFFFF&\4c&HFFFFFF&)}And when that happens...
 Dialogue: 10,0:18:39.56,0:18:41.02,Default,,0,0,0,,{\i1}Yume{**-senpai}.
-Dialogue: 10,0:18:42.06,0:18:43.94,Default,,0,0,0,ED,{\i1}I'm so stupid.{@ED "I've been"? -p}
+Dialogue: 10,0:18:42.06,0:18:43.94,Default,,0,0,0,,{\i1}I'm so stupid.
 Dialogue: 10,0:18:44.52,0:18:48.19,Default,,0,0,0,,{\i1}It took me this long to finally realize what you meant.
 Dialogue: 10,0:18:49.36,0:18:52.69,Default,,0,0,0,,{\i1}I'll never make that mistake again.
 Dialogue: 10,0:18:54.74,0:18:57.28,Default,,0,0,0,,{\i1}I never want to make that mistake again.
 Dialogue: 10,0:18:59.08,0:19:01.16,Default,,0,0,0,,{\i1}The biggest miracle to happen to me...
-Dialogue: 10,0:19:02.04,0:19:04.46,Default,,0,0,0,ED,...was all my friends at the Task Force!{@ED "were"? -p}
+Dialogue: 10,0:19:02.04,0:19:04.46,Default,,0,0,0,,...was meeting all my friends at the Task Force!
 Dialogue: 10,0:19:15.26,0:19:16.55,Default,,0,0,0,,{\i1}Nonomi{**-chan}...
 Dialogue: 10,0:19:17.18,0:19:18.47,Default,,0,0,0,,{\i1}Serika{**-chan}...
 Dialogue: 10,0:19:19.14,0:19:20.39,Default,,0,0,0,,{\i1}Ayane{**-chan}...
@@ -396,7 +395,7 @@ Dialogue: 10,0:20:44.31,0:20:45.52,Default,,0,0,0,,Sorry!
 Dialogue: 10,0:20:45.62,0:20:46.48,Default,,0,0,0,,Wel—
 Dialogue: 10,0:20:46.48,0:20:48.94,Default,,0,0,0,,Welcome home, Hoshino{**-senpai}!
 Dialogue: 10,0:20:48.94,0:20:51.40,Default,,0,0,0,,Hey! No fair, Serika{**-chan}!
-Dialogue: 10,0:20:51.40,0:20:53.98,Default,,0,0,0,ED,Didn't you say that sounded too sappy?!{@ED consider: "Besides, weren't you saying/didn't you say" -p}
+Dialogue: 10,0:20:51.40,0:20:53.98,Default,,0,0,0,,Didn't you say that sounded too sappy?!
 Dialogue: 10,0:20:53.98,0:20:56.40,Default,,0,0,0,,Oh, shut up! Who asked?
 Dialogue: 10,0:20:57.44,0:20:58.45,Default,,0,0,0,,Hoshino.
 Dialogue: 10,0:20:59.82,0:21:00.95,Default,,0,0,0,,Welcome home.
@@ -410,7 +409,7 @@ Dialogue: 10,0:21:30.94,0:21:34.44,Default,,0,0,0,,Oh, come on! Don't be like th
 Dialogue: 10,0:21:34.44,0:21:35.48,Default,,0,0,0,,Yeah, she's right!
 Dialogue: 10,0:21:35.90,0:21:40.40,Default,,0,0,0,,We came all this way\nto hear you say those magic words! {kept you waiting, huh?}
 Dialogue: 10,0:21:42.28,0:21:43.95,Default,,0,0,0,,Oh, all right.
-Dialogue: 10,0:21:43.95,0:21:47.99,Default,,0,0,0,ED,I guess I have to indulge my cute little clubmates.{@ED "adorable"? possible refer to/match earlier note on yume's lines -p}
+Dialogue: 10,0:21:43.95,0:21:47.99,Default,,0,0,0,,I guess I have to indulge my adorable little clubmates.
 Dialogue: 10,0:21:50.96,0:21:52.50,Default,,0,0,0,,{*}Thanks{*I'm back}, guys.
 Dialogue: 10,0:21:54.25,0:21:57.00,Default,,0,0,0,,Hoshino{**-senpai}! {glomp.jpeg}
 Dialogue: 10,0:21:58.13,0:22:00.30,Default,,0,0,0,,Let's get out of here, 'kay?{i think it's time to blow this scene -p}
