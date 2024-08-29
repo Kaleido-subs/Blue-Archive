@@ -57,10 +57,15 @@ subs {
         fromIfPresent(getList("INS"), ignoreMissingFiles = true)
         fromIfPresent(getList("TS"), ignoreMissingFiles = true)
 
+        fromIfPresent(get("render_warning"), ignoreMissingFiles = true)
+
         includeExtraData(false)
         includeProjectGarbage(false)
 
+        // Try to set the LayoutRes values from the playRes values of the dialogue file.
+        // Falls back to 1920x1080 if not found
         val (resX, resY) = get("dialogue").getPlayRes()
+
         scriptInfo {
             title = get("group").get()
             scaledBorderAndShadow = true
@@ -70,30 +75,29 @@ subs {
         }
     }
 
-    // Remove ktemplate lines from the final output
+    // Remove ktemplate and empty lines from the final output
     val cleanmerge by task<ASS> {
         from(merge.item())
-        ass { events.lines.removeIf { it.isKaraTemplate() or it.isBlank() } }
+        // ass { events.lines.removeIf { it.isKaraTemplate() or it.isBlank() } }
+        ass { events.lines.removeIf { it.isBlank() } }
     }
 
-    // Generate chapters from dialogue file
+    // Generate chapters from clean file
     chapters {
-        from(get("chapters"))
+        from(cleanmerge.item())
         chapterMarker("chapter")
     }
 
-    // Run swapper script for honorifics
+    // Run swapper script for honorifics and other swaps
     swap {
         from(cleanmerge.item())
 
         styles(Regex("Main|Default|Alt"))
     }
 
-    // Finally, mux
+    // Finally, mux following the conventions listed here: https://thewiki.moe/advanced/muxing/#correct-tagging
     mux {
         title(get("title"))
-
-        skipUnusedFonts(true)
 
         // Optionally specify mkvmerge version to use
         if (propertyExists("mkvmerge")) {
@@ -107,14 +111,17 @@ subs {
 
             video {
                 lang("jpn")
-                name(get("vcodec").get())
+                name(get("vtrack"))
                 default(true)
             }
+
             audio {
                 lang("jpn")
-                name("E-AC3 2.0 @ 224 kb/s")
+                name(get("atrack"))
                 default(true)
+                forced(false)
             }
+
             includeChapters(false)
             attachments { include(false) }
         }
@@ -122,7 +129,7 @@ subs {
         from(cleanmerge.item()) {
             tracks {
                 lang("eng")
-                name(get("group_reg"))
+                name(get("strack_reg"))
                 default(true)
                 forced(false)
                 compression(CompressionType.ZLIB)
@@ -132,7 +139,7 @@ subs {
         from(swap.item()) {
             subtitles {
                 lang("enm")
-                name(get("group_hono"))
+                name(get("strack_hono"))
                 default(true)
                 forced(false)
                 compression(CompressionType.ZLIB)
@@ -141,6 +148,7 @@ subs {
 
         chapters(chapters.item()) { lang("eng") }
 
+        // Fonts handling
         skipUnusedFonts(true)
 
         attach(get("common_fonts")) {
@@ -151,6 +159,7 @@ subs {
             includeExtensions("ttf", "otf")
         }
 
+        // Get OP/ED fonts if necessary
         if (propertyExists("OP")) {
             attach(get("opfonts")) {
                 includeExtensions("ttf", "otf")
@@ -175,16 +184,23 @@ subs {
             includeExtraData(false)
             includeProjectGarbage(false)
 
+            // Try to set the LayoutRes values from the playRes values of the dialogue file.
+            // Falls back to 1920x1080 if not found
+            val (resX, resY) = get("ncsubs").getPlayRes()
+
             scriptInfo {
                 title = get("group").get()
-                originalScript = get("group").get()
                 scaledBorderAndShadow = true
+                wrapStyle = WrapStyle.NO_WRAP
+                values["LayoutResX"] = resX ?: 1920
+                values["LayoutResY"] = resY ?: 1080
             }
         }
 
         val cleanncmerge by task<ASS> {
             from(merge.item())
-            ass { events.lines.removeIf { it.isKaraTemplate() } }
+            // ass { events.lines.removeIf { it.isKaraTemplate() or it.isBlank() } }
+            ass { events.lines.removeIf { it.isBlank() } }
         }
 
         chapters {
@@ -202,19 +218,17 @@ subs {
 
                 video {
                     lang("jpn")
-                    name(get("group").get())
+                    name(get("vtrack"))
                     default(true)
                 }
-                audio(0) {
+
+                audio {
                     lang("jpn")
-                    name("Opus 5.1 @ 320kb/s")
+                    name(get("atrack"))
                     default(true)
+                    forced(false)
                 }
-                audio(1) {
-                    lang("jpn")
-                    name("Opus 2.0 @ 192kb/s")
-                    default(true)
-                }
+
                 includeChapters(false)
                 attachments { include(false) }
             }
@@ -222,7 +236,7 @@ subs {
             from(cleanncmerge.item()) {
                 tracks {
                     lang("eng")
-                    name(get("group"))
+                    name(get("strack_reg"))
                     default(true)
                     forced(false)
                     compression(CompressionType.ZLIB)
@@ -231,14 +245,15 @@ subs {
 
             chapters(chapters.item()) { lang("eng") }
 
+            // Fonts handling
             skipUnusedFonts(true)
 
             attach(get("ncfonts")) {
-                includeExtensions("ttf", "otf", "ttc")
+                includeExtensions("ttf", "otf")
             }
 
             attach(get("common_fonts")) {
-                includeExtensions("ttf", "otf", "ttc")
+                includeExtensions("ttf", "otf")
             }
 
             out(get("ncmuxout"))
