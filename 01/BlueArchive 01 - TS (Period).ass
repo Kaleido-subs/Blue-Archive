@@ -3,16 +3,19 @@
 ; http://www.aegisub.org/
 Title: Kaleido-subs
 ScriptType: v4.00+
-WrapStyle: 0
-PlayResX: 1920
-PlayResY: 1080
+WrapStyle: 2
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
 
 [Aegisub Project Garbage]
+Export Filters: TXT Cleanup
+Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: Blue Archive The Animation - S01E01 (Premux) [A6322042].mkv
-Video File: Blue Archive The Animation - S01E01 (Premux) [A6322042].mkv
+Audio File: Blue Archive The Animation - S01E01 (Premux) [A4B6D23B].mkv
+Video File: Blue Archive The Animation - S01E01 (Premux) [A4B6D23B].mkv
+Keyframes File: BABD_S01E01_scening.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 

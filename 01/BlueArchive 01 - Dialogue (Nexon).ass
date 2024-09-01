@@ -3,19 +3,21 @@
 ; http://www.aegisub.org/
 Title: Nexon
 ScriptType: v4.00+
-PlayDepth: 0
+WrapStyle: 2
 ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
-YCbCr Matrix: TV.709
-Script Updated By: Kaleido-subs
-WrapStyle: 0
 
 [Aegisub Project Garbage]
-Last Style Storage: BA
-Audio File: [Blue Archive The Animation] Archive 1 'Abydos High School Foreclosure Task Force' [0Wwn0jHX010].mkv
-Video File: [Blue Archive The Animation] Archive 1 'Abydos High School Foreclosure Task Force' [0Wwn0jHX010].mkv
+Export Filters: TXT Cleanup
+Export Encoding: Unicode (UTF-8)
+Last Style Storage: Default
+Audio File: Blue Archive The Animation - S01E01 (Premux) [A4B6D23B].mkv
+Video File: Blue Archive The Animation - S01E01 (Premux) [A4B6D23B].mkv
+Keyframes File: BABD_S01E01_scening.txt
 Video AR Mode: 4
+Video AR Value: 1.777778
 Video AR Value: 1.777778
 
 [V4+ Styles]
@@ -25,343 +27,343 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 69,0:00:08.15,0:00:09.74,Default,,0,0,0,,It was my choice,
-Dialogue: 69,0:00:10.66,0:00:13.53,Default,,0,0,0,,and my fault...
-Dialogue: 69,0:00:13.53,0:00:16.41,Default,,0,0,0,,This entire situation happened because of me.
-Dialogue: 69,0:00:21.17,0:00:24.75,Default,,0,0,0,,After witnessing the results of the path I chose,
-Dialogue: 69,0:00:25.55,0:00:28.34,Default,,0,0,0,,I finally realized that you were right all along.
-Dialogue: 69,0:00:42.98,0:00:45.32,Default,,0,0,0,,You explained it to me once,
-Dialogue: 69,0:00:45.32,0:00:47.15,Default,,0,0,0,,what it meant to be a responsible person.
-Dialogue: 69,0:00:48.15,0:00:51.16,Default,,0,0,0,,I couldn't understand your words back then,
-Dialogue: 69,0:00:51.16,0:00:52.74,Default,,0,0,0,,but I do now.
-Dialogue: 69,0:00:53.95,0:00:56.33,Default,,0,0,0,,It's not about what you've experienced,
-Dialogue: 69,0:00:56.33,0:00:57.37,Default,,0,0,0,,but the choices you've made.
-Dialogue: 69,0:00:58.45,0:01:00.87,Default,,0,0,0,,And there are choices only you can make.
-Dialogue: 69,0:01:01.50,0:01:03.58,Default,,0,0,0,,An adult's responsibilities and obligations...
-Dialogue: 69,0:01:04.75,0:01:07.88,Default,,0,0,0,,I'll trust them...and you.
-Dialogue: 69,0:01:08.55,0:01:11.55,Default,,0,0,0,,Please lead the way down this twisted path
-Dialogue: 69,0:01:11.55,0:01:12.93,Default,,0,0,0,,to a different end.
-Dialogue: 69,0:01:14.18,0:01:16.43,Default,,0,0,0,,Someone must make the choices
-Dialogue: 69,0:01:16.43,0:01:18.06,Default,,0,0,0,,that lead us to that future.
-Dialogue: 69,0:01:19.23,0:01:20.39,Default,,0,0,0,,So, Sensei...
-Dialogue: 69,0:01:21.23,0:01:22.23,Default,,0,0,0,,Please.
-Dialogue: 69,0:02:09.65,0:02:10.99,Default,,0,0,0,,It's a refreshing morning.
-Dialogue: 69,0:02:24.79,0:02:26.79,Default,,0,0,0,,(Silent Growth: What Makes the Momo Friends Shop So Charming?)
-Dialogue: 69,0:02:47.98,0:02:50.40,Default,,0,0,0,,The General Student Council is in chaos
-Dialogue: 69,0:02:50.40,0:02:51.98,Default,,0,0,0,,after the student council president's sudden disappearance.
-Dialogue: 69,0:02:52.65,0:02:54.82,Default,,0,0,0,,(Student Council President Still Missing?) But the Sanctum Tower lights are finally back on,
-Dialogue: 69,0:02:54.82,0:02:57.16,Default,,0,0,0,,(Student Council President Still Missing?) and it appears regular administrative work is underway again.
-Dialogue: 69,0:02:57.95,0:03:00.87,Default,,0,0,0,,It seems the chaos that overtook the city of Kivotos
-Dialogue: 69,0:03:00.87,0:03:02.83,Default,,0,0,0,,is finally settling down.
-Dialogue: 69,0:03:08.84,0:03:11.30,Default,,0,0,0,,(Bread and Dessert Festival Now Open)
-Dialogue: 69,0:03:15.88,0:03:16.88,Default,,0,0,0,,Just this, please!
-Dialogue: 69,0:03:24.81,0:03:27.02,Default,,0,0,0,,(Abydos High School)
-Dialogue: 69,0:03:27.60,0:03:30.15,Default,,0,0,0,,The next stop is Abydos High School.
-Dialogue: 69,0:03:31.15,0:03:32.65,Default,,0,0,0,,Oh! This is my stop!
-Dialogue: 69,0:03:50.71,0:03:52.67,Default,,0,0,0,,(Abydos Foreclosure Task Force) Are you serious, Shiroko?
-Dialogue: 69,0:03:54.34,0:03:57.80,Default,,0,0,0,,You rode from the Abydos industrial district and back on a bicycle?!
-Dialogue: 69,0:03:57.80,0:04:00.05,Default,,0,0,0,,That must be hundreds of kilometers!
-Dialogue: 69,0:04:00.05,0:04:02.97,Default,,0,0,0,,I didn't check how far it was.
-Dialogue: 69,0:04:03.56,0:04:05.77,Default,,0,0,0,,It was a pleasant ride though. Not too long.
-Dialogue: 69,0:04:07.31,0:04:09.65,Default,,0,0,0,,Shiroko sure is something.
-Dialogue: 69,0:04:09.65,0:04:12.27,Default,,0,0,0,,How was your weekend, Serika?
-Dialogue: 69,0:04:12.27,0:04:14.78,Default,,0,0,0,,M-Mine?! I was just...
-Dialogue: 69,0:04:14.78,0:04:16.44,Default,,0,0,0,,I did some reading at the library!
-Dialogue: 69,0:04:16.44,0:04:18.61,Default,,0,0,0,,You were at the library this weekend, Serika?
-Dialogue: 69,0:04:19.41,0:04:21.99,Default,,0,0,0,,I was there as well!
-Dialogue: 69,0:04:21.99,0:04:25.08,Default,,0,0,0,,I-Is that so? I didn't see you!
-Dialogue: 69,0:04:25.08,0:04:27.66,Default,,0,0,0,,Anyways! What were you reading about, Ayane?
-Dialogue: 69,0:04:27.66,0:04:31.04,Default,,0,0,0,,I was researching a DOHC problem
-Dialogue: 69,0:04:31.04,0:04:34.42,Default,,0,0,0,,I ran into during building repairs.
-Dialogue: 69,0:04:34.42,0:04:36.88,Default,,0,0,0,,Ah! Let me explain what DOHC is.
-Dialogue: 69,0:04:36.88,0:04:40.68,Default,,0,0,0,,The term is short for a type of engine called a Dual Overhead Camshaft.
-Dialogue: 69,0:04:40.68,0:04:43.55,Default,,0,0,0,,I thought it'd be useful information to have.
-Dialogue: 69,0:04:44.43,0:04:46.77,Default,,0,0,0,,What about you, Hoshino?
-Dialogue: 69,0:04:52.94,0:04:56.03,Default,,0,0,0,,I did what any old-timer does over the weekend.
-Dialogue: 69,0:04:56.03,0:04:58.78,Default,,0,0,0,,Somehow, I'm not surprised.
-Dialogue: 69,0:04:58.99,0:05:02.66,Default,,0,0,0,,I'm glad everyone had a pleasant weekend.
-Dialogue: 69,0:05:02.66,0:05:04.45,Default,,0,0,0,,What about you, Nonomi?
-Dialogue: 69,0:05:04.45,0:05:06.04,Default,,0,0,0,,What did I do over the weekend?
-Dialogue: 69,0:05:06.04,0:05:07.75,Default,,0,0,0,,I went shopping!
-Dialogue: 69,0:05:09.66,0:05:11.75,Default,,0,0,0,,I bought some new snacks,
-Dialogue: 69,0:05:13.08,0:05:15.59,Default,,0,0,0,,a few daily necessities,
-Dialogue: 69,0:05:17.21,0:05:20.05,Default,,0,0,0,,as well as forty dumbbells or so!
-Dialogue: 69,0:05:22.34,0:05:25.43,Default,,0,0,0,,(Abydos Foreclosure Task Force Daily Meeting) Let's begin our daily meeting.
-Dialogue: 69,0:05:25.56,0:05:29.31,Default,,0,0,0,,To start, we'll review current events.
-Dialogue: 69,0:05:29.31,0:05:33.69,Default,,0,0,0,,Kivotos, the Academy City, is composed of many different school districts.
-Dialogue: 69,0:05:34.27,0:05:37.57,Default,,0,0,0,,The General Student Council, led by the student council president,
-Dialogue: 69,0:05:37.57,0:05:40.61,Default,,0,0,0,,maintains balance between the districts.
-Dialogue: 69,0:05:41.32,0:05:41.40,Default,,0,0,0,,But just a few days ago, the student council president went missing.
-Dialogue: 69,0:05:41.40,0:05:44.37,Default,,0,0,0,,(Endless Conspiracy Theories Student Council President Missing?) But just a few days ago, the student council president went missing.
-Dialogue: 69,0:05:44.37,0:05:46.83,Default,,0,0,0,,(The Reason for the General Student Council's Week-Long Silent Treatment?) But just a few days ago, the student council president went missing.
-Dialogue: 69,0:05:47.58,0:05:50.66,Default,,0,0,0,,It's most likely due to her disappearance that
-Dialogue: 69,0:05:50.66,0:05:52.04,Default,,0,0,0,,so many districts have been experiencing conflict.
-Dialogue: 69,0:05:55.25,0:05:57.25,Default,,0,0,0,,Speaking of the General Student Council...
-Dialogue: 69,0:05:57.25,0:05:59.42,Default,,0,0,0,,...Um, what was it called again?
-Dialogue: 69,0:05:59.42,0:06:03.59,Default,,0,0,0,,That peace treaty between Trinity General School
-Dialogue: 69,0:06:03.59,0:06:04.97,Default,,0,0,0,,and Gehenna Academy?
-Dialogue: 69,0:06:04.97,0:06:06.43,Default,,0,0,0,,The Eden Treaty?
-Dialogue: 69,0:06:06.43,0:06:08.47,Default,,0,0,0,,Yes, exactly!
-Dialogue: 69,0:06:08.47,0:06:09.81,Default,,0,0,0,,Has that been signed yet?
-Dialogue: 69,0:06:11.18,0:06:15.35,Default,,0,0,0,,The student council president was the one facilitating the peace talks,
-Dialogue: 69,0:06:15.94,0:06:17.94,Default,,0,0,0,,so it's unclear what will happen.
-Dialogue: 69,0:06:18.52,0:06:20.23,Default,,0,0,0,,I see...
-Dialogue: 69,0:06:20.23,0:06:23.03,Default,,0,0,0,,Oh, right! Ayane!
-Dialogue: 69,0:06:23.03,0:06:26.03,Default,,0,0,0,,(Shiba Seki Ramen) The owner of Shiba Seki Ramen says
-Dialogue: 69,0:06:26.03,0:06:27.20,Default,,0,0,0,,that the Kata-Kata Helmet Gang is up to no good again.
-Dialogue: 69,0:06:28.78,0:06:31.58,Default,,0,0,0,,The ramen there is delicious.
-Dialogue: 69,0:06:32.00,0:06:34.33,Default,,0,0,0,,Do you go there a lot, Shiroko?!
-Dialogue: 69,0:06:34.33,0:06:36.63,Default,,0,0,0,,Is that a problem?
-Dialogue: 69,0:06:36.63,0:06:38.46,Default,,0,0,0,,N-No! It's nothing...
-Dialogue: 69,0:06:38.46,0:06:39.84,Default,,0,0,0,,Anyway,
-Dialogue: 69,0:06:39.84,0:06:43.38,Default,,0,0,0,,it's getting harder to maintain security in Abydos.
-Dialogue: 69,0:06:43.38,0:06:44.84,Default,,0,0,0,,How troublesome...
-Dialogue: 69,0:06:45.51,0:06:51.35,Default,,0,0,0,,We've requested aid from the General Student Council several times now, but...
-Dialogue: 69,0:06:51.35,0:06:53.77,Default,,0,0,0,,With the student council president missing,
-Dialogue: 69,0:06:53.77,0:06:55.69,Default,,0,0,0,,they're likely too busy to deal with us.
-Dialogue: 69,0:06:57.40,0:07:00.65,Default,,0,0,0,,It's not like we have all the time in the world either.
-Dialogue: 69,0:07:02.03,0:07:05.57,Default,,0,0,0,,Thank you very much for using Kaiser Loans.
-Dialogue: 69,0:07:06.32,0:07:07.62,Default,,0,0,0,,At the current rate,
-Dialogue: 69,0:07:07.62,0:07:10.74,Default,,0,0,0,,your debt will be paid off in 309 years and 2 months!
-Dialogue: 69,0:07:11.33,0:07:13.37,Default,,0,0,0,,We will see you again next month!
-Dialogue: 69,0:07:15.33,0:07:19.67,Default,,0,0,0,,...309 years and 2 months?
-Dialogue: 69,0:07:21.46,0:07:23.34,Default,,0,0,0,,There's truly no end to it.
-Dialogue: 69,0:07:26.22,0:07:27.89,Default,,0,0,0,,Then, see you tomorrow.
-Dialogue: 69,0:07:27.89,0:07:29.68,Default,,0,0,0,,- Goodbye! - Bye-bye!
-Dialogue: 69,0:07:50.95,0:07:52.49,Default,,0,0,0,,(Foreclosure Task Force Peroro/Fish Cakes/Jellyfish) (What./We're listing things that are "white and cute.")
-Dialogue: 69,0:07:52.49,0:07:53.41,Default,,0,0,0,,(I don't get it.../Wanna join, Serika?/ Hard no. Today was tough...)
-Dialogue: 69,0:08:25.36,0:08:27.45,Default,,0,0,0,,That took long enough.
-Dialogue: 69,0:08:33.62,0:08:35.16,Default,,0,0,0,,Hey, hey!
-Dialogue: 69,0:08:35.16,0:08:37.04,Default,,0,0,0,,I must've heard you wrong.
-Dialogue: 69,0:08:37.04,0:08:39.33,Default,,0,0,0,,Are you little girls
-Dialogue: 69,0:08:39.33,0:08:42.13,Default,,0,0,0,,trying to tell me that my hairstyle is old-fashioned?
-Dialogue: 69,0:08:42.13,0:08:44.34,Default,,0,0,0,,Just bask in the coolness of my 'do!
-Dialogue: 69,0:08:45.46,0:08:47.21,Default,,0,0,0,,You're the coolest, Boss!
-Dialogue: 69,0:08:47.21,0:08:48.88,Default,,0,0,0,,You're so charming, Boss!
-Dialogue: 69,0:08:50.09,0:08:52.22,Default,,0,0,0,,- Exactly! - Yes, correct!
-Dialogue: 69,0:08:53.35,0:08:56.81,Default,,0,0,0,,Is it wrong of us to call something old-fashioned, old-fashioned? Huh?!
-Dialogue: 69,0:08:58.89,0:09:01.56,Default,,0,0,0,,H-How dare you keep saying that word?
-Dialogue: 69,0:09:01.56,0:09:03.48,Default,,0,0,0,,Minions, punish them!
-Dialogue: 69,0:09:08.94,0:09:10.61,Default,,0,0,0,,Are you still talking big?
-Dialogue: 69,0:09:12.20,0:09:14.66,Default,,0,0,0,,Your stupid bullets
-Dialogue: 69,0:09:14.66,0:09:16.58,Default,,0,0,0,,could never
-Dialogue: 69,0:09:16.58,0:09:18.83,Default,,0,0,0,,ever hurt us!
-Dialogue: 69,0:09:50.61,0:09:51.99,Default,,0,0,0,,He's still alive.
-Dialogue: 69,0:09:52.86,0:09:54.16,Default,,0,0,0,,Is he sunbathing?
-Dialogue: 69,0:09:55.87,0:09:56.99,Default,,0,0,0,,Heatstroke?
-Dialogue: 69,0:09:59.29,0:10:00.83,Default,,0,0,0,,Water...
-Dialogue: 69,0:10:04.00,0:10:06.29,Default,,0,0,0,,- Please... - Here.
-Dialogue: 69,0:10:06.29,0:10:07.59,Default,,0,0,0,,It's an energy drink.
-Dialogue: 69,0:10:08.38,0:10:09.38,Default,,0,0,0,,Want some?
-Dialogue: 69,0:10:13.38,0:10:15.43,Default,,0,0,0,,Wow! I'm revived!
-Dialogue: 69,0:10:15.43,0:10:16.97,Default,,0,0,0,,Thank you so much.
-Dialogue: 69,0:10:16.97,0:10:20.56,Default,,0,0,0,,Did you abduct this man, Shiroko?!
-Dialogue: 69,0:10:20.56,0:10:24.14,Default,,0,0,0,,It finally happened... Shiroko committed a crime!
-Dialogue: 69,0:10:24.14,0:10:25.69,Default,,0,0,0,,Chill out, everyone!
-Dialogue: 69,0:10:25.69,0:10:28.52,Default,,0,0,0,,What's important is covering her tracks before people find out!
-Dialogue: 69,0:10:29.98,0:10:31.24,Default,,0,0,0,,It's not like that at all.
-Dialogue: 69,0:10:31.24,0:10:34.41,Default,,0,0,0,,He said he was trying to get to our school.
-Dialogue: 69,0:10:34.41,0:10:35.45,Default,,0,0,0,,What?
-Dialogue: 69,0:10:35.45,0:10:37.16,Default,,0,0,0,,So, he's a visitor?
-Dialogue: 69,0:10:37.16,0:10:39.08,Default,,0,0,0,,Exactly.
-Dialogue: 69,0:10:39.08,0:10:40.58,Default,,0,0,0,,- I see. - Right...
-Dialogue: 69,0:10:46.75,0:10:50.21,Default,,0,0,0,,I knew Abydos was a desert district,
-Dialogue: 69,0:10:50.21,0:10:53.42,Default,,0,0,0,,but it was so hot I got heatstroke while walking out in the sun,
-Dialogue: 69,0:10:54.38,0:10:56.84,Default,,0,0,0,,and the next thing I knew I was passed out.
-Dialogue: 69,0:11:06.77,0:11:09.15,Default,,0,0,0,,Well... If it's okay with you,
-Dialogue: 69,0:11:09.15,0:11:11.65,Default,,0,0,0,,can we ask what your name is?
-Dialogue: 69,0:11:11.65,0:11:13.86,Default,,0,0,0,,Oh! Of course.
-Dialogue: 69,0:11:13.86,0:11:17.36,Default,,0,0,0,,I'm Sensei, from Schale, the Federal Investigation Club.
-Dialogue: 69,0:11:17.36,0:11:18.45,Default,,0,0,0,,It's nice to meet you.
-Dialogue: 69,0:11:19.74,0:11:22.45,Default,,0,0,0,,Does that mean he's from the General Student Council?
-Dialogue: 69,0:11:22.45,0:11:23.79,Default,,0,0,0,,Right.
-Dialogue: 69,0:11:23.79,0:11:27.54,Default,,0,0,0,,Our requests for aid have finally been answered!
-Dialogue: 69,0:11:27.54,0:11:29.46,Default,,0,0,0,,That's great, Ayane!
-Dialogue: 69,0:11:29.46,0:11:32.59,Default,,0,0,0,,Yes! Our persistence really paid off!
-Dialogue: 69,0:11:32.59,0:11:34.51,Default,,0,0,0,,We'll finally be able to restock on supplies!
-Dialogue: 69,0:11:35.97,0:11:37.43,Default,,0,0,0,,Okay, everyone,
-Dialogue: 69,0:11:37.43,0:11:38.64,Default,,0,0,0,,let's get to business.
-Dialogue: 69,0:11:39.26,0:11:40.76,Default,,0,0,0,, (Certificate of Transfer) What's this?
-Dialogue: 69,0:11:40.76,0:11:42.97,Default,,0,0,0,,(Certificate of Transfer) It's for all of you.
-Dialogue: 69,0:11:43.43,0:11:45.73,Default,,0,0,0,,Thank you so, so much!
-Dialogue: 69,0:11:45.73,0:11:48.98,Default,,0,0,0,,We'll finally have more ammunition and supplies!
-Dialogue: 69,0:11:49.77,0:11:51.98,Default,,0,0,0,,Hoshino's going to want to hear about this.
-Dialogue: 69,0:11:52.65,0:11:56.07,Default,,0,0,0,,She's probably napping in her usual spot.
-Dialogue: 69,0:11:56.07,0:11:57.61,Default,,0,0,0,,I'll drag her back here!
-Dialogue: 69,0:12:00.66,0:12:02.58,Default,,0,0,0,,- By the way, Sensei. - Hm?
-Dialogue: 69,0:12:03.41,0:12:05.41,Default,,0,0,0,,We haven't introduced ourselves yet.
-Dialogue: 69,0:12:07.58,0:12:10.13,Default,,0,0,0,,That was Kuromi Serika, a first-year student.
-Dialogue: 69,0:12:10.83,0:12:14.09,Default,,0,0,0,,My name is Izayoi Nonomi! I'm in my second year!
-Dialogue: 69,0:12:14.88,0:12:16.59,Default,,0,0,0,,Nice to meet you!
-Dialogue: 69,0:12:16.59,0:12:18.63,Default,,0,0,0,,I'm Okusora Ayane, a first-year student.
-Dialogue: 69,0:12:19.51,0:12:22.51,Default,,0,0,0,,Sunaookami Shiroko. Second-year.
-Dialogue: 69,0:12:22.76,0:12:26.39,Default,,0,0,0,,Well, I met you first, so you knew that.
-Dialogue: 69,0:12:27.14,0:12:30.44,Default,,0,0,0,,Ah. Not that I think that makes me more important than anyone else.
-Dialogue: 69,0:12:31.23,0:12:32.94,Default,,0,0,0,,There's one more member.
-Dialogue: 69,0:12:33.40,0:12:35.19,Default,,0,0,0,,The current president of the Foreclosure Task Force,
-Dialogue: 69,0:12:35.19,0:12:36.74,Default,,0,0,0,,Takanashi Hoshino.
-Dialogue: 69,0:12:37.61,0:12:38.86,Default,,0,0,0,,The five of us make up
-Dialogue: 69,0:12:38.86,0:12:42.16,Default,,0,0,0,,the Abydos Foreclosure Task Force.
-Dialogue: 69,0:12:42.78,0:12:43.99,Default,,0,0,0,,Nice to meet you.
-Dialogue: 69,0:12:43.99,0:12:45.83,Default,,0,0,0,,Nice to meet you too.
-Dialogue: 69,0:12:45.83,0:12:47.87,Default,,0,0,0,,Oh geez, Serika.
-Dialogue: 69,0:12:47.87,0:12:50.17,Default,,0,0,0,,Be more gentle with this old-timer, please.
-Dialogue: 69,0:12:50.17,0:12:51.79,Default,,0,0,0,,What nonsense are you spouting?!
-Dialogue: 69,0:12:51.79,0:12:54.59,Default,,0,0,0,,You're the president, and you need to act more like one!
-Dialogue: 69,0:12:55.17,0:12:57.76,Default,,0,0,0,,Oh... Takanashi Hoshino here.
-Dialogue: 69,0:12:57.76,0:12:59.01,Default,,0,0,0,,Pleasure to meet you.
-Dialogue: 69,0:12:59.88,0:13:02.18,Default,,0,0,0,,I'm Sensei, from Schale!
-Dialogue: 69,0:13:02.18,0:13:03.18,Default,,0,0,0,,The pleasure's all mine.
-Dialogue: 69,0:13:06.64,0:13:08.73,Default,,0,0,0,,- Hey, Sensei. - Hm?
-Dialogue: 69,0:13:09.14,0:13:11.48,Default,,0,0,0,,I'll take you on a tour.
-Dialogue: 69,0:13:18.28,0:13:22.53,Default,,0,0,0,,The desertification in Abydos is worse than I thought.
-Dialogue: 69,0:13:22.53,0:13:23.70,Default,,0,0,0,,Is it?
-Dialogue: 69,0:13:23.70,0:13:26.74,Default,,0,0,0,,(Cycling Club/Now Recruiting) It's been like this
-Dialogue: 69,0:13:27.33,0:13:28.95,Default,,0,0,0,,ever since I enrolled.
-Dialogue: 69,0:13:30.62,0:13:32.83,Default,,0,0,0,,I haven't seen any other students here.
-Dialogue: 69,0:13:33.58,0:13:36.17,Default,,0,0,0,,Is it just the five of you?
-Dialogue: 69,0:13:36.25,0:13:38.26,Default,,0,0,0,,(School Office) Yes.
-Dialogue: 69,0:13:38.26,0:13:39.30,Default,,0,0,0,,(School Office) The truth is,
-Dialogue: 69,0:13:40.17,0:13:42.47,Default,,0,0,0,,this school is in severe debt,
-Dialogue: 69,0:13:42.47,0:13:44.51,Default,,0,0,0,,and so everyone left. Except us.
-Dialogue: 69,0:13:45.43,0:13:48.77,Default,,0,0,0,,The Foreclosure Task Force has been taking on whatever jobs we can
-Dialogue: 69,0:13:49.39,0:13:51.94,Default,,0,0,0,,and repaying the debt bit by bit.
-Dialogue: 69,0:13:51.94,0:13:53.98,Default,,0,0,0,,That must be difficult for you.
-Dialogue: 69,0:13:54.65,0:13:57.57,Default,,0,0,0,,The gym needed to be cleaned a little while ago...
-Dialogue: 69,0:13:58.15,0:14:01.70,Default,,0,0,0,,But Ayane was sick, so the four of us had to do it.
-Dialogue: 69,0:14:02.70,0:14:06.53,Default,,0,0,0,,It was pretty hard. There was more trash than we expected.
-Dialogue: 69,0:14:06.53,0:14:08.16,Default,,0,0,0,,We still finished in the end though.
-Dialogue: 69,0:14:08.37,0:14:11.54,Default,,0,0,0,,And then Ayane scolded all of us.
-Dialogue: 69,0:14:11.54,0:14:12.75,Default,,0,0,0,,She was mad?
-Dialogue: 69,0:14:15.25,0:14:16.38,Default,,0,0,0,,What's this room for?
-Dialogue: 69,0:14:16.38,0:14:17.67,Default,,0,0,0,,It's not used for anything right now.
-Dialogue: 69,0:14:18.67,0:14:22.17,Default,,0,0,0,,But this is your room from now on, Sensei.
-Dialogue: 69,0:14:22.17,0:14:24.64,Default,,0,0,0,,- Really? For me? - Mhm.
-Dialogue: 69,0:14:24.64,0:14:26.80,Default,,0,0,0,,The regular office is overrun with sand.
-Dialogue: 69,0:14:31.02,0:14:32.39,Default,,0,0,0,,Is this too small for you?
-Dialogue: 69,0:14:32.39,0:14:34.44,Default,,0,0,0,,It's more than enough. Thank you.
-Dialogue: 69,0:14:34.69,0:14:35.65,Default,,0,0,0,,Okay.
-Dialogue: 69,0:14:43.65,0:14:47.32,Default,,0,0,0,,Shiroko, why do you want to protect this school?
-Dialogue: 69,0:14:49.79,0:14:50.99,Default,,0,0,0,,Gunshots?!
-Dialogue: 69,0:14:50.99,0:14:52.91,Default,,0,0,0,,A message for Abydos High School!
-Dialogue: 69,0:14:53.50,0:14:57.50,Default,,0,0,0,,Today's the day we're finally going to conquer your territory!
-Dialogue: 69,0:14:57.50,0:14:59.96,Default,,0,0,0,,Huh? The Kata-Kata Helmet Gang?!
-Dialogue: 69,0:15:00.13,0:15:02.26,Default,,0,0,0,,(Please Use Sparingly!) Now? Of all times?!
-Dialogue: 69,0:15:02.34,0:15:06.80,Default,,0,0,0,,Oh geez. I really just wanted to have a nice, peaceful nap.
-Dialogue: 69,0:15:06.80,0:15:09.64,Default,,0,0,0,,I'll drive them away like I always do!
-Dialogue: 69,0:15:11.43,0:15:13.73,Default,,0,0,0,,Everyone! Let's go protect our school!
-Dialogue: 69,0:15:15.48,0:15:17.48,Default,,0,0,0,,Stay here, Sensei.
-Dialogue: 69,0:15:17.48,0:15:18.48,Default,,0,0,0,,Shiroko?!
-Dialogue: 69,0:15:22.53,0:15:23.53,Default,,0,0,0,,Watch out!
-Dialogue: 69,0:15:25.95,0:15:27.16,Default,,0,0,0,,Thank you, Arona.
-Dialogue: 69,0:15:28.07,0:15:30.12,Default,,0,0,0,,You're welcome, Sensei!
-Dialogue: 69,0:15:33.04,0:15:34.58,Default,,0,0,0,,Here, Shiroko.
-Dialogue: 69,0:15:34.58,0:15:35.83,Default,,0,0,0,,Thanks.
-Dialogue: 69,0:15:36.62,0:15:38.88,Default,,0,0,0,,How tiresome.
-Dialogue: 69,0:15:39.46,0:15:43.26,Default,,0,0,0,,We're rather low on ammo. What a pickle.
-Dialogue: 69,0:15:43.26,0:15:46.01,Default,,0,0,0,,If only our new supplies were here...
-Dialogue: 69,0:15:46.01,0:15:47.01,Default,,0,0,0,,I see no problem.
-Dialogue: 69,0:15:47.59,0:15:48.89,Default,,0,0,0,,Shiroko! Wait!
-Dialogue: 69,0:15:54.52,0:15:55.98,Default,,0,0,0,,Give it up already!
-Dialogue: 69,0:15:55.98,0:15:59.56,Default,,0,0,0,,We know you're low on ammunition!
-Dialogue: 69,0:16:00.31,0:16:02.07,Default,,0,0,0,,Huh?! How'd they know that?
-Dialogue: 69,0:16:02.23,0:16:03.82,Default,,0,0,0,,Don't worry, Ayane.
-Dialogue: 69,0:16:03.82,0:16:06.78,Default,,0,0,0,,They're no match for us anyway.
-Dialogue: 69,0:16:06.78,0:16:08.86,Default,,0,0,0,,- Shiroko's creating cover for us. - Yes!
-Dialogue: 69,0:16:10.66,0:16:13.58,Default,,0,0,0,,We'll never hand over Abydos High School to the likes of you!
-Dialogue: 69,0:16:17.25,0:16:18.25,Default,,0,0,0,,Shiroko?!
-Dialogue: 69,0:16:20.13,0:16:21.79,Default,,0,0,0,,Shiroko! Nonomi!
-Dialogue: 69,0:16:22.42,0:16:24.00,Default,,0,0,0,,Hoshino!
-Dialogue: 69,0:16:24.00,0:16:26.76,Default,,0,0,0,,Everyone! Retreat for now! We'll regroup!
-Dialogue: 69,0:16:28.38,0:16:31.43,Default,,0,0,0,,They're running around like chickens with their heads cut off!
-Dialogue: 69,0:16:31.43,0:16:35.06,Default,,0,0,0,,We were right! They're down to their last bullets!
-Dialogue: 69,0:16:36.56,0:16:39.98,Default,,0,0,0,,It'll be a fight to the finish!
-Dialogue: 69,0:16:39.98,0:16:43.36,Default,,0,0,0,,Just how I like it! We'll take them all down in one go!
-Dialogue: 69,0:16:45.98,0:16:49.45,Default,,0,0,0,,Sensei, if this continues much longer, the Abydos students will...
-Dialogue: 69,0:16:52.03,0:16:53.03,Default,,0,0,0,,Let's go!
-Dialogue: 69,0:16:57.37,0:16:58.58,Default,,0,0,0,,Is everyone okay?
-Dialogue: 69,0:16:59.46,0:17:01.00,Default,,0,0,0,,We're fine. We can still fight.
-Dialogue: 69,0:17:01.00,0:17:04.42,Default,,0,0,0,,We can't let them pin us down like this! We need to spread out.
-Dialogue: 69,0:17:04.42,0:17:06.88,Default,,0,0,0,,Hey, hey. Are you guys seriously still trying?
-Dialogue: 69,0:17:06.88,0:17:09.05,Default,,0,0,0,,You don't stand a single chance against us!
-Dialogue: 69,0:17:09.72,0:17:11.55,Default,,0,0,0,,Take this!
-Dialogue: 69,0:17:13.39,0:17:16.35,Default,,0,0,0,,We can't handle much more of this!
-Dialogue: 69,0:17:16.35,0:17:19.18,Default,,0,0,0,,Damn it! How did we get cornered by those losers?!
-Dialogue: 69,0:17:23.61,0:17:24.61,Default,,0,0,0,,Everyone!
-Dialogue: 69,0:17:26.53,0:17:27.69,Default,,0,0,0,,Huh? Who's that?
-Dialogue: 69,0:17:33.28,0:17:36.58,Default,,0,0,0,,Why is it important to you to protect this school?
-Dialogue: 69,0:17:36.91,0:17:37.91,Default,,0,0,0,,Sensei.
-Dialogue: 69,0:17:38.50,0:17:39.50,Default,,0,0,0,,Why?
-Dialogue: 69,0:17:48.26,0:17:49.26,Default,,0,0,0,,Because...
-Dialogue: 69,0:17:51.93,0:17:53.39,Default,,0,0,0,,this school
-Dialogue: 69,0:17:53.39,0:17:55.05,Default,,0,0,0,,is where we belong.
-Dialogue: 69,0:17:56.97,0:17:58.22,Default,,0,0,0,,Is that how everyone feels?
-Dialogue: 69,0:17:58.93,0:18:00.18,Default,,0,0,0,,Of course!
-Dialogue: 69,0:18:01.35,0:18:04.73,Default,,0,0,0,,Who the hell is this, swooping in like some hero?!
-Dialogue: 69,0:18:04.73,0:18:06.52,Default,,0,0,0,,You can call me Sensei.
-Dialogue: 69,0:18:06.52,0:18:07.52,Default,,0,0,0,,Sensei?
-Dialogue: 69,0:18:08.15,0:18:11.61,Default,,0,0,0,,I'm here to help my students.
-Dialogue: 69,0:18:11.99,0:18:14.74,Default,,0,0,0,,Sorry, but I have to ask you to leave this school's property.
-Dialogue: 69,0:18:15.28,0:18:17.78,Default,,0,0,0,,You think you can talk down to me like that?!
-Dialogue: 69,0:18:17.78,0:18:19.54,Default,,0,0,0,,I'll shoot you to pieces!
-Dialogue: 69,0:18:20.16,0:18:22.00,Default,,0,0,0,,Let's go, everyone.
-Dialogue: 69,0:18:25.75,0:18:28.25,Default,,0,0,0,,Nonomi, lay down suppressive fire!
-Dialogue: 69,0:18:28.25,0:18:29.80,Default,,0,0,0,,Roger!
-Dialogue: 69,0:18:33.68,0:18:34.89,Default,,0,0,0,,Serika, take aim!
-Dialogue: 69,0:18:34.89,0:18:37.10,Default,,0,0,0,,Damn it! Where are they?!
-Dialogue: 69,0:18:37.10,0:18:38.10,Default,,0,0,0,,Just stay calm?
-Dialogue: 69,0:18:39.35,0:18:41.85,Default,,0,0,0,,I would've done that even if you didn't tell me!
-Dialogue: 69,0:18:42.56,0:18:44.85,Default,,0,0,0,,Nice job, Nonomi, Serika!
-Dialogue: 69,0:18:44.85,0:18:46.44,Default,,0,0,0,,What's happening?!
-Dialogue: 69,0:18:46.44,0:18:47.69,Default,,0,0,0,,Don't think that you?
-Dialogue: 69,0:18:48.65,0:18:51.99,Default,,0,0,0,,This old-timer can't look bad in front of her youngins!
-Dialogue: 69,0:19:03.66,0:19:05.75,Default,,0,0,0,,Coordinates confirmed.
-Dialogue: 69,0:19:05.75,0:19:08.09,Default,,0,0,0,,Catch, Shiroko!
-Dialogue: 69,0:19:09.88,0:19:11.67,Default,,0,0,0,,Nice timing, Ayane.
-Dialogue: 69,0:19:14.76,0:19:16.39,Default,,0,0,0,,Don't underestimate me!
-Dialogue: 69,0:19:20.18,0:19:21.56,Default,,0,0,0,,Hey, get a grip!
-Dialogue: 69,0:19:23.23,0:19:24.52,Default,,0,0,0,,Eek! How embarrassing!
-Dialogue: 69,0:19:31.23,0:19:32.57,Default,,0,0,0,,Hey!
-Dialogue: 69,0:19:34.99,0:19:37.16,Default,,0,0,0,,Don't come any closer!
-Dialogue: 69,0:19:37.16,0:19:39.07,Default,,0,0,0,,Deliver the final blow, Shiroko!
-Dialogue: 69,0:19:39.07,0:19:40.95,Default,,0,0,0,,I said stay back!
-Dialogue: 69,0:19:46.16,0:19:49.25,Default,,0,0,0,,W-W-W-W-Wait! I-I surrender!
-Dialogue: 69,0:19:49.25,0:19:50.42,Default,,0,0,0,,It's over.
-Dialogue: 69,0:19:57.93,0:20:00.39,Default,,0,0,0,,Ow, ow! That hurts!
-Dialogue: 69,0:20:00.39,0:20:02.31,Default,,0,0,0,,Please, no! Augh! It hurts!
-Dialogue: 69,0:20:02.31,0:20:04.06,Default,,0,0,0,,Then leave. Now.
-Dialogue: 69,0:20:04.06,0:20:06.06,Default,,0,0,0,,Okay, okay! I'm leaving! I'm gone!
-Dialogue: 69,0:20:10.15,0:20:13.15,Default,,0,0,0,,We'll get revenge one day!
-Dialogue: 69,0:20:15.40,0:20:17.24,Default,,0,0,0,,We won, Shiroko!
-Dialogue: 69,0:20:17.86,0:20:19.78,Default,,0,0,0,,Well done!
-Dialogue: 69,0:20:19.78,0:20:23.12,Default,,0,0,0,,We really managed to turn the tide there.
-Dialogue: 69,0:20:23.70,0:20:25.62,Default,,0,0,0,,All thanks to Sensei's help.
-Dialogue: 69,0:20:25.62,0:20:27.75,Default,,0,0,0,,Not at all. I didn't do anything.
-Dialogue: 69,0:20:28.83,0:20:30.58,Default,,0,0,0,,It's my job as a teacher
-Dialogue: 69,0:20:30.58,0:20:33.84,Default,,0,0,0,,to help my students in their time of need.
-Dialogue: 69,0:20:33.84,0:20:37.92,Default,,0,0,0,,Hmph. We would've beat them on our own anyway.
-Dialogue: 69,0:20:37.92,0:20:41.55,Default,,0,0,0,,Bashful as always, Serika. Don't be so stubborn!
-Dialogue: 69,0:20:41.55,0:20:42.68,Default,,0,0,0,,Sh-Shut up!
-Dialogue: 69,0:20:42.68,0:20:44.68,Default,,0,0,0,,Our little Serika is so adorable.
-Dialogue: 69,0:20:44.68,0:20:46.39,Default,,0,0,0,,You're putting on such a tough front!
-Dialogue: 69,0:20:46.39,0:20:48.23,Default,,0,0,0,,Stop it already!
-Dialogue: 69,0:20:49.85,0:20:52.19,Default,,0,0,0,,So, this is...Sensei.
-Dialogue: 69,0:21:10.87,0:21:12.58,Default,,0,0,0,,(He seems like a good guy./Sensei?/ Yeah. He seemed okay./I thought so too.)
-Dialogue: 69,0:21:12.58,0:21:13.42,Default,,0,0,0,,(But let's not jump to any conclusions.)
-Dialogue: 69,0:21:31.94,0:21:35.65,Default,,0,0,0,,The sky blue archive!
-Dialogue: 69,0:21:44.37,0:21:48.83,Default,,0,0,0,,I pedal on my bike seeking new sights
-Dialogue: 69,0:21:48.83,0:21:53.04,Default,,0,0,0,,We'll break the monotony, no longer trapped in place
-Dialogue: 69,0:21:53.04,0:21:57.34,Default,,0,0,0,,Daydreaming on the rooftop, gazing at a sky so blue
-Dialogue: 69,0:21:57.34,0:22:01.13,Default,,0,0,0,,Those clouds like whales are always changing
-Dialogue: 69,0:22:01.13,0:22:05.26,Default,,0,0,0,,We'll embrace a past that can't be altered
-Dialogue: 69,0:22:05.26,0:22:10.73,Default,,0,0,0,,Sharing juice in this world made of sand is a taste so divine
-Dialogue: 69,0:22:10.73,0:22:14.69,Default,,0,0,0,,If I were here alone, here without all of you
-Dialogue: 69,0:22:14.69,0:22:18.65,Default,,0,0,0,,I couldn't laugh, I couldn't cry
-Dialogue: 69,0:22:18.65,0:22:20.74,Default,,0,0,0,,A fateful coterie
-Dialogue: 69,0:22:20.74,0:22:28.87,Default,,0,0,0,,Even if the world's memories blow away like grains of sand one day
-Dialogue: 69,0:22:28.91,0:22:37.75,Default,,0,0,0,,The sky, sea, wind, and you, our youth will never end
-Dialogue: 69,0:22:37.75,0:22:43.63,Default,,0,0,0,,It's easy to see why we protect what we do
-Dialogue: 69,0:22:43.63,0:22:54.56,Default,,0,0,0,,Because this is the only place where we belong
-Dialogue: 69,0:23:21.30,0:23:22.84,Default,,0,0,0,,Strawberry milk...
-Dialogue: 69,0:23:28.47,0:23:29.97,Default,,0,0,0,,Hi, Arona.
-Dialogue: 69,0:23:36.94,0:23:46.95,Default,,0,0,0,,I've been waiting for you, Sensei.
+Dialogue: 69,0:00:07.65,0:00:09.24,Default,,0,0,0,,It was my choice,
+Dialogue: 69,0:00:10.16,0:00:13.03,Default,,0,0,0,,and my fault...
+Dialogue: 69,0:00:13.03,0:00:15.91,Default,,0,0,0,,This entire situation happened because of me.
+Dialogue: 69,0:00:20.67,0:00:24.25,Default,,0,0,0,,After witnessing the results of the path I chose,
+Dialogue: 69,0:00:25.05,0:00:27.84,Default,,0,0,0,,I finally realized that you were right all along.
+Dialogue: 69,0:00:42.48,0:00:44.82,Default,,0,0,0,,You explained it to me once,
+Dialogue: 69,0:00:44.82,0:00:46.65,Default,,0,0,0,,what it meant to be a responsible person.
+Dialogue: 69,0:00:47.65,0:00:50.66,Default,,0,0,0,,I couldn't understand your words back then,
+Dialogue: 69,0:00:50.66,0:00:52.24,Default,,0,0,0,,but I do now.
+Dialogue: 69,0:00:53.45,0:00:55.83,Default,,0,0,0,,It's not about what you've experienced,
+Dialogue: 69,0:00:55.83,0:00:56.87,Default,,0,0,0,,but the choices you've made.
+Dialogue: 69,0:00:57.95,0:01:00.37,Default,,0,0,0,,And there are choices only you can make.
+Dialogue: 69,0:01:01.00,0:01:03.08,Default,,0,0,0,,An adult's responsibilities and obligations...
+Dialogue: 69,0:01:04.25,0:01:07.38,Default,,0,0,0,,I'll trust them...and you.
+Dialogue: 69,0:01:08.05,0:01:11.05,Default,,0,0,0,,Please lead the way down this twisted path
+Dialogue: 69,0:01:11.05,0:01:12.43,Default,,0,0,0,,to a different end.
+Dialogue: 69,0:01:13.68,0:01:15.93,Default,,0,0,0,,Someone must make the choices
+Dialogue: 69,0:01:15.93,0:01:17.56,Default,,0,0,0,,that lead us to that future.
+Dialogue: 69,0:01:18.73,0:01:19.89,Default,,0,0,0,,So, Sensei...
+Dialogue: 69,0:01:20.73,0:01:21.73,Default,,0,0,0,,Please.
+Dialogue: 69,0:02:09.15,0:02:10.49,Default,,0,0,0,,It's a refreshing morning.
+Dialogue: 69,0:02:24.29,0:02:26.29,Default,,0,0,0,,(Silent Growth: What Makes the Momo Friends Shop So Charming?)
+Dialogue: 69,0:02:47.48,0:02:49.90,Default,,0,0,0,,The General Student Council is in chaos
+Dialogue: 69,0:02:49.90,0:02:51.48,Default,,0,0,0,,after the student council president's sudden disappearance.
+Dialogue: 69,0:02:52.15,0:02:54.32,Default,,0,0,0,,(Student Council President Still Missing?) But the Sanctum Tower lights are finally back on,
+Dialogue: 69,0:02:54.32,0:02:56.66,Default,,0,0,0,,(Student Council President Still Missing?) and it appears regular administrative work is underway again.
+Dialogue: 69,0:02:57.45,0:03:00.37,Default,,0,0,0,,It seems the chaos that overtook the city of Kivotos
+Dialogue: 69,0:03:00.37,0:03:02.33,Default,,0,0,0,,is finally settling down.
+Dialogue: 69,0:03:08.33,0:03:10.80,Default,,0,0,0,,(Bread and Dessert Festival Now Open)
+Dialogue: 69,0:03:15.38,0:03:16.38,Default,,0,0,0,,Just this, please!
+Dialogue: 69,0:03:24.31,0:03:26.52,Default,,0,0,0,,(Abydos High School)
+Dialogue: 69,0:03:27.10,0:03:29.65,Default,,0,0,0,,The next stop is Abydos High School.
+Dialogue: 69,0:03:30.65,0:03:32.15,Default,,0,0,0,,Oh! This is my stop!
+Dialogue: 69,0:03:50.21,0:03:52.17,Default,,0,0,0,,(Abydos Foreclosure Task Force) Are you serious, Shiroko?
+Dialogue: 69,0:03:53.84,0:03:57.30,Default,,0,0,0,,You rode from the Abydos industrial district and back on a bicycle?!
+Dialogue: 69,0:03:57.30,0:03:59.55,Default,,0,0,0,,That must be hundreds of kilometers!
+Dialogue: 69,0:03:59.55,0:04:02.47,Default,,0,0,0,,I didn't check how far it was.
+Dialogue: 69,0:04:03.06,0:04:05.27,Default,,0,0,0,,It was a pleasant ride though. Not too long.
+Dialogue: 69,0:04:06.81,0:04:09.15,Default,,0,0,0,,Shiroko sure is something.
+Dialogue: 69,0:04:09.15,0:04:11.77,Default,,0,0,0,,How was your weekend, Serika?
+Dialogue: 69,0:04:11.77,0:04:14.28,Default,,0,0,0,,M-Mine?! I was just...
+Dialogue: 69,0:04:14.28,0:04:15.94,Default,,0,0,0,,I did some reading at the library!
+Dialogue: 69,0:04:15.94,0:04:18.11,Default,,0,0,0,,You were at the library this weekend, Serika?
+Dialogue: 69,0:04:18.91,0:04:21.49,Default,,0,0,0,,I was there as well!
+Dialogue: 69,0:04:21.49,0:04:24.58,Default,,0,0,0,,I-Is that so? I didn't see you!
+Dialogue: 69,0:04:24.58,0:04:27.16,Default,,0,0,0,,Anyways! What were you reading about, Ayane?
+Dialogue: 69,0:04:27.16,0:04:30.54,Default,,0,0,0,,I was researching a DOHC problem
+Dialogue: 69,0:04:30.54,0:04:33.92,Default,,0,0,0,,I ran into during building repairs.
+Dialogue: 69,0:04:33.92,0:04:36.38,Default,,0,0,0,,Ah! Let me explain what DOHC is.
+Dialogue: 69,0:04:36.38,0:04:40.18,Default,,0,0,0,,The term is short for a type of engine called a Dual Overhead Camshaft.
+Dialogue: 69,0:04:40.18,0:04:43.05,Default,,0,0,0,,I thought it'd be useful information to have.
+Dialogue: 69,0:04:43.93,0:04:46.27,Default,,0,0,0,,What about you, Hoshino?
+Dialogue: 69,0:04:52.44,0:04:55.53,Default,,0,0,0,,I did what any old-timer does over the weekend.
+Dialogue: 69,0:04:55.53,0:04:58.28,Default,,0,0,0,,Somehow, I'm not surprised.
+Dialogue: 69,0:04:58.49,0:05:02.16,Default,,0,0,0,,I'm glad everyone had a pleasant weekend.
+Dialogue: 69,0:05:02.16,0:05:03.95,Default,,0,0,0,,What about you, Nonomi?
+Dialogue: 69,0:05:03.95,0:05:05.54,Default,,0,0,0,,What did I do over the weekend?
+Dialogue: 69,0:05:05.54,0:05:07.25,Default,,0,0,0,,I went shopping!
+Dialogue: 69,0:05:09.16,0:05:11.25,Default,,0,0,0,,I bought some new snacks,
+Dialogue: 69,0:05:12.58,0:05:15.09,Default,,0,0,0,,a few daily necessities,
+Dialogue: 69,0:05:16.71,0:05:19.55,Default,,0,0,0,,as well as forty dumbbells or so!
+Dialogue: 69,0:05:21.84,0:05:24.93,Default,,0,0,0,,(Abydos Foreclosure Task Force Daily Meeting) Let's begin our daily meeting.
+Dialogue: 69,0:05:25.05,0:05:28.81,Default,,0,0,0,,To start, we'll review current events.
+Dialogue: 69,0:05:28.81,0:05:33.19,Default,,0,0,0,,Kivotos, the Academy City, is composed of many different school districts.
+Dialogue: 69,0:05:33.77,0:05:37.07,Default,,0,0,0,,The General Student Council, led by the student council president,
+Dialogue: 69,0:05:37.07,0:05:40.11,Default,,0,0,0,,maintains balance between the districts.
+Dialogue: 69,0:05:40.82,0:05:40.90,Default,,0,0,0,,But just a few days ago, the student council president went missing.
+Dialogue: 69,0:05:40.90,0:05:43.86,Default,,0,0,0,,(Endless Conspiracy Theories Student Council President Missing?) But just a few days ago, the student council president went missing.
+Dialogue: 69,0:05:43.86,0:05:46.33,Default,,0,0,0,,(The Reason for the General Student Council's Week-Long Silent Treatment?) But just a few days ago, the student council president went missing.
+Dialogue: 69,0:05:47.08,0:05:50.16,Default,,0,0,0,,It's most likely due to her disappearance that
+Dialogue: 69,0:05:50.16,0:05:51.54,Default,,0,0,0,,so many districts have been experiencing conflict.
+Dialogue: 69,0:05:54.75,0:05:56.75,Default,,0,0,0,,Speaking of the General Student Council...
+Dialogue: 69,0:05:56.75,0:05:58.92,Default,,0,0,0,,...Um, what was it called again?
+Dialogue: 69,0:05:58.92,0:06:03.09,Default,,0,0,0,,That peace treaty between Trinity General School
+Dialogue: 69,0:06:03.09,0:06:04.47,Default,,0,0,0,,and Gehenna Academy?
+Dialogue: 69,0:06:04.47,0:06:05.93,Default,,0,0,0,,The Eden Treaty?
+Dialogue: 69,0:06:05.93,0:06:07.97,Default,,0,0,0,,Yes, exactly!
+Dialogue: 69,0:06:07.97,0:06:09.31,Default,,0,0,0,,Has that been signed yet?
+Dialogue: 69,0:06:10.68,0:06:14.85,Default,,0,0,0,,The student council president was the one facilitating the peace talks,
+Dialogue: 69,0:06:15.44,0:06:17.44,Default,,0,0,0,,so it's unclear what will happen.
+Dialogue: 69,0:06:18.02,0:06:19.73,Default,,0,0,0,,I see...
+Dialogue: 69,0:06:19.73,0:06:22.53,Default,,0,0,0,,Oh, right! Ayane!
+Dialogue: 69,0:06:22.53,0:06:25.53,Default,,0,0,0,,(Shiba Seki Ramen) The owner of Shiba Seki Ramen says
+Dialogue: 69,0:06:25.53,0:06:26.70,Default,,0,0,0,,that the Kata-Kata Helmet Gang is up to no good again.
+Dialogue: 69,0:06:28.28,0:06:31.08,Default,,0,0,0,,The ramen there is delicious.
+Dialogue: 69,0:06:31.50,0:06:33.83,Default,,0,0,0,,Do you go there a lot, Shiroko?!
+Dialogue: 69,0:06:33.83,0:06:36.13,Default,,0,0,0,,Is that a problem?
+Dialogue: 69,0:06:36.13,0:06:37.96,Default,,0,0,0,,N-No! It's nothing...
+Dialogue: 69,0:06:37.96,0:06:39.34,Default,,0,0,0,,Anyway,
+Dialogue: 69,0:06:39.34,0:06:42.88,Default,,0,0,0,,it's getting harder to maintain security in Abydos.
+Dialogue: 69,0:06:42.88,0:06:44.34,Default,,0,0,0,,How troublesome...
+Dialogue: 69,0:06:45.01,0:06:50.85,Default,,0,0,0,,We've requested aid from the General Student Council several times now, but...
+Dialogue: 69,0:06:50.85,0:06:53.27,Default,,0,0,0,,With the student council president missing,
+Dialogue: 69,0:06:53.27,0:06:55.19,Default,,0,0,0,,they're likely too busy to deal with us.
+Dialogue: 69,0:06:56.90,0:07:00.15,Default,,0,0,0,,It's not like we have all the time in the world either.
+Dialogue: 69,0:07:01.53,0:07:05.07,Default,,0,0,0,,Thank you very much for using Kaiser Loans.
+Dialogue: 69,0:07:05.82,0:07:07.11,Default,,0,0,0,,At the current rate,
+Dialogue: 69,0:07:07.11,0:07:10.24,Default,,0,0,0,,your debt will be paid off in 309 years and 2 months!
+Dialogue: 69,0:07:10.83,0:07:12.87,Default,,0,0,0,,We will see you again next month!
+Dialogue: 69,0:07:14.83,0:07:19.17,Default,,0,0,0,,...309 years and 2 months?
+Dialogue: 69,0:07:20.96,0:07:22.84,Default,,0,0,0,,There's truly no end to it.
+Dialogue: 69,0:07:25.72,0:07:27.39,Default,,0,0,0,,Then, see you tomorrow.
+Dialogue: 69,0:07:27.39,0:07:29.18,Default,,0,0,0,,- Goodbye! - Bye-bye!
+Dialogue: 69,0:07:50.45,0:07:51.99,Default,,0,0,0,,(Foreclosure Task Force Peroro/Fish Cakes/Jellyfish) (What./We're listing things that are "white and cute.")
+Dialogue: 69,0:07:51.99,0:07:52.91,Default,,0,0,0,,(I don't get it.../Wanna join, Serika?/ Hard no. Today was tough...)
+Dialogue: 69,0:08:24.86,0:08:26.94,Default,,0,0,0,,That took long enough.
+Dialogue: 69,0:08:33.12,0:08:34.66,Default,,0,0,0,,Hey, hey!
+Dialogue: 69,0:08:34.66,0:08:36.54,Default,,0,0,0,,I must've heard you wrong.
+Dialogue: 69,0:08:36.54,0:08:38.83,Default,,0,0,0,,Are you little girls
+Dialogue: 69,0:08:38.83,0:08:41.63,Default,,0,0,0,,trying to tell me that my hairstyle is old-fashioned?
+Dialogue: 69,0:08:41.63,0:08:43.84,Default,,0,0,0,,Just bask in the coolness of my 'do!
+Dialogue: 69,0:08:44.96,0:08:46.71,Default,,0,0,0,,You're the coolest, Boss!
+Dialogue: 69,0:08:46.71,0:08:48.38,Default,,0,0,0,,You're so charming, Boss!
+Dialogue: 69,0:08:49.59,0:08:51.72,Default,,0,0,0,,- Exactly! - Yes, correct!
+Dialogue: 69,0:08:52.85,0:08:56.31,Default,,0,0,0,,Is it wrong of us to call something old-fashioned, old-fashioned? Huh?!
+Dialogue: 69,0:08:58.39,0:09:01.06,Default,,0,0,0,,H-How dare you keep saying that word?
+Dialogue: 69,0:09:01.06,0:09:02.98,Default,,0,0,0,,Minions, punish them!
+Dialogue: 69,0:09:08.44,0:09:10.11,Default,,0,0,0,,Are you still talking big?
+Dialogue: 69,0:09:11.70,0:09:14.16,Default,,0,0,0,,Your stupid bullets
+Dialogue: 69,0:09:14.16,0:09:16.08,Default,,0,0,0,,could never
+Dialogue: 69,0:09:16.08,0:09:18.33,Default,,0,0,0,,ever hurt us!
+Dialogue: 69,0:09:50.11,0:09:51.49,Default,,0,0,0,,He's still alive.
+Dialogue: 69,0:09:52.36,0:09:53.66,Default,,0,0,0,,Is he sunbathing?
+Dialogue: 69,0:09:55.37,0:09:56.49,Default,,0,0,0,,Heatstroke?
+Dialogue: 69,0:09:58.79,0:10:00.33,Default,,0,0,0,,Water...
+Dialogue: 69,0:10:03.50,0:10:05.79,Default,,0,0,0,,- Please... - Here.
+Dialogue: 69,0:10:05.79,0:10:07.09,Default,,0,0,0,,It's an energy drink.
+Dialogue: 69,0:10:07.88,0:10:08.88,Default,,0,0,0,,Want some?
+Dialogue: 69,0:10:12.88,0:10:14.93,Default,,0,0,0,,Wow! I'm revived!
+Dialogue: 69,0:10:14.93,0:10:16.47,Default,,0,0,0,,Thank you so much.
+Dialogue: 69,0:10:16.47,0:10:20.06,Default,,0,0,0,,Did you abduct this man, Shiroko?!
+Dialogue: 69,0:10:20.06,0:10:23.64,Default,,0,0,0,,It finally happened... Shiroko committed a crime!
+Dialogue: 69,0:10:23.64,0:10:25.19,Default,,0,0,0,,Chill out, everyone!
+Dialogue: 69,0:10:25.19,0:10:28.02,Default,,0,0,0,,What's important is covering her tracks before people find out!
+Dialogue: 69,0:10:29.48,0:10:30.73,Default,,0,0,0,,It's not like that at all.
+Dialogue: 69,0:10:30.73,0:10:33.90,Default,,0,0,0,,He said he was trying to get to our school.
+Dialogue: 69,0:10:33.90,0:10:34.95,Default,,0,0,0,,What?
+Dialogue: 69,0:10:34.95,0:10:36.66,Default,,0,0,0,,So, he's a visitor?
+Dialogue: 69,0:10:36.66,0:10:38.58,Default,,0,0,0,,Exactly.
+Dialogue: 69,0:10:38.58,0:10:40.08,Default,,0,0,0,,- I see. - Right...
+Dialogue: 69,0:10:46.25,0:10:49.71,Default,,0,0,0,,I knew Abydos was a desert district,
+Dialogue: 69,0:10:49.71,0:10:52.92,Default,,0,0,0,,but it was so hot I got heatstroke while walking out in the sun,
+Dialogue: 69,0:10:53.88,0:10:56.34,Default,,0,0,0,,and the next thing I knew I was passed out.
+Dialogue: 69,0:11:06.27,0:11:08.65,Default,,0,0,0,,Well... If it's okay with you,
+Dialogue: 69,0:11:08.65,0:11:11.15,Default,,0,0,0,,can we ask what your name is?
+Dialogue: 69,0:11:11.15,0:11:13.36,Default,,0,0,0,,Oh! Of course.
+Dialogue: 69,0:11:13.36,0:11:16.86,Default,,0,0,0,,I'm Sensei, from Schale, the Federal Investigation Club.
+Dialogue: 69,0:11:16.86,0:11:17.95,Default,,0,0,0,,It's nice to meet you.
+Dialogue: 69,0:11:19.24,0:11:21.95,Default,,0,0,0,,Does that mean he's from the General Student Council?
+Dialogue: 69,0:11:21.95,0:11:23.29,Default,,0,0,0,,Right.
+Dialogue: 69,0:11:23.29,0:11:27.04,Default,,0,0,0,,Our requests for aid have finally been answered!
+Dialogue: 69,0:11:27.04,0:11:28.96,Default,,0,0,0,,That's great, Ayane!
+Dialogue: 69,0:11:28.96,0:11:32.09,Default,,0,0,0,,Yes! Our persistence really paid off!
+Dialogue: 69,0:11:32.09,0:11:34.01,Default,,0,0,0,,We'll finally be able to restock on supplies!
+Dialogue: 69,0:11:35.47,0:11:36.93,Default,,0,0,0,,Okay, everyone,
+Dialogue: 69,0:11:36.93,0:11:38.14,Default,,0,0,0,,let's get to business.
+Dialogue: 69,0:11:38.76,0:11:40.26,Default,,0,0,0,, (Certificate of Transfer) What's this?
+Dialogue: 69,0:11:40.26,0:11:42.47,Default,,0,0,0,,(Certificate of Transfer) It's for all of you.
+Dialogue: 69,0:11:42.93,0:11:45.23,Default,,0,0,0,,Thank you so, so much!
+Dialogue: 69,0:11:45.23,0:11:48.48,Default,,0,0,0,,We'll finally have more ammunition and supplies!
+Dialogue: 69,0:11:49.27,0:11:51.48,Default,,0,0,0,,Hoshino's going to want to hear about this.
+Dialogue: 69,0:11:52.15,0:11:55.57,Default,,0,0,0,,She's probably napping in her usual spot.
+Dialogue: 69,0:11:55.57,0:11:57.11,Default,,0,0,0,,I'll drag her back here!
+Dialogue: 69,0:12:00.16,0:12:02.08,Default,,0,0,0,,- By the way, Sensei. - Hm?
+Dialogue: 69,0:12:02.91,0:12:04.91,Default,,0,0,0,,We haven't introduced ourselves yet.
+Dialogue: 69,0:12:07.08,0:12:09.63,Default,,0,0,0,,That was Kuromi Serika, a first-year student.
+Dialogue: 69,0:12:10.33,0:12:13.59,Default,,0,0,0,,My name is Izayoi Nonomi! I'm in my second year!
+Dialogue: 69,0:12:14.38,0:12:16.09,Default,,0,0,0,,Nice to meet you!
+Dialogue: 69,0:12:16.09,0:12:18.13,Default,,0,0,0,,I'm Okusora Ayane, a first-year student.
+Dialogue: 69,0:12:19.01,0:12:22.01,Default,,0,0,0,,Sunaookami Shiroko. Second-year.
+Dialogue: 69,0:12:22.26,0:12:25.89,Default,,0,0,0,,Well, I met you first, so you knew that.
+Dialogue: 69,0:12:26.64,0:12:29.94,Default,,0,0,0,,Ah. Not that I think that makes me more important than anyone else.
+Dialogue: 69,0:12:30.73,0:12:32.44,Default,,0,0,0,,There's one more member.
+Dialogue: 69,0:12:32.90,0:12:34.69,Default,,0,0,0,,The current president of the Foreclosure Task Force,
+Dialogue: 69,0:12:34.69,0:12:36.24,Default,,0,0,0,,Takanashi Hoshino.
+Dialogue: 69,0:12:37.11,0:12:38.36,Default,,0,0,0,,The five of us make up
+Dialogue: 69,0:12:38.36,0:12:41.66,Default,,0,0,0,,the Abydos Foreclosure Task Force.
+Dialogue: 69,0:12:42.28,0:12:43.49,Default,,0,0,0,,Nice to meet you.
+Dialogue: 69,0:12:43.49,0:12:45.33,Default,,0,0,0,,Nice to meet you too.
+Dialogue: 69,0:12:45.33,0:12:47.37,Default,,0,0,0,,Oh geez, Serika.
+Dialogue: 69,0:12:47.37,0:12:49.67,Default,,0,0,0,,Be more gentle with this old-timer, please.
+Dialogue: 69,0:12:49.67,0:12:51.29,Default,,0,0,0,,What nonsense are you spouting?!
+Dialogue: 69,0:12:51.29,0:12:54.09,Default,,0,0,0,,You're the president, and you need to act more like one!
+Dialogue: 69,0:12:54.67,0:12:57.26,Default,,0,0,0,,Oh... Takanashi Hoshino here.
+Dialogue: 69,0:12:57.26,0:12:58.51,Default,,0,0,0,,Pleasure to meet you.
+Dialogue: 69,0:12:59.38,0:13:01.68,Default,,0,0,0,,I'm Sensei, from Schale!
+Dialogue: 69,0:13:01.68,0:13:02.68,Default,,0,0,0,,The pleasure's all mine.
+Dialogue: 69,0:13:06.14,0:13:08.23,Default,,0,0,0,,- Hey, Sensei. - Hm?
+Dialogue: 69,0:13:08.64,0:13:10.98,Default,,0,0,0,,I'll take you on a tour.
+Dialogue: 69,0:13:17.78,0:13:22.03,Default,,0,0,0,,The desertification in Abydos is worse than I thought.
+Dialogue: 69,0:13:22.03,0:13:23.20,Default,,0,0,0,,Is it?
+Dialogue: 69,0:13:23.20,0:13:26.24,Default,,0,0,0,,(Cycling Club/Now Recruiting) It's been like this
+Dialogue: 69,0:13:26.83,0:13:28.45,Default,,0,0,0,,ever since I enrolled.
+Dialogue: 69,0:13:30.12,0:13:32.33,Default,,0,0,0,,I haven't seen any other students here.
+Dialogue: 69,0:13:33.08,0:13:35.67,Default,,0,0,0,,Is it just the five of you?
+Dialogue: 69,0:13:35.75,0:13:37.76,Default,,0,0,0,,(School Office) Yes.
+Dialogue: 69,0:13:37.76,0:13:38.80,Default,,0,0,0,,(School Office) The truth is,
+Dialogue: 69,0:13:39.67,0:13:41.97,Default,,0,0,0,,this school is in severe debt,
+Dialogue: 69,0:13:41.97,0:13:44.01,Default,,0,0,0,,and so everyone left. Except us.
+Dialogue: 69,0:13:44.93,0:13:48.27,Default,,0,0,0,,The Foreclosure Task Force has been taking on whatever jobs we can
+Dialogue: 69,0:13:48.89,0:13:51.44,Default,,0,0,0,,and repaying the debt bit by bit.
+Dialogue: 69,0:13:51.44,0:13:53.48,Default,,0,0,0,,That must be difficult for you.
+Dialogue: 69,0:13:54.15,0:13:57.07,Default,,0,0,0,,The gym needed to be cleaned a little while ago...
+Dialogue: 69,0:13:57.65,0:14:01.20,Default,,0,0,0,,But Ayane was sick, so the four of us had to do it.
+Dialogue: 69,0:14:02.20,0:14:06.03,Default,,0,0,0,,It was pretty hard. There was more trash than we expected.
+Dialogue: 69,0:14:06.03,0:14:07.66,Default,,0,0,0,,We still finished in the end though.
+Dialogue: 69,0:14:07.87,0:14:11.04,Default,,0,0,0,,And then Ayane scolded all of us.
+Dialogue: 69,0:14:11.04,0:14:12.25,Default,,0,0,0,,She was mad?
+Dialogue: 69,0:14:14.75,0:14:15.88,Default,,0,0,0,,What's this room for?
+Dialogue: 69,0:14:15.88,0:14:17.17,Default,,0,0,0,,It's not used for anything right now.
+Dialogue: 69,0:14:18.17,0:14:21.67,Default,,0,0,0,,But this is your room from now on, Sensei.
+Dialogue: 69,0:14:21.67,0:14:24.13,Default,,0,0,0,,- Really? For me? - Mhm.
+Dialogue: 69,0:14:24.13,0:14:26.30,Default,,0,0,0,,The regular office is overrun with sand.
+Dialogue: 69,0:14:30.52,0:14:31.89,Default,,0,0,0,,Is this too small for you?
+Dialogue: 69,0:14:31.89,0:14:33.94,Default,,0,0,0,,It's more than enough. Thank you.
+Dialogue: 69,0:14:34.19,0:14:35.15,Default,,0,0,0,,Okay.
+Dialogue: 69,0:14:43.15,0:14:46.82,Default,,0,0,0,,Shiroko, why do you want to protect this school?
+Dialogue: 69,0:14:49.28,0:14:50.49,Default,,0,0,0,,Gunshots?!
+Dialogue: 69,0:14:50.49,0:14:52.41,Default,,0,0,0,,A message for Abydos High School!
+Dialogue: 69,0:14:53.00,0:14:57.00,Default,,0,0,0,,Today's the day we're finally going to conquer your territory!
+Dialogue: 69,0:14:57.00,0:14:59.46,Default,,0,0,0,,Huh? The Kata-Kata Helmet Gang?!
+Dialogue: 69,0:14:59.63,0:15:01.76,Default,,0,0,0,,(Please Use Sparingly!) Now? Of all times?!
+Dialogue: 69,0:15:01.84,0:15:06.30,Default,,0,0,0,,Oh geez. I really just wanted to have a nice, peaceful nap.
+Dialogue: 69,0:15:06.30,0:15:09.14,Default,,0,0,0,,I'll drive them away like I always do!
+Dialogue: 69,0:15:10.93,0:15:13.23,Default,,0,0,0,,Everyone! Let's go protect our school!
+Dialogue: 69,0:15:14.98,0:15:16.98,Default,,0,0,0,,Stay here, Sensei.
+Dialogue: 69,0:15:16.98,0:15:17.98,Default,,0,0,0,,Shiroko?!
+Dialogue: 69,0:15:22.03,0:15:23.03,Default,,0,0,0,,Watch out!
+Dialogue: 69,0:15:25.45,0:15:26.66,Default,,0,0,0,,Thank you, Arona.
+Dialogue: 69,0:15:27.57,0:15:29.62,Default,,0,0,0,,You're welcome, Sensei!
+Dialogue: 69,0:15:32.54,0:15:34.08,Default,,0,0,0,,Here, Shiroko.
+Dialogue: 69,0:15:34.08,0:15:35.33,Default,,0,0,0,,Thanks.
+Dialogue: 69,0:15:36.12,0:15:38.38,Default,,0,0,0,,How tiresome.
+Dialogue: 69,0:15:38.96,0:15:42.75,Default,,0,0,0,,We're rather low on ammo. What a pickle.
+Dialogue: 69,0:15:42.75,0:15:45.51,Default,,0,0,0,,If only our new supplies were here...
+Dialogue: 69,0:15:45.51,0:15:46.51,Default,,0,0,0,,I see no problem.
+Dialogue: 69,0:15:47.09,0:15:48.39,Default,,0,0,0,,Shiroko! Wait!
+Dialogue: 69,0:15:54.02,0:15:55.48,Default,,0,0,0,,Give it up already!
+Dialogue: 69,0:15:55.48,0:15:59.06,Default,,0,0,0,,We know you're low on ammunition!
+Dialogue: 69,0:15:59.81,0:16:01.57,Default,,0,0,0,,Huh?! How'd they know that?
+Dialogue: 69,0:16:01.73,0:16:03.32,Default,,0,0,0,,Don't worry, Ayane.
+Dialogue: 69,0:16:03.32,0:16:06.28,Default,,0,0,0,,They're no match for us anyway.
+Dialogue: 69,0:16:06.28,0:16:08.36,Default,,0,0,0,,- Shiroko's creating cover for us. - Yes!
+Dialogue: 69,0:16:10.16,0:16:13.08,Default,,0,0,0,,We'll never hand over Abydos High School to the likes of you!
+Dialogue: 69,0:16:16.75,0:16:17.75,Default,,0,0,0,,Shiroko?!
+Dialogue: 69,0:16:19.63,0:16:21.29,Default,,0,0,0,,Shiroko! Nonomi!
+Dialogue: 69,0:16:21.92,0:16:23.50,Default,,0,0,0,,Hoshino!
+Dialogue: 69,0:16:23.50,0:16:26.26,Default,,0,0,0,,Everyone! Retreat for now! We'll regroup!
+Dialogue: 69,0:16:27.88,0:16:30.93,Default,,0,0,0,,They're running around like chickens with their heads cut off!
+Dialogue: 69,0:16:30.93,0:16:34.56,Default,,0,0,0,,We were right! They're down to their last bullets!
+Dialogue: 69,0:16:36.06,0:16:39.48,Default,,0,0,0,,It'll be a fight to the finish!
+Dialogue: 69,0:16:39.48,0:16:42.86,Default,,0,0,0,,Just how I like it! We'll take them all down in one go!
+Dialogue: 69,0:16:45.48,0:16:48.95,Default,,0,0,0,,Sensei, if this continues much longer, the Abydos students will...
+Dialogue: 69,0:16:51.53,0:16:52.53,Default,,0,0,0,,Let's go!
+Dialogue: 69,0:16:56.87,0:16:58.08,Default,,0,0,0,,Is everyone okay?
+Dialogue: 69,0:16:58.96,0:17:00.50,Default,,0,0,0,,We're fine. We can still fight.
+Dialogue: 69,0:17:00.50,0:17:03.92,Default,,0,0,0,,We can't let them pin us down like this! We need to spread out.
+Dialogue: 69,0:17:03.92,0:17:06.38,Default,,0,0,0,,Hey, hey. Are you guys seriously still trying?
+Dialogue: 69,0:17:06.38,0:17:08.55,Default,,0,0,0,,You don't stand a single chance against us!
+Dialogue: 69,0:17:09.22,0:17:11.05,Default,,0,0,0,,Take this!
+Dialogue: 69,0:17:12.89,0:17:15.85,Default,,0,0,0,,We can't handle much more of this!
+Dialogue: 69,0:17:15.85,0:17:18.68,Default,,0,0,0,,Damn it! How did we get cornered by those losers?!
+Dialogue: 69,0:17:23.11,0:17:24.11,Default,,0,0,0,,Everyone!
+Dialogue: 69,0:17:26.02,0:17:27.19,Default,,0,0,0,,Huh? Who's that?
+Dialogue: 69,0:17:32.78,0:17:36.08,Default,,0,0,0,,Why is it important to you to protect this school?
+Dialogue: 69,0:17:36.41,0:17:37.41,Default,,0,0,0,,Sensei.
+Dialogue: 69,0:17:38.00,0:17:39.00,Default,,0,0,0,,Why?
+Dialogue: 69,0:17:47.75,0:17:48.76,Default,,0,0,0,,Because...
+Dialogue: 69,0:17:51.43,0:17:52.88,Default,,0,0,0,,this school
+Dialogue: 69,0:17:52.88,0:17:54.55,Default,,0,0,0,,is where we belong.
+Dialogue: 69,0:17:56.47,0:17:57.72,Default,,0,0,0,,Is that how everyone feels?
+Dialogue: 69,0:17:58.43,0:17:59.68,Default,,0,0,0,,Of course!
+Dialogue: 69,0:18:00.85,0:18:04.23,Default,,0,0,0,,Who the hell is this, swooping in like some hero?!
+Dialogue: 69,0:18:04.23,0:18:06.02,Default,,0,0,0,,You can call me Sensei.
+Dialogue: 69,0:18:06.02,0:18:07.02,Default,,0,0,0,,Sensei?
+Dialogue: 69,0:18:07.65,0:18:11.11,Default,,0,0,0,,I'm here to help my students.
+Dialogue: 69,0:18:11.49,0:18:14.24,Default,,0,0,0,,Sorry, but I have to ask you to leave this school's property.
+Dialogue: 69,0:18:14.78,0:18:17.28,Default,,0,0,0,,You think you can talk down to me like that?!
+Dialogue: 69,0:18:17.28,0:18:19.04,Default,,0,0,0,,I'll shoot you to pieces!
+Dialogue: 69,0:18:19.66,0:18:21.50,Default,,0,0,0,,Let's go, everyone.
+Dialogue: 69,0:18:25.25,0:18:27.75,Default,,0,0,0,,Nonomi, lay down suppressive fire!
+Dialogue: 69,0:18:27.75,0:18:29.30,Default,,0,0,0,,Roger!
+Dialogue: 69,0:18:33.18,0:18:34.38,Default,,0,0,0,,Serika, take aim!
+Dialogue: 69,0:18:34.38,0:18:36.60,Default,,0,0,0,,Damn it! Where are they?!
+Dialogue: 69,0:18:36.60,0:18:37.60,Default,,0,0,0,,Just stay calm?
+Dialogue: 69,0:18:38.85,0:18:41.35,Default,,0,0,0,,I would've done that even if you didn't tell me!
+Dialogue: 69,0:18:42.06,0:18:44.35,Default,,0,0,0,,Nice job, Nonomi, Serika!
+Dialogue: 69,0:18:44.35,0:18:45.94,Default,,0,0,0,,What's happening?!
+Dialogue: 69,0:18:45.94,0:18:47.19,Default,,0,0,0,,Don't think that you?
+Dialogue: 69,0:18:48.15,0:18:51.49,Default,,0,0,0,,This old-timer can't look bad in front of her youngins!
+Dialogue: 69,0:19:03.16,0:19:05.25,Default,,0,0,0,,Coordinates confirmed.
+Dialogue: 69,0:19:05.25,0:19:07.58,Default,,0,0,0,,Catch, Shiroko!
+Dialogue: 69,0:19:09.38,0:19:11.17,Default,,0,0,0,,Nice timing, Ayane.
+Dialogue: 69,0:19:14.26,0:19:15.88,Default,,0,0,0,,Don't underestimate me!
+Dialogue: 69,0:19:19.68,0:19:21.06,Default,,0,0,0,,Hey, get a grip!
+Dialogue: 69,0:19:22.72,0:19:24.02,Default,,0,0,0,,Eek! How embarrassing!
+Dialogue: 69,0:19:30.73,0:19:32.07,Default,,0,0,0,,Hey!
+Dialogue: 69,0:19:34.49,0:19:36.66,Default,,0,0,0,,Don't come any closer!
+Dialogue: 69,0:19:36.66,0:19:38.57,Default,,0,0,0,,Deliver the final blow, Shiroko!
+Dialogue: 69,0:19:38.57,0:19:40.45,Default,,0,0,0,,I said stay back!
+Dialogue: 69,0:19:45.66,0:19:48.75,Default,,0,0,0,,W-W-W-W-Wait! I-I surrender!
+Dialogue: 69,0:19:48.75,0:19:49.92,Default,,0,0,0,,It's over.
+Dialogue: 69,0:19:57.43,0:19:59.89,Default,,0,0,0,,Ow, ow! That hurts!
+Dialogue: 69,0:19:59.89,0:20:01.81,Default,,0,0,0,,Please, no! Augh! It hurts!
+Dialogue: 69,0:20:01.81,0:20:03.56,Default,,0,0,0,,Then leave. Now.
+Dialogue: 69,0:20:03.56,0:20:05.56,Default,,0,0,0,,Okay, okay! I'm leaving! I'm gone!
+Dialogue: 69,0:20:09.65,0:20:12.65,Default,,0,0,0,,We'll get revenge one day!
+Dialogue: 69,0:20:14.90,0:20:16.74,Default,,0,0,0,,We won, Shiroko!
+Dialogue: 69,0:20:17.36,0:20:19.28,Default,,0,0,0,,Well done!
+Dialogue: 69,0:20:19.28,0:20:22.62,Default,,0,0,0,,We really managed to turn the tide there.
+Dialogue: 69,0:20:23.20,0:20:25.12,Default,,0,0,0,,All thanks to Sensei's help.
+Dialogue: 69,0:20:25.12,0:20:27.25,Default,,0,0,0,,Not at all. I didn't do anything.
+Dialogue: 69,0:20:28.33,0:20:30.08,Default,,0,0,0,,It's my job as a teacher
+Dialogue: 69,0:20:30.08,0:20:33.34,Default,,0,0,0,,to help my students in their time of need.
+Dialogue: 69,0:20:33.34,0:20:37.42,Default,,0,0,0,,Hmph. We would've beat them on our own anyway.
+Dialogue: 69,0:20:37.42,0:20:41.05,Default,,0,0,0,,Bashful as always, Serika. Don't be so stubborn!
+Dialogue: 69,0:20:41.05,0:20:42.18,Default,,0,0,0,,Sh-Shut up!
+Dialogue: 69,0:20:42.18,0:20:44.18,Default,,0,0,0,,Our little Serika is so adorable.
+Dialogue: 69,0:20:44.18,0:20:45.89,Default,,0,0,0,,You're putting on such a tough front!
+Dialogue: 69,0:20:45.89,0:20:47.73,Default,,0,0,0,,Stop it already!
+Dialogue: 69,0:20:49.35,0:20:51.69,Default,,0,0,0,,So, this is...Sensei.
+Dialogue: 69,0:21:10.37,0:21:12.08,Default,,0,0,0,,(He seems like a good guy./Sensei?/ Yeah. He seemed okay./I thought so too.)
+Dialogue: 69,0:21:12.08,0:21:12.92,Default,,0,0,0,,(But let's not jump to any conclusions.)
+Dialogue: 69,0:21:31.44,0:21:35.15,Default,,0,0,0,,The sky blue archive!
+Dialogue: 69,0:21:43.87,0:21:48.33,Default,,0,0,0,,I pedal on my bike seeking new sights
+Dialogue: 69,0:21:48.33,0:21:52.54,Default,,0,0,0,,We'll break the monotony, no longer trapped in place
+Dialogue: 69,0:21:52.54,0:21:56.84,Default,,0,0,0,,Daydreaming on the rooftop, gazing at a sky so blue
+Dialogue: 69,0:21:56.84,0:22:00.63,Default,,0,0,0,,Those clouds like whales are always changing
+Dialogue: 69,0:22:00.63,0:22:04.76,Default,,0,0,0,,We'll embrace a past that can't be altered
+Dialogue: 69,0:22:04.76,0:22:10.23,Default,,0,0,0,,Sharing juice in this world made of sand is a taste so divine
+Dialogue: 69,0:22:10.23,0:22:14.19,Default,,0,0,0,,If I were here alone, here without all of you
+Dialogue: 69,0:22:14.19,0:22:18.15,Default,,0,0,0,,I couldn't laugh, I couldn't cry
+Dialogue: 69,0:22:18.15,0:22:20.24,Default,,0,0,0,,A fateful coterie
+Dialogue: 69,0:22:20.24,0:22:28.37,Default,,0,0,0,,Even if the world's memories blow away like grains of sand one day
+Dialogue: 69,0:22:28.41,0:22:37.25,Default,,0,0,0,,The sky, sea, wind, and you, our youth will never end
+Dialogue: 69,0:22:37.25,0:22:43.13,Default,,0,0,0,,It's easy to see why we protect what we do
+Dialogue: 69,0:22:43.13,0:22:54.06,Default,,0,0,0,,Because this is the only place where we belong
+Dialogue: 69,0:23:20.80,0:23:22.34,Default,,0,0,0,,Strawberry milk...
+Dialogue: 69,0:23:27.97,0:23:29.47,Default,,0,0,0,,Hi, Arona.
+Dialogue: 69,0:23:36.44,0:23:46.45,Default,,0,0,0,,I've been waiting for you, Sensei.
