@@ -146,6 +146,20 @@ subs {
             }
         }
 
+        from(get("premux")) {
+            tracks {
+                include(track.type == TrackType.SUBTITLES && lang.get() == "en")
+            }
+
+            subtitles {
+                lang("eng")
+                name(get("strack_pro"))
+                default(true)
+                forced(false)
+                compression(CompressionType.ZLIB)
+            }
+        }
+
         chapters(chapters.item()) { lang("eng") }
 
         // Fonts handling
