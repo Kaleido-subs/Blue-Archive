@@ -58,7 +58,7 @@ We'll embrace a past that can't be altered
 14
 00:01:04,690 --> 00:01:09,987
 Sharing juice in this world made of sand
-Is a taste so divine
+is a taste so divine
 
 15
 00:01:10,445 --> 00:01:14,241
@@ -292,7 +292,7 @@ So, anyone else?
 67
 00:04:14,171 --> 00:04:16,173
 - Here, here!
--All right.
+- All right.
 
 68
 00:04:16,214 --> 00:04:19,718
@@ -498,7 +498,7 @@ Absolutely no crimes!
 115
 00:06:20,380 --> 00:06:23,133
 You know that sort of thing
-Is wrong, so stop sulking.
+is wrong, so stop sulking.
 
 116
 00:06:24,301 --> 00:06:28,680
@@ -819,7 +819,7 @@ What friendly staff.
 
 190
 00:10:10,860 --> 00:10:13,363
-You know, what? Why not.
+You know what? Why not.
 
 191
 00:10:13,822 --> 00:10:17,200
@@ -927,7 +927,7 @@ always this broke, right?
 215
 00:11:08,293 --> 00:11:11,296
 It's only because Aru
-Is terrible with money.
+is terrible with money.
 
 216
 00:11:11,796 --> 00:11:14,757
@@ -1047,7 +1047,7 @@ the ingredients wrong...
 
 242
 00:12:15,276 --> 00:12:17,528
-...SO you girls can
+...so you girls can
 eat the extras.
 
 243
@@ -1265,7 +1265,7 @@ Don't sweat it.
 293
 00:14:40,546 --> 00:14:42,840
 "We'll do the crime
-if you've got the dime.”
+if you've got the dime."
 
 294
 00:14:42,882 --> 00:14:44,592
@@ -1844,15 +1844,15 @@ We were losing track of time without ever knowing why
 
 431
 00:22:15,918 --> 00:22:18,837
-With all those laughs we shared:---
+With all those laughs we shared⋯
 
 432
 00:22:18,963 --> 00:22:25,177
-Even if---those moments were just ordinary
+Even if⋯those moments were just ordinary
 
 433
 00:22:25,219 --> 00:22:27,012
-Those days---
+Those days⋯
 
 434
 00:22:27,054 --> 00:22:30,516
@@ -1896,7 +1896,7 @@ Even though it will always be beyond our reach
 
 444
 00:23:03,966 --> 00:23:08,929
-Oh, those unforgettable, beautiful days---
+Oh, those unforgettable, beautiful days⋯
 
 445
 00:23:18,188 --> 00:23:18,981
@@ -1929,4 +1929,3 @@ Don't worry.
 00:23:33,579 --> 00:23:35,914
 I'll root out
 this little error.
-

@@ -56,7 +56,7 @@ responsibilities and obligations...
 
 14
 00:01:04,189 --> 00:01:07,609
-I'll trust them. ..and you.
+I'll trust them...and you.
 
 15
 00:01:08,026 --> 00:01:10,862
@@ -120,7 +120,7 @@ the Sanctum Tower lights are finally back on,
 28
 00:02:54,257 --> 00:02:56,927
 and it appears regular administrative work
-Is underway again.
+is underway again.
 
 29
 00:02:57,511 --> 00:03:00,263
@@ -371,7 +371,7 @@ The owner of Shiba Seki Ramen says
 86
 00:06:25,510 --> 00:06:27,971
 that the Kata-Kata Helmet Gang
-Is up to no good again.
+is up to no good again.
 
 87
 00:06:28,221 --> 00:06:30,724
@@ -465,7 +465,7 @@ We're listing things that are "white and cute.")
 
 108
 00:07:52,055 --> 00:07:52,889
-(I don't get it.. ./Wanna join, Serika?/
+(I don't get it.../Wanna join, Serika?/
 Hard no. Today was tough...)
 
 109
@@ -719,7 +719,7 @@ I'll drag her back here!
 167
 00:12:00,136 --> 00:12:02,347
 - By the way, Sensei.
--Hm?
+- Hm?
 
 168
 00:12:02,889 --> 00:12:05,058
@@ -823,7 +823,7 @@ The pleasure's all mine.
 191
 00:13:06,119 --> 00:13:08,079
 - Hey, Sensei.
--Hm?
+- Hm?
 
 192
 00:13:08,579 --> 00:13:10,999
@@ -832,7 +832,7 @@ I'll take you on a tour.
 193
 00:13:17,839 --> 00:13:21,884
 The desertification in Abydos
-Is worse than I thought.
+is worse than I thought.
 
 194
 00:13:22,051 --> 00:13:22,885
@@ -1076,8 +1076,8 @@ They're no match for us anyway.
 
 250
 00:16:06,340 --> 00:16:08,468
-<i>—</i> Shiroko's creating cover for us.
-<i>—</i> Yes!
+- Shiroko's creating cover for us.
+- Yes!
 
 251
 00:16:10,219 --> 00:16:13,181
@@ -1256,7 +1256,7 @@ Damn it! Where are they?!
 
 292
 00:18:36,532 --> 00:18:37,825
-Just stay calm?
+Just stay calm!
 
 293
 00:18:38,909 --> 00:18:41,454
@@ -1273,7 +1273,7 @@ What's happening?!
 
 296
 00:18:46,000 --> 00:18:47,001
-Don't think that you?
+Don't think that you-
 
 297
 00:18:48,210 --> 00:18:51,839
@@ -1445,7 +1445,7 @@ We'll embrace a past that can't be altered
 337
 00:22:04,573 --> 00:22:09,870
 Sharing juice in this world made of sand
-Is a taste so divine
+is a taste so divine
 
 338
 00:22:10,329 --> 00:22:14,124
@@ -1488,4 +1488,3 @@ Hi, Arona.
 347
 00:23:36,457 --> 00:23:38,959
 I've been waiting for you, Sensei.
-
