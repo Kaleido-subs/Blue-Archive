@@ -146,11 +146,7 @@ subs {
             }
         }
 
-        from(get("premux")) {
-            tracks {
-                include(track.type == TrackType.SUBTITLES && lang.get() == "en")
-            }
-
+        from(get("prosubs")) {
             subtitles {
                 lang("eng")
                 name(get("strack_pro"))
