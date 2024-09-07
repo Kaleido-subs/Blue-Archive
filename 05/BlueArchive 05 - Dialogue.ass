@@ -41,7 +41,7 @@ Dialogue: 10,0:00:14.81,0:00:17.21,Default,,0,0,0,,{*}Teacher{*Sensei}, you're s
 Dialogue: 10,0:00:17.52,0:00:20.37,Default,,0,0,0,,Ayane{**-chan}, are you sure?
 Dialogue: 10,0:00:20.37,0:00:21.42,Default,,0,0,0,,I am.
 Dialogue: 10,0:00:21.42,0:00:24.55,Default,,0,0,0,,I went through all the documents we acquired,
-Dialogue: 10,0:00:24.95,0:00:29.43,Default,,0,0,0,,and it definitely seems that Kaiser Loan\nhas been funding the Helmet Gang.
+Dialogue: 10,0:00:24.95,0:00:29.43,Default,,0,0,0,,and it definitely seems that Kaiser Loans\nhas been funding the Helmet Gang.
 Dialogue: 10,0:00:29.43,0:00:31.23,Default,,0,0,0,,No...
 Dialogue: 10,0:00:31.23,0:00:32.30,Default,,0,0,0,,You're kidding.
 Dialogue: 10,0:00:32.94,0:00:34.81,Default,,0,0,0,,If that's really true,
@@ -59,7 +59,7 @@ Dialogue: 10,0:02:36.10,0:02:39.81,Default,,0,0,0,,Yes. This is the exact amount
 Dialogue: 10,0:02:39.81,0:02:44.29,Default,,0,0,0,,7.88 million is a lot.\nYou were in that much debt?
 Dialogue: 10,0:02:44.29,0:02:46.96,Default,,0,0,0,,This is only a fraction. The total is over 900 million.
 Dialogue: 10,0:02:46.96,0:02:50.48,Default,,0,0,0,,Well, well, we can get into\nthe finer details some other time.
-Dialogue: 10,0:02:51.03,0:02:54.45,Default,,0,0,0,,This document lists all of Kaiser Loan's cash flows.
+Dialogue: 10,0:02:51.03,0:02:54.45,Default,,0,0,0,,This document lists all of Kaiser Loans's cash flows.
 Dialogue: 10,0:02:54.45,0:02:59.99,Default,,0,0,0,,And here we see a figure that matches\nour 7.88 million payment down to the yen.
 Dialogue: 10,0:02:59.99,0:03:05.78,Default,,0,0,0,,This has to have come from\nthe debt collector that visits our school.
 Dialogue: 10,0:03:05.78,0:03:07.50,Default,,0,0,0,,And then there's this.
@@ -70,13 +70,13 @@ Dialogue: 10,0:03:17.81,0:03:23.27,Default,,0,0,0,,They sent the Kata-Kata Helme
 Dialogue: 10,0:03:23.27,0:03:25.15,Default,,0,0,0,,Job?
 Dialogue: 10,0:03:25.15,0:03:28.94,Default,,0,0,0,,It was probably to take us out of the picture.
 Dialogue: 10,0:03:28.94,0:03:30.02,Default,,0,0,0,,So that means...
-Dialogue: 10,0:03:31.52,0:03:36.03,Default,,0,0,0,,It means Kaiser Loan has been\nour real enemy all along!
+Dialogue: 10,0:03:31.52,0:03:36.03,Default,,0,0,0,,It means Kaiser Loans has been\nour real enemy all along!
 Dialogue: 10,0:03:37.96,0:03:40.28,Default,,0,0,0,,But why would they do this?
 Dialogue: 10,0:03:40.28,0:03:42.58,Default,,0,0,0,,If the school went bankrupt,
 Dialogue: 10,0:03:42.58,0:03:45.79,Default,,0,0,0,,they wouldn't be able to get back\nthe money they loaned us.
-Dialogue: 10,0:03:49.06,0:03:50.54,Default,,0,0,0,,D-Did you say Kaiser Loan?!
+Dialogue: 10,0:03:49.06,0:03:50.54,Default,,0,0,0,,D-Did you say Kaiser Loans?!
 Dialogue: 10,0:03:51.34,0:03:57.05,Default,,0,0,0,,{\t(5170,5600,\3c&HFFFFFF&\4c&HFFFFFF&)}They're the loan sharks run by\nthe infamous Kaiser Corporation, right?
-Dialogue: 10,0:03:59.61,0:04:02.56,Default,,0,0,0,,I doubt Kaiser Loan is acting on its own.
+Dialogue: 10,0:03:59.61,0:04:02.56,Default,,0,0,0,,I doubt Kaiser Loans is acting on its own.
 Dialogue: 10,0:04:02.89,0:04:04.51,Default,,0,0,0,,Shiroko{**-senpai}?
 Dialogue: 10,0:04:04.51,0:04:08.31,Default,,0,0,0,,Kaiser Corporation's main branch\nmust be involved in this as well.
 Dialogue: 10,0:04:08.86,0:04:10.70,Default,,0,0,0,,You may be right.
