@@ -16,9 +16,9 @@
 |                       | 路宇図シカ         |     | **Editing**           | rcombs         | rcombs         |
 | **Editing**           | LightArrowsEXE     |     | **Timing**            | LightArrowsEXE | LightArrowsEXE |
 | **Encode**            | LightArrowsEXE     |     | **Typesetting**       | LightArrowsEXE | JohnnyZB       |
-| **Timing**            | MarioLuigi0404     |     | **Song Styling**      | LightArrowsEXE | LightArrowsEXE |
-| **Typesetting**       | LightArrowsEXE     |     |                       | petzku         | petzku         |
-|                       | MSO (01-02)        |     |                       |                |                |
+| **Timing**            | MarioLuigi0404     |     |                       | WitchyMary     |                |
+| **Typesetting**       | LightArrowsEXE     |     | **Song Styling**      | LightArrowsEXE | LightArrowsEXE |
+|                       | MSO (01-02)        |     |                       | petzku         | petzku         |
 |                       | petzku (01, 06-07) |     |                       |                |                |
 |                       | GrygrFlzr (01)     |     |                       |                |                |
 |                       | Period (01)        |     |                       |                |                |
