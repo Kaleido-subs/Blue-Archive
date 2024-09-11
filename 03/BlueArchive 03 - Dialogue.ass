@@ -44,7 +44,7 @@ Dialogue: 10,0:00:23.50,0:00:24.75,Default,,0,0,0,,Consider it done.
 Dialogue: 10,0:00:27.26,0:00:30.47,Default,,0,0,0,,Your job is in good hands at Problem Solver 68.
 Dialogue: 10,0:02:05.61,0:02:07.44,Default,,0,0,0,,Ayane, isn't this...
 Dialogue: 10,0:02:07.44,0:02:08.15,Default,,0,0,0,,Yes.
-Dialogue: 10,0:02:08.15,0:02:13.53,Default,,0,0,0,,It's a part we recovered from the wreckage of\none of the {Kata Kata }Helmet Gang's armoured vehicles the other day.
+Dialogue: 10,0:02:08.15,0:02:13.53,Default,,0,0,0,,It's a part we recovered from the wreckage of\nthe {Kata Kata }Helmet Gang's armoured vehicles the other day.
 Dialogue: 10,0:02:13.53,0:02:18.91,Default,,0,0,0,,I did some research, and I found that\nthis specific model is currently banned from use.
 Dialogue: 10,0:02:18.91,0:02:23.12,Default,,0,0,0,,Where could the Helmet Gang have\ngotten hold of something illegal like that?
 Dialogue: 10,0:02:23.12,0:02:25.00,Default,,0,0,0,,From the Black Market, maybe?
@@ -98,7 +98,7 @@ Dialogue: 10,0:04:55.44,0:04:57.94,Default,,0,0,0,,or they'd better make themsel
 Dialogue: 10,0:04:57.94,0:05:01.95,Default,,0,0,0,,Boom! Instant influx of new faces.
 Dialogue: 10,0:05:03.20,0:05:05.33,Default,,0,0,0,,That's genius.
 Dialogue: 10,0:05:05.33,0:05:08.20,Default,,0,0,0,,So, who's our target? Trinity?
-Dialogue: 10,0:05:08.20,0:05:11.21,Default,,0,0,0,,Or maybe Gehenna? Millenium?
+Dialogue: 10,0:05:08.20,0:05:11.21,Default,,0,0,0,,Or maybe Gehenna? Millennium?
 Dialogue: 10,0:05:11.21,0:05:12.54,Default,,0,0,0,,Rejected!
 Dialogue: 10,0:05:12.54,0:05:13.33,Default,,0,0,0,,What?
 Dialogue: 10,0:05:13.33,0:05:15.34,Default,,0,0,0,,Put yourselves in their shoes!
@@ -112,7 +112,7 @@ Dialogue: 10,0:05:37.86,0:05:39.36,Default,,0,0,0,,We rob the bank.
 Dialogue: 10,0:05:39.36,0:05:40.44,Default,,0,0,0,,I'm sorry?!
 Dialogue: 10,0:05:40.44,0:05:42.61,Default,,0,0,0,,Now we're robbing banks?!
 Dialogue: 10,0:05:43.16,0:05:45.74,Default,,0,0,0,,It's guaranteed to get results.
-Dialogue: 10,0:05:46.28,0:05:49.75,Default,,0,0,0,,Let's hit the First Central Bank downtown.
+Dialogue: 10,0:05:46.28,0:05:49.75,Default,,0,0,0,,We'll hit the First Central Bank downtown.
 Dialogue: 10,0:05:50.25,0:05:53.25,Default,,0,0,0,,I've already found the vault\nand know the guard patrol routes,
 Dialogue: 10,0:05:53.71,0:05:57.75,Default,,0,0,0,,and I've even figured out the route\nthe transport car usually takes.
 Dialogue: 10,0:05:57.75,0:05:59.01,Default,,0,0,0,,Also, I got masks.
@@ -133,7 +133,7 @@ Dialogue: 10,0:06:31.00,0:06:33.75,Default,,0,0,0,,Yes, yes. Go ahead, second-ye
 Dialogue: 10,0:06:34.12,0:06:36.75,Default,,0,0,0,,And please, no scams or illegal activities.
 Dialogue: 10,0:06:36.75,0:06:38.00,Default,,0,0,0,,You got it!
 Dialogue: 10,0:06:38.42,0:06:40.76,Default,,0,0,0,,My idea is neither a crime nor a scam!
-Dialogue: 10,0:06:40.76,0:06:44.26,Default,,0,0,0,,It's completely clean and 100% reliable!
+Dialogue: 10,0:06:40.76,0:06:44.26,Default,,0,0,0,,It's completely above board\nand sure to turn a profit!
 Dialogue: 10,0:06:44.26,0:06:46.51,Default,,0,0,0,,Nonomi{**-senpai}...
 Dialogue: 10,0:06:46.80,0:06:48.43,Default,,0,0,0,shenan,{\alpha&HFF&}Idols!{\alpha}The secret is... {\alpha&HFF&}idols!
 Dialogue: 10,0:06:48.43,0:06:49.76,Default,,0,0,0,shenan,{\alpha&HFF&}Idols!{\alpha}The secret is... idols!
@@ -142,7 +142,7 @@ Dialogue: 10,0:06:51.27,0:06:52.02,Default,,0,0,0,shenan,{\bord4.6\c&HECECEC&\3c
 Dialogue: 10,0:06:52.02,0:06:53.35,Default,,0,0,0,,Idols?
 Dialogue: 10,0:06:53.35,0:06:54.39,Default,,0,0,0,,Yes!
 Dialogue: 10,0:06:54.39,0:06:57.40,Default,,0,0,0,,The heart and soul of any\nschool revival arc hinges on idols!
-Dialogue: 10,0:07:00.11,0:07:03.28,Default,,0,0,0,,If all of us break into the pop industry...
+Dialogue: 10,0:07:00.11,0:07:03.28,Default,,0,0,0,,If all of us break into the pop industry—
 Dialogue: 10,0:07:03.28,0:07:04.65,Default,,0,0,0,,Rejected!
 Dialogue: 10,0:07:05.78,0:07:08.99,Default,,0,0,0,,But I already came up with a pose and everything.
 Dialogue: 10,0:07:08.99,0:07:11.91,Default,,0,0,0,,Is {\i1}anyone{\i0} taking this seriously?!
@@ -191,7 +191,7 @@ Dialogue: 10,0:09:07.36,0:09:10.32,Default,,0,0,0,,It's my treat, so stop being 
 Dialogue: 10,0:09:10.32,0:09:12.03,Default,,0,0,0,,I'm {\i1}not{\i0} angry.
 Dialogue: 10,0:09:12.03,0:09:14.78,Default,,0,0,0,,Here, let's wipe that cute little mouth.
 Dialogue: 10,0:09:14.78,0:09:17.04,Default,,0,0,0,,Would you stop babying me?
-Dialogue: 10,0:09:17.04,0:09:19.33,Default,,0,0,0,,Ayane, want more chashu?
+Dialogue: 10,0:09:17.04,0:09:19.33,Default,,0,0,0,,Ayane, want more {*}pork{*chashu}?
 Dialogue: 10,0:09:19.33,0:09:20.46,Default,,0,0,0,,Yes.
 Dialogue: 10,0:09:21.08,0:09:22.42,Default,,0,0,0,,Welcome!
 Dialogue: 10,0:09:22.79,0:09:23.92,Default,,0,0,0,,How many in your party?
@@ -200,7 +200,7 @@ Dialogue: 10,0:09:30.42,0:09:34.35,Default,,0,0,0,,That'd be the Shiba Seki Rame
 Dialogue: 10,0:09:34.35,0:09:36.43,Default,,0,0,0,,It's our signature dish. I highly recommend it!
 Dialogue: 10,0:09:36.43,0:09:38.85,Default,,0,0,0,,Oh, um, th-thank you!
 Dialogue: 10,0:09:41.10,0:09:45.40,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}, their signature ramen is apparently 580 yen.
-Dialogue: 10,0:09:45.40,0:09:47.98,Default,,0,0,0,,{\i1}Finally{\i0}, a place where something costs less than 600!
+Dialogue: 10,0:09:45.40,0:09:47.98,Default,,0,0,0,,{\i1}Finally{\i0}, a place where we can eat for under 600!
 Dialogue: 10,0:09:47.98,0:09:50.90,Default,,0,0,0,,See? Where there's a will, there's a way.
 Dialogue: 10,0:09:50.90,0:09:52.82,Default,,0,0,0,,Trust in the process!
 Dialogue: 10,0:09:54.70,0:09:55.70,Default,,0,0,0,,Welcome.
@@ -262,7 +262,7 @@ Dialogue: 10,0:12:11.96,0:12:13.38,Default,,0,0,0,,Isn't that right, Boss?
 Dialogue: 10,0:12:13.38,0:12:15.38,Default,,0,0,0,,Had a li'l mishap in the kitchen, y'see?
 Dialogue: 10,0:12:15.38,0:12:17.68,Default,,0,0,0,,No use in lettin' it go to waste.
 Dialogue: 10,0:12:19.95,0:12:22.78,Default,,0,0,0,,I can't say I saw this coming.
-Dialogue: 10,0:12:22.78,0:12:25.72,Default,,0,0,0,,We won't let this goodwill go to waste.
+Dialogue: 10,0:12:22.78,0:12:25.72,Default,,0,0,0,,We won't let this goodwill go unappreciated.
 Dialogue: 10,0:12:26.14,0:12:27.94,Default,,0,0,0,,Come on, Aru{**-chan}! Let's dig in already!
 Dialogue: 10,0:12:27.94,0:12:29.48,Default,,0,0,0,,Yes, let's.
 Dialogue: 10,0:12:29.48,0:12:31.73,Default,,0,0,0,,Thanks for the food!
@@ -395,7 +395,7 @@ Dialogue: 10,0:18:45.10,0:18:46.52,Default,,0,0,0,,{*}Teacher{*Sensei}?
 Dialogue: 10,0:18:46.52,0:18:48.98,Default,,0,0,0,,Shiroko. I need you to do something for me.
 Dialogue: 10,0:18:50.73,0:18:51.99,Default,,0,0,0,,Okay.
 Dialogue: 10,0:18:53.15,0:18:55.49,Default,,0,0,0,,I imagine they're just about to break.
-Dialogue: 10,0:18:55.49,0:18:58.37,Default,,0,0,0,,Keep up the fire until they surrender!
+Dialogue: 10,0:18:55.49,0:18:58.37,Default,,0,0,0,,Keep up the assault until they surrender!
 Dialogue: 10,0:19:01.45,0:19:02.95,Default,,0,0,0,,Here I come!
 Dialogue: 10,0:19:02.95,0:19:04.08,Default,,0,0,0,,Wh-What the heck?
 Dialogue: 10,0:19:04.08,0:19:05.75,Default,,0,0,0,,Are they just getting desperate?
@@ -444,7 +444,7 @@ Dialogue: 10,0:21:07.45,0:21:09.16,Default,,0,0,0,shenan,Shut up! We're running 
 Dialogue: 10,0:21:09.16,0:21:11.71,Default,,0,0,0,shenan,{\alpha&HFF&\q2}—I mean, retreat{\alpha}Shut up! We're run—I mean, retreating!{\alpha&HFF&}n away
 Dialogue: 10,0:21:11.71,0:21:14.90,Default,,0,0,0,,{*}Miss Aru{*Aru-sama}, wait for me!
 Dialogue: 10,0:21:14.90,0:21:15.89,Default,,0,0,0,,Peace.
-Dialogue: 10,0:21:18.76,0:21:21.18,Default,,0,0,0,,Well, they sure were interesting.
+Dialogue: 10,0:21:18.76,0:21:21.18,Default,,0,0,0,,Well, they sure were an interesting bunch.
 Dialogue: 10,0:21:21.18,0:21:23.55,Default,,0,0,0,,What in the world was all that about?
 Dialogue: 10,0:21:23.55,0:21:24.76,Default,,0,0,0,,Beats me.
 Dialogue: 10,0:21:26.26,0:21:28.14,Default,,0,0,0,,I'm starving.

@@ -88,14 +88,14 @@ Dialogue: 10,0:04:40.13,0:04:46.39,Default,,0,0,0,,Several decades ago, a giant 
 Dialogue: 10,0:04:46.77,0:04:49.39,Default,,0,0,0,,It was the largest storm ever recorded.
 Dialogue: 10,0:04:49.77,0:04:53.23,Default,,0,0,0,,Many areas across the district were buried in sand.
 Dialogue: 10,0:04:53.90,0:04:57.11,Default,,0,0,0,,It was extremely costly to repair the damage,
-Dialogue: 10,0:04:57.11,0:05:00.95,Default,,0,0,0,,but no banks were nwilling to lend them the money.
+Dialogue: 10,0:04:57.11,0:05:00.95,Default,,0,0,0,,but no banks were willing to lend them the money.
 Dialogue: 10,0:05:00.95,0:05:06.16,Default,,0,0,0,,They didn't have much choice but\nto turn to those loan sharks at Kaiser Loans.
 Dialogue: 10,0:05:07.25,0:05:11.67,Default,,0,0,0,,I believe it started as a small sum,\nsomething they could easily pay back.
 Dialogue: 10,0:05:12.21,0:05:13.33,Default,,0,0,0,,But...
 Dialogue: 10,0:05:14.71,0:05:19.17,Default,,0,0,0,,The sandstorms kept getting worse and worse.
 Dialogue: 10,0:05:19.17,0:05:23.68,Default,,0,0,0,,Over half of Abydos was eventually\nswallowed up by the desert.
-Dialogue: 10,0:05:24.68,0:05:30.56,Default,,0,0,0,,The students quickly lost hope\nas the debts kept piling up.
-Dialogue: 10,0:05:30.85,0:05:35.15,Default,,0,0,0,,If the loan defaults, this school building\nwill be foreclosed by the bank,
+Dialogue: 10,0:05:24.68,0:05:30.56,Default,,0,0,0,,The students quickly lost hope\nas the debt kept piling up.
+Dialogue: 10,0:05:30.85,0:05:35.15,Default,,0,0,0,,If the loan defaults,\nthe school building will be foreclosed,
 Dialogue: 10,0:05:35.15,0:05:38.07,Default,,0,0,0,,and Abydos High will close down for good.
 Dialogue: 10,0:05:38.57,0:05:43.07,Default,,0,0,0,,But the odds we can clear the debt are practically zero.
 Dialogue: 10,0:05:43.66,0:05:47.83,Default,,0,0,0,,Nearly all of the students gave up and left the school.
@@ -116,7 +116,7 @@ Dialogue: 10,0:06:33.79,0:06:35.46,Default,,0,0,0,,Still!
 Dialogue: 10,0:06:35.96,0:06:39.46,Default,,0,0,0,,We've always taken care of ourselves\nwithout anyone's help!
 Dialogue: 10,0:06:39.80,0:06:42.80,Default,,0,0,0,,But now some grown-up shows up and\nwe're supposed to just blindly follow him?
 Dialogue: 10,0:06:42.80,0:06:45.68,Default,,0,0,0,,I'm just trying to help.
-Dialogue: 10,0:06:45.68,0:06:47.80,Default,,0,0,0,,Oh, how noble of you!
+Dialogue: 10,0:06:45.68,0:06:47.80,Default,,0,0,0,,Oh, how noble of you!{!! -p}
 Dialogue: 10,0:06:48.35,0:06:51.06,Default,,0,0,0,,I'll never accept you!
 Dialogue: 10,0:06:52.02,0:06:53.48,Default,,0,0,0,,Serika{**-chan}!
 Dialogue: 10,0:06:56.48,0:06:59.73,Default,,0,0,0,,{\i1}What's wrong with them?\nNothing but {*}Teacher{*Sensei} this, {*}Teacher{*Sensei} that!
@@ -168,8 +168,8 @@ Dialogue: 10,0:10:08.63,0:10:10.09,Default,,0,0,0,,Enough about me already!
 Dialogue: 10,0:10:10.09,0:10:11.84,Default,,0,0,0,,Can I take your order?
 Dialogue: 10,0:10:11.84,0:10:12.84,Default,Ayane,0,0,0,,I'd like a miso ramen.
 Dialogue: 10,0:10:11.84,0:10:12.84,Alt,Shiroko,0,0,0,,One shio ramen.
-Dialogue: 10,0:10:11.84,0:10:14.72,Default,Nonomi,0,0,0,,{\an8}I'll take the chashu ramen, please!
-Dialogue: 10,0:10:11.84,0:10:14.72,Alt,Hoshino,0,0,0,,{\an8}Special miso! With extra grilled chashu!
+Dialogue: 10,0:10:11.84,0:10:14.72,Default,Nonomi,0,0,0,,{\an8}I'll take the {*}pork belly{*chashu} ramen, please!
+Dialogue: 10,0:10:11.84,0:10:14.72,Alt,Hoshino,0,0,0,,{\an8}Special miso! With extra grilled {*}pork belly{*chashu}!
 Dialogue: 10,0:10:12.84,0:10:14.72,Default,,0,0,0,,One at a time!
 Dialogue: 10,0:10:15.09,0:10:17.87,Default,,0,0,0,,Don't be shy, {*}Teacher{*Sensei}.\nOrder whatever you want!
 Dialogue: 10,0:10:17.89,0:10:18.97,Default,,0,0,0,,R-Right.
@@ -191,7 +191,7 @@ Dialogue: 10,0:11:04.10,0:11:05.64,Default,,0,0,0,,That's amazing!
 Dialogue: 10,0:11:06.06,0:11:10.61,Default,,0,0,0,,I'll do my best to follow your lead and\ngive it my all to support my students in need!
 Dialogue: 10,0:11:10.61,0:11:12.48,Default,,0,0,0,,Aye, that's the spirit!
 Dialogue: 10,0:11:12.48,0:11:15.99,Default,,0,0,0,,I like you! Have another bowl, on the house!
-Dialogue: 10,0:11:12.74,0:11:14.78,Default,,0,0,0,,{\an8}Thank you, please come again!
+Dialogue: 10,0:11:12.74,0:11:14.78,Alt,,0,0,0,,Thank you, please come again!
 Dialogue: 10,0:11:20.45,0:11:22.75,Default,,0,0,0,,See you tomorrow, Serika{**-chan}.
 Dialogue: 10,0:11:23.37,0:11:24.33,Default,,0,0,0,,See you at school.
 Dialogue: 10,0:11:23.37,0:11:24.33,Alt,,0,0,0,,Bye now.
@@ -265,7 +265,7 @@ Dialogue: 10,0:15:43.42,0:15:46.09,Default,Serika,0,0,0,,I need to get out of he
 Dialogue: 10,0:15:47.47,0:15:48.93,Default,Serika,0,0,0,,Damn it!
 Dialogue: 10,0:15:48.93,0:15:50.60,Default,Serika,0,0,0,,{\i1}What should I do?
 Dialogue: 10,0:15:50.60,0:15:53.18,Default,Serika,0,0,0,,{\i1}They must be worried sick about me.
-Dialogue: 10,0:15:53.81,0:15:57.77,Default,Serika,0,0,0,,{\i1}Are they going to bury me somewhere\nin the desert where no one can find me?
+Dialogue: 10,0:15:53.81,0:15:57.77,Default,Serika,0,0,0,,{\i1}Am I gonna end up buried somewhere\nin the desert, never to be found again?
 Dialogue: 10,0:15:59.06,0:16:00.44,Default,Serika,0,0,0,,{\i1}Guys...
 Dialogue: 10,0:16:01.15,0:16:02.40,Default,Serika,0,0,0,,{\i1}Where are you?
 Dialogue: 10,0:16:09.16,0:16:10.53,Default,Serika,0,0,0,,Wh-What was that?!
@@ -297,7 +297,7 @@ Dialogue: 10,0:17:31.11,0:17:31.82,Alt,Nonomi,0,0,0,,Yes!
 Dialogue: 10,0:17:32.66,0:17:34.20,Default,Sensei,0,0,0,,Time to retaliate!
 Dialogue: 10,0:17:36.95,0:17:38.50,Default,,0,0,0,,Don't let 'em get away!
 Dialogue: 10,0:17:41.87,0:17:44.38,Default,Nonomi,0,0,0,,I won't let you cause any more trouble!
-Dialogue: 10,0:17:44.67,0:17:46.80,Default,Hoshino,0,0,0,,No more playing nice.{meme: "No more Mister Nice Guy" -p}{## I'd love to but even for Hoshino that's a step too far}
+Dialogue: 10,0:17:44.67,0:17:46.80,Default,Hoshino,0,0,0,,No more playing nice.{meme: "No more Mister Nice Guy" -p}{## I'd love to but even for Hoshino that's a step too far}{okay how about "Miss Nice Girl" -p}{## (눈‸눈 )}
 Dialogue: 10,0:17:51.13,0:17:53.30,Default,Ayane,0,0,0,,I won't get hit that easily!
 Dialogue: 10,0:17:55.55,0:17:58.31,Default,Serika,0,0,0,,This is payback for kidnapping me!
 Dialogue: 10,0:18:01.56,0:18:02.81,Default,Shiroko,0,0,0,,How about this?
