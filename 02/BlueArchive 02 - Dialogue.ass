@@ -45,7 +45,8 @@ Dialogue: 10,0:00:42.73,0:00:46.78,Default,Rin,0,0,0,,We know nothing about its 
 Dialogue: 10,0:00:46.78,0:00:49.70,Default,Rin,0,0,0,,We were unable to even power it on.
 Dialogue: 10,0:00:49.70,0:00:52.20,Default,Rin,0,0,0,,However, I suspect you may succeed.
 Dialogue: 10,0:01:05.75,0:01:12.26,Default,Arona,0,0,0,,Banana milk goes so much better\nwith castella cake than strawberry...
-Dialogue: 10,0:01:18.77,0:01:22.39,Default,,0,0,0,,Huh? Wha? Whaaat?!
+Dialogue: 10,0:01:18.77,0:01:19.48,Default,Arona,0,0,0,,Huh? 
+Dialogue: 10,0:01:19.89,0:01:22.39,Default,Arona,0,0,0,,Heh? Wha? Whaaat?!
 Dialogue: 10,0:01:22.73,0:01:26.57,Default,Arona,0,0,0,,If you made it here, does that mean you're...
 Dialogue: 10,0:01:26.57,0:01:29.69,Default,Sensei,0,0,0,,Yup. I'm the teacher from Schale.
 Dialogue: 10,0:01:33.24,0:01:35.20,Default,Arona,0,0,0,,Calm down. Keep it together.
@@ -139,8 +140,8 @@ Dialogue: 10,0:08:36.33,0:08:38.12,Default,,0,0,0,,Will continue to tail the tar
 Dialogue: 10,0:08:46.55,0:08:48.17,Default,,0,0,0,,Hounds, changing shift.
 Dialogue: 10,0:08:48.55,0:08:49.84,Default,,0,0,0,,Roger that.
 Dialogue: 10,0:08:50.26,0:08:52.85,Default,,0,0,0,,Hound 1, stay on her tail.
-Dialogue: 10,0:09:08.54,0:09:09.92,Default,,0,0,0,,Isn't this...
-Dialogue: 10,0:09:09.92,0:09:11.91,Default,,0,0,0,,Shiba Seki Ramen?
+Dialogue: 10,0:09:08.53,0:09:09.92,Default,,0,0,0,,Isn't this...
+Dialogue: 10,0:09:09.90,0:09:11.91,Default,,0,0,0,,Shiba Seki Ramen?
 Dialogue: 10,0:09:12.82,0:09:14.41,Default,,0,0,0,,{\t(1484,0,\3c&HFFFFFF&\4c&HFFFFFF&)}Now that I think about it...
 Dialogue: 10,0:09:14.41,0:09:17.58,Default,,0,0,0,,{\3c&HFFFFFF&\4c&HFFFFFF&\t(40,311,\3c&H000000&\4c&H000000&)\t(2605,3100,\3c&HFFFFFF&\4c&HFFFFFF&)}Their ramen is really good.
 Dialogue: 10,0:09:20.87,0:09:22.29,Default,,0,0,0,,Thanks for the food.
@@ -170,7 +171,7 @@ Dialogue: 10,0:10:11.84,0:10:14.72,Default,Nonomi,0,0,0,,{\an8}I'll take the cha
 Dialogue: 10,0:10:11.84,0:10:14.72,Alt,Hoshino,0,0,0,,{\an8}Special miso! With extra grilled chashu!
 Dialogue: 10,0:10:12.84,0:10:14.72,Default,,0,0,0,,One at a time!
 Dialogue: 10,0:10:15.09,0:10:17.87,Default,,0,0,0,,Don't be shy, {*}Teacher{*Sensei}.\nOrder whatever you want!
-Dialogue: 10,0:10:17.87,0:10:18.97,Default,,0,0,0,,R-Right.
+Dialogue: 10,0:10:17.89,0:10:18.97,Default,,0,0,0,,R-Right.
 Dialogue: 10,0:10:18.97,0:10:21.68,Default,,0,0,0,,Well then, I'll have...
 Dialogue: 10,0:10:23.94,0:10:25.19,Default,,0,0,0,,U-Uh...
 Dialogue: 10,0:10:28.40,0:10:30.32,Default,,0,0,0,,Thanks for the food!
