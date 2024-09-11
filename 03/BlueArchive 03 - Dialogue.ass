@@ -38,7 +38,7 @@ Dialogue: 10,0:00:06.19,0:00:08.74,Default,,0,0,0,,Yes, this is Problem Solver 6
 Dialogue: 10,0:00:08.74,0:00:10.74,Default,,0,0,0,,Rikuhachima speaking.
 Dialogue: 10,0:00:12.16,0:00:13.24,Default,,0,0,0,,Yes, of course.
 Dialogue: 10,0:00:13.62,0:00:17.00,Default,,0,0,0,,Background checks, armed security—\nThere's no job too big for us.
-Dialogue: 10,0:00:17.29,0:00:19.67,Default,,0,0,0,,We do the crime if you got the dime.
+Dialogue: 10,0:00:17.29,0:00:19.67,Default,,0,0,0,,We do the crime if you've got the dime.
 Dialogue: 10,0:00:22.17,0:00:23.25,Default,,0,0,0,,Of course.
 Dialogue: 10,0:00:23.50,0:00:24.75,Default,,0,0,0,,Consider it done.
 Dialogue: 10,0:00:27.26,0:00:30.47,Default,,0,0,0,,Your job is in good hands at Problem Solver 68.
@@ -168,7 +168,7 @@ Dialogue: 10,0:08:01.17,0:08:03.05,Default,,0,0,0,,Target secured.
 Dialogue: 10,0:08:03.05,0:08:03.71,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:08:03.71,0:08:04.96,Default,,0,0,0,,Hey, Aru{**-chan}.
 Dialogue: 10,0:08:04.96,0:08:09.22,Default,,0,0,0,,Did we {\i1}really{\i0} have to go that far\njust to recover some stolen goods?
-Dialogue: 10,0:08:09.22,0:08:13.39,Default,,0,0,0,,Call me as "Boss" while we're\non the job, Chief of Staff Mutsuki.
+Dialogue: 10,0:08:09.22,0:08:13.39,Default,,0,0,0,,Call me "Boss" while we're\non the job, Chief of Staff Mutsuki.
 Dialogue: 10,0:08:13.39,0:08:17.02,Default,,0,0,0,,You've got to break some eggs to make an omelette.
 Dialogue: 10,0:08:17.48,0:08:20.69,Default,,0,0,0,,We can't go fretting over every little egg.
 Dialogue: 10,0:08:21.40,0:08:23.73,Default,,0,0,0,,We're outlaws. It comes with the territory.
@@ -311,7 +311,7 @@ Dialogue: 10,0:14:33.14,0:14:34.31,Default,,0,0,0,,R-Right.
 Dialogue: 10,0:14:34.31,0:14:36.56,Default,,0,0,0,,No way... There's no way...
 Dialogue: 10,0:14:36.56,0:14:38.82,Default,,0,0,0,,Those sweethearts are our targets?
 Dialogue: 10,0:14:39.15,0:14:40.57,Default,,0,0,0,,"No morals, no mercy."
-Dialogue: 10,0:14:40.57,0:14:43.03,Default,,0,0,0,,"We do the crime if you got the dime."
+Dialogue: 10,0:14:40.57,0:14:43.03,Default,,0,0,0,,"We do the crime if you've got the dime."
 Dialogue: 10,0:14:43.03,0:14:44.57,Default,,0,0,0,,Wasn't that our motto?
 Dialogue: 10,0:14:44.57,0:14:47.20,Default,,0,0,0,,No point overthinking it now.
 Dialogue: 10,0:14:47.20,0:14:49.37,Default,,0,0,0,,I-I mean, that's true, but...
@@ -349,8 +349,8 @@ Dialogue: 10,0:16:17.66,0:16:20.38,Default,,0,0,0,,Business is business.
 Dialogue: 10,0:16:20.38,0:16:22.67,Default,,0,0,0,,Once we take on a job,\nwe see it to completion.
 Dialogue: 10,0:16:22.67,0:16:28.18,Default,,0,0,0,,Exactly. That's how Problem Solver 68 operates!
 Dialogue: 10,0:16:28.72,0:16:32.18,Default,,0,0,0,,I see. So you're fixers.
-Dialogue: 10,0:16:32.18,0:16:36.89,Default,,0,0,0,,Come on! There's more than enough normal,\nclean part-time jobs students can do!
-Dialogue: 10,0:16:36.89,0:16:40.52,Default,,0,0,0,,We're not some piddling part timers!\nWe're first-class entrepreneurs!
+Dialogue: 10,0:16:32.18,0:16:36.89,Default,,0,0,0,,Come on! There are more than enough normal,\nclean part-time jobs students can do!
+Dialogue: 10,0:16:36.89,0:16:40.52,Default,,0,0,0,,We're not some piddling part-timers!\nWe're first-class entrepreneurs!
 Dialogue: 10,0:16:40.52,0:16:42.31,Default,,0,0,0,,We even have proper titles!
 Dialogue: 10,0:16:43.52,0:16:45.07,Default,,0,0,0,,I'm the boss.
 Dialogue: 10,0:16:45.36,0:16:47.28,Default,,0,0,0,,She's the chief of staff.

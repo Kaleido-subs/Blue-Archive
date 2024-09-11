@@ -36,7 +36,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=4}---- Dialogue
 Dialogue: 10,0:00:12.87,0:00:16.37,Default,Rin,0,0,0,,I see you've successfully\nreclaimed Schale HQ, {*}Teacher{*Sensei}.
 Dialogue: 10,0:00:16.83,0:00:18.75,Default,Sensei,0,0,0,,Come now. It was a group effort, Rin.
 Dialogue: 10,0:00:19.50,0:00:21.75,Default,Rin,0,0,0,,Now then, if you would follow me, please.
-Dialogue: 10,0:00:25.38,0:00:29.01,Default,Rin,0,0,0,,We've been preserving an artifact\nthe GSC president left behind.
+Dialogue: 10,0:00:25.38,0:00:29.01,Default,Rin,0,0,0,,We've been preserving an artefact\nthe GSC president left behind.
 Dialogue: 10,0:00:31.97,0:00:34.26,Default,Rin,0,0,0,,Please take this, {*}Teacher{*Sensei}.
 Dialogue: 10,0:00:34.68,0:00:36.35,Default,Sensei,0,0,0,,A smart tablet?
 Dialogue: 10,0:00:36.35,0:00:40.48,Default,Rin,0,0,0,,Yes. The President intended for you to have this.
@@ -187,7 +187,7 @@ Dialogue: 10,0:10:50.42,0:10:52.26,Default,,0,0,0,,Is it because...
 Dialogue: 10,0:10:52.26,0:10:54.26,Default,,0,0,0,,Well, no sense worryin' 'bout it!
 Dialogue: 10,0:10:54.26,0:10:59.89,Default,,0,0,0,,{\q2}At the end o' the day, my job's a simple one—\nSupport my hungry customers with a bowl o' piping hot joy!
 Dialogue: 10,0:10:59.89,0:11:02.31,Default,,0,0,0,,That's our motto 'ere, it is.
-Dialogue: 10,0:11:04.10,0:11:05.64,Default,,0,0,0,,That's amazing! {### tempted to change this to something like "I get what you mean! I'll also give it my all to support my students in need!". Thoughts?}
+Dialogue: 10,0:11:04.10,0:11:05.64,Default,,0,0,0,,That's amazing!
 Dialogue: 10,0:11:06.06,0:11:10.61,Default,,0,0,0,,I'll do my best to follow your lead and\ngive it my all to support my students in need!
 Dialogue: 10,0:11:10.61,0:11:12.48,Default,,0,0,0,,Aye, that's the spirit!
 Dialogue: 10,0:11:12.48,0:11:15.99,Default,,0,0,0,,I like you! Have another bowl, on the house!
@@ -350,7 +350,7 @@ Dialogue: 10,0:20:40.09,0:20:43.97,Default,Serika,0,0,0,,That's what you get for
 Dialogue: 10,0:20:46.06,0:20:48.94,Default,Hoshino,0,0,0,,Whew, that went surprisingly well.
 Dialogue: 10,0:20:48.94,0:20:50.73,Default,Sensei,0,0,0,,Great job out there, everyone.
 Dialogue: 10,0:20:51.15,0:20:53.48,Default,Nonomi,0,0,0,,You too, {*}Teacher{*Sensei}!
-Dialogue: 10,0:20:53.48,0:20:56.49,Default,Hoshino,0,0,0,,Man, our teacher sure is something!
+Dialogue: 10,0:20:53.48,0:20:56.49,Default,Hoshino,0,0,0,,Man, our {*}teacher{*Sensei} sure is something!
 Dialogue: 10,0:20:56.74,0:20:59.03,Default,Sensei,0,0,0,,What? Nah...
 Dialogue: 10,0:20:59.03,0:21:02.28,Default,Ayane,0,0,0,,I'm sure the Helmet Gang\nlearned their lesson this time!
 Dialogue: 10,0:21:02.28,0:21:04.20,Default,Shiroko,0,0,0,,Yeah, I'm sure.
@@ -371,7 +371,7 @@ Dialogue: 10,0:21:42.45,0:21:45.08,Default,Serika,0,0,0,,I just said thank you, 
 Dialogue: 10,0:21:43.53,0:21:45.08,Alt,Hoshino,0,0,0,,We still love that part of you.
 Dialogue: 10,0:23:25.13,0:23:28.05,Default,Aru,0,0,0,,Who... Who the hell are you?
 Dialogue: 10,0:23:28.39,0:23:31.39,Default,Aru,0,0,0,,We're Problem Solver 68.
-Dialogue: 10,0:23:31.89,0:23:34.06,Default,Aru,0,0,0,,We do the crime if you got the dime.
+Dialogue: 10,0:23:31.89,0:23:34.06,Default,Aru,0,0,0,,We do the crime if you've got the dime.
 Dialogue: 10,0:23:35.44,0:23:37.06,Default,Aru,0,0,0,,{=5}And I mean {\i1}any{\i0} crime.
 
 [Aegisub Extradata]
