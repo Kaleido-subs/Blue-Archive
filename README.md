@@ -32,7 +32,7 @@
 
 |                  |                              |                        |
 | ---------------- | ---------------------------- | ---------------------- |
-| **Sources**      | [Amazon JP (CBR)][amazon]    | [ABEMA][abema]         |
+| **Sources**      | [Blu-ray (Nexon)][Nexon]     |                        |
 | **Resolution**   | 1920x1080p                   |                        |
 | **Codec**        | H.265 (x265) 10-bit          |                        |
 | **Aspect Ratio** | 16:9                         |                        |
@@ -40,9 +40,9 @@
 
 ### Audio
 
-| Track        | Codec | Channels | Bitrate  | Source           | Default | Forced |
-| ------------ | ----- | -------- | -------- | ---------------- | ------- | ------ |
-| **Japanese** | EAC-3 | 2.0      | 224 kbps | [Amazon][amazon] | Yes     | No     |
+| Track        | Codec | Channels | Bitrate  | Source                   | Default | Forced |
+| ------------ | ----- | -------- | -------- | ------------------------ | ------- | ------ |
+| **Japanese** | Opus  | 2.0      | 192 kbps | [Blu-ray (Nexon)][Nexon] | Yes     | No     |
 
 ### Subtitles
 
@@ -50,6 +50,7 @@
 | ------------------------------- | -------- | ------------- | ------ | ------- | ------ |
 | **Full Subtitles**              | English  | eng           | ASS    | Yes     | No     |
 | **Full Subtitles (Honorifics)** | English  | enm           | ASS    | Yes     | No     |
+| **Official Subtitles (Nexon)**  | English  | eng           | SRT    | Yes     | No     |
 
 This release contains an alternative honorifics track.
 This track also changes words like "Teacher" to "Sensei" and includes adjustments to a couple of lines.
@@ -73,12 +74,11 @@ you can ask us to render out our song styling for you in our [Discord server][di
 [tvdb-order]: https://thetvdb.com/series/blue-archive-the-animation/allseasons/official
 
 [//]: <> (Sources)
-[amazon]: https://nyaa.si/?f=0&c=0_0&q=Blue+Archive+The+Animation+1080p+WEB+NanDesuKa+AMZN
-[abema]: https://nyaa.si/?f=0&c=0_0&q=Ioroid+Blue+Archive+the+Animation+ABEMA+WEB-DL
+[nexon]: https://u2.dmhy.org/details.php?id=58358&hit=1
 
 [//]: <> (Encode info)
-[slowpics]: https://slow.pics/c/1GXUOKNh
-[mediainfo]: https://paste2.org/5s8jUaDL
+[slowpics]: https://slow.pics/c/8eNnlNXZ
+[mediainfo]: https://paste2.org/Od21XGky
 
 [//]: <> (Other)
 [discord]: https://discord.gg/dk7aadV
