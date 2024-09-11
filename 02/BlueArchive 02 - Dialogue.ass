@@ -33,31 +33,32 @@ Comment: 0,0:21:45.95,0:21:45.95,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:22:21.86,0:22:21.86,Default,,0,0,0,edsync,{EDSync — First hard cut (Nonomi washing room shot)}
 Comment: 0,0:23:15.92,0:23:15.92,Default,chapter,0,0,0,,{=7}{Outro}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=4}---- Dialogue
-Dialogue: 10,0:00:12.87,0:00:16.37,Default,Rin,0,0,0,,I see you successfully reclaimed Schale HQ, {*}Teacher{*Sensei}.
+Dialogue: 10,0:00:12.87,0:00:16.37,Default,Rin,0,0,0,,I see you've successfully\nreclaimed Schale HQ, {*}Teacher{*Sensei}.
 Dialogue: 10,0:00:16.83,0:00:18.75,Default,Sensei,0,0,0,,Come now. It was a group effort, Rin.
-Dialogue: 10,0:00:19.50,0:00:21.75,Default,Rin,0,0,0,,Now, if you would follow me, please.
+Dialogue: 10,0:00:19.50,0:00:21.75,Default,Rin,0,0,0,,Now then, if you would follow me, please.
 Dialogue: 10,0:00:25.38,0:00:29.01,Default,Rin,0,0,0,,We've been preserving an artifact\nthe GSC president left behind.
 Dialogue: 10,0:00:31.97,0:00:34.26,Default,Rin,0,0,0,,Please take this, {*}Teacher{*Sensei}.
 Dialogue: 10,0:00:34.68,0:00:36.35,Default,Sensei,0,0,0,,A smart tablet?
 Dialogue: 10,0:00:36.35,0:00:40.48,Default,Rin,0,0,0,,Yes. The President intended for you to have this.
 Dialogue: 10,0:00:40.48,0:00:42.19,Default,Rin,0,0,0,,It's called the Shittim Chest.
 Dialogue: 10,0:00:42.73,0:00:46.78,Default,Rin,0,0,0,,We know nothing about its OS, architecture,\nanything. It's effectively a black box.
-Dialogue: 10,0:00:46.78,0:00:49.70,Default,Rin,0,0,0,,We were unable to even power it on.
+Dialogue: 10,0:00:46.78,0:00:49.70,Default,Rin,0,0,0,,We weren't even able to power it on.
 Dialogue: 10,0:00:49.70,0:00:52.20,Default,Rin,0,0,0,,However, I suspect you may succeed.
-Dialogue: 10,0:01:05.75,0:01:12.26,Default,Arona,0,0,0,,Banana milk goes so much better\nwith castella cake than strawberry...
-Dialogue: 10,0:01:18.77,0:01:19.48,Default,Arona,0,0,0,,Huh? 
+Dialogue: 10,0:01:05.75,0:01:09.59,Default,Arona,0,0,0,,Castella cake pairs better with banana milk...
+Dialogue: 10,0:01:09.59,0:01:12.26,Default,Arona,0,0,0,,Strawberry just isn't the same...
+Dialogue: 10,0:01:18.77,0:01:19.48,Default,Arona,0,0,0,,Huh?
 Dialogue: 10,0:01:19.89,0:01:22.39,Default,Arona,0,0,0,,Heh? Wha? Whaaat?!
-Dialogue: 10,0:01:22.73,0:01:26.57,Default,Arona,0,0,0,,If you made it here, does that mean you're...
-Dialogue: 10,0:01:26.57,0:01:29.69,Default,Sensei,0,0,0,,Yup. I'm the teacher from Schale.
-Dialogue: 10,0:01:33.24,0:01:35.20,Default,Arona,0,0,0,,Calm down. Keep it together.
-Dialogue: 10,0:01:35.20,0:01:37.33,Default,Arona,0,0,0,,Um, uh...
-Dialogue: 10,0:01:37.33,0:01:38.66,Default,Arona,0,0,0,,Oh, that's right!
+Dialogue: 10,0:01:22.73,0:01:26.57,Default,Arona,0,0,0,,Wait, if you're here, that means you're...
+Dialogue: 10,0:01:26.57,0:01:29.69,Default,Sensei,0,0,0,,That's right. I'm the teacher at Schale.
+Dialogue: 10,0:01:33.24,0:01:35.20,Default,Arona,0,0,0,,Oh, gosh. Keep it together.
+Dialogue: 10,0:01:35.20,0:01:37.33,Default,Arona,0,0,0,,Um, I, uh...
+Dialogue: 10,0:01:37.33,0:01:38.66,Default,Arona,0,0,0,,Oh, right!
 Dialogue: 10,0:01:41.00,0:01:42.42,Default,Arona,0,0,0,,My name is Arona.
 Dialogue: 10,0:01:42.42,0:01:46.67,Default,Arona,0,0,0,,I operate as both the system administrator\nand main OS of the Shittim Chest.
 Dialogue: 10,0:01:46.67,0:01:50.47,Default,Arona,0,0,0,,From now on, think of me\nas your trusty personal assistant!
-Dialogue: 10,0:01:50.47,0:01:52.22,Default,Sensei,0,0,0,,Pleasure to meet you, Arona.
+Dialogue: 10,0:01:50.47,0:01:52.22,Default,Sensei,0,0,0,,Good to have you, Arona.
 Dialogue: 10,0:01:52.22,0:01:52.72,Default,Arona,0,0,0,,Same here!
-Dialogue: 10,0:01:53.22,0:01:55.97,Default,Arona,0,0,0,,It's nice to meet you too, {*}Teacher{*Sensei}!
+Dialogue: 10,0:01:53.22,0:01:55.97,Default,Arona,0,0,0,,I look forward to working together with you, {*}Teacher{*Sensei}!
 Dialogue: 10,0:03:28.23,0:03:28.77,Default,Baddies,0,0,0,,Run for it!
 Dialogue: 10,0:03:28.77,0:03:30.48,Default,Baddies,0,0,0,,Retreat!
 Dialogue: 10,0:03:32.53,0:03:35.24,Default,Ayane,0,0,0,,Good work, everyone.
@@ -84,24 +85,24 @@ Dialogue: 10,0:04:27.87,0:04:28.83,Default,,0,0,0,,900 million?!
 Dialogue: 10,0:04:28.83,0:04:33.42,Default,,0,0,0,,962,350,000 yen, to be precise.
 Dialogue: 10,0:04:33.42,0:04:35.88,Default,,0,0,0,,How in the {\i1}world{\i0} did you rack up so much debt?
 Dialogue: 10,0:04:40.13,0:04:46.39,Default,,0,0,0,,Several decades ago, a giant sandstorm\nswept through the Abydos suburbs.
-Dialogue: 10,0:04:46.77,0:04:49.77,Default,,0,0,0,,The scale of it was unprecedented.
-Dialogue: 10,0:04:49.77,0:04:53.23,Default,,0,0,0,,Many areas in the district were buried in sand.
+Dialogue: 10,0:04:46.77,0:04:49.77,Default,,0,0,0,,It was the largest storm ever recorded.
+Dialogue: 10,0:04:49.77,0:04:53.23,Default,,0,0,0,,Many areas across the district were buried in sand.
 Dialogue: 10,0:04:53.90,0:04:57.11,Default,,0,0,0,,It was extremely costly to repair the damage,
-Dialogue: 10,0:04:57.11,0:05:00.95,Default,,0,0,0,,but they couldn't find a single bank\nwho would lend them the money.
-Dialogue: 10,0:05:00.95,0:05:06.16,Default,,0,0,0,,In the end, they were forced to turn\nto the loan sharks at Kaiser Loans.
-Dialogue: 10,0:05:07.25,0:05:11.67,Default,,0,0,0,,I believe it started as a small sum,\nsomething that could easily be paid off.
+Dialogue: 10,0:04:57.11,0:05:00.95,Default,,0,0,0,,but there weren't any banks\nwilling to lend them the money.
+Dialogue: 10,0:05:00.95,0:05:06.16,Default,,0,0,0,,They didn't have much choice but\nto turn to those loan sharks at Kaiser Loans.
+Dialogue: 10,0:05:07.25,0:05:11.67,Default,,0,0,0,,I believe it started as a small sum,\nsomething they could easily pay back.
 Dialogue: 10,0:05:12.21,0:05:13.33,Default,,0,0,0,,But...
-Dialogue: 10,0:05:14.71,0:05:19.17,Default,,0,0,0,,Abydos kept getting struck\nby sandstorm after sandstorm.
+Dialogue: 10,0:05:14.71,0:05:19.17,Default,,0,0,0,,The sandstorms kept getting worse and worse.
 Dialogue: 10,0:05:19.17,0:05:23.68,Default,,0,0,0,,Over half of Abydos was eventually\nswallowed up by the desert.
-Dialogue: 10,0:05:24.68,0:05:30.56,Default,,0,0,0,,The students lost all hope, and in the end,\nall that remained was the massively bloated debt.
-Dialogue: 10,0:05:30.85,0:05:35.15,Default,,0,0,0,,If we can't pay off the debt, the school will go bankrupt,
-Dialogue: 10,0:05:35.15,0:05:38.07,Default,,0,0,0,,and we'll be forced to close Abydos High for good.
-Dialogue: 10,0:05:38.57,0:05:43.07,Default,,0,0,0,,But the likelihood of us clearing\nthe debt is practically zero.
-Dialogue: 10,0:05:43.66,0:05:47.83,Default,,0,0,0,,Nearly all the students gave up and left the school.
+Dialogue: 10,0:05:24.68,0:05:30.56,Default,,0,0,0,,The students quickly lost hope\nas the debt continued to grow.
+Dialogue: 10,0:05:30.85,0:05:35.15,Default,,0,0,0,,If the loan defaults, this school building\nwill be foreclosed by the bank,
+Dialogue: 10,0:05:35.15,0:05:38.07,Default,,0,0,0,,and Abydos High will close down for good.
+Dialogue: 10,0:05:38.57,0:05:43.07,Default,,0,0,0,,But the odds we can clear the debt are practically zero.
+Dialogue: 10,0:05:43.66,0:05:47.83,Default,,0,0,0,,Nearly all of the students gave up and left the school.
 Dialogue: 10,0:05:48.24,0:05:51.58,Default,,0,0,0,,We're the only ones left.
 Dialogue: 10,0:05:53.46,0:05:56.13,Default,,0,0,0,,The end. Sorry to bore you.
-Dialogue: 10,0:05:59.51,0:06:01.84,Default,,0,0,0,,Thank you for telling me.
-Dialogue: 10,0:06:02.38,0:06:06.39,Default,,0,0,0,,I understand what you're going through a little better now.
+Dialogue: 10,0:05:59.51,0:06:01.84,Default,,0,0,0,,No, thank you for telling me.
+Dialogue: 10,0:06:02.38,0:06:06.39,Default,,0,0,0,,I understand what you're\ngoing through a little better now.
 Dialogue: 10,0:06:07.18,0:06:12.48,Default,,0,0,0,,The debt is truly staggering,\nbut you can't just give up, either.
 Dialogue: 10,0:06:12.48,0:06:13.89,Default,,0,0,0,,Right, everyone?
 Dialogue: 10,0:06:13.89,0:06:18.57,Default,,0,0,0,,If it's all right with you, would you mind\nif I continued helping you as your teacher?
