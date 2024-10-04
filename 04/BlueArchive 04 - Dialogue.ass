@@ -337,7 +337,7 @@ Dialogue: 10,0:16:49.45,0:16:50.99,Default,,0,0,0,,You're out of the hot zone.
 Dialogue: 10,0:16:50.99,0:16:52.87,Default,,0,0,0,,Good work, everyone.
 Dialogue: 10,0:16:52.87,0:16:54.91,Default,,0,0,0,,Heck yeah! We did it!
 Dialogue: 10,0:16:54.91,0:16:58.04,Default,,0,0,0,,I feel my actions as a teacher are questionable at best.
-Comment: 0,0:16:58.08,0:16:58.91,Default,,0,0,0,,{Hifumi noises}
+Comment: 10,0:16:58.08,0:16:58.91,Default,,0,0,0,,{Hifumi noises}
 Dialogue: 10,0:16:58.91,0:17:01.63,Default,,0,0,0,,Shiroko{**-chan}, you got the transport logs?
 Dialogue: 10,0:17:01.63,0:17:02.67,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:17:05.09,0:17:07.67,Default,,0,0,0,,Whoa! What the heck is all this?!
