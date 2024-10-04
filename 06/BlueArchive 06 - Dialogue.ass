@@ -113,15 +113,15 @@ Dialogue: 10,0:05:29.31,0:05:31.73,Default,,0,0,0,,After I went to the effort of
 Dialogue: 10,0:05:32.44,0:05:34.15,Default,,0,0,0,,Don't say I didn't warn you!
 Dialogue: 10,0:05:34.56,0:05:35.82,Default,,0,0,0,,Ayane{**-chan}!
 Dialogue: 10,0:05:37.32,0:05:39.57,Default,,0,0,0,,Iori?! For the love of—
-Dialogue: 10,0:05:52.67,0:05:53.67,Default,,0,0,0,,Nice try.
+Dialogue: 10,0:05:52.67,0:05:53.67,Default,,0,0,0,,Attagirl.
 Dialogue: 10,0:05:55.29,0:05:56.71,Default,,0,0,0,,Shiroko{**-chan}!
 Dialogue: 10,0:06:06.39,0:06:07.22,Default,,0,0,0,,Why, you little!
 Dialogue: 10,0:06:12.23,0:06:13.10,Default,,0,0,0,,Serika{**-chan}!
 Dialogue: 10,0:06:21.15,0:06:23.15,Default,,0,0,0,,You call that a fight?
-Dialogue: 10,0:06:23.15,0:06:23.82,Default,,0,0,0,,Wait!
+Dialogue: 10,0:06:23.15,0:06:23.82,Default,,0,0,0,,Stop!
 Dialogue: 10,0:06:26.24,0:06:27.83,Default,,0,0,0,,And you are?
-Dialogue: 10,0:06:27.83,0:06:29.33,Default,,0,0,0,,Iori, stop!
-Dialogue: 10,0:06:30.49,0:06:32.50,Default,,0,0,0,,Get out of here, {*}Teacher{*Sensei}!
+Dialogue: 10,0:06:27.83,0:06:29.33,Default,,0,0,0,,Hold your fire, Iori!
+Dialogue: 10,0:06:30.49,0:06:32.50,Default,,0,0,0,,Run away, {*}Teacher{*Sensei}!
 Dialogue: 10,0:06:32.50,0:06:33.87,Default,,0,0,0,,{*}Teacher{*Sensei}?
 Dialogue: 10,0:06:33.87,0:06:35.88,Default,,0,0,0,,Wait, are you that teacher from Schale?
 Dialogue: 10,0:06:39.17,0:06:40.76,Default,,0,0,0,,You're wide open.
@@ -171,7 +171,7 @@ Dialogue: 10,0:08:55.14,0:08:56.97,Default,,0,0,0,,Oh? And why not?
 Dialogue: 10,0:08:56.97,0:08:58.89,Default,,0,0,0,,It goes without saying.
 Dialogue: 10,0:08:58.89,0:09:00.98,Default,,0,0,0,,You opened fire in {\i1}our{\i0} district!
 Dialogue: 10,0:09:00.98,0:09:04.98,Default,,0,0,0,,You did so without following proper procedure{/protocol}.\nThat's a blatant breach of jurisdiction!
-Dialogue: 10,0:09:05.27,0:09:08.99,Default,,0,0,0,,We'll decide how to deal with Problem Solver 68.
+Dialogue: 10,0:09:05.27,0:09:08.99,Default,,0,0,0,,How to discipline Problem Solver 68\nfalls under our jurisdiction.
 Dialogue: 10,0:09:09.45,0:09:13.24,Default,,0,0,0,,Does the teacher from Schale share their view?
 Dialogue: 10,0:09:13.24,0:09:14.16,Default,,0,0,0,,Yes.
 Dialogue: 10,0:09:14.16,0:09:18.75,Default,,0,0,0,,Given the situation, I stand by their decision.
@@ -181,7 +181,7 @@ Dialogue: 10,0:09:27.55,0:09:29.42,Default,,0,0,0,,All hands, prepare to engage!
 Dialogue: 10,0:09:33.51,0:09:35.14,Default,,0,0,0,,Wh-What was that?
 Dialogue: 10,0:09:35.14,0:09:36.35,Default,,0,0,0,,An ambush?
 Dialogue: 10,0:09:38.18,0:09:39.10,Default,,0,0,0,,Keep calm!
-Dialogue: 10,0:09:39.10,0:09:40.77,Default,,0,0,0,,Check your surroundings!
+Dialogue: 10,0:09:39.10,0:09:40.77,Default,,0,0,0,,Secure the perimeters!
 Dialogue: 10,0:09:40.77,0:09:43.27,Default,,0,0,0,,How dare you do that to {*}Miss Aru{*Aru-sama}?
 Dialogue: 10,0:09:43.77,0:09:45.19,Default,,0,0,0,,Unacceptable.
 Dialogue: 10,0:09:45.19,0:09:48.36,Default,,0,0,0,,Unacceptable. Unacceptable!
@@ -194,7 +194,7 @@ Dialogue: 10,0:10:05.92,0:10:08.25,Default,,0,0,0,,You! You'll pay for what you 
 Dialogue: 10,0:10:08.25,0:10:09.17,Default,,0,0,0,,I'm sorry.
 Dialogue: 10,0:10:09.17,0:10:09.92,Default,,0,0,0,,Huh?
 Dialogue: 10,0:10:11.42,0:10:14.76,Default,,0,0,0,,I'm surprised you chose to show yourselves.
-Dialogue: 10,0:10:14.76,0:10:18.81,Default,,0,0,0,,But I suppose this saves us\nthe trouble of searching for you.
+Dialogue: 10,0:10:14.76,0:10:18.81,Default,,0,0,0,,But I suppose this saves us\nthe trouble of finding you.
 Dialogue: 10,0:10:23.56,0:10:25.98,Default,,0,0,0,,They had a reserve force in the back.
 Dialogue: 10,0:10:25.98,0:10:28.94,Default,,0,0,0,,Oh, well. Figured this wasn't gonna be {\i1}that{\i0} easy.
 Dialogue: 10,0:10:29.19,0:10:31.94,Default,,0,0,0,,I must say, this is quite the happy coincidence.
@@ -213,10 +213,10 @@ Dialogue: 10,0:11:02.02,0:11:04.06,Default,,0,0,0,,What is she talking about?
 Dialogue: 10,0:11:04.06,0:11:07.19,Default,,0,0,0,,I'm impressed, Kayoko{**-san}. You're quite observant.
 Dialogue: 10,0:11:07.61,0:11:12.19,Default,,0,0,0,,Very well. I'm feeling generous today,\nso I'll explain everything.
 Dialogue: 10,0:11:12.19,0:11:14.82,Default,,0,0,0,,It all started with the Tea Party.
-Dialogue: 10,0:11:14.82,0:11:19.33,Default,,0,0,0,,As you may know, Trinity has a long-standing\nhistory of rivalry with Gehenna.
+Dialogue: 10,0:11:14.82,0:11:19.33,Default,,0,0,0,,As you may know, Gehenna has had\na long-standing history of rivalry with Trinity.
 Dialogue: 10,0:11:19.33,0:11:24.25,Default,,0,0,0,,Our intelligence division learned of a dossier on Schale\nthat was submitted to their student council.
 Dialogue: 10,0:11:24.25,0:11:28.08,Default,,0,0,0,,So when the report was brought to my desk,\nI simply couldn't ignore it.
-Dialogue: 10,0:11:28.38,0:11:33.17,Default,,0,0,0,,I had no idea what Schale even was at the time,
+Dialogue: 10,0:11:28.38,0:11:33.17,Default,,0,0,0,,I had no idea who or what\nSchale even was at the time,
 Dialogue: 10,0:11:33.17,0:11:38.09,Default,,0,0,0,,but if the Tea Party had intel on them,\nit was vital that we acquired it too.
 Dialogue: 10,0:11:38.43,0:11:42.56,Default,,0,0,0,,So I decided to read the report Chinatsu{**-san}\nhad prepared on the Schale HQ incident.
 Dialogue: 10,0:11:42.56,0:11:45.10,Default,,0,0,0,,{\i1}Which I submitted months ago, might I add.
@@ -250,8 +250,8 @@ Dialogue: 10,0:13:07.14,0:13:09.06,Default,,0,0,0,,P-Pleasure to work with you!
 Dialogue: 10,0:13:09.06,0:13:11.02,Default,,0,0,0,,I'm Izayoi Nonomi.
 Dialogue: 10,0:13:11.02,0:13:12.98,Default,,0,0,0,,And my name is Okusora Ayane.
 Dialogue: 10,0:13:13.40,0:13:15.44,Default,,0,0,0,,Sunaookami Shiroko. {My wife --ML}
-Dialogue: 10,0:13:17.90,0:13:18.94,Default,,0,0,0,,Hey!
-Dialogue: 10,0:13:18.94,0:13:21.70,Default,,0,0,0,,We're giving you one last chance to surrender.
+Dialogue: 10,0:13:17.90,0:13:18.94,Default,,0,0,0,,Listen up!
+Dialogue: 10,0:13:18.94,0:13:21.70,Default,,0,0,0,,We're giving you one final chance to surrender.
 Dialogue: 10,0:13:22.07,0:13:26.16,Default,,0,0,0,,Once we're done with you, you can cry,\nyou can beg, you can lick my feet, but we'll never...
 Dialogue: 10,0:13:26.16,0:13:30.33,Default,,0,0,0,,I'd love to, but maybe some other time.
 Dialogue: 10,0:13:32.25,0:13:35.54,Default,,0,0,0,,That's quite the unexpected alliance.
@@ -268,14 +268,14 @@ Dialogue: 10,0:13:59.11,0:14:00.11,Default,,0,1250,0,,Leave it to me!
 Dialogue: 10,0:13:58.98,0:14:00.11,Default,,1100,0,0,,Okay!
 Dialogue: 10,0:14:00.36,0:14:04.03,Default,,0,0,0,,Shiroko, Aru! You're up front!
 Dialogue: 10,0:14:04.03,0:14:05.12,Default,,0,0,0,,Roger!
-Dialogue: 10,0:14:05.12,0:14:07.16,Default,,0,0,0,,Ayane and Kayoko, support the others.
+Dialogue: 10,0:14:05.12,0:14:07.16,Default,,0,0,0,,Ayane and Kayoko, provide support!
 Dialogue: 10,0:14:07.16,0:14:07.99,Default,,0,0,0,,Understood.
 Dialogue: 10,0:14:07.16,0:14:07.99,Alt,,0,0,0,,Got it!
 Dialogue: 10,0:14:11.25,0:14:13.12,Default,,0,0,0,,Haruka{**-san}, what should we do?
 Dialogue: 10,0:14:13.12,0:14:14.83,Default,,0,0,0,,I'll go first.
 Dialogue: 10,0:14:15.08,0:14:15.96,Default,,0,0,0,,Wait, hold on!
 Dialogue: 10,0:14:15.96,0:14:17.96,Default,,0,0,0,,Die, please. Die, please!
-Dialogue: 10,0:14:16.29,0:14:17.96,Alt,,0,0,0,,Haruka{**-san}!
+Dialogue: 10,0:14:16.21,0:14:17.96,Alt,,0,0,0,,Haruka{**-san}!
 Dialogue: 10,0:14:25.05,0:14:27.18,Default,,0,0,0,,Th-Th-Thank you...
 Dialogue: 10,0:14:27.18,0:14:30.02,Default,,0,0,0,,Oh, no. Don't mention it!
 Dialogue: 10,0:14:30.35,0:14:32.43,Default,,0,0,0,,Heads up, part-timer!
@@ -307,7 +307,7 @@ Dialogue: 10,0:16:20.67,0:16:22.79,Default,,0,0,0,,What are you waiting for? Get
 Dialogue: 10,0:16:24.55,0:16:28.09,Default,,0,0,0,,Both flanks, all clear. No hostile presence.
 Dialogue: 10,0:16:28.09,0:16:30.34,Default,,0,0,0,,All right. All that's left is the front.
 Dialogue: 10,0:16:30.76,0:16:33.68,Default,,0,0,0,,Shiroko, Aru. Just a little bit more!
-Dialogue: 10,0:16:34.31,0:16:36.68,Default,,0,0,0,,Say, imagine these Prefect fools\nnever interrupted us.
+Dialogue: 10,0:16:34.31,0:16:36.68,Default,,0,0,0,,Say, imagine these meddlers\nnever interrupted us.
 Dialogue: 10,0:16:36.68,0:16:39.65,Default,,0,0,0,,If we did end up fighting,\nwho do you think would win?
 Dialogue: 10,0:16:40.98,0:16:42.65,Default,,0,0,0,,It's obvious.
 Dialogue: 10,0:16:43.82,0:16:45.65,Default,,0,0,0,,You're right. It is.
@@ -343,11 +343,11 @@ Dialogue: 10,0:18:52.82,0:18:55.66,Default,,0,0,0,,No, that's all right. I've go
 Dialogue: 10,0:18:56.20,0:19:00.62,Default,,0,0,0,,Ako, we're the Prefect Team.\nNot the student council.
 Dialogue: 10,0:19:01.16,0:19:02.54,Default,,0,0,0,,I, well, I mean...
 Dialogue: 10,0:19:02.54,0:19:04.71,Default,,0,0,0,,We'll discuss the details once I'm back.
-Dialogue: 10,0:19:04.71,0:19:06.79,Default,,0,0,0,,Wait for me in the school building until then.
+Dialogue: 10,0:19:04.71,0:19:06.79,Default,,0,0,0,,Until then, do not leave school grounds.
 Dialogue: 10,0:19:07.46,0:19:08.54,Default,,0,0,0,,Yes, ma'am.
 Dialogue: 10,0:19:10.84,0:19:11.55,Default,,0,0,0,,Now, then.
 Dialogue: 10,0:19:12.05,0:19:17.47,Default,,0,0,0,,Head Prefect, do you understand the situation?
-Dialogue: 10,0:19:17.47,0:19:22.81,Default,,0,0,0,,There has been an unauthorised military operation\nwithin another school's district without prior notification,
+Dialogue: 10,0:19:17.47,0:19:22.81,Default,,0,0,0,,There has been an unauthorised military operation\nwithin another school's district without prior notice,
 Dialogue: 10,0:19:22.81,0:19:25.81,Default,,0,0,0,,resulting in a clash with said school's students.
 Dialogue: 10,0:19:25.81,0:19:27.31,Default,,0,0,0,,Yes. In other words—
 Dialogue: 10,0:19:27.31,0:19:32.32,Default,,0,0,0,,However, it's also true that you obstructed\nthe duties of the Prefect Team.
