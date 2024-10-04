@@ -916,7 +916,7 @@ untethered by rules and laws
 208
 00:10:44,143 --> 00:10:48,022
 Isn't that the vision
-of Problem Solver 687
+of Problem Solver 68?
 
 209
 00:10:51,192 --> 00:10:52,777
@@ -1213,7 +1213,7 @@ Are you sure this is okay?
 276
 00:14:19,359 --> 00:14:23,446
 You came all this way
-to eat my Ramen
+to eat my ramen
 
 277
 00:14:23,613 --> 00:14:25,698
@@ -1256,7 +1256,7 @@ Serika's friends
 286
 00:14:55,311 --> 00:14:57,939
 No one's here, even
-with Ramen this good
+with ramen this good
 
 287
 00:14:58,064 --> 00:14:59,941
@@ -1294,7 +1294,7 @@ What do you mean?
 
 295
 00:15:17,417 --> 00:15:19,585
-Don't you like the Ramen here?
+Don't you like the ramen here?
 
 296
 00:15:19,627 --> 00:15:21,462
@@ -1591,7 +1591,7 @@ Huh?
 364
 00:18:40,578 --> 00:18:42,455
 You blew up
-the Ramen shop
+the ramen shop
 
 365
 00:18:42,580 --> 00:18:46,459
@@ -1631,7 +1631,7 @@ Look over there
 373
 00:19:09,315 --> 00:19:12,276
 It's that part-timer
-from the Ramen shop
+from the ramen shop
 
 374
 00:19:12,401 --> 00:19:15,654
