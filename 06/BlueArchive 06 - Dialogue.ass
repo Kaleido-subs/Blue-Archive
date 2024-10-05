@@ -121,7 +121,7 @@ Dialogue: 10,0:06:21.15,0:06:23.15,Default,,0,0,0,,You call that a fight?
 Dialogue: 10,0:06:23.15,0:06:23.82,Default,,0,0,0,,Stop!
 Dialogue: 10,0:06:26.24,0:06:27.83,Default,,0,0,0,,And you are?
 Dialogue: 10,0:06:27.83,0:06:29.33,Default,,0,0,0,,Hold your fire, Iori!
-Dialogue: 10,0:06:30.49,0:06:32.50,Default,,0,0,0,,Run away, {*}Teacher{*Sensei}!
+Dialogue: 10,0:06:30.49,0:06:32.50,Default,,0,0,0,,Get away from here, {*}Teacher{*Sensei}!
 Dialogue: 10,0:06:32.50,0:06:33.87,Default,,0,0,0,,{*}Teacher{*Sensei}?
 Dialogue: 10,0:06:33.87,0:06:35.88,Default,,0,0,0,,Wait, are you that teacher from Schale?
 Dialogue: 10,0:06:39.17,0:06:40.76,Default,,0,0,0,,You're wide open.
@@ -170,7 +170,7 @@ Dialogue: 10,0:08:53.39,0:08:55.14,Default,,0,0,0,,We can't do that.
 Dialogue: 10,0:08:55.14,0:08:56.97,Default,,0,0,0,,Oh? And why not?
 Dialogue: 10,0:08:56.97,0:08:58.89,Default,,0,0,0,,It goes without saying.
 Dialogue: 10,0:08:58.89,0:09:00.98,Default,,0,0,0,,You opened fire in {\i1}our{\i0} district!
-Dialogue: 10,0:09:00.98,0:09:04.98,Default,,0,0,0,,You did so without following proper procedure{/protocol}.\nThat's a blatant breach of jurisdiction!
+Dialogue: 10,0:09:00.98,0:09:04.98,Default,,0,0,0,,You did so without following proper procedure{/protocol}.\nThat's a blatant breach of authority!
 Dialogue: 10,0:09:05.27,0:09:08.99,Default,,0,0,0,,How to discipline Problem Solver 68\nfalls under our jurisdiction.
 Dialogue: 10,0:09:09.45,0:09:13.24,Default,,0,0,0,,Does the teacher from Schale share their view?
 Dialogue: 10,0:09:13.24,0:09:14.16,Default,,0,0,0,,Yes.
@@ -181,7 +181,7 @@ Dialogue: 10,0:09:27.55,0:09:29.42,Default,,0,0,0,,All hands, prepare to engage!
 Dialogue: 10,0:09:33.51,0:09:35.14,Default,,0,0,0,,Wh-What was that?
 Dialogue: 10,0:09:35.14,0:09:36.35,Default,,0,0,0,,An ambush?
 Dialogue: 10,0:09:38.18,0:09:39.10,Default,,0,0,0,,Keep calm!
-Dialogue: 10,0:09:39.10,0:09:40.77,Default,,0,0,0,,Secure the perimeters!
+Dialogue: 10,0:09:39.10,0:09:40.77,Default,,0,0,0,,Secure the perimeter!
 Dialogue: 10,0:09:40.77,0:09:43.27,Default,,0,0,0,,How dare you do that to {*}Miss Aru{*Aru-sama}?
 Dialogue: 10,0:09:43.77,0:09:45.19,Default,,0,0,0,,Unacceptable.
 Dialogue: 10,0:09:45.19,0:09:48.36,Default,,0,0,0,,Unacceptable. Unacceptable!
