@@ -359,7 +359,7 @@ Dialogue: 10,0:19:54.01,0:19:55.55,Default,,0,0,0,,And Nonomi and Serika, too.
 Dialogue: 10,0:19:57.59,0:19:58.93,Default,,0,0,0,,All according to plan.
 Dialogue: 10,0:19:59.30,0:20:01.76,Default,,0,0,0,,But we were cutting it a bit close there.
 Dialogue: 10,0:20:01.76,0:20:05.52,Default,,0,0,0,,Well, I figured if anyone\ncould pull it off, it'd be them.
-Dialogue: 10,0:20:06.39,0:20:08.27,Default,,0,0,0,,Mr. Chairman! Are you all right?
+Dialogue: 10,0:20:06.39,0:20:08.27,Default,,0,0,0,,Mr. Director! Are you all right?
 Dialogue: 10,0:20:10.06,0:20:11.44,Default,,0,0,0,,We need to get you treated!
 Dialogue: 10,0:20:11.69,0:20:13.69,Default,,0,0,0,,About time {\i1}you{\i0} gave up, don't you think?
 Dialogue: 10,0:20:15.15,0:20:16.45,Default,,0,0,0,,I'm not done yet!
@@ -371,9 +371,9 @@ Dialogue: 10,0:20:23.66,0:20:25.50,Default,,0,0,0,,We're falling back. For now.
 Dialogue: 10,0:20:25.50,0:20:27.54,Default,,0,0,0,,Regroup our forces!
 Dialogue: 10,0:20:27.54,0:20:28.37,Default,,0,0,0,,Y-Yessir!
 Dialogue: 10,0:20:28.37,0:20:29.42,Default,,0,0,0,,Fall back!
-Dialogue: 10,0:20:29.92,0:20:31.63,Default,,0,0,0,,Chairman's orders! Fall back!
-Dialogue: 9,0:20:31.63,0:20:32.50,Default,,0,0,0,,{\bord4\shad0\c&H000000&\alpha&HFF&\blur10\fad(0,300)}I say again, the chairman is ordering us {\1a&H00&\3a&H50&}to fall back!
-Dialogue: 10,0:20:31.63,0:20:34.63,Default,,0,0,0,,I say again, the chairman is ordering us to fall back!
+Dialogue: 10,0:20:29.92,0:20:31.63,Default,,0,0,0,,Director's orders! Fall back!
+Dialogue: 9,0:20:31.63,0:20:32.50,Default,,0,0,0,,{\bord4\shad0\c&H000000&\alpha&HFF&\blur10\fad(0,300)}I say again, the director is ordering us {\1a&H00&\3a&H50&}to fall back!
+Dialogue: 10,0:20:31.63,0:20:34.63,Default,,0,0,0,,I say again, the director is ordering us to fall back!
 Dialogue: 10,0:20:34.63,0:20:36.55,Default,,0,0,0,,Don't think this is over.
 Comment: 10,0:20:34.63,0:20:36.47,Alt,,0,0,0,,{\an8}[Background line 1]
 Dialogue: 10,0:20:36.55,0:20:39.43,Default,,0,0,0,,I'll make you rue the day you decided to defy me!
