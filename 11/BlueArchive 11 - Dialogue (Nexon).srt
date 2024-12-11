@@ -943,7 +943,7 @@ Then we need to find help
 
 226
 00:13:03,324 --> 00:13:04,409
-Problem Solver 687
+Problem Solver 68?
 
 227
 00:13:04,575 --> 00:13:08,162
@@ -1273,7 +1273,7 @@ Huh?
 
 306
 00:17:24,752 --> 00:17:26,671
-⋯-licking my feet⋯?
+⋯licking my feet⋯?
 
 307
 00:17:26,754 --> 00:17:27,630
