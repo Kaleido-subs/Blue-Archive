@@ -1599,6 +1599,6 @@ To our school
 
 381
 00:23:35,414 --> 00:23:39,919
-% Congratulations! % Approved!
+★ Congratulations! ★ Approved!
 Abydos Foreclosure Task Force
 
