@@ -1132,7 +1132,7 @@ Sneaking away? It's too late!
 258
 00:14:44,550 --> 00:14:46,302
 You're in the way,
-SO move aside!
+So move aside!
 
 259
 00:14:50,556 --> 00:14:52,892
@@ -1451,7 +1451,7 @@ You should just give it up
 
 334
 00:20:15,089 --> 00:20:16,465
-I still--
+I still—
 
 335
 00:20:16,757 --> 00:20:18,884
