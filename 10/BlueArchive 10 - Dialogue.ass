@@ -35,7 +35,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{=2}---- Dialogue
 Dialogue: 10,0:00:04.61,0:00:06.15,Default,,0,0,0,,Sorry I'm late!
 Dialogue: 10,0:00:06.15,0:00:09.32,Default,,0,0,0,,Huh? Am I the first one here today?
 Dialogue: 10,0:00:15.41,0:00:16.83,Default,,0,0,0,,What's this?
-Dialogue: 10,0:00:20.29,0:00:21.04,Default,,0,0,0,,No way.
+Dialogue: 10,0:00:20.29,0:00:21.04,Default,,0,0,0,,No way...
 Dialogue: 10,0:00:21.04,0:00:22.50,Default,,0,0,0,,Oh, morning, Ayane{**-chan}!
 Dialogue: 10,0:00:22.50,0:00:23.54,Default,,0,0,0,,Why?!
 Dialogue: 10,0:00:24.21,0:00:25.55,Default,,0,0,0,,How could she?!
@@ -109,7 +109,7 @@ Dialogue: 10,0:05:43.95,0:05:45.32,Default,,0,0,0,,O-Okay!
 Dialogue: 10,0:05:52.29,0:05:53.50,Default,,0,0,0,,Shiroko{**-senpai}!
 Dialogue: 10,0:05:54.79,0:05:56.63,Default,,0,0,0,,I've got you now!
 Dialogue: 10,0:05:57.30,0:05:58.55,Default,,0,0,0,,Come on, get a grip!
-Dialogue: 10,0:06:04.30,0:06:05.64,Default,,0,0,0,,You get that side!
+Dialogue: 10,0:06:04.30,0:06:05.64,Default,,0,0,0,,You take that side!
 Dialogue: 10,0:06:05.64,0:06:06.35,Default,,0,0,0,,Got it!
 Dialogue: 10,0:06:06.72,0:06:09.35,Default,,0,0,0,,Damn! These girls are tough!
 Dialogue: 10,0:06:11.35,0:06:12.06,Default,,0,0,0,,Nonomi!
@@ -142,7 +142,7 @@ Dialogue: 10,0:07:49.03,0:07:52.54,Default,,0,0,0,,And you are no longer anybody
 Dialogue: 10,0:07:52.83,0:07:54.70,Default,,0,0,0,,D-Don't be ridiculous!
 Dialogue: 10,0:07:54.70,0:07:58.17,Default,,0,0,0,,Student council or no,\nAbydos still has the Task Force!
 Dialogue: 10,0:07:58.17,0:08:00.46,Default,,0,0,0,,We're not gonna let you get away with th—
-Dialogue: 10,0:08:00.46,0:08:04.51,Default,,0,0,0,,The Task Force isn't an\nofficially sanctioned organisation.
+Dialogue: 10,0:08:00.46,0:08:04.51,Default,,0,0,0,,The Task Force isn't an officially sanctioned club.
 Dialogue: 10,0:08:04.51,0:08:05.05,Default,,0,0,0,,Huh?
 Dialogue: 10,0:08:05.42,0:08:06.34,Default,,0,0,0,,Ayane?
 Dialogue: 10,0:08:06.34,0:08:11.18,Default,,0,0,0,,By the time we formed the Task Force,\nthe student council was already defunct{/gone}.
@@ -246,7 +246,7 @@ Dialogue: 10,0:13:21.49,0:13:23.91,Default,,0,0,0,,Wh-Wh-What do we do?
 Dialogue: 10,0:13:23.91,0:13:26.29,Default,,0,0,0,,This could get messy.
 Dialogue: 10,0:13:26.29,0:13:28.50,Default,,0,0,0,,True, this won't be easy.
 Dialogue: 10,0:13:28.70,0:13:30.25,Default,,0,0,0,,However...
-Dialogue: 10,0:13:30.25,0:13:33.75,Default,,0,0,0,,That's only if it's us four.
+Dialogue: 10,0:13:30.25,0:13:33.75,Default,,0,0,0,,That's only if it's four against one.
 Dialogue: 10,0:13:36.13,0:13:37.80,Default,,0,0,0,,Back us up.
 Dialogue: 10,0:13:38.42,0:13:39.55,Default,,0,0,0,,I'm counting on you.
 Dialogue: 10,0:13:40.88,0:13:41.80,Default,,0,0,0,,Sure.
@@ -296,7 +296,7 @@ Dialogue: 10,0:15:21.23,0:15:22.28,Default,,0,0,0,,I know, right?
 Dialogue: 10,0:15:22.86,0:15:24.24,Default,,0,0,0,,I'll wrap things up here.{heh -p}
 Dialogue: 10,0:15:24.24,0:15:25.86,Default,,0,0,0,,Thank you!
 Dialogue: 10,0:15:26.66,0:15:28.41,Default,,0,0,0,,Break a leg!
-Dialogue: 10,0:15:31.95,0:15:34.50,Default,,0,0,0,,When will you learn that resistance is futile?
+Dialogue: 10,0:15:31.95,0:15:34.50,Default,,0,0,0,,When will you brats learn that resistance is futile?
 Dialogue: 10,0:15:40.29,0:15:41.80,Default,,0,0,0,,Just a little longer...
 Dialogue: 10,0:15:42.05,0:15:44.92,Default,,0,0,0,,I don't know what you're plotting,
 Dialogue: 10,0:15:44.92,0:15:47.68,Default,,0,0,0,,but I've had about enough of your little games.
@@ -402,8 +402,8 @@ Dialogue: 10,0:21:13.96,0:21:15.75,Default,,0,0,0,,You don't have to tell them t
 Dialogue: 10,0:21:17.71,0:21:19.01,Default,,0,0,0,,Now, for the next part.
 Dialogue: 10,0:21:23.05,0:21:24.01,Default,,0,0,0,,{\i1}We're coming for you,
 Dialogue: 10,0:21:24.47,0:21:25.85,Default,,0,0,0,,{\i1}Hoshino{**-senpai}.
-Dialogue: 10,0:21:31.44,0:21:33.15,Default,,0,0,0,,What? Why?
-Dialogue: 10,0:21:33.81,0:21:35.19,Default,,0,0,0,,Why did you attack Abydos?
+Dialogue: 10,0:21:31.44,0:21:33.15,Default,,0,0,0,,Wh-Why?
+Dialogue: 10,0:21:33.81,0:21:35.19,Default,,0,0,0,,Why are you attacking Abydos?
 Dialogue: 10,0:21:35.19,0:21:37.40,Default,,0,0,0,,I'm afraid I don't know what you're talking about.
 Dialogue: 10,0:21:37.86,0:21:40.74,Default,,0,0,0,,I believe you may have gotten a little confused.
 Dialogue: 10,0:21:40.74,0:21:45.16,Default,,0,0,0,,As promised, I will pay for\nthe majority of the school's debt.
