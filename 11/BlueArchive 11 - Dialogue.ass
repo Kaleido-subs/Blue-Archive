@@ -71,10 +71,10 @@ Dialogue: 10,0:04:41.05,0:04:43.39,Default,,0,0,0,,We, too, originate from outsi
 Dialogue: 10,0:04:43.39,0:04:47.81,Default,,0,0,0,,We simply hail from a different realm than you.
 Dialogue: 10,0:04:48.94,0:04:50.31,Default,,0,0,0,,Gematria.
 Dialogue: 10,0:04:51.06,0:04:53.06,Default,,0,0,0,,That is our name.
-Dialogue: 10,0:04:53.36,0:04:56.44,Default,,0,0,0,,It's the organisation I belong to,
-Dialogue: 10,0:04:56.44,0:05:00.57,Default,,0,0,0,,to put it into terms you may be more familiar with. {###}
+Dialogue: 10,0:04:53.36,0:04:56.44,Default,,0,0,0,,Think of us as an organisation,
+Dialogue: 10,0:04:56.44,0:05:00.57,Default,,0,0,0,,if that makes it easier for you to imagine.
 Dialogue: 10,0:05:00.57,0:05:06.74,Default,,0,0,0,,Our mission lies in expanding knowledge\nthrough observation, exploration, and experimentation.
-Dialogue: 10,0:05:06.74,0:05:12.58,Default,,0,0,0,,Despite how we appear,\nwe're no more alien than you are.
+Dialogue: 10,0:05:06.74,0:05:12.58,Default,,0,0,0,,Yet despite how we appear,\nwe're no more alien than you are.
 Dialogue: 10,0:05:13.58,0:05:16.75,Default,,0,0,0,,But onto the main topic.
 Dialogue: 10,0:05:16.75,0:05:19.67,Default,,0,0,0,,Would you be willing to enter into\na partnership with us?
 Dialogue: 10,0:05:19.67,0:05:20.59,Default,,0,0,0,,I refuse.
@@ -108,8 +108,8 @@ Dialogue: 10,0:06:45.80,0:06:48.80,Default,,0,0,0,,I feel that distinction needs
 Dialogue: 10,0:06:49.18,0:06:53.89,Default,,0,0,0,,In any case, we did not cause Abydos's desertification.
 Dialogue: 10,0:06:54.56,0:06:59.07,Default,,0,0,0,,Those sandstorms were atypical,\nbut not outside the realm of possibility.
 Dialogue: 10,0:06:59.32,0:07:02.44,Default,,0,0,0,,You can't predict every natural disaster.
-Dialogue: 10,0:07:03.44,0:07:07.07,Default,,0,0,0,,It only follows that should people\nsuffer of thirst as a result,
-Dialogue: 10,0:07:07.37,0:07:10.91,Default,,0,0,0,,opportunists will emerge to sell them water.
+Dialogue: 10,0:07:03.44,0:07:07.07,Default,,0,0,0,,Should people suffer thirst as a result,
+Dialogue: 10,0:07:07.37,0:07:10.91,Default,,0,0,0,,it only follows that opportunists\nwill emerge to sell them water.
 Dialogue: 10,0:07:10.91,0:07:14.00,Default,,0,0,0,,This is simply business as usual.
 Dialogue: 10,0:07:14.00,0:07:18.08,Default,,0,0,0,,Even if that water is sold at an exorbitant price?
 Dialogue: 10,0:07:19.63,0:07:21.63,Default,,0,0,0,,Hardly a rare occurrence.
@@ -120,7 +120,7 @@ Dialogue: 10,0:07:32.35,0:07:33.68,Default,,0,0,0,,{*}Schale's teacher{*Sensei}.
 Dialogue: 10,0:07:33.68,0:07:39.61,Default,,0,0,0,,Abandon {*}Miss Hoshino{*Hoshino-san}, and in return,\nI will guarantee Abydos's well-being.
 Dialogue: 10,0:07:40.06,0:07:45.36,Default,,0,0,0,,I will ensure that your students\ncan attend school without worry.
 Dialogue: 10,0:07:45.61,0:07:48.61,Default,,0,0,0,,It's what {*}Miss Hoshino{*Hoshino-san} would want, I'm sure.
-Dialogue: 10,0:07:48.61,0:07:52.74,Default,,0,0,0,,Even if I were to believe you,\nthey wouldn't want it to happen like this. {###}
+Dialogue: 10,0:07:48.61,0:07:52.74,Default,,0,0,0,,Even if you could promise that,\nI'd be betraying their trust in me.
 Dialogue: 10,0:07:54.25,0:07:58.83,Default,,0,0,0,,It would seem that no matter my efforts,\nyou're intent on opposing us.
 Dialogue: 10,0:07:58.83,0:08:00.38,Default,,0,0,0,,You are powerless.
 Dialogue: 10,0:08:00.38,0:08:02.80,Default,,0,0,0,,You lack any means of fighting us.
@@ -207,8 +207,7 @@ Dialogue: 10,0:12:09.17,0:12:10.83,Default,,0,0,0,,Well, before that...
 Dialogue: 10,0:12:10.83,0:12:12.84,Default,,0,0,0,,We scold her.
 Dialogue: 10,0:12:13.17,0:12:16.01,Default,,0,0,0,,She went back on her word.
 Dialogue: 10,0:12:16.01,0:12:17.47,Default,,0,0,0,,She deserves to be punished.
-Dialogue: 10,0:12:17.80,0:12:19.01,Default,,0,0,0,,So we scold her
-Dialogue: 10,0:12:19.84,0:12:21.60,Default,,0,0,0,,for her own good. {###}
+Dialogue: 10,0:12:17.80,0:12:21.60,Default,,0,0,0,,So we scold her so she never makes\nthe same mistake again.
 Dialogue: 10,0:12:27.23,0:12:30.60,Default,,0,0,0,,Let's find her together and say "welcome home".
 Dialogue: 10,0:12:30.60,0:12:33.19,Default,,0,0,0,,What?! Where did {\i1}that{\i0} corny line come from?
 Dialogue: 10,0:12:33.19,0:12:34.40,Default,,0,0,0,,That's way too sappy!
@@ -306,7 +305,7 @@ Dialogue: 10,0:17:11.09,0:17:13.60,Default,,0,0,0,,P-President Hina!
 Dialogue: 10,0:17:13.60,0:17:16.10,Default,,0,0,0,,Look at him. He's on his knees.
 Dialogue: 10,0:17:16.39,0:17:18.81,Default,,0,0,0,,The situation must be quite serious.
 Dialogue: 10,0:17:18.81,0:17:20.85,Default,,0,0,0,,Well, actually, President Hina...
-Dialogue: 10,0:17:21.19,0:17:24.73,Default,,0,0,0,,He's not actually kneeling, he's... um...
+Dialogue: 10,0:17:21.19,0:17:24.73,Default,,0,0,0,,He's not {\i1}just{\i0} kneeling, he's... um...
 Dialogue: 10,0:17:24.73,0:17:26.98,Default,,0,0,0,,Licking... my feet...
 Dialogue: 10,0:17:26.98,0:17:27.61,Default,,0,0,0,,Hina!
 Dialogue: 10,0:17:36.12,0:17:39.04,Default,,0,0,0,,So the Prefect Team\ndidn't give us an answer, either...

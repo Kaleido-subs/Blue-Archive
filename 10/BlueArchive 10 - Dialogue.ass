@@ -58,8 +58,8 @@ Dialogue: 10,0:03:05.00,0:03:06.79,Default,,0,0,0,,To {*}our teacher{*Sensei}:
 Dialogue: 10,0:03:06.79,0:03:10.29,Default,,0,0,0,,{\i1}I know it's not exactly a secret,\nbut I used to hate adults.
 Dialogue: 10,0:03:11.00,0:03:14.42,Default,,0,0,0,,{\i1}The day Shiroko{**-chan} brought you to our clubroom,
 Dialogue: 10,0:03:14.42,0:03:18.43,Default,,0,0,0,,{\i1}I immediately assumed you were\njust another good-for-nothing adult.
-Dialogue: 10,0:03:18.76,0:03:24.73,Default,,0,0,0,,{\i1}But you were quick to prove me wrong.\nYou're part of the team now. {uh i don't love the part of the team part but its already out so wtv -rapid}{### we can look at other options for batch}
-Dialogue: 10,0:03:25.60,0:03:28.69,Default,,0,0,0,,{\i1}So I'm leaving them in your care, okay?
+Dialogue: 10,0:03:18.76,0:03:24.73,Default,,0,0,0,,{\i1}Looking back now though,\nI feel silly for ever thinking that.
+Dialogue: 10,0:03:25.60,0:03:28.69,Default,,0,0,0,,{\i1}So I'm leaving everyone in your care, okay?
 Dialogue: 10,0:03:29.69,0:03:32.28,Default,,0,0,0,,{\i1}You're their teacher. They trust you.
 Dialogue: 10,0:03:32.28,0:03:34.19,Default,,0,0,0,,{\i1}I'm sure they'll be fine.
 Dialogue: 10,0:03:35.32,0:03:39.24,Default,,0,0,0,,{\i1}I'm glad I got to meet an adult like you before I...
@@ -96,7 +96,7 @@ Dialogue: 10,0:05:06.04,0:05:08.25,Default,,0,0,0,,Why now of all times?!
 Dialogue: 10,0:05:08.25,0:05:10.12,Default,,0,0,0,,We have to engage.
 Dialogue: 10,0:05:10.12,0:05:11.75,Default,,0,0,0,,But what about Hoshino{**-senpai}?
 Dialogue: 10,0:05:12.04,0:05:13.67,Default,,0,0,0,,Everyone, stay calm.
-Dialogue: 10,0:05:13.67,0:05:16.05,Default,,0,0,0,,Evacuating civilians takes top priority.
+Dialogue: 10,0:05:13.67,0:05:16.05,Default,,0,0,0,,Evacuating the civilians takes top priority.
 Dialogue: 10,0:05:24.10,0:05:25.30,Default,,0,0,0,,How could they...
 Dialogue: 10,0:05:26.35,0:05:27.72,Default,,0,0,0,,Are you okay?
 Dialogue: 10,0:05:27.72,0:05:29.31,Default,,0,0,0,,Yeah, I'm hanging in there.
@@ -121,7 +121,7 @@ Dialogue: 10,0:06:30.54,0:06:32.75,Default,,0,0,0,,They just keep coming.
 Dialogue: 10,0:06:36.29,0:06:39.59,Default,,0,0,0,,We have to hold the line.
 Dialogue: 10,0:06:43.22,0:06:46.39,Default,,0,0,0,,I originally intended to face you at the school.
 Dialogue: 10,0:06:46.89,0:06:51.47,Default,,0,0,0,,But I appreciate you meeting me halfway,\nstudents of Abydos High School.
-Dialogue: 10,0:06:51.47,0:06:54.39,Default,,0,0,0,,You're just attacking the city at this point!
+Dialogue: 10,0:06:51.47,0:06:54.39,Default,,0,0,0,,You're just attacking innocent people at this point!
 Dialogue: 10,0:06:54.39,0:06:57.10,Default,,0,0,0,,It doesn't matter if you own the land here.
 Dialogue: 10,0:06:57.10,0:06:59.15,Default,,0,0,0,,Nothing gives you the right to do that!
 Dialogue: 10,0:06:59.15,0:07:02.65,Default,,0,0,0,,Besides, the school still belongs to Abydos!
@@ -148,7 +148,7 @@ Dialogue: 10,0:08:05.42,0:08:06.34,Default,,0,0,0,,Ayane?
 Dialogue: 10,0:08:06.34,0:08:11.18,Default,,0,0,0,,By the time we formed the Task Force,\nthe student council was already defunct{/gone}.
 Dialogue: 10,0:08:11.18,0:08:12.93,Default,,0,0,0,,Wh-What...
 Dialogue: 10,0:08:12.93,0:08:14.10,Default,,0,0,0,,Indeed!
-Dialogue: 10,0:08:14.10,0:08:19.23,Default,,0,0,0,,You're merely a phantom club.\nNo documentation, no official approval.
+Dialogue: 10,0:08:14.10,0:08:19.23,Default,,0,0,0,,You're merely children playing house.\nNo documentation, no official approval.
 Dialogue: 10,0:08:19.23,0:08:24.28,Default,,0,0,0,,You have nothing that proves you exist!
 Dialogue: 10,0:08:24.28,0:08:25.86,Default,,0,0,0,,But here's the good news.
 Dialogue: 10,0:08:25.86,0:08:29.36,Default,,0,0,0,,Once Abydos High is no more,
@@ -182,7 +182,7 @@ Dialogue: 10,0:09:55.37,0:09:58.33,Default,,0,0,0,,A-A large explosion reported 
 Dialogue: 10,0:09:58.33,0:10:00.91,Default,,0,0,0,,Bravo Platoon got caught in the blast!
 Dialogue: 10,0:10:00.91,0:10:01.66,Default,,0,0,0,,What? {NANI}
 Dialogue: 10,0:10:01.66,0:10:03.62,Default,,0,0,0,,Explosions to the east, too!
-Dialogue: 10,0:10:03.62,0:10:07.09,Default,,0,0,0,,Mike Platoon got hit by a massive explosion—
+Dialogue: 10,0:10:03.62,0:10:07.09,Default,,0,0,0,,We've lost contact with Mike Platoon!
 Dialogue: 10,0:10:08.46,0:10:10.26,Default,,0,0,0,,What's going on?
 Dialogue: 10,0:10:10.67,0:10:12.09,Default,,0,0,0,,Give me a break.
 Dialogue: 10,0:10:12.09,0:10:16.26,Default,,0,0,0,,I'd rather die than listen to\nyour pathetic wailing for a moment longer.
@@ -199,31 +199,31 @@ Dialogue: 10,0:10:47.46,0:10:49.30,Default,,0,0,0,,They can't help but crack und
 Dialogue: 10,0:10:49.30,0:10:51.96,Default,,0,0,0,,Wh-What are you doing here?
 Dialogue: 10,0:10:51.96,0:10:53.34,Default,,0,0,0,,But y'know what?
 Dialogue: 10,0:10:53.34,0:10:56.76,Default,,0,0,0,,You make a girl with glasses cry,\nand there'll be hell to pay.
-Dialogue: 10,0:10:56.76,0:10:58.64,Default,,0,0,0,,So you asked for this.
+Dialogue: 10,0:10:56.76,0:10:58.64,Default,,0,0,0,,So I hope you're ready.
 Dialogue: 10,0:10:59.18,0:11:01.35,Default,,0,0,0,,I'm gonna paint the town red with your guts!
 Dialogue: 10,0:11:01.64,0:11:03.60,Default,,0,0,0,,That's Problem Solver 68!
-Dialogue: 10,0:11:05.19,0:11:09.11,Default,,0,0,0,,Unable to tell right from left, wrong from right.
-Dialogue: 10,0:11:09.11,0:11:11.94,Default,,0,0,0,,Every path you take leads to failure.
-Dialogue: 10,0:11:11.94,0:11:16.70,Default,,0,0,0,,And even once you stumble down the right one,\nall that awaits you is another dark tunnel.
+Dialogue: 10,0:11:05.19,0:11:09.11,Default,,0,0,0,,Lost in the darkness, unable to find the light.
+Dialogue: 10,0:11:09.11,0:11:11.94,Default,,0,0,0,,Surrounded by enemies\nand the ghosts of your own failures.
+Dialogue: 10,0:11:11.94,0:11:16.70,Default,,0,0,0,,Crushed by the reality that even if you make it through,\nthere'll be more pain waiting ahead.
 Dialogue: 10,0:11:19.03,0:11:20.16,Default,,0,0,0,,Backup is here!
-Dialogue: 10,0:11:20.58,0:11:22.79,Default,,0,0,0,,So what?!
+Dialogue: 10,0:11:20.58,0:11:22.79,Default,,0,0,0,,But who cares?!
 Dialogue: 10,0:11:32.42,0:11:35.13,Default,,0,0,0,,Your friend's in danger, isn't she?
 Dialogue: 10,0:11:35.13,0:11:40.30,Default,,0,0,0,,Are you just gonna sit there feeling sorry\nwhile they take everything from you?
 Dialogue: 10,0:11:40.30,0:11:41.85,Default,,0,0,0,,Are you going to take this lying down?
 Dialogue: 10,0:11:42.51,0:11:45.39,Default,,0,0,0,,Are you telling me you're such pathetic cowards?
 Dialogue: 10,0:11:47.85,0:11:49.86,Default,,0,0,0,,Damn you, Problem Solver!
-Dialogue: 10,0:11:49.86,0:11:53.53,Default,,0,0,0,,You're nothing but lowly dogs!\nHow dare you turn on me?!
+Dialogue: 10,0:11:49.86,0:11:53.53,Default,,0,0,0,,You're nothing but lowly dogs!\nHow dare you bite the hand that feeds you?!
 Dialogue: 10,0:11:53.73,0:11:55.11,Default,,0,0,0,,Oh, put a lid on it.
 Dialogue: 10,0:11:55.11,0:11:57.78,Default,,0,0,0,,I much prefer working with these girls.
-Dialogue: 10,0:11:57.78,0:11:59.74,Default,,0,0,0,,That's all there is to it.
-Dialogue: 10,0:11:59.74,0:12:03.29,Default,,0,0,0,,It's only natural for a villain to stab\ntheir employer in the back, no?
+Dialogue: 10,0:11:57.78,0:11:59.74,Default,,0,0,0,,Nothing more, nothing less.
+Dialogue: 10,0:11:59.74,0:12:03.29,Default,,0,0,0,,It's only natural for a villain\nto stab their employer in the back, no?
 Dialogue: 10,0:12:03.87,0:12:05.00,Default,,0,0,0,,You guys...
 Dialogue: 10,0:12:05.20,0:12:06.41,Default,,0,0,0,,You're right.
 Dialogue: 10,0:12:06.41,0:12:08.83,Default,,0,0,0,,Spoken like a true villain.
 Dialogue: 10,0:12:08.83,0:12:11.00,Default,,0,0,0,,That was the pep talk we needed.
 Dialogue: 10,0:12:11.00,0:12:13.50,Default,,0,0,0,,We don't have time to doubt ourselves!
 Dialogue: 10,0:12:13.50,0:12:16.51,Default,,0,0,0,,Yeah! Who cares if our club is unofficial?
-Dialogue: 10,0:12:16.51,0:12:19.22,Default,,0,0,0,,We've got bigger things to worry about!
+Dialogue: 10,0:12:16.51,0:12:19.22,Default,,0,0,0,,We've got bigger fish to fry!
 Dialogue: 10,0:12:19.72,0:12:21.64,Default,,0,0,0,,We {\i1}will{\i0} save Hoshino{**-senpai}.
 Dialogue: 10,0:12:22.22,0:12:24.39,Default,,0,0,0,,Anything else is secondary.
 Dialogue: 10,0:12:24.39,0:12:27.48,Default,,0,0,0,,You still want to waste your time\nwith this pointless resistance?
